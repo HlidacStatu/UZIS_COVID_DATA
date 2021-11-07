@@ -1,0 +1,46 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím ranní hlášení z nemocnic, data uzavřená k půlnoci. V přílohách mailu souhrnné reporty včetně přehledu zátěže nemocnic po zařízeních a po krajích.
+
+Nové příjmy do nemocnic a celkový počet hospitalizací: výše denní příjmů do nemocnic zůstává vysoká, včerejší hodnot 353 je nadprůměrná ve srovnání weekendových hodnot. Od pátku bylo nicméně propuštěno více než 800 pacientů, a tedy celkový počet hospitalizovaných částečně poklesl na 6 021. Tyto počty se ale v pondělí – v úterý s vysokou pravděpodobností vrátí do původních hodnot a trend vysokých denních příjmů se plně obnoví. Prediktivní modely ukazují na denní příjmy > 500 pacientů po většinu dnů příštího týdne.
+
+Zátěž intenzivní péče zůstává kriticky vysoká a stále postupně narůstá. Celkový počet pacientů na JIP je roven 1294, z toho 644 x UPV a 19 x ECMO. Tento trend vyplývá i z vysokých počtů denně nově diagnostikovaných potenciálně zranitelných osob a vysoce pravděpodobně tak bude pokračovat o příští týden. Počty pacientů vyžadujících intenzivní péči narůstají i o weekendu, což je velmi rizikový jev - je patrné, že se stav značného počtu pacientů v nemocnicích zhoršuje. Podíl osob v těžkém stavu z celkového počtu hospitalizovaných překročil včera 21 %.
+
+Níže je prosím celkový souhrn hodnot v číslech
+
+S úctou L. Dušek
+
+
+
+Celkový souhrn situace v ČR:
+
+  *   Celkem hospitalizovaných bylo včera 6 021.
+  *   Hospitalizovaní tvoří 5,1 % z celkem pozitivních.
+  *   Těžký průběh onemocnění a na JIP je hlášeno u 1 294 osob, 644x UPV, 19x ECMO.
+  *   Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 21,6 %.
+  *   Potvrzeno 68 úmrtí. Průměrný věk 76 let.
+
+
+Nově přijatí a propuštění pacienti:
+
+  *   Celkem 351, průměrný věk 67 let, těžký stav je hlášen 28x, jinak převažuje stav střední (224).
+  *   Nejvíce příjmů bylo v HMP (67), JHC (32), JMK (32) a MSK (32).
+  *   za 19.2 bylo dohlášeno 680 propuštěných pacientů
+  *   za 20.2. bylo dohlášeno 139 propuštěných pacientů
+
+
+
+Zátěž dle krajů a nemocnic:
+
+  *   Nejvíce pacientů je v HMP (907-> z toho na JIP 219), v JMK (637 -> z toho na JIP 154) a STC (535 -> z toho na JIP 139).
+  *   UPV potřebuje nejvíce pacientů v HMP (93), JMK (74), STC (71).
+  *   Nejvíce pacientů je v nemocnicích (>70):
+
+Fakultní nemocnice Plzeň (234), FN Na Bulovce (182), Fakultní nemocnice Hradec Králové (165), Fakultní Thomayerova nemocnice (160), Fakultní nemocnice v Motole (149), Nem. Pardubického kraje, a.s., Pardubická nem. (139), Fakultní nemocnice Brno (133), Fakultní nemocnice Královské Vinohrady (127), Krajská nemocnice Liberec, a.s. (107), Oblastní nemocnice Náchod a.s. (106), KZ, a.s., Masarykova nem. Ústí n. L., o.z. (94), Krajská nemocnice T. Bati, a. s. (92), KKN a.s., Nemocnice Karlovy Vary (87), KZ, a.s., Nemocnice Most, o.z. (82), Fakultní nemocnice Olomouc (82), Všeobecná fakultní nemocnice v Praze (82), Nemocnice České Budějovice, a.s. (81), Fakultní nemocnice Ostrava (80), Fakultní nemocnice U sv. Anny v Brně (79), Slezská nemocnice v Opavě, příspěvková organizace (78), Nemocnice Břeclav, příspěvková organizace (77), Nemocnice Jindřichův Hradec, a.s. (75), Oblastní nemocnice Jičín a.s. (74), ÚVN - Vojenská fakultní nemocnice Praha (74), NEMOS SOKOLOV s.r.o., Nemocnice Sokolov (72).
+
+
+Dostupné kapacity dle dispečinku IP:
+
+  *   UPV - volná kapacita (704 lůžek), tj. 30,7 % celku, ECMO - volná kapacita (43 přístrojů), tj. 51,2% celku.
+
+  *   JIP lůžka včetně reprofilizace: volná kapacita 770
+  *   Stand. lůžka s O2 včetně reprofilizace: volná kapacita 6 518
+

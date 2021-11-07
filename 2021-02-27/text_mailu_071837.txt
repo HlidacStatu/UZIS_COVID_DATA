@@ -1,0 +1,99 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 14 676 nových případů onemocnění COVID-19.  Výše záchytu COVID-19 potvrzuje hodnoty tohoto týdne a sílící šíření epidemie. Reprodukční číslo je na hodnotě 1,22 (95 % interval spolehlivosti 1,21 - 1,23). Vedle nárůstu hodnoty R nadále registrujeme zásah potenciálně zranitelných skupin obyvatel (viz níže), který je velkým rizikem pro budoucí zátěž nemocnic. To se také promítá do velkého množství denních příjmů nových pacientů do lůžkové péče. Nadále přetrvává gradient rizika mezi regiony – vysoce rizikovou epidemickou zátěž registrují regiony KVK, KHK, PZK, PAK, LBK. Velmi vysoké denní nárůsty a zvyšující se průměrný denní přírůstek v přepočtu na 100tis. obyvatel vykazuje opět Středočeský kraj.
+
+Srovnání krajů dokumentuje následující tabulka
+Název kraje
+Počet (%)
+Počet na 100 tis. obyv.
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+Středočeský kraj
+2,371 (16.2 %)
+171.2
+137.0
+84.1
+Hlavní město Praha
+1,766 (12.0 %)
+133.4
+107.7
+72.0
+Plzeňský kraj
+1,504 (10.2 %)
+255.0
+181.5
+120.9
+Ústecký kraj
+1,161 (7.9 %)
+141.4
+111.4
+84.8
+Jihomoravský kraj
+1,096 (7.5 %)
+91.9
+75.5
+52.7
+Královéhradecký kraj
+1,008 (6.9 %)
+182.7
+158.0
+109.1
+Moravskoslezský kraj
+960 (6.5 %)
+80.0
+67.2
+50.9
+Olomoucký kraj
+873 (5.9 %)
+138.1
+81.9
+57.7
+Pardubický kraj
+862 (5.9 %)
+164.9
+142.5
+106.4
+Jihočeský kraj
+831 (5.7 %)
+129.0
+88.4
+64.2
+Liberecký kraj
+795 (5.4 %)
+179.2
+144.1
+96.8
+Kraj Vysočina
+548 (3.7 %)
+107.5
+75.1
+51.8
+Karlovarský kraj
+512 (3.5 %)
+173.8
+176.7
+161.7
+Zlínský kraj
+374 (2.5 %)
+64.2
+53.4
+38.3
+Neznámo
+15 (0.1 %)
+
+
+
+
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů:Praha (1766), Plzeň-město (468), Olomouc (399), Pardubice (319), Praha-východ (317), Liberec (294), Klatovy (290), Brno-město (279), Ústí nad Orlicí (270), Kolín (269), Kladno (264), Mladá Boleslav (256), Hradec Králové (253), Přerov (246), Děčín (244).
+
+K půlnoci je evidováno 93 úmrtí, všechna jsou hlášena z nemocnic.
+
+Včera bylo nově diagnostikováno 2 093 nových pacientů ve věku 65+ (14,3 % celku) a dále 818 nových pacientů ve věku 75+ (5,6 % celku).  Počty nově nakažených seniorů a potenciálně zranitelných pacientů kopírují v absolutních hodnotách rostoucí trend všech nově diagnostikovaných a rostou se všemi důsledky pro zátěž nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši > 600 (průběžná data: z toho 364 ve věku 65+ a 213 ve věku 75+) - registrujeme celkem 7 265 všech hospitalizovaných pacientů. Celkový počet pacientů narostl oproti včerejšku z důvodu vysokých příjmů.
+
+Nemocniční data budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

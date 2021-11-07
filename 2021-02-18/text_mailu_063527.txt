@@ -1,0 +1,57 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím ranní hlášení z nemocnic, data uzavřená k půlnoci. V přílohách mailu souhrnné reporty včetně přehledu zátěže nemocnic po zařízeních a po krajích. Níže potom číselný strukturovaný souhrn.
+
+Nové příjmy a celkový počet hospitalizací. Za včerejšek byl dohlášen opět velký počet nových příjmů (509), což odpovídá predikci odvozené od počtů nově nakažených potenciálně zranitelných osob (dne 14.2. byl na tomto základě jako velmi pravděpodobný určený počet celkových příjmů do nemocnic v 10 aá14 dnech ve výši 5 532, což znamená v průměru > 400 až > 500 příjmů denně). Celkové počty hospitalizací tak opět počaly narůstat, aktuálně na hodnotu 6 195.
+
+Zátěž intenzivní a vysoce intenzivní péče. V počtu hospitalizovaných na JIP pozorujeme další mírný nárůst, tento setrvalý rostoucí trend trvá jíž dlouho (od 1.2. činí průměrné denní čisté saldo + 11 pacientů na JIP lůžkách). Aktuálně je registrováno 1193 pacientů na JIP, z toho 857 UPV a 18 s potřebou léčby na ECMO. Tato data odrážejí velmi reprezentativně trendový vývoj epidemie a potvrzují návrat epidemie k růstu. V zátěži nemocniční péče nadále trvají velké rozdíly mezi regiony, nejvíce zatížené oblasti odpovídají regionům s progresivním nárůstem virové nálože v populaci: KVK, PLK, HKK, PAK, PLK  - obecně v tomto trvá rozdíl mezi západními a severními oblastmi Čech a moravskými regiony.
+
+Volné lůžkové kapacity (včetně aktuálně reprofilizovaných kapacit) - dle hlášení do Národního dispečinku lůžkové péče:
+
+  *   JIP lůžka včetně reprofilizace: volná kapacita 745
+  *   Stand. lůžka s O2 včetně reprofilizace: volná kapacita jako součet 6 119
+
+
+Volná kapacita lůžek JIP se dostává pod 20% (celá ČR), kritický stav je hlášen v KVK (7 volných lůžek), HKK (25 volných lůžek), Praha (53 volných lůžek) ..... za kritický stav označujeme situaci, kdy volná kapacita tvoří < 10% celku
+
+Níže je prosím celkový souhrn hodnot v číslech
+
+S úctou L. Dušek
+
+
+
+Celkový souhrn situace v ČR:
+
+  *   Celkem hospitalizovaných bylo včera 6 195.
+  *   Hospitalizovaní tvoří 5,7 % z celkem pozitivních.
+  *   Těžký průběh onemocnění a na JIP je hlášeno u 1 193 osob, 587x UPV, 18x ECMO.
+  *   Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 19,8 %.
+  *   Potvrzeno 54 úmrtí. Průměrný věk: 75 let.
+
+
+Nově přijatí a propuštění pacienti:
+
+  *   Celkem 509 nových příjmů, průměrný věk 69 let, těžký stav je hlášen 32x, jinak převažuje stav střední (298).
+  *   Nejvíce příjmů bylo v HMP (76), MSK (74), JMK (56).
+  *   dne 16.2. bylo dohlášeno 563 propuštěných pacientů
+  *   dne 17.2. bylo dohlášeno 409 propuštěných pacientů
+
+
+
+Zátěž dle krajů a nemocnic:
+
+  *   Nejvíce pacientů je v HMP (905-> z toho na JIP 193), v JMK (616 -> z toho na JIP 139) a HKK (564 -> z toho na JIP 133).
+  *   UPV potřebuje nejvíce pacientů v HMP (99), JMK (74), HKK (67).
+  *   Nejvíce pacientů je v nemocnicích (>70):
+
+
+Fakultní nemocnice Plzeň (224), Fakultní nemocnice Hradec Králové (190), Nem. Pardubického kraje, a.s., Pardubická nem. (176), FN Na Bulovce (174), Fakultní Thomayerova nemocnice (164), Fakultní nemocnice v Motole (138), Fakultní nemocnice Královské Vinohrady (134), Fakultní nemocnice Brno (133), Oblastní nemocnice Náchod a.s. (123), Krajská nemocnice Liberec, a.s. (110), Nemocnice České Budějovice, a.s. (106), Krajská nemocnice T. Bati, a. s. (105), KZ, a.s., Masarykova nem. Ústí n. L., o.z. (100), KKN a.s., Nemocnice Karlovy Vary (89), Fakultní nemocnice U sv. Anny v Brně (88), Slezská nemocnice v Opavě, příspěvková organizace (80), Všeobecná fakultní nemocnice v Praze (79), Fakultní nemocnice Ostrava (79), Nemocnice Jindřichův Hradec, a.s. (75), Oblastní nemocnice Kolín, a.s. (73), ÚVN - Vojenská fakultní nemocnice Praha (73).
+
+
+Dostupné kapacity dle dispečinku IP:
+
+  *   UPV - volná kapacita (731 lůžek), tj. 31,8 % celku, ECMO - volná kapacita (44 přístrojů), tj. 52,4 % celku.
+  *   JIP lůžka: volná kapacita COVID+ 155 lůžek (+ volná kapacita pro COVID- pacienty 422 lůžek).
+  *   Stand. lůžka s O2: volná kapacita COVID+ 880 lůžek (+ volná kapacita pro COVID- pacienty 4 289 lůžek).
+
+  *   JIP lůžka včetně reprofilizace: volná kapacita 745
+  *   Stand. lůžka s O2 včetně reprofilizace: volná kapacita jako soucet 6 119
+

@@ -1,0 +1,29 @@
+Vážené kolegyně a kolegové, dobrý den - nacházíme se v období, kdy by na populační úrovni měl být patrný postupný efekt opatření přijatých po 26.12. - což data z 11.1. a průběžná data z 12.1. ukazují. Nicméně je zřejmé, že brždění epidemie bude zřejmě pomalé a nadto se ihned nepromítne do nemocniční zátěže. Vývoj počtu hospitalizací, zejména těch nejtěžších vyžadujících intenzivní péči, má vždy ještě cca 7 - 14 dní zpoždění po útlumu na úrovni populace.
+
+Zpracovali jsme tedy aktualizaci krátkodobých predikcí pro následující období - jak populačních, tak i klinických modelů. Stavový model, který používáme pro predikce počtu hospitalizovaných pacientů bohužel správně predikoval ke konci roku zátěž cca 6 000 všech hospitalizací s COVID-19. Tato zátěž bohužel i podle příznivých scénářů dále rostla a narůstá a měla by kulminovat v tomto týdnu (aktuálně je > 7 100 všech hospitalizovaných) - v méně příznivých scénářích nastane kulminační bod ještě později.
+
+Bohužel ve shodě s predikcemi se po weekendu obnovil růst počtu nových příjmů a hodnota dále poroste, prediktivní modely předpovídají více než 650 příjmů denně. v rizikovém trendu i více. Nárůst celkového počtu hospitalizací lze tedy  čekat významněji nad 7 000. Na intenzivní péči zůstává cca 1130 pacientů, z toho vysoce intenzivní péče stále mírně narůstá - na cca 560 pacientů.
+
+V přílohách prosím posílám
+
+  *   SOUHRN. soubor "0" - stručné shrnutí stavu a vybrané závěry prediktivních modelů +soubor "risk mapping" ukazující na počet a regionální distribuci potenciálně zranitelných pacientů z poslední doby
+
+  *   soubor "1" - krátkodobé populační predikce, aktualizované k 11.1. , pro čR i pro jednotlivé regiony
+
+  *   soubory "2, 3" - výsledky pravděpodobnostních modelů pro zátěž nemocnic, jednak predikce a vývoj celkového počtu hospitalizací a dále hospitalizací v těžkém stavu
+
+Tyto prediktivní modely jsou denně sdíleny s krajskými koordinátory intenzivní péče.
+
+Soubor "risk mapping týdenní"
+
+  *   Ukazuje po weekendu aktualizovaný přehled počtu nakažených seniorů a potenciálně zranitelných skupin - tyto počty ukazují, že tato zátěž je v prevalenci stále enormní. Obecná predikce rizika nemocnosti tak ukazuje, že v dalších cca 10 - 14 dnech by mohlo dojít až k 9 000 novým hospitalizacím a z nich cca 1/5 s potřebou intenzivní péče
+  *   V dalších dnech tedy očekáváme vysoké celkové denní příjmy pacientů s COVID, a to až 650 a více
+  *   V souboru je rozpis těchto odhadů i pro jednotlivé regiony
+
+Ačkoli počty hospitalizovaných nesledují vysoce rizikové scénáře (to by již v celé ČR bylo > 8500 hospitalizací), tak v mnoha regionech jsou již překročena maxima z období října / listopadu. Přesto je stále patrné, že vývoj v nemocnicích sleduje méně progresivní růstový trend, než ukazují populační počty nakažených. .. pokud tato situace vydrží, bude zátěž kulminovat v druhé polovině týdne a poté by měla klesat.
+
+
+S úctou L. Dušek
+
+
+

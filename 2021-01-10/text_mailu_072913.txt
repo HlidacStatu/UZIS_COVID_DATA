@@ -1,0 +1,187 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím nový report s aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+V centrální databázi ISIN evidu​jeme za včerejší den 8 406 nových případů s COVID-19. Jde o hodnotu významně nižší než v pracovních dnech což odpovídá také nižšímu počtu provedených testů - za sobotu konkrétně:
+k 8:00 bylo za 9.1. 2020 dohlášeno
+
+  *   20 894 testů PCR
+  *   11 234 testů antigenních
+
+Reprodukční číslo se stále drží v hodnotách nad 1 a osciluje kolem 1,2.  bohužel to platí i o subkategorii ve věkové třídě 65+ (viz níže), která stále tvoří cca 20% nově diagnsotikovaných
+
+Srovnání denních nárůstů v jednotlivých regionech shrnuje následující tabuka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Moravskoslezský kraj
+
+1 285
+
+15,3 %
+
+107,0
+
+157,3 / 153,0
+
+Středočeský kraj
+
+1 001
+
+11,9 %
+
+72,3
+
+122,4 / 114,6
+
+Hlavní město Praha
+
+776
+
+9,2 %
+
+58,6
+
+100,7 / 86,7
+
+Královéhradecký kraj
+
+753
+
+9,0 %
+
+136,5
+
+178,3 / 166,3
+
+Olomoucký kraj
+
+728
+
+8,7 %
+
+115,2
+
+110,0 / 102,4
+
+Jihomoravský kraj
+
+633
+
+7,5 %
+
+53,1
+
+103,2 / 91,4
+
+Ústecký kraj
+
+547
+
+6,5 %
+
+66,6
+
+99,4 / 106,0
+
+Karlovarský kraj
+
+459
+
+5,5 %
+
+155,8
+
+118,8 / 122,5
+
+Zlínský kraj
+
+457
+
+5,4 %
+
+78,4
+
+136,9 / 127,3
+
+Liberecký kraj
+
+455
+
+5,4 %
+
+102,5
+
+135,9 / 126,8
+
+Pardubický kraj
+
+432
+
+5,1 %
+
+82,7
+
+143,9 / 126,0
+
+Kraj Vysočina
+
+311
+
+3,7 %
+
+61,0
+
+120,4 / 126,4
+
+Jihočeský kraj
+
+302
+
+3,6 %
+
+46,9
+
+100,6 / 104,0
+
+Plzeňský kraj
+
+258
+
+3,1 %
+
+43,7
+
+89,0 / 85,3
+
+Neznámo
+
+9
+
+0,1 %
+
+-
+
+-
+
+
+Ve srovnání okresů pozorujeme vysoký přírůstek (≥ 150) případů v okresech Praha (776), Ostrava-město (448), Olomouc (254), Opava (246), Liberec (244), Brno-město (233), Hradec Králové (209), Nový Jičín (202), Cheb (193), Pardubice (189), Náchod (181), Šumperk (179), Vsetín (165), Karviná (153), Frýdek-Místek (150) a Brno-venkov (150).
+
+K půlnoci bylo dosud nahlášeno 69 nových úmrtí, všechna z nemocnic.
+
+Včera bylo nově diagnostikováno 1 662 nových pacientů ve věku 65+ a dále 773 nových pacientů ve věku 75+.
+
+Zátěž nemocnic byla k půlnoci nahlášena v nižších hodnotách, než tomu bylo v pracovních dnech týdne: celkem bylo zadáno cca + 363 nových příjmů do nemocnic, z toho cca 278 u pacientů ve věku 65+ a 147 u pacientů ve věku 75+.
+
+Vysoké počty propuštěných pacientů a relativně nižší příjmy vedly k poklesu celkového počtu hospitalizovaných. Nemocnice hlásí nárůst počtu případů na celkem 6 741 všech hospitalizovaných pacientů. - upřesním v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

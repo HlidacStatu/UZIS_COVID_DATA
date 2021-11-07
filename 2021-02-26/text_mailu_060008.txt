@@ -1,0 +1,206 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 14 457 nových případů onemocnění COVID-19.  Jde o hodnotu plně odpovídající průměru tohoto týdne a růstu epidemie při reprodukčním čísle cca 1,2. Konkrétní hodnota reprodukčního čísla je na hodnotě 1,19 (95 % interval spolehlivosti 1,18 - 1,20).  Tyto vysoké počty denních záchytů jsou vysoce rizikové zejména proto, že jsou doprovázeny velkým počtem nově nakažených potenciálně zranitelných pacientů (viz níže). Dále rovněž narůstá relativní pozitivita testů z diagnostické a klinické indikace, které mají nejvyšší vypovídací hodnotu a jsou korelátem rostoucí prevalenční nálože viru v populaci. Tento indikátor narůstá i při relativně velkém objemu testů, což jeho vypovídací hodnotu ještě zesiluje.
+
+Konkrétně za 24.2. bylo dohlášeno 39 551 PCRT testů a dále 41 866 testů antigenních. Objem testů je v pracovních dnech relativně vyrovnaný a je tak možné i relevantně sledovat časový vývoj záchytnosti. Vývoj relativní pozitivity shrnuje následující tabulka, hodnoty nad 40% je třeba vnímat jako velmi rizikové.
+
+Relativní pozitivita testů dle indikace testu
+
+Za 24.2.
+
+7denní průměr
+
+Diagnostická indikace
+
+41,7%
+
+39,5%
+
+Epidemiologická indikace
+
+21,5%
+
+21,1%
+
+Preventivní a plošné testování
+
+1,8%
+
+1,8%
+
+Nové hodnoty přinesly v podstatě shodné pořadí regionů jako ostatní pracovní dny tohoto týdne. Rizikově významně rostou hodnoty Středočeského kraje (nový absolutní přírůstek + 2 357; průměrný denní nárůst 82/100 tis. obyv. s rostoucím trendem). Vysoké přírůstky vykazuje většina regionů, dlouhodobě jsou nejvyšší hodnoty v přepočtu na 100 tis. obyv v KVK, KHK, PZK a PAK. Nadále zůstává kontrast mezi více zatíženými regiony Čech vs. moravské kraje.
+
+Srovnání krajů dokumentuje následující tabulka
+
+Název kraje
+
+Počet (%)
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+
+Středočeský kraj
+
+2,357 (16.3 %)
+
+170.2
+
+132.5
+
+82.4
+
+Hlavní město Praha
+
+1,653 (11.4 %)
+
+124.8
+
+101.6
+
+69.3
+
+Plzeňský kraj
+
+1,275 (8.8 %)
+
+216.1
+
+173.5
+
+114.8
+
+Jihomoravský kraj
+
+1,182 (8.2 %)
+
+99.2
+
+74.9
+
+55.4
+
+Ústecký kraj
+
+1,117 (7.7 %)
+
+136.1
+
+105.2
+
+78.2
+
+Moravskoslezský kraj
+
+1,031 (7.1 %)
+
+85.9
+
+65.3
+
+50.5
+
+Karlovarský kraj
+
+998 (6.9 %)
+
+338.7
+
+166.7
+
+157.9
+
+Jihočeský kraj
+
+933 (6.5 %)
+
+144.9
+
+84.2
+
+61.8
+
+Pardubický kraj
+
+923 (6.4 %)
+
+176.6
+
+141.2
+
+104.6
+
+Liberecký kraj
+
+831 (5.7 %)
+
+187.3
+
+136.7
+
+89.6
+
+Královéhradecký kraj
+
+829 (5.7 %)
+
+150.3
+
+154.4
+
+105.3
+
+Kraj Vysočina
+
+528 (3.7 %)
+
+103.6
+
+70.7
+
+49.2
+
+Olomoucký kraj
+
+394 (2.7 %)
+
+62.3
+
+69.7
+
+51.1
+
+Zlínský kraj
+
+378 (2.6 %)
+
+64.9
+
+50.9
+
+36.1
+
+Neznámo
+
+28 (0.2 %)
+
+
+
+
+
+
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (1653), Karlovy Vary (425), Sokolov (391), Plzeň-město (377), Ústí nad Orlicí (349), Liberec (324), Brno-město (305), Kladno (277), Praha-východ (276), Pardubice (273), Hradec Králové (270), Kolín (258), Mladá Boleslav (255), Strakonice (255), Brno-venkov (248).
+
+K půlnoci je evidováno 84 úmrtí, všechna jsou hlášena z nemocnic.
+
+Včera bylo nově diagnostikováno 1 997 nových pacientů ve věku 65+ (13,8 % celku) a dále 809 nových pacientů ve věku 75+ (5,6 % celku).  Počty nově nakažených seniorů a potenciálně zranitelných pacientů kopírují v absolutních hodnotách rostoucí trend všech nově diagnostikovaných a rostou se všemi důsledky pro zátěž nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši > 620 (průběžná data: z toho 375 ve věku 65+ a 192 ve věku 75+) - registrujeme celkem 7 175 všech hospitalizovaných pacientů. Celkový počet pacientů narostl z důvodu vysokých příjmů.
+
+Nemocniční data budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

@@ -1,0 +1,179 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 8 782 nových případů onemocnění COVID-19. Aktuální hodnota reprodukčního čísla je rovna 1,04 (dle odhadu EpiEstim). Situace je víceméně neměnná proti předchozím dnům - tedy stagnující až mírně rostoucí populační zátěž, komplikovaná vysokým počtem nakažených potenciálně zranitelných skupin pacientů.
+
+Srovnání denních nárůstů v jednotlivých regionech shrnuje následují tabulka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Středočeský kraj
+
+1 202
+
+13,7 %
+
+86,8
+
+80,9 / 60,8
+
+Hlavní město Praha
+
+986
+
+11,2 %
+
+74,5
+
+68,3 / 50,7
+
+Jihomoravský kraj
+
+867
+
+9,9 %
+
+72,7
+
+52,8 / 39,7
+
+Plzeňský kraj
+
+845
+
+9,6 %
+
+143,2
+
+99,4 / 65,0
+
+Královéhradecký kraj
+
+677
+
+7,7 %
+
+122,7
+
+141,6 / 100,1
+
+Karlovarský kraj
+
+645
+
+7,3 %
+
+218,9
+
+167,7 / 145,0
+
+Pardubický kraj
+
+593
+
+6,8 %
+
+113,5
+
+95,0 / 64,2
+
+Moravskoslezský kraj
+
+588
+
+6,7 %
+
+49,0
+
+42,0 / 34,4
+
+Ústecký kraj
+
+544
+
+6,2 %
+
+66,3
+
+59,2 / 44,1
+
+Liberecký kraj
+
+488
+
+5,6 %
+
+110,0
+
+89,3 / 67,5
+
+Jihočeský kraj
+
+411
+
+4,7 %
+
+63,8
+
+54,8 / 48,8
+
+Olomoucký kraj
+
+405
+
+4,6 %
+
+64,1
+
+50,4 / 38,7
+
+Kraj Vysočina
+
+289
+
+3,3 %
+
+56,7
+
+48,7 / 38,9
+
+Zlínský kraj
+
+227
+
+2,6 %
+
+39,0
+
+32,2 / 23,1
+
+Neznámo
+
+15
+
+0,2 %
+
+-
+
+-
+
+
+Ve srovnání okresů vykazují vysoké hodnoty (≥ 160) případů v okresech: Praha (986), Trutnov (253), Brno-město (238), Cheb (225), Karlovy Vary (223), Plzeň-město (220), Ústí nad Orlicí (214), Pardubice (197), Sokolov (197), Brno-venkov (185), Klatovy (172), Praha-východ (172), Náchod (171), Liberec (164).
+
+K půlnoci je evidováno 63 úmrtí, z toho 61 je hlášeno z nemocnic.
+
+Včera bylo nově diagnostikováno 1 325 nových pacientů ve věku 65+ (15,1% celku) a dále 567 nových pacientů ve věku 75+ (6,5% celku).
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši > 420 (průběžná data, z toho 227 ve věku 65+, 126 ve věku 75+). Vysoké počty příjmů odpovídají počtu denně nově nakažených zranitelných skupin pacientů. Nové příjmy jsou nadále kompenzovány vysokým počtem propouštěných pacientů, počty pacientů a zátěž nemocnic tak v hodnocení nad celou ČR stagnují. Celkem registrujeme 5 761 všech hospitalizovaných pacientů s COVID-19.
+
+S úctou L. Dušek
+

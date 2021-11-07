@@ -1,0 +1,26 @@
+Vážené kolegyně a kolegové, dobrý den - po dohodě s paní předsedkyní Adámkovou a s pane doktorem Krausem se vracíme k původnímu formátu posílám pravidelných reportů o očkování takto na dohodnutý mail-list členů obou zdravotních výborů. Sníží se tím administrace a zrychlí dostupnost dat, velmi za toto rozhodnutí děkuji a také děkuji za schválení tohoto postupu panu ministrovi zdravotnictví (v kopii mailu).
+
+Reporty budou chodit denně ráno / dopoledne /, vždy s uzavřenými a validovanými daty k předchozímu dni, 20:00 - 21:00. Obsah reportů je k diskuzi, lze je jistě rozšiřovat či měnit.
+
+Zde prosím v přílohách posílám nyní navrženou aktuální denní sadu. (25.1. k 21:00)
+
+Soubor "01"/zdroj dat MZ ČR/ - obsahuje  agregovaný přehled dodávek pro ČR, dle krajů a dle nemocnic - vakcína COMIRNATY a MODERNA (přehled je po lahvičkách - u každé vakcíny představují jiný objem dávek; u COMIRNATy se začínalo očkovat po 5 dávkách, nyní se používá 6 na lahvičku)
+
+Soubor "02" /zdroj dat = hlášení center do ISIN, modul očkování/ - obsahuje agregovaná data - tedy distribuci dle krajů, dle věkových kategorií s vymezením kategorie 80+, členění dle prioritních skupin - vždy  členění celkové a dle typu vakcíny.
+
+Soubor "03" /zdroj dat = hlášení center do ISIN, modul očkování/ - obsahuje přehled nahlášených záznamů dle jednotlivých subjektů a nemocnic
+
+Ještě prosím dovolte poznámku k datovým sadám a vizualizacím:
+
+  *   dnes spouštíme novou on-line vizualizaci pro veřejnost (přikládám printscreen přehled) + rovněž bude uvolněna otevřená datová sada pro veřejnost s agregovanými daty
+
+otevřená datová sada bude zveřejněna dnes v dopoledních hodinách na: https://onemocneni-aktualne.mzcr.cz/covid-19.
+
+  *   pro kraje a krajské koordinátory očkování jsme dále nachystali velmi podrobnou (řádkovou) automatizovanou datovou sadu, která by měla napomoci i logistickému plánování vakcinace  - dnes moji kolegové budou kontaktovat odborníky, kteří datové sady na krajích odebírají -> datový most poběží stejným způsobem jako vedení krajů posíláme i další data o epidemiologii a hospitalizacích
+
+Přikládám prosím stručnou souhrnnou prezentaci v ppt - tuto budeme rozšiřovat a týdně reportovat.
+
+Omlouvám se velmi za delší mail.
+
+S úctou L. Dušek
+

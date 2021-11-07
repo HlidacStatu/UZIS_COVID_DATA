@@ -1,0 +1,181 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 4 025 nových případů onemocnění COVID-19. Aktuální hodnota reprodukčního čísla zůstává beze změny, tedy 0,98 (dle odhadu EpiEstim) a potvrzuje stagnaci v brždění epidemie. V sobotu bylo provedeno menší množství testů - konkrétně je k ránu dohlášeno 13 902 testů PCR a 12 452 antigenních testů, a to u 26 079 unikátních testovaných osob. Počet pozitivních záchytů tak poměrově odpovídá počtu testů jako v uplynulých dnech a nenarostla relativní pozitivita záchytu (u diagnosticky indikovaných testů zůstává kolem 28%, u testů plošných kolem 2,6%).
+
+Srovnání denních nárůstů v jednotlivých regionech shrnuje následující tabulka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Královéhradecký kraj
+
+614
+
+15,3 %
+
+111,3
+
+135,1 / 105,4
+
+Středočeský kraj
+
+500
+
+12,4 %
+
+36,1
+
+63,5 / 55,0
+
+Hlavní město Praha
+
+433
+
+10,8 %
+
+32,7
+
+54,0 / 45,2
+
+Moravskoslezský kraj
+
+423
+
+10,5 %
+
+35,2
+
+51,7 / 45,5
+
+Karlovarský kraj
+
+405
+
+10,1 %
+
+137,4
+
+146,7 / 117,5
+
+Pardubický kraj
+
+285
+
+7,1 %
+
+54,5
+
+76,7 / 53,2
+
+Jihomoravský kraj
+
+257
+
+6,4 %
+
+21,6
+
+49,1 / 41,6
+
+Ústecký kraj
+
+230
+
+5,7 %
+
+28,0
+
+48,1 / 44,6
+
+Zlínský kraj
+
+205
+
+5,1 %
+
+35,2
+
+45,0 / 32,5
+
+Kraj Vysočina
+
+180
+
+4,5 %
+
+35,3
+
+46,9 / 48,9
+
+Liberecký kraj
+
+162
+
+4,0 %
+
+36,5
+
+78,7 / 69,4
+
+Jihočeský kraj
+
+123
+
+3,1 %
+
+19,1
+
+51,4 / 45,1
+
+Plzeňský kraj
+
+123
+
+3,1 %
+
+20,9
+
+69,6 / 51,0
+
+Olomoucký kraj
+
+83
+
+2,1 %
+
+13,1
+
+55,4 / 43,8
+
+Neznámo
+
+2
+
+0,0 %
+
+-
+
+-
+
+
+Ačkoli nejsou weekendová data plně reprezentativní, pořadí regionů zde odráží stejnou situaci jako v pracovních dnech týdne. Přehled hodnot dle krajů ukazuje rizikový vývoj v Královéhradeckém kraji, kde dlouhodobě denní průměrný záchyt přepočítaný na 100tis. překračuje hodnotu 130. Stejný rizikový vývoj v přepočtu na 100tis. pozorujeme rovněž dlouhodobě v Karlovarském kraji. Naopak nízké hodnoty ve srovnání s předchozími dny vykázal kraj Jihomoravský.
+
+Ve srovnání okresů vykazují vysoké hodnoty (≥ 100) případů v okresech: Praha (433), Hradec Králové (177), Trutnov (170), Náchod (162), Sokolov (161), Cheb (143), Pardubice (140) a Karlovy Vary (101).
+
+K půlnoci je evidováno 50 úmrtí, všechna jsou hlášena z nemocnic.
+
+Včera bylo nově diagnostikováno 665 nových pacientů ve věku 65+ (16,5% celku) a dále 291 nových pacientů ve věku 75+ (7,2% celku). Počet nově diagnostikovaných pacientů ze skupin potenciálně zranitelných tak za sobotu v absolutních číslech poklesl společně s celkovými záchyty, relativní zastoupení v celku ale zůstalo stejné (cca 17%).
+
+Zátěž nemocnic: k půlnoci je ve srovnání s pracovními dny týdne nahlášeno významně snížené množství nových příjmů, což je běžný weekendový jev. Počet nově přijatých byl nahlášen ve výši cca 280 a byl převýšen velkým množstvím propuštěných pacientů - registrujeme tak celkem 5 391 všech hospitalizovaných pacientů. Jde opět jen o nižší hodnotu než včera - bude upřesněno v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

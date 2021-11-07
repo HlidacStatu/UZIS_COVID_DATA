@@ -1,0 +1,185 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 9 567 nových případů onemocnění COVID-19. Opět jde o hodnotu potvrzující stagnaci ve vývoji epidemie, resp. potvrzující týdenní průměrnou hodnotu, která bude mírně vyšší, než hodnota předchozího týdne. Reprodukční číslo je aktuálně (dle odhadu EpiEstim) rovno 1,02. Rovněž nadále registrujeme velmi rizikovou strukturu nově diagnostikovaných pacientů, s velkým podílem potenciálně zranitelných skupin (viz níže).
+
+Srovnání denních nárůstů v jednotlivých regionech shrnuje následující tabulka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Středočeský kraj
+
+1 311
+
+13,7 %
+
+94,6
+
+68,0 / 55,9
+
+Královéhradecký kraj
+
+1 292
+
+13,5 %
+
+234,2
+
+146,1 / 115,5
+
+Hlavní město Praha
+
+956
+
+10,0 %
+
+72,2
+
+56,0 / 47,9
+
+Jihomoravský kraj
+
+853
+
+8,9 %
+
+71,6
+
+48,8 / 38,3
+
+Karlovarský kraj
+
+777
+
+8,1 %
+
+263,7
+
+175,4 / 132,9
+
+Plzeňský kraj
+
+775
+
+8,1 %
+
+131,4
+
+81,4 / 58,8
+
+Ústecký kraj
+
+633
+
+6,6 %
+
+77,1
+
+51,5 / 46,0
+
+Pardubický kraj
+
+604
+
+6,3 %
+
+115,6
+
+81,9 / 61,5
+
+Moravskoslezský kraj
+
+578
+
+6,0 %
+
+48,1
+
+45,1 / 37,2
+
+Jihočeský kraj
+
+461
+
+4,8 %
+
+71,6
+
+52,1 / 44,0
+
+Liberecký kraj
+
+417
+
+4,4 %
+
+94,0
+
+77,7 / 62,9
+
+Olomoucký kraj
+
+394
+
+4,1 %
+
+62,3
+
+53,1 / 40,9
+
+Zlínský kraj
+
+255
+
+2,7 %
+
+43,8
+
+37,9 / 29,8
+
+Kraj Vysočina
+
+243
+
+2,5 %
+
+47,7
+
+45,3 / 41,4
+
+Neznámo
+
+18
+
+0,2 %
+
+-
+
+-
+
+
+Velmi vysoké denní nárůsty hlásí opakovaně Středočeský kraj (+ 1311), byť v přepočtu na 100tis. obyvatel nejsou tyto hodnoty extrémní ve srovnání s ostatními regiony. Oproti uplynulým dnům velmi významně narostl denní přírůstek v Královéhradeckém kraji (+ 1292), což dále zesílilo rizikovou situaci. Tento kraj společně s Karlovarským krajem dominuje v pořadí regionů v průměrném denním přírůstku na 100tis. obyvatel a tyto hodnoty v čase narůstají. Rizikový je i vývoj počtu nově nakažených seniorů v obou regionech.
+
+Ve srovnání okresů vykazují vysoké hodnoty (≥ 150) případů v okresech: Praha (956), Hradec Králové (430), Trutnov (416), Sokolov (308), Cheb (263), Pardubice (261), Brno-město (239), Karlovy Vary (206), Praha-východ (193), Náchod (184), Brno-venkov (179), Kolín (168), Klatovy (164), Liberec (163), Mladá Boleslav (161), Olomouc (155), Plzeň-město (154), Ústí nad Orlicí (152).
+
+K půlnoci je evidováno 68 úmrtí, z toho 67 je hlášeno z nemocnic.
+
+Včera bylo nově diagnostikováno 1 426 nových pacientů ve věku 65+ (14,9 % celku) a dále 612 nových pacientů ve věku 75+ (6,4% celku). trend v těchto rizikových věkových kategoriích se rovná průměrným hodnotám minulého týdne.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 405 (z toho 283 ve věku 65+ a 177 ve věku 75+) a byl z velké části kompenzován velkým množstvím propuštěných pacientů - registrujeme tak více než 5 800 všech hospitalizovaných pacientů. - tedy hodnotu srovnatelnou se včerejškem.
+
+Výše denní příjmů do nemocnic přesahuje hodnot 400 obdobně jako v minulém týdnu, jde opět o důsledek velkého množství denně nově nakažených potenciálně zranitelných osob.
+
+Nemocniční data budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

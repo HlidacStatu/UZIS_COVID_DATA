@@ -1,0 +1,40 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím ranní hlášení z nemocnic, v přílohách souhrnné reporty včetně přehledu zátěže nemocnic po zařízeních a po krajích.
+
+Celkové počty hospitalizací poklesly proti průměru minulého týdne, nicméně bohužel jde stále o velice nestabilní trend. Denní příjmy jsou totiž stále velmi vysoké - celkem 572 nových pacientů, což je důsledek vysokého počtu nákaz mezi potenciálně zranitelnými skupinami pacientů. Celkem je registrováno 6670 pacientů s COVID-19. Zátěž JIP zůstává stabilní, tedy vysoká - je hlášeno 1131 pacientů na intenzivní péči. Podle predikcí z poloviny prosince by již tento týden měly být patrné klesající počty hospitalizovaných, rychlost poklesu ale s vysokou pravděpodobností nebude příliš velká - situaci komplikuje riziková struktura prevalence.
+
+Níže je prosím celkový souhrn hodnot v číslech
+
+S úctou L. Dušek
+
+
+
+Celkový souhrn situace v ČR:
+
+  *   Celkem hospitalizovaných je registrováno 6670.
+  *   Hospitalizovaní tvoří 5 % z celkem pozitivních.
+  *   Na JIP je hlášeno 1131 osob, 558x UPV, 14x ECMO.
+  *   Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 16,3 %.
+  *   Potvrzeno 73 úmrtí. Průměrný věk zemřelých je 79 let.
+
+ Nově přijatí a propuštění pacienti:
+
+  *   Celkem 572 nových příjmů, průměrný věk 70 let, těžký stav je hlášen 37x, jinak převažuje stav střední (293).
+  *   Nejvíce příjmů bylo v ULK (137), HMP (72), JMK (59)
+  *   za 17.1. je dohlášeno 135 propuštěných pacientů
+  *   za 18.1. je dohlášeno 595 propuštěných pacientů
+
+Zátěž dle krajů a nemocnic:
+
+  *   Nejvíce pacientů je v MSK (902 -> z toho na JIP 134), v JMK (842 -> z toho na JIP 174) a v HMP (776 -> z toho na JIP 158).
+  *   UPV potřebuje nejvíce pacientů v JMK (94), HMP (70), MSK (61).
+  *   Nejvíce pacientů je v nemocnicích (>70):
+Fakultní nemocnice Hradec Králové (205), Fakultní nemocnice Brno (171), Nem. Pardubického kraje, a.s., Pardubická nem. (168), Fakultní Thomayerova nemocnice (159), Krajská nemocnice T. Bati, a. s. (156), Fakultní nemocnice Ostrava (147), FN Na Bulovce (146), Fakultní nemocnice Plzeň (136), KZ, a.s., Masarykova nem. Ústí n. L., o.z. (136), Krajská nemocnice Liberec, a.s. (132), Oblastní nemocnice Náchod a.s. (127), Městská nemocnice Ostrava, příspěvková organizace (124), Nemocnice České Budějovice, a.s. (117), Fakultní nemocnice U sv. Anny v Brně (114), Fakultní nemocnice Olomouc (108), Fakultní nemocnice Královské Vinohrady (102), Fakultní nemocnice v Motole (99), Nemocnice Tábor, a.s. (97), KZ, a.s., Nemocnice Most, o.z. (94), Nemocnice ve Frýdku-Místku, příspěvková organizace (88), Nemocnice Znojmo, příspěvková organizace (81), Slezská nemocnice v Opavě, příspěvková organizace (81), Nemocnice s poliklinikou Havířov, p.o. (79), Všeobecná fakultní nemocnice v Praze (77), Nemocnice s poliklinikou Česká Lípa, a.s. (75), Nemocnice Břeclav, příspěvková organizace (74)
+
+Dostupné kapacity dle dispečinku IP:
+
+  *   UPV - volná kapacita (763 lůžek), tj, 34,6 % celku, ECMO - volná kapacita (38 přístrojů), tj, 47,5 % celku.
+  *   JIP lůžka: volná kapacita COVID+ 194 lůžek (+ volná kapacita pro COVID- pacienty 568 lůžek).
+  *   Stand, lůžka s O2: volná kapacita COVID+ 1194 lůžek (+ volná kapacita pro COVID- pacienty 4676 lůžek).
+
+
+

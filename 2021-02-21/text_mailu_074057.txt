@@ -1,0 +1,187 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 6 755 nových případů onemocnění COVID-19.  Ačkoli jde o hodnotu sobotní, a tedy částečně nereprezentativní, celkový trend potvrzuje zrychlené šíření epidemie. Reprodukční číslo zůstává na hodnotě 1,16 s horní hranicí intervalu spolehlivosti až 1,17. Počet nově diagnostikovaných pacientů minulou sobotu byl 5 141, i zde rozdíl ukazuje na růst, i když mezidenní srovnávání vývoje není příliš vypovídající.
+
+Včerejší hodnoty jsou ale přesto opřeny o relativně vysoký počet testů:
+
+  *   Dne 20.02.2021 bylo provedeno 17 596 testů PCR a 17 758 antigenních testů, a to u 35 054 unikátních testovaných osob.
+  *   Relativní pozitivita testů za včerejšek narostla: u testů z klinických a diagnostických indikací na 42,5 %, u testů indikovaných epidemiologicky 27,6 % a u testů z komunitního testování 2,5%.
+
+Sobotní hodnoty potvrzují existující rozdíly mezi kraji a vysoký rizikový gradient směrem k západních a severním regionům Čech. Nejvíce rizikové hodnoty průměrných denních nárůstů v přepočtu na 100tis. obyvatel se dlouhodobě drží v kraji Karlovarském a Královéhradeckém (průměrný denní nárůst cca 150/100tis. obyv.), významné nárůsty vykazují kraje Pardubický a Plzeňský. Kraj Liberecký nadále rovněž roste a dosahuje průměrných denních nárůstů > 106 / 100tis. obyv.  Vysoký nárůst vykázal v sobotu i kraj Středočeský (+ 1 242), v přepočtu na 100 tis. obyv. vykazuje tento region průměrně denně 110 nových případů.
+
+Srovnání krajů dokumentuje následující tabulka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Středočeský kraj
+
+1 242
+
+18,4 %
+
+89,7
+
+110,0 / 73,7
+
+Hlavní město Praha
+
+969
+
+14,3 %
+
+73,2
+
+84,4 / 58,9
+
+Královéhradecký kraj
+
+687
+
+10,2 %
+
+124,5
+
+148,9 / 104,9
+
+Ústecký kraj
+
+605
+
+9,0 %
+
+73,7
+
+84,8 / 60,8
+
+Moravskoslezský kraj
+
+495
+
+7,3 %
+
+41,2
+
+53,6 / 42,4
+
+Plzeňský kraj
+
+477
+
+7,1 %
+
+80,9
+
+141,7 / 97,3
+
+Olomoucký kraj
+
+435
+
+6,4 %
+
+68,8
+
+63,3 / 39,7
+
+Karlovarský kraj
+
+394
+
+5,8 %
+
+133,7
+
+159,5 / 148,1
+
+Pardubický kraj
+
+347
+
+5,1 %
+
+66,4
+
+118,7 / 87,5
+
+Liberecký kraj
+
+326
+
+4,8 %
+
+73,5
+
+110,2 / 67,1
+
+Jihomoravský kraj
+
+250
+
+3,7 %
+
+21,0
+
+59,6 / 46,2
+
+Zlínský kraj
+
+225
+
+3,3 %
+
+38,6
+
+40,1 / 29,7
+
+Kraj Vysočina
+
+178
+
+2,6 %
+
+34,9
+
+56,0 / 40,1
+
+Jihočeský kraj
+
+121
+
+1,8 %
+
+18,8
+
+67,1 / 45,6
+
+Neznámo
+
+4
+
+0,1 %
+
+-
+
+-
+
+Ve srovnání okresů vykazují vysoké hodnoty (≥ 130) případů v okresech: Praha (969), Hradec Králové (252), Náchod (232), Olomouc (211), Karlovy Vary (195), Pardubice (174), Mělník (153), Kladno (148), Praha-východ (141), Plzeň-město (139), Praha-západ (136), Tachov (132).
+
+K půlnoci je evidováno 68 úmrtí, všechna hlášena z nemocnic.
+
+Včera bylo nově diagnostikováno 946 nových pacientů ve věku 65+ (14,0 % celku) a dále 380 nových pacientů ve věku 75+ (5,6 % celku).
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 350, což je o weekendu relativně vysoký počet (průběžná data: z toho 224 ve věku 65+ a 126 ve věku 75+) - registrujeme celkem 6 021 všech hospitalizovaných pacientů. Celkový počet pacientů je přibližně stejný jako včera.
+
+Nemocniční data budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

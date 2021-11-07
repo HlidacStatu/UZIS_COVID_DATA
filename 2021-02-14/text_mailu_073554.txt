@@ -1,0 +1,46 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím ranní hlášení z nemocnic, v přílohách souhrnné reporty včetně přehledu zátěže nemocnic po zařízeních a po krajích.
+
+Nové příjmy k hospitalizaci jsou nadále průměrně vysoké - celý týden na úrovni nad 400 denně. Včerejší hodnota je nižší, celkem 304, což je typický jev o weekendu, nadto doprovázený velkým počtem propouštěných pacientů (od pátku je nahlášeno více než 750 propuštění). Vzhledem k velkému počtu denně nově nakažených potenciálně zranitelných pacientů ukazují prediktivní modely i pro příští týden cca stejný vývoj.
+
+Celková zátěž nemocnic mírně klesá na aktuální hodnotu všech hospitalizovaných - 5456, což je typický jev o weekendu a hodnota je také rámcově srovnatelná s minulým weekendem.
+
+Zátěž intenzivní péče v pátek narostla, a na této hladině zátěže setrvává – aktuální hodnota 1102 pacientů, z toho 549 x UPV a 16 x ECMO). Tento parametr nejlépe odráží skutečný zdravotní dopad epidemie a je z něj patrná rizikovost současné situace.
+
+Níže je prosím celkový souhrn hodnot v číslech
+
+S úctou L. Dušek
+
+
+
+Celkový souhrn situace v ČR:
+
+  *   Celkem hospitalizovaných bylo dnes 5456.
+  *   Hospitalizovaní tvoří 5,27 % z celkem pozitivních.
+  *   Těžký průběh onemocnění a na JIP je hlášeno u 1102 osob, 549x UPV, 16x ECMO.
+  *   Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 19,90 %.
+  *   Potvrzeno 46 úmrtí. průměrný věk je 80 let.
+
+Nově přijatí a propuštění pacienti:
+
+  *   Celkem 304, průměrný věk 68 let, těžký stav je hlášen 22x, jinak převažuje stav střední (207).
+  *   Nejvíce příjmů bylo v HMP (47), MSK (41), HKK (30).
+  *   za 12.2. bylo dohlášeno 585 propuštěných pacientů
+  *   za 13.2. bylo dohlášeno 167 propuštěných pacientů
+
+
+
+Zátěž dle krajů a nemocnic:
+
+  *   Nejvíce pacientů je v HMP (847-> z toho na JIP 204), v JMK (543 -> z toho na JIP 128) a HKK (498 -> z toho na JIP 117).
+  *   UPV potřebuje nejvíce pacientů v HMP (88), JMK (68), HKK (62).
+  *   Nejvíce pacientů je v nemocnicích (>70):
+
+Fakultní nemocnice Plzeň (209), Fakultní nemocnice Hradec Králové (183), Fakultní Thomayerova nemocnice (156), FN Na Bulovce (145), Nem. Pardubického kraje, a.s., Pardubická nem. (138), Fakultní nemocnice v Motole (130), Fakultní nemocnice Královské Vinohrady (121), Krajská nemocnice Liberec, a.s. (113), Oblastní nemocnice Náchod a.s. (106), Fakultní nemocnice Brno (101), Nemocnice České Budějovice, a.s. (97), Krajská nemocnice T. Bati, a. s. (92), KZ, a.s., Masarykova nem. Ústí n. L., o.z. (86), KKN a.s., Nemocnice Karlovy Vary (85), Všeobecná fakultní nemocnice v Praze (80), Fakultní nemocnice U sv. Anny v Brně (72).
+
+
+Dostupné kapacity dle dispečinku IP:
+
+  *   UPV - volná kapacita (782 lůžek), tj, 34,03 % celku, ECMO - volná kapacita (40 přístrojů), tj, 47,62 % celku.
+  *   JIP lůžka: volná kapacita COVID+ 193 lůžek (+ volná kapacita pro COVID- pacienty 496 lůžek).
+  *   Stand. lůžka s O2: volná kapacita COVID+ 1097 lůžek (+ volná kapacita pro COVID- pacienty 5127 lůžek).
+

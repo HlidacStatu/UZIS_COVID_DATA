@@ -1,0 +1,183 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 7 590 nových případů onemocnění COVID-19. Nárůst hodnot po weekendu byl očekávatelný i s ohledem na to, že narostl velmi podstatně počet testů - opět zpět k běžnému objemu pracovních dnů , tedy cca 50 - 60 000. Přesto jde ho počty záchytů nadále ukazující na zpomalování epidemie, aktuální hodnota reprodukčního čísle je 0,78 (odhad dle EpiEstim).
+
+Srovnání denních nárůstů v jednotlivých regionech shrnuje následující tabulka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Středočeský kraj
+
+1 048
+
+13.8 %
+
+75.7
+
+72.6 / 66.3
+
+Královéhradecký kraj
+
+892
+
+11.8 %
+
+161.7
+
+124.0 / 103.0
+
+Moravskoslezský kraj
+
+730
+
+9.6 %
+
+60.8
+
+83.7 / 85.0
+
+Hlavní město Praha
+
+703
+
+9.3 %
+
+53.1
+
+53.5 / 44.5
+
+Olomoucký kraj
+
+696
+
+9.2 %
+
+110.1
+
+69.4 / 62.4
+
+Jihomoravský kraj
+
+616
+
+8.1 %
+
+51.7
+
+64.3 / 61.5
+
+Liberecký kraj
+
+505
+
+6.7 %
+
+113.8
+
+98.3 / 84.9
+
+Pardubický kraj
+
+460
+
+6.1 %
+
+88.0
+
+86.5 / 75.5
+
+Plzeňský kraj
+
+441
+
+5.8 %
+
+74.8
+
+63.8 / 55.7
+
+Ústecký kraj
+
+420
+
+5.5 %
+
+51.2
+
+55.1 / 50.9
+
+Jihočeský kraj
+
+345
+
+4.5 %
+
+53.6
+
+65.8 / 64.5
+
+Kraj Vysočina
+
+329
+
+4.3 %
+
+64.5
+
+66.2 / 65.5
+
+Zlínský kraj
+
+276
+
+3.6 %
+
+47.4
+
+71.4 / 66.5
+
+Karlovarský kraj
+
+120
+
+1.6 %
+
+40.7
+
+93.8 / 100.2
+
+Neznámo
+
+9
+
+0.1 %
+
+-
+
+-
+
+Nejvyšší denní nárůst zaznamenal Středočeský kraj, naopak relativně nízké hodnoty oproti zátěži předchozích dnů zaznamenaly kraje Jihomoravský  a Moravskoslezský. Opět dlouhodobě rizikové trendy v přepočtu na 100tis. obyvatel vykazuje kraj Královéhradecký.
+
+Ve srovnání okresů vykazují vysoké hodnoty (≥ 140) případů v okresech Praha (702), Olomouc (312), Hradec Králové (289), Trutnov (268), Karviná (208), Liberec (197), Mladá Boleslav (162), Ostrava-město (158), Kladno (154), Přerov (148), Pardubice (147), Náchod (146).
+
+K půlnoci bylo dosud nahlášeno 74 nových úmrtí, z toho 73 jsou hlášena z nemocnic.
+
+Včera bylo nově diagnostikováno 1 335 nových pacientů ve věku 65+ a dále 650 nových pacientů ve věku 75+. Bohužel i tyto počty se po weekendu vrátily k prorůstovým hodnotám a vytvářejí tak základ pro stále zvýšené počty nových příjmů v nemocnicích. Stále vysoký podíl na celkovém počtu diagnostikovaných (dlouhodobě kolísá kolem 20%) nadále ukazuje na riziko šíření nákazy v potenciálně zranitelných skupinách.
+
+Zátěž nemocnic: k půlnoci je nad celou ČR hlášeno + cca 456 nových příjmů do nemocnic, z toho cca 332 u pacientů ve věku 65+ a 231 u pacientů ve věku 75+. počty příjmů se tak opět pohybují kolem 500 a výše - jde o indikátor spíše pomalého budoucího ústupu zátěže v nemocnicích.
+
+Nemocnice hlásí k půlnoci pokles v celkovém počtu hospitalizací oproti situaci v minulém týdnu - celkem 6 666 všech hospitalizovaných pacientů. Tyto hodnoty ale mohou být ještě doplněny - upřesním v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+
+

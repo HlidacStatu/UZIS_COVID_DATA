@@ -1,0 +1,4 @@
+Vážené kolegyně a kolegové, dobrý den – prosím v příloze posílám krátkou souhrnnou prezentaci s daty o očkování, vybrané souhrny aplikovaných dávek, očkování dle prioritních skupin a přehledy očkování kategorie seniorů 80+. Centrální systém jsme již dokončili tak, aby umožňoval sledování místa očkování a trajektorie klienta za očkováním mezi regiony, nebo sub-regiony  – tyto nové datové struktury jsou již promítnuty i do datových sad pro regiony. Tato nová data umožňují kvantifikaci proočkovanosti na populační bázi, což v příloze pilotně dokumentujeme na příkladu regionální proočkovanosti u kategorie věku 80+.
+
+S úctou L. Dušek
+

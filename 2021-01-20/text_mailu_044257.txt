@@ -1,0 +1,25 @@
+Vážené kolegyně a kolegové , dobrý den - posílám prosím denní reporty pro KKOČ. Cílem je po vzájemné dohodě vytvořit denní funkční datový most, který by vás souhrnně informoval o počtech očkovaných osob - vykázaných do centrální databáze ISIN - očkování. Přiložené reporty budou aktualizované na denní bázi. Reporty nenahrazují "logistiku" - tedy rezervace, distribuci dávek apod - vždy půjde o pohled zpět, byť se zpožděním jen několika hodin.
+
+Reporty budeme dále rozvíjet a doplňovat - jak bude narůstat počet očkovaných, tak budou nastupovat i populační ukazatele proočkovanosti, F-up po očkování apod.
+
+Soubor "01" - obshuje velmi agregovaný přehled dodávek pro ČR a dle krajů - vakcína COMIRNATY a MODERNA
+
+  *   přehled je po lahvičkách - u každé vakcíny představují jiný objem dávek
+  *   u COMIRNATy se začínalo očkovat po 5 dávkách, nyní se používá 6 na lahvičku
+  *   zatím je těchto dat málo, dodávka Moderny šla celá do MSK - ale má přijít další dávka a tak budeme soubor doplňovat a rozvíjet
+
+Soubor "02" - obsahuje agregovaná požadovaná data - tedy distribuci dle krajů, dle věkových kategorií s vymezením kategorie 80+ a členění celkové a dle typu vakcíny.
+
+Zde jen prosím ukazuji, co nesou jednotlivé listy exportu:
+
+  *   CELKEM přehled kraje: všechny aplikované dávky dle krajů + unikátní osoby s uzavřeným očkování oběma dávkami
+  *   CELKEM dle věku: všechny aplikované dávky dle věkových tříd, vymezení kategorie 65+, 80+  + unikátní osoby s uzavřeným očkování oběma dávkami
+  *   CELKEM věk a kraje: dávky vakcín celkem - distribuce věky x kraje
+  *   KRAJE dle typu vakcíny: rozlišení typu vakcíny - distribuce dle krajů
+  *   PŘEHLED dle věku a vakcíny: rozlišení typu vakcíny - distribuce dle věkových kategorií
+
+Děkuji velmi za zpětnou vazbu, kterou jsem zatím dostal ze včerejška, všechny náměty jsme snad již stihli zapracovat.
+
+S úctou L. Dušek
+
+

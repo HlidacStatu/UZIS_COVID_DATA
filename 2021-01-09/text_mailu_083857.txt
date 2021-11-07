@@ -1,0 +1,191 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím nový report s aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+V centrální databázi ISIN evidu​jeme za včerejší den 13 029 nových případů s COVID-19. Jde opět o další mírně sníženou hodnotu oproti maximálním záchytům po vánocích -  Nicméně to nijak nemění základní fakt - stále čelíme prorůstové dynamice onemocnění COVID-19 s reprodukcí R > 1. Při extrapolaci mezi týdenními hodnotami vychází hodnota reprodukčního čísla (EpiEstim odhad) na 1,22.
+
+K 8:00 bylo za 8.1. 2020 dohlášeno
+
+  *   37 149 testů PCR
+  *   26 044 testů antigenních
+  *   Antigenní testy odhalily 2273 pozitivních případů (z toho 1112 bez symptomů)
+
+Počty testů byly tedy stále velmi vysoké a intzenzita testování neklesá
+
+Srovnání denních nárůstů v jednotlivých regionech shrnuje následující tabulka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Moravskoslezský kraj
+
+1 785
+
+13,7 %
+
+148,7
+
+152,7 / 149,2
+
+Středočeský kraj
+
+1 565
+
+12,0 %
+
+113,0
+
+117,8 / 107,2
+
+Jihomoravský kraj
+
+1 497
+
+11,5 %
+
+125,6
+
+100,0 / 90,7
+
+Hlavní město Praha
+
+1 240
+
+9,5 %
+
+93,6
+
+98,3 / 85,9
+
+Ústecký kraj
+
+876
+
+6,7 %
+
+106,7
+
+94,6 / 101,6
+
+Královéhradecký kraj
+
+833
+
+6,4 %
+
+151,0
+
+168,9 / 155,8
+
+Jihočeský kraj
+
+816
+
+6,3 %
+
+126,7
+
+97,0 / 103,4
+
+Zlínský kraj
+
+813
+
+6,2 %
+
+139,6
+
+134,9 / 125,7
+
+Kraj Vysočina
+
+797
+
+6,1 %
+
+156,3
+
+118,2 / 124,1
+
+Pardubický kraj
+
+707
+
+5,4 %
+
+135,3
+
+139,3 / 122,0
+
+Liberecký kraj
+
+650
+
+5,0 %
+
+146,5
+
+135,7 / 129,8
+
+Plzeňský kraj
+
+645
+
+5,0 %
+
+109,3
+
+89,4 / 86,3
+
+Karlovarský kraj
+
+412
+
+3,2 %
+
+139,8
+
+99,8 / 106,1
+
+Olomoucký kraj
+
+384
+
+2,9 %
+
+60,8
+
+95,4 / 90,7
+
+Neznámo
+
+9
+
+0,1 %
+
+-
+
+-
+
+Nadále se drží vysoké průměrné hodnoty denní přírůstků (v přepočtu na 100 tis. obyvatel) v krajích MSK a KHK, vyské hoddnoty potom mají všechny demograficky velké kraje.
+
+Ve srovnání okresů pozorujeme vysoký přírůstek (≥ 200) případů v okresech Praha (1241), Ostrava-město (481), Brno-město (393), Karviná (386), Žďár nad Sázavou (330), Opava (325), Trutnov (297), Brno-venkov (290), Pardubice (276), Frýdek-Místek (274), Liberec (263), Zlín (255), Vsetín (255), České Budějovice (240), Hodonín (215) a Nový Jičín (204).
+
+K půlnoci bylo dosud nahlášeno 88 nových úmrtí, z toho 86 z nemocnic.
+
+Včera bylo nově diagnostikováno 2 675 nových pacientů ve věku 65+ a dále 1157 nových pacientů ve věku 75+.
+
+Zátěž nemocnic byla k půlnoci nahlášena v hodnotách, které odpovídají predikcím pro tento týden: celkem bylo zadáno cca + 535 nových příjmů do nemocnic, z toho cca 409 u pacientů ve věku 65+ a 275u pacientů ve věku 75+.
+
+Nemocnice hlásí nárůst počtu případů na celkem 7 249 všech hospitalizovaných pacientů. - upřesním v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+
+

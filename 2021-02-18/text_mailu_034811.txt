@@ -1,0 +1,180 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 10 813 nových případů onemocnění COVID-19. Opět se tak bohužel potvrzuje nárůst rychlosti šíření epidemie. V důsledku toho pozorujme i viditelný nárůst hodnoty reprodukčního čísla na 1,10 - 1,11 (dle odhadu EpiEstim).
+
+Nadále přetrvávají významné rozdíly mezi regiony a je potvrzen velký průměrný denní nárůst u krajů Karlovarského, Královéhradeckého. Nad průměrnou denní hodnotu +100 / 100tis. obyv. se dostaly hodnoty hlášené z krajů Plzeňského, Pardubického a nově i Libereckého. Kontrast mezi západní a východní částí republiky trvá, hodnoty v nejztíženějších regionech jsou až 3x vyšší než v méně zatížených.
+
+Srovnání denních nárůstů v jednotlivých regionech shrnuje následují tabulka
+
+Název kraje
+
+Počet
+
+%
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+/ skupina 65+ na 100 tis. obyv. 65+
+
+Středočeský kraj
+
+1 817
+
+16,8 %
+
+131,2
+
+93,8 / 65,1
+
+Hlavní město Praha
+
+1 314
+
+12,2 %
+
+99,2
+
+77,1 / 56,1
+
+Plzeňský kraj
+
+1 041
+
+9,6 %
+
+176,5
+
+122,5 / 86,1
+
+Ústecký kraj
+
+830
+
+7,7 %
+
+101,1
+
+71,9 / 52,1
+
+Moravskoslezský kraj
+
+823
+
+7,6 %
+
+68,6
+
+48,7 / 38,3
+
+Jihomoravský kraj
+
+781
+
+7,2 %
+
+65,5
+
+54,8 / 41,5
+
+Královéhradecký kraj
+
+773
+
+7,1 %
+
+140,1
+
+138,9 / 98,5
+
+Pardubický kraj
+
+691
+
+6,4 %
+
+132,2
+
+105,6 / 74,5
+
+Karlovarský kraj
+
+638
+
+5,9 %
+
+216,5
+
+154,5 / 140,8
+
+Liberecký kraj
+
+610
+
+5,6 %
+
+137,5
+
+100,8 / 64,2
+
+Jihočeský kraj
+
+536
+
+5,0 %
+
+83,2
+
+64,0 / 50,0
+
+Olomoucký kraj
+
+428
+
+4,0 %
+
+67,7
+
+55,7 / 34,8
+
+Kraj Vysočina
+
+286
+
+2,6 %
+
+56,1
+
+47,9 / 36,8
+
+Zlínský kraj
+
+237
+
+2,2 %
+
+40,7
+
+33,6 / 21,7
+
+Neznámo
+
+8
+
+0,1 %
+
+-
+
+-
+
+Ve srovnání okresů vykazují vysoké hodnoty (≥ 190) případů v okresech: Praha (1314), Plzeň-město (288), Pardubice (271), Liberec (251), Náchod (246), Karlovy Vary (230), Praha-východ (230), Kladno (229), Brno-město (219), Trutnov (214), Cheb (209), Ústí nad Orlicí (200), Sokolov (199), Praha-západ (195), Opava (191).
+
+K půlnoci je evidováno 57 úmrtí, z toho 54 z nemocnic.
+
+Včera bylo nově diagnostikováno 1444 nových pacientů ve věku 65+ (13,4 % celku) a dále 599 nových pacientů ve věku 75+ (5,5 % celku).
+
+Zátěž nemocnic: počet nově přijatých byl k půlnoci nahlášen ve výši 492 nových příjmů (průběžná data, z toho 333 ve věku 65+, 201 ve věku 75+). – celkem registrujeme 6 195 všech hospitalizovaných pacientů s COVID-19. Bude upřesněno v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+
