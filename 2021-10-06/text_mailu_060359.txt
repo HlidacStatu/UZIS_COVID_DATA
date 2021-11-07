@@ -1,0 +1,88 @@
+Vážené kolegyně a kolegové, dobrý den, posílám prosím aktualizovaná hlášení a reporty o zátěži nemocnic.
+
+Aktuálně nemocnice hlásí celkový počet 267 hospitalizací, z toho 63 na JIP a z toho 28x UPV + 2x ECMO.
+Po weekendu došlo k nárůstu počtu příjmů. Trend vývoje se tak vrátil k hodnotám minulého týdne a ukazuje na postupující růst zátěže.
+
+Obložnost lůžek JIP z důvodu COVID-19 je na 1,7% celkové kapacity.
+
+  *   Včera nebylo z nemocnic nahlášeno žádné úmrtí.
+  *   Za včerejšek bylo k ránu dohlášeno celkem 27 nových příjmů;
+  *   těžký stav byl při příjmu nahlášen u 2 nových pacientů
+  *   Průměrný věk nově hospitalizovaných byl 64 let
+
+S úctou L. Dušek
+
+Celkový souhrn situace v ČR
+• Celkem hospitalizovaných bylo včera 267.
+• Hospitalizovaní tvoří 3,1 % z celkem pozitivních.
+• Průměrný věk všech hospitalizovaných činí 64 let.
+• Těžký průběh onemocnění a na JIP je hlášeno u 63 osob, 28x UPV, 2x ECMO.
+• Průměrný věk všech hospitalizovaných na JIP činí 65 let.
+• Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 17,6 %.
+• Potvrzeno 0 úmrtí.
+
+Nově přijatí pacienti
+• Celkem 27 nově přijatých pacientů.
+• Průměrný věk nově přijatých pacientů činí 64 let.
+• Těžký stav je hlášen u 2 z nově přijatých pacientů, stav střední je hlášen 19x.
+• Nejvíce příjmů bylo v následujících krajích: PHA(5), JHC(5), JHM(5).
+
+Nově propuštění pacienti
+• Za 05.10.2021: celkem 17 propuštěných pacientů.
+• Za 04.10.2021: celkem 35 propuštěných pacientů.
+• Za 03.10.2021: celkem 10 propuštěných pacientů.
+
+Počet hospitalizovaných mimo JIP vs. očkování
+• 204 celkem hospitalizovaných mimo JIP
+• 144 (70,6%) neočkovaní
+• 2 (1,0%) po 1. dávce -> z toho 1 (0,5%) déle než 14 dní po 1. dávce
+• 58 (28,4%) po 2. dávce -> z toho 58 (28,4%) déle než 14 dní po 2. dávce
+
+Počet hospitalizovaných na JIP vs. očkování
+• 63 celkem hospitalizovaných na JIP
+• 43 (68,3%) neočkovaní
+• 1 (1,6%) po 1. dávce -> z toho 1 (1,6%) déle než 14 dní po 1. dávce
+• 19 (30,2%) po 2. dávce -> z toho 19 (30,2%) déle než 14 dní po 2. dávce
+
+Počet všech nově hospitalizovaných (za daný den) mimo JIP vs. očkování
+• 20 celkem nově hospitalizovaných mimo JIP
+• 17 (85,0%) neočkovaní
+• 0 (0,0%) po 1. dávce -> z toho 0 (0,0%) déle než 14 dní po 1. dávce
+• 3 (15,0%) po 2. dávce -> z toho 3 (15,0%) déle než 14 dní po 2. dávce
+
+Počet všech nově hospitalizovaných (za daný den) na JIP vs. očkování (nově hospitalizovaní i přesunutí ze standardního oddělení)
+• 10 celkem nově hospitalizovaných na JIP
+• 5 (50,0%) neočkovaní
+• 0 (0,0%) po 1. dávce -> z toho 0 (0,0%) déle než 14 dní po 1. dávce
+• 5 (50,0%) po 2. dávce -> z toho 5 (50,0%) déle než 14 dní po 2. dávce
+
+Zátěž dle krajů a nemocnic
+• Nejvíce pacientů je v následujících krajích (z toho na JIP): HMP 54 (26), MSK 53 (5), JMK 48 (8).
+• UPV potřebuje nejvíce pacientů v HMP 54 (10), STC 20 (4), JMK 48 (3).
+• ZZ s více jak 30 pacienty:
+V žádné nemocnici není více, než 30 pacientů.
+
+Dostupné kapacity dle dispečinku IP
+• UPV - volná kapacita ( 668 lůžek), tj. 31,3 % celku. ECMO - volná kapacita ( 72 přístrojů), tj. 82,8 % celku.
+• JIP lůžka (HFNO+UPV): volná kapacita COVID+ 749 lůžek (+ volná kapacita pro COVID- pacienty 821 lůžek).
+• Stand. lůžka s O2: volná kapacita COVID+ 1 048 lůžek (+ volná kapacita pro COVID- pacienty 4999 lůžek).
+
+Podíl (%) celkové kapacity JIP obsazené pacienty s COVID
+• ČR: 63 pacientů na JIP - 1,7 % celkové kapacity JIP
+• Hlavní město Praha: 26 pacientů na JIP - 3,1 % celkové kapacity JIP
+• Středočeský kraj: 8 pacientů na JIP - 3,1 % celkové kapacity JIP
+• Jihočeský kraj: 5 pacientů na JIP - 3,2 % celkové kapacity JIP
+• Plzeňský kraj: 1 pacientů na JIP - 0,4 % celkové kapacity JIP
+• Karlovarský kraj: 1 pacientů na JIP - 1,2 % celkové kapacity JIP
+• Ústecký kraj: 4 pacientů na JIP - 1,4 % celkové kapacity JIP
+• Liberecký kraj: pacientů na JIP - % celkové kapacity JIP
+• Královéhradecký kraj: 1 pacientů na JIP - 0,4 % celkové kapacity JIP
+• Pardubický kraj: pacientů na JIP - % celkové kapacity JIP
+• Kraj Vysočina: 2 pacientů na JIP - 1,7 % celkové kapacity JIP
+• Jihomoravský kraj: 8 pacientů na JIP - 2,0 % celkové kapacity JIP
+• Olomoucký kraj: 2 pacientů na JIP - 1,1 % celkové kapacity JIP
+• Zlínský kraj: pacientů na JIP - % celkové kapacity JIP
+• Moravskoslezský kraj: 5 pacientů na JIP - 1,0 % celkové kapacity JIP
+
+
+

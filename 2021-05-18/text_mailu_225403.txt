@@ -1,0 +1,20 @@
+Vážené kolegyně a kolegové, dobrý den
+- posílám prosím v příloze ucelenou komplexní prezentaci o průběhu vakcinace (soubor "vakcinace_tydenni_souhrn"), grafy a popisné tabulky vytvořené s důrazem na srovnání krajů. Děkuji moc za zaslané podněty, měly by být všechny zařazeny.
+
+Pokud jde o proočkovanost cílových skupin, tak mi z dat vyplývá několik skutečností, které bych si dovolil velmi stručně shrnout takto:
+
+  *   Vakcinace významně postupuje a má viditelný populační dopad a pokrytí. Populace ve věku 16 má z 35,3% jednu dávku a z 12,5% obě dávky.
+  *   Proočkovanost vyšších seniorních věkových skupin pokročila k hodnotám, které se blíží dosažitelnému maximu, zejména kategorie 80+, kde pokrytí vakcinací společně k prodělanou chorobou přesahuje 90% osob v této skupině (u kategorie 70 - 79 let to je téměř 90%).
+  *   Velice silně narůstá proočkovanost v kategorii 60+, což je jeden z hlavních faktorů, který v současnosti uvolňuje zátěž nemocnic
+
+Dále prosím přikládám soubor dokumentující na příkladech efekt vakcinace a výskyt nákaz po vakcinaci. Soubor "vakcinace_efekt".
+
+  *   Dosud dostupná data ukazují, že vakcinace velmi účinně chrání před následnými nákazami a zejména před těžkým průběhem onemocnění. To platí zejména po aplikaci 2. dávky očkování: u 1 060 056 osob bylo dosud zachyceno 3 461 nákaz, což je pouze 0,33%.
+  *   Nadto velký podíl těchto nákaz byl zjištěn krátce po vakcinaci, kdy očkovaná osoba ještě nemohla být chráněna a expozice viru proběhla zřejmě před nebo velmi krátce po očkování.
+  *   V odstupu 14 dní po aplikaci druhé dávky byla nákaza prokázána pouze u 0,17% očkovaných oběma dávkami. Těžký průběh onemocnění byl 14 dní po 2. dávce vakcín zachycen pouze u cca 0,02% očkovaných.
+
+Pokud byste chtěli k těmto přehledům cokoli doplnit, nebo udělat jinak, napište prosím.
+
+S úctou L. Dušek
+
+

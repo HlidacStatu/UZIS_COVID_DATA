@@ -1,0 +1,19 @@
+Vážené kolegyně a kolegové, dobrý den – dovoluji si prosím poslat v příloze
+a) ucelenou prezentaci popisující a shrnující stav epidemie k datu 12.4. - 13.4.
+b) souhrnnou podrobnou prezentaci k vakcinaci + její dvě malé přílohy
+
+K souhrnné epidemiologické prezentaci
+
+  *   Je nepochybné, že epidemie velmi významně zpomaluje a populační zátěž klesá ve všech krajích, včetně těch, které byly zasaženy jako poslední při šíření ze západu na východ. Nyní se již tento gradient snižuje a rozdíly mezi regiony se smazávají. I přesto je ale stav velmi křehký, stále je v populaci velký podíl o sob sensitivních k infekci, a tedy je zde potenciál k opětovnému růstu rizika při neopatrném postupu. Dalším argumentem pro velkou opatrnost jistě je i obsazenost kapacit nemocnic a zejména kapacit JIP. I přes velmi významný pokles stále registrujeme vysoké počty pacientů v nemocnicích (na JIP > 1 150) a tyto počty odpovídají maximálním hodnotám z podzimu 2020.
+
+  *   Ještě bych chtěl krátce komentovat jednu anomálii, artefakt, který souvisí se současnými hodnotami reprodukčního čísla. Toto se standardně počítá z časového okna 7 dní zpětně (je nutné mít zpětné referenční období) pro relativní srovnání trendů a změn ve vývoji. Toto okno nyní zahrnuje Velikonoce, kdy došlo k velkému poklesu počtu testů a záchyty nemoci nebyly reprezentativní. Proto nyní tento standardní výpočet R vede k nárůstu a v pondělí R dokonce vyskočilo mírně nad 1, protože záchyty z počátku tohoto týdne jsou vztahovány k velmi nízkým velikonočním číslům. Pokud vezmeme pro kalkulaci R 14denní časové okno (více robustní, agregovaný výpočet), hodnota je nyní rovna 0,85. V následujících dnech se tento artefakt vyhladí a efekt Velikonoc zmizí.
+
+K souhrnné prezentaci o vakcinacích
+
+  *   Prezentace je podrobná, obsahuje detailní sledování a rozbor prioritních skupin, srovnání krajů a vývoj populační proočkovanosti celkem a v regionech.
+  *   Prezentaci jsme doplnili přílohou – jednak dělení na pedagogy a ne-pedagogy a dále detailnější profil proočkovanosti po věkových pětiletých kategoriích. Tato příloha "Priloha - vakcinace - veky" ukazuje, že populační proočkovanost roste s věkem směrem ke kategorii 80+, ale od hranice věku 90+ zase naopak klesá.
+
+Děkuji velmi za všechny podněty, které jsem dostal, měly by být všechny v prezentacích zabudovány. Rovněž budu rád za další komentáře, nebo připomínky, pokud by byly v datech nějaké nesrovnalostí.
+
+S úctou L. Dušek
+

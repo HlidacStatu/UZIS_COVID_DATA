@@ -1,0 +1,48 @@
+Vážené kolegyně a kolegové, dobrý den,
+posílám prosím aktualizované reporty shrnující vývoj zátěže nemocnic a aktualizující reálný průběh do dříve připravených prediktivních modelů z poloviny srpna 2021. Vzhledem k situaci a vývoji epidemie jde bohužel o modely rizikové - v dalších týdnech lze očekávat nárůst počtu pacientů v nemocnicích celkem a také rostoucí zátěž JIP.
+
+Jde zejména o soubor 00_variantní predikce_update, který v úvodní části stručně shrnuje stávající stav, hlavní stále platné rizikové faktory (nízká proočkovanost populace, nedoočkované seniorní populační ročníky, projevující se částečné vyprchání ochrany vakcíny proti nákaze – ale nikoli proti těžkému průběhu nemoci a další.
+
+  *   V souboru jsou dále shrnuty všechny hlavní typy modelů, od dlouhodobých populačních až po nedůležitější pravděpodobnostní predikce zátěže nemocnic
+  *   Aktualizace ve všech modelech jednoznačně ukazuje, že epidemie silně zrychlila a naplňuje předpoklady modelů, které jsme v srpnu nazvali jako "rizikové", zde scénář III -> v dalším období dojde k navyšování počtu nových případů nákaz (při udržení objemu testů) a epidemie se bude dále šířit dominantně v neočkované části populace (> 75%) -> návazně na rostoucí prevalenci aktivních nákaz poroste pravděpodobnost zásahu  zranitelných skupin a těžké průběhy nemoci narostou až k více než 200 - 250 hospitalizacím na JIP (opět převážně u neočkovaných pacientů, ochranný efekt vakcín proti těžkému průběhu nemoci je stále > 85%)
+  *   Krátkodobé projekce (vycházející z různých modelací) prováděné dle krátkodobě předpokládané hodnoty R dokládají, že vývoj nyní opravdu odpovídá dynamice při R = 1,3 - 1,4 a vyšší (slide 34 - 35)
+  *   Nárůsty počtu hospitalizovaných odpovídají také rizikovým předpokladům (které mimo jiné pracují i se stále velkou kohortou neočkovaných seniorů 60+) - slidy 39 a 40
+
+Posílám dále pravidelně aktualizovaný soubor "KKIP01 - Risk mapping týdenní", který shrnuje rizikovou analýzu aktuálního prevalenčního poolu a odvozuje z toho krátkodobou pravděpodobnostní predikci počtu nových hospitalizací s COVID-19 v následujících 10 - 14 dnech (provedeno pro kraje, i pro jednotlivé okresy).
+
+  *   Aktualizace je provedena k dnešku - tedy již po včerejším nárůstu hodnot
+
+  *   za posledních cca 14 dní evidujeme v prevalenci cca 1 716 nově nakažených osob ve věkové třídě 65+ (je patrný silný mezitýdenní nárůst, v minulém hlášení bylo ve 14denní prevalenci 709 pozitivních 65+) a cca 815 osob ve věku 75+ (v minulém hlášení bylo ve 14denní prevalenci 229 pozitivních 75+) -> tyto počty významně rostou
+  *   predikce ze stavového modelu: v dalších 10–14 dnech očekáváme minimálně cca 773 nových hospitalizací (horní hranice rizikového odhadu až 1000), což znamená, že průměrné denní příjmy nad celou ČR se mohou pohybovat kolem hodnoty 80 - 100 a vyšší.
+  *   jde o potenciální nárůst zátěže, který je dvojnásobný proti předchozím cca 10 dnům
+
+Nově jsou doplněny přiložené grafické reporty KKIP02 a 03 (celá ČR i jednotlivé regiony)-> jsou v nich tabulky, kde naleznete vývoj počtu hospitalizací vs. očkování, tedy kolik % z nově hospitalizovaných je neočkovaných, kolik má očkování dokončené, kolik z nich je 65+ apod.
+
+  *   Počty pacientů na JIP (soubor KKIP02) významně rostou a bohužel potvrzují výše uvedené predikce - nejvyšší nárůsty jsou evidovány v nejvíce zatížených krajích, aktuálně JMK, MSK, JHK ... obecně Praha, ve které ale zátěž nyní mírně klesá a situace se zklidňuje; Praha není ani mezi regiony / okresy s nejrizikovější dynamikou růstu (viz výše kopírovaná tabulka)
+  *   I data za říjen zatím potvrzují vysoký ochranný efekt vakcinace, mezi nově přijatými na JIP převažují neočkovaní (70 - 75%)
+  *   Nárůsty celkového počtu hospitalizací jsou významné (soubor KKIP03), opět zejména v nejvíce zatížených krajích
+
+Soubor nemocnice-zatez-kraje shrnuje vývoj obložnosti různých typů lůžek a celkovou zátěž nemocnic v ČR a v jednotlivých krajích.
+
+
+Tyto výstupy doplňuje grafická příloha 01 - srovnání trendů v roce 2020 a 2021
+
+  *   nadále platí, že situace je v roce 2021 významně příznivější, zejména v nižší zátěži nemocnic
+  *   ALE dynamika vývoje populační zátěže narůstá a velmi se podobá roku 2020, jen s cca 30denním zpožděním, posunem v čase
+
+Příloha 02 Lokalizuje krátkodobé projekce možného vývoje populační zátěže pro jednotlivé kraje
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Po dohodě s krajskými koordinátory intenzivní péče přechází celý systém Národního dispečinku IP do ostrého režimu denních hlášení FUNKČNÍCH, tedy v danou chvíli plně dostupných kapacit.
+
+  *   s velkým poděkováním kolegům z armády, kteří nyní nemocnice obtelefonovávají, ověřují celkové dostupné kapacity
+  *   jak bude hlášení v reálném čase nabíhat, tak ke konci týdne zprovozním hlášení obsazenosti funkčních kapacit -> nyní reportuji obsazenost JIP COVIDem vs. celkové kapacity (jsme cca na 4% celku), ale to nevypovídá o skutečných kapacitách v daném místě a čase
+  *   v souboru "DIP-metodicky-manual" jsme připravili revizi postupů a několika nových změn v hlášení, jak bylo schváleno vedením KKIP -6> prosím projděte to a pokud do oblasti Vaší působnosti patří chod nemocnic, předejte dále s tím, že se vracíme do režimu denních reportů, resp. reportů v reálném čase
+  *   DIP je nadále vyveden na dashboardy ZZS, jsou zachovány všechny přístupy ... tedy měli bychom rychle obnovit plně funkční systém monitorace -> je to zejména významné pro kraje JHK, MSK, JMK, OLK a Prahu
+
+S úctou
+
+L. Dušek
+
+

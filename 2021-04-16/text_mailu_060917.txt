@@ -1,0 +1,197 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Za včerejší den evidujeme v systému celkem 3 238 nových případů onemocnění COVID-19. Počet potvrzených diagnóz odpovídá průměru tohoto týdne a postupně od úterý klesá. Celkově se denní průměr dostává pod hodnotu 4000 záchytů nemoci denně a stále v mezi-týdenním srovnání významně klesá až o 2000 případů. Pro srovnání: počty záchytů na konci minulého pracovního týdne se pohybovaly mezi 4 800 - 5 200.
+
+Časový posun postupně vyřazuje zkreslující vliv Velikonoc ve výpočtech, které vyžadují zpětné referenční časové okno. Hodnota R počítaná ze 7denního časového okna je 0,84. Pokud vezmeme okno 14denní, je odhad 0,79. Je evidentní, že epidemie dále zpomaluje.
+
+Včera bylo nově diagnostikováno 466 nových pacientů ve věku 65+ (14,4 % celku) a dále 195 nových pacientů ve věku 75+ (6,0 % celku). I tyto sledované kohorty pacientů ukazují sestupný trend, v korelaci s celkovými počty. Pokles je patrný ve všech regionech.
+
+Srovnání krajů dokumentuje následující tabulka
+
+
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+
+
+Název kraje
+
+Počet (%)
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+
+Moravskoslezský kraj
+
+408 (12.6 %)
+
+34.0
+
+37.1
+
+31.6
+
+Jihomoravský kraj
+
+367 (11.3 %)
+
+30.8
+
+29.5
+
+21.2
+
+Středočeský kraj
+
+354 (10.9 %)
+
+25.6
+
+28.0
+
+20.0
+
+Ústecký kraj
+
+330 (10.2 %)
+
+40.2
+
+41.7
+
+32.8
+
+Jihočeský kraj
+
+329 (10.2 %)
+
+51.1
+
+41.3
+
+27.5
+
+Hlavní město Praha
+
+265 (8.2 %)
+
+20.0
+
+24.5
+
+18.2
+
+Zlínský kraj
+
+263 (8.1 %)
+
+45.1
+
+42.7
+
+33.0
+
+Kraj Vysočina
+
+237 (7.3 %)
+
+46.5
+
+47.4
+
+34.2
+
+Olomoucký kraj
+
+188 (5.8 %)
+
+29.7
+
+39.1
+
+28.8
+
+Pardubický kraj
+
+162 (5.0 %)
+
+31.0
+
+36.9
+
+28.8
+
+Liberecký kraj
+
+141 (4.4 %)
+
+31.8
+
+29.9
+
+24.0
+
+Plzeňský kraj
+
+101 (3.1 %)
+
+17.1
+
+19.9
+
+15.8
+
+Královéhradecký kraj
+
+59 (1.8 %)
+
+10.7
+
+13.0
+
+9.9
+
+Karlovarský kraj
+
+27 (0.8 %)
+
+9.2
+
+11.5
+
+9.3
+
+Neznámo
+
+7 (0.2 %)
+
+
+
+
+
+
+
+
+
+Rozdíly mezi kraji se v čase postupně snižují, průměrné denní přírůstky kalkulované týdně a přepočítané na 100 tis obyvatel klesají dlouhodobě v celé ČR.
+
+  *   zásadním způsobem poklesl počet záchytů v krajích, které byly na počátku roku nejvíce zatížené - kraj Karlovarský, Královéhradecký: zde se již týdenní kumulativní incidence dostala pod 100/100 tis. obyvatel. Podobný vývoj registrujeme v kraji Plzeňském, který se této hranici týdenní incidence blíží.
+  *   týdenní kumulativní incidence rovnou 120 / 100 tis. obyv. nebo mírně vyšší hlásí Hlavní město Praha a Středočeský kraj
+  *   nejvíce zatíženými regiony jsou kraje Jihočeský, Vysočina, kraj Zlínský a Ústecký – zde stále denní přírůstky překračují 40/100tis. obyv.
+  *   klesající trend v počtu nákaz je patrný také pro potenciálně zranitelné skupiny obyvatel, v tabulce výše je to dokumentováno na seniorech ve věkové třídě 65+
+
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (265), Brno-město (104), Ostrava-město (94), České Budějovice (94), Frýdek-Místek (91), Zlín (86), Karviná (80), Olomouc (76), Děčín (75), Vsetín (73), Hodonín (67), Ústí nad Labem (67), Uherské Hradiště (61), Jihlava (61), Opava (59).
+
+K půlnoci je evidováno 38 úmrtí, 37 je hlášeno z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 235 pacientů (průběžná data: z toho 123 ve věku 65+ a 62 ve věku 75+). Počet nově přijímaných pacientů tento týden v průměru klesnul pod 300 a dále se snižuje. Pokles příjmů do nemocnic v běžných pracovních dnech je významným indikátorem pokračujícího zpomalování epidemie.
+
+Celkem nyní registrujeme 4 651 všech hospitalizovaných pacientů, opět hodnota ukazující na mírný pokles zátěže v průběhu týdne. Další pokles evidujeme i z jednotek intenzivní péče – zde aktuálně registrujeme cca 1 077 pacientů na JIP.
+
+Data o hospitalizacích budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

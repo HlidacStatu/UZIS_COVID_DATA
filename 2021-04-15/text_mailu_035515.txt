@@ -1,0 +1,191 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Za včerejší den evidujeme v systému celkem 3 697 nových případů onemocnění COVID-19. Počet záchytů opět klesá, mírně pod úroveň pondělí tohoto týdne a potvrzuje tak fakt, že úterní hodnoty jsou vždy v týdnu nejvyšší. Odpovídající hodnota z minulého týdne byla 5 274.
+
+Časový posun postupně vyřazuje zkreslující vliv Velikonoc ve výpočtech, které vyžadují zpětné referenční časové okno. Hodnota R počítaná ze 7denního časového okna je 0,92. Pokud vezmeme okno 14denní, je odhad 0,81. Je evidentní, že epidemie dále zpomaluje.
+
+Včera bylo nově diagnostikováno 581 nových pacientů ve věku 65+ (15,7 % celku) a dále 233 nových pacientů ve věku 75+ (6,3 % celku). I tyto sledované kohorty pacientů ukazují sestupný trend, v korelaci s celkovými počty.
+
+Srovnání krajů dokumentuje následující tabulka
+
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+
+
+Název kraje
+
+Počet (%)
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+
+Moravskoslezský kraj
+
+562 (15.2 %)
+
+46.8
+
+40.3
+
+33.3
+
+Středočeský kraj
+
+438 (11.8 %)
+
+31.6
+
+29.8
+
+21.8
+
+Ústecký kraj
+
+354 (9.6 %)
+
+43.1
+
+44.9
+
+37.4
+
+Hlavní město Praha
+
+351 (9.5 %)
+
+26.5
+
+26.2
+
+20.3
+
+Jihomoravský kraj
+
+347 (9.4 %)
+
+29.1
+
+31.3
+
+23.5
+
+Olomoucký kraj
+
+325 (8.8 %)
+
+51.4
+
+45.7
+
+31.6
+
+Jihočeský kraj
+
+283 (7.7 %)
+
+43.9
+
+44.5
+
+31.0
+
+Kraj Vysočina
+
+277 (7.5 %)
+
+54.3
+
+49.4
+
+34.9
+
+Zlínský kraj
+
+271 (7.3 %)
+
+46.5
+
+46.1
+
+35.6
+
+Pardubický kraj
+
+180 (4.9 %)
+
+34.4
+
+39.6
+
+29.9
+
+Liberecký kraj
+
+110 (3.0 %)
+
+24.8
+
+34.4
+
+26.5
+
+Plzeňský kraj
+
+90 (2.4 %)
+
+15.3
+
+22.4
+
+16.6
+
+Královéhradecký kraj
+
+87 (2.4 %)
+
+15.8
+
+14.8
+
+10.8
+
+Neznámo
+
+13 (0.4 %)
+
+
+
+
+
+
+
+Karlovarský kraj
+
+9 (0.2 %)
+
+3.1
+
+12.9
+
+10.7
+
+
+
+Rozdíly mezi kraji se v čase postupně snižují, průměrné denní přírůstky kalkulované týdně a přepočítané na 100 tis obyvatel  klesají dlouhodobě v celé ČR. V tomto parametru již žádný z regionů nepřekračuje hodnotu 50/100 tis,. obyv. , některé regiony se již dostávají pod kumulativní hranici 100/100 tis. za 7 dní  - KVK, HKK.
+
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (351), Olomouc (158), Ostrava-město (145), Zlín (109), Karviná (107), Vsetín (104), Frýdek-Místek (96), České Budějovice (84), Žďár nad Sázavou (82), Opava (81), Děčín (79), Brno-město (75), Přerov (75), Nový Jičín (71), Jihlava (70).
+
+K půlnoci je evidováno 45 úmrtí, 43 je hlášeno z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 265 pacientů (průběžná data: z toho 163 ve věku 65+ a 86 ve věku 75+). Počet nově přijímaných pacientů tento týden průměrně kolem hodnoty 300 denně a nadále postupně klesá.
+
+Celkem nyní registrujeme 4 888 všech hospitalizovaných pacientů, opět hodnota ukazující na mírný pokles zátěže v průběhu týdne. Další mírný pokles evidujeme i z jednotek intenzivní péče – zde aktuálně registrujeme cca 1 131 pacientů na JIP.
+
+Data o hospitalizacích budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

@@ -1,0 +1,14 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím aktualizované krátkodobé predikce a přehled dat o zátěži nemocnic. Jde o standardní reporty, které jsme dříve dělali denně, nyní to již nemá smysl – zátěž nemocnic je stále velmi nízká a postupně klesá. Celý systém ale udržujeme v chodu a pohotovosti, denně se data sbírají a hodnotí. Tyto aktualizace budu v létě posílat cca 2x měsíčně, pokud se tedy situace (doufejme) udrží a počty nezačnou narůstat.
+
+Soubor "Risk_mapping_týdenní" shrnuje strukturu prevalenčního poolu z hlediska počtu nově nakažených a potenciálně zranitelných pacientů - této struktury potom pravděpodobnostní stavové modely odvozují predikci počtu nových hospitalizací v následujících 10 - 14 dnech.
+
+  *   Celkově je situace v nemocnicích velmi stabilní, denně je nově přijímáno průměrně 4 - 7 nových pacientů a zátěž postupně klesá
+  *   Nově nakaženo je v uplynulých 1 - 14 dnech méně než 150 pacientů ve věku 65+ a ochrana potenciálně zranitelných skupin (včetně chronicky nemocných) narůstá vlivem postupující vakcinace
+  *   Predikce na dalších 10 - 14 dnů tedy ukazuje cca 60 nových hospitalizací, z toho cca 15 - 20% těžkých - stávající nízké počty nově přijímaných k hospitalizaci by se tak měly udržet
+
+Tento vývoj potvrzují i soubory KKIP01 - KKIP03, vyvinuté pro krajské koordinátory - zde je z grafických zobrazení patrné, že aktuální počty hospitalizovaných jsou vyrovnané mezi regiony, žádný kraj nevybočuje a zátěž nemocnic klesá plošně. Mnoho regionů reportuje 0 pacientů s COVID-19 na JIP.
+
+Soubor "nemocnice_zatez_souhrn_kraje" shrnuje zátěž lůžkového fondu jednotlivých regionů, - obsazenost kapacit v důsledku COVID-19 je velmi nízká, u lůžek v kyslíkem tvoří 0,1% celkové kapacity, u lůžek JIP 0,4% celkové kapacity.
+
+S úctou L. Dušek
+

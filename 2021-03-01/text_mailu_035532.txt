@@ -1,0 +1,117 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů.
+
+Za včerejší den evidujeme v systému celkem 4 557 nových případů onemocnění COVID-19.  Výše záchytu COVID-19 odpovídá předpokládaným hodnotám tohoto týdne. Reprodukční číslo je rovno 1,15 (95 % interval spolehlivosti 1,14 - 1,16).  Epidemie zůstává ve fázi růstu, ačkoli nedělní hodnoty nejsou příliš reprezentativní pro posuzování celkového trendu (počty pozitivních případů minulou neděli: 4 061; týden předtím 2 880).
+
+Srovnání krajů na nedělních hodnotách potvrzuje trendy minulého týdne a potvrzuje také nejvíce zatížené lokality Čech v kontrastu s regiony Moravy a Slezska. Velmi vysoké denní přírůstky v přepočtu na 100 tis. obyvatel si stále drží KVK a KHK - u obou regionů nad 155/100 tis., přičemž velmi rizikový růstový trend je zde registrován i u seniorní populace 65+.
+
+Srovnání krajů dokumentuje následující tabulka
+Název kraje
+Počet (%)
+Počet na 100 tis. obyv.
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+Hlavní město Praha
+945 (20.7 %)
+71.4
+112.4
+75.7
+Středočeský kraj
+789 (17.3 %)
+57.0
+141.4
+86.2
+Královéhradecký kraj
+645 (14.2 %)
+116.9
+158.3
+112.8
+Ústecký kraj
+466 (10.2 %)
+56.8
+114.6
+87.2
+Jihomoravský kraj
+308 (6.8 %)
+25.8
+79.8
+53.8
+Pardubický kraj
+304 (6.7 %)
+58.2
+143.3
+106.8
+Moravskoslezský kraj
+290 (6.4 %)
+24.2
+68.8
+49.9
+Liberecký kraj
+246 (5.4 %)
+55.4
+149.7
+101.7
+Plzeňský kraj
+204 (4.5 %)
+34.6
+180.6
+125.0
+Zlínský kraj
+108 (2.4 %)
+18.5
+55.4
+37.8
+Jihočeský kraj
+74 (1.6 %)
+11.5
+92.5
+67.2
+Kraj Vysočina
+61 (1.3 %)
+12.0
+77.3
+55.2
+Karlovarský kraj
+59 (1.3 %)
+20.0
+165.0
+150.3
+Olomoucký kraj
+54 (1.2 %)
+8.5
+77.1
+53.0
+Neznámo
+4 (0.1 %)
+
+
+
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (945), Hradec Králové (256), Pardubice (196), Náchod (156), Praha-východ (154), Praha-západ (128), Děčín (117), Rychnov nad Kněžnou (111), Kladno (110), Brno-město (110), Most (102), Liberec (91), Kolín (89), Brno-venkov (83), Nymburk (81).
+
+K půlnoci je evidováno 73 úmrtí, všechna jsou hlášena z nemocnic.
+
+Včera bylo nově diagnostikováno 657 nových pacientů ve věku 65+ (14,4 % celku) a dále 287 nových pacientů ve věku 75+ (6,3 % celku).
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 390 (průběžná data: z toho 245 ve věku 65+ a 130 ve věku 75+) - registrujeme celkem 7 048 všech hospitalizovaných pacientů. Celkový počet pacientů fluktuuje kolem hranice 7 000 hospitalizací, avšak vykazuje tendenci k růstu, v žádném regionu nejsou patrné konzistentní a významné poklesy. Vzhledem k počtu nově diagnostikovaných potenciálně zranitelných kategorií pacientů lze v dalším období očekávat vysoké denní příjmy do nemocnic.
+
+Nemocniční data budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+
+
+________________________________
+Od: Dušek Ladislav prof. RNDr. Ph.D. <Ladislav.Dusek@uzis.cz>
+Odesláno: neděle 28. února 2021 7:38
+Komu: vz@psp.cz <vz@psp.cz>; Adámková Věra <AdamkovaV@psp.cz>; schiestlc@psp.cz <schiestlc@psp.cz>; aulickah@psp.cz <aulickah@psp.cz>; behounekj@psp.cz <behounekj@psp.cz>; Behounek Jiri <behounek.j@kr-vysocina.cz>; krupickova.r@kr-vysocina.cz <krupickova.r@kr-vysocina.cz>; brazdilm@psp.cz <brazdilm@psp.cz>; milan.brazdil@seznam.cz <milan.brazdil@seznam.cz>; brzobohataa@psp.cz <brzobohataa@psp.cz>; dvorakj@psp.cz <dvorakj@psp.cz>; neurologdvorak@seznam.cz <neurologdvorak@seznam.cz>; zumroval@psp.cz <zumroval@psp.cz>; gajduskovaa@psp.cz <gajduskovaa@psp.cz>; ota2@seznam.cz <ota2@seznam.cz>; farhank@psp.cz <farhank@psp.cz>; junior.junior@seznam.cz <junior.junior@seznam.cz>; slavikovak@psp.cz <slavikovak@psp.cz>; janulikm@psp.cz <janulikm@psp.cz>; janulmil@nembv.cz <janulmil@nembv.cz>; kankovskyv@psp.cz <kankovskyv@psp.cz>; vit.kankovsky@seznam.cz <vit.kankovsky@seznam.cz>; vit.kankovsky@onhb.cz <vit.kankovsky@onhb.cz>; Kasal D <KasalD@psp.cz>; david.kasal@nempk.cz <david.kasal@nempk.cz>; marikovak@psp.cz <marikovak@psp.cz>; masekj@psp.cz <masekj@psp.cz>; jiri@cadillac.cz <jiri@cadillac.cz>; mauritzovai@psp.cz <mauritzovai@psp.cz>; pokornak@psp.cz <pokornak@psp.cz>; fiserovai@psp.cz <fiserovai@psp.cz>; pastuchovaj@psp.cz <pastuchovaj@psp.cz>; rihovaa@psp.cz <rihovaa@psp.cz>; pavekp@psp.cz <pavekp@psp.cz>; tumal@psp.cz <tumal@psp.cz>; pawlasd@psp.cz <pawlasd@psp.cz>; richterovao@psp.cz <richterovao@psp.cz>; svobodab@psp.cz <svobodab@psp.cz>; bohuslav.svoboda@uvn.cz <bohuslav.svoboda@uvn.cz>; spicakj@psp.cz <spicakj@psp.cz>; Jitka Chalánková <jitka.chalankova@gmail.com>; prof. Julius Špičák <jusp@ikem.cz>; jusp@medicon.cz <jusp@medicon.cz>; aneta.bernardova@gmail.com <aneta.bernardova@gmail.com>; tresnakp@psp.cz <tresnakp@psp.cz>; pavlovicj@psp.cz <pavlovicj@psp.cz>; valekv@psp.cz <valekv@psp.cz>; vlastimil.valek@top09.cz <vlastimil.valek@top09.cz>; andrea.lukacova@top09.cz <andrea.lukacova@top09.cz>; ambra.pharm@seznam.cz <ambra.pharm@seznam.cz>; Miroslava.Hradilova@top09.cz <Miroslava.Hradilova@top09.cz>; jana.pleyerova@top09.cz <jana.pleyerova@top09.cz>; ventrubaj@psp.cz <ventrubaj@psp.cz>; jiriventruba@seznam.cz <jiriventruba@seznam.cz>; jagrovab@psp.cz <jagrovab@psp.cz>; vyzular@psp.cz <vyzular@psp.cz>; vyzula@mou.cz <vyzula@mou.cz>; mrkvicovaa@psp.cz <mrkvicovaa@psp.cz>; hilserm@senat.cz <hilserm@senat.cz>; krausr@senat.cz <krausr@senat.cz>; kraus2020@seznam.cz <kraus2020@seznam.cz>; dernerovaa@senat.cz <dernerovaa@senat.cz>; aliderner@seznam.cz <aliderner@seznam.cz>; fialat@senat.cz <fialat@senat.cz>; fiala@nemst.cz <fiala@nemst.cz>; kantorl@senat.cz <kantorl@senat.cz>; lumir.kantor@fnol.cz <lumir.kantor@fnol.cz>; zaloudikj@senat.cz <zaloudikj@senat.cz>; prof. MUDr. Jan Žaloudík,CSc. <jan.zaloudik@gmail.com>; simetkao@senat.cz <simetkao@senat.cz>; senat@ondrejsimetka.cz <senat@ondrejsimetka.cz>; tresli@senat.cz <tresli@senat.cz>; ivotresl@seznam.cz <ivotresl@seznam.cz>; zitterbartk@senat.cz <zitterbartk@senat.cz>; karel.zitterbart@gmail.com <karel.zitterbart@gmail.com>; Mejdrechová Silvie <mejdrechovas@senat.cz>; Jitka Chalánková <jitka.chalankova@gmail.com>; Vystrčil Miloš <vystrcilm@senat.cz>; Nguyen Sue <NguyenS@senat.cz>
+Předmět: Souhrnné reporty - vakcinace
+
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách souhrnné reporty s daty o vakcinaci. Reporty 01 A a 01 B jsou doplněny dle podkladů MZ ČR.
+
+Celkem bylo ke dni 27. 2. 2021 (20:00) vykázáno 649 868 provedených očkování. U 239 094 osob bylo očkování ukončeno aplikací druhé dávky. Denní přehled vykázaných počtů očkování s rozlišením jednotlivých krajů, přehled dle prioritních skupin a dle věkových kategorií očkovaných shrnují datové přílohy 2–3.
+
+Očkování sleduje stanovené prioritní skupiny. Jsou očkování zdravotničtí pracovníci (39,7 % celku), klienti a pracovníci sociálních služeb (17,5 %, bez zdravotníků v sociálních službách), pracovníci kritické infrastruktury (integrovaných záchranný systém, pracovníci energetiky, krizové štáby apod., bez zdravotnických pracovníků pracujících v této oblasti) 2,0 %, senioři 80+ (33,6 %).
+
+K 27. 2. 2021 bylo vykázáno očkování u 181 863 osob ve věku 80+, což představuje cca 41,2 % všech osob této prioritní kategorie. Celkem provedlo registraci 227 611 seniorů 80+, což je cca 51,6 %. Dalších 28 515 registrací představují pracovníci ve zdravotnictví a 100 364 pracovníci ve školství, k očkování je rezervováno celkem 190 046 osob.
+
+S úctou L. Dušek
+

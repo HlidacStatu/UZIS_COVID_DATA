@@ -1,0 +1,12 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím souhrnnou prezentaci s daty uplynulého týdne a s aktualizovanými predikcemi do dalších dnů. Prezentace je vytvořena k pátku končícího týdne, tedy neobsahuje ještě weekendová data - to by nemělo vadit, žádný ze závěrů nebo výstupů modelových predikcí by weekendová data nezměnila. Na konci nadcházejícího pracovního týdne pošleme opět aktualizaci celého souhrnu.
+
+Dále přikládám aktualizovaný  soubor "risk-mapping-týdenní", ve kterém naleznete po krajích a v dalším listu po okresech, počtu nově nakažených potenciálně zranitelných pacientů a stavovými modely odhadnutý (predikovaný) počet očekávatelných počtů nových hospitalizací, nových příjmů do nemocnic. Tyto stavové modely odvozené od struktury prevalence a od rizikových faktorů již nakažených osob poměrně dobře fungují a odvozujeme od nich predikce očekávatelného počtu pacientů na lůžku za určitou dobu.
+
+  *   bohužel je patrné, že zátěž nemocnic bude i v dalším období minimálně cca 7 dnů vysoká a bude s vysokou pravděpodobností stagnovat na vysokých číslech
+  *   s vysokou pravděpodobností ale zátěž dále neporoste (nad celou ČR), v některých regionech bude již klesat, avšak v jiných se ještě může zvyšovat
+  *   v prevalenci je nově nakažených (v uplynulých 10 - 14 dnech) téměř 23 500 potenciálně zranitelných pacientů, a z nich je odvozena predikce cca 8 400 nových hospitalizací v následujících 10 - 14 dnech
+  *   denně tedy očekáváme de novo příjmy do nemocnic stále ve výši 600 až > 700 pro pracovní dny, což se bohužel dle předchozí predikce zcela naplnilo minulý týden
+  *   bude-li epidemie na populační úrovni brzdit, přejde zátěž nemocnic z predikované stagnace do mírného poklesu - to ukáže vývoj v pracovních dnech nadcházejícího týdne
+
+S úctou L. Dušek
+

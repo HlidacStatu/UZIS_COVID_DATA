@@ -1,0 +1,27 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách souhrnné reporty s daty o vakcinaci. Reporty 01 A + 01 B jsou doplněny dle podkladů MZ ČR. Soubor "00_souhrn_registrace_rezervace_210413_nove" je v nové verzi, která obsahuje nové přehledy osob podle logického stavu registrace a vakcinace (registrace –> rezervace –> očkování).
+
+
+Celkem bylo ke dni 13. 4. 2021 (20:00) vykázáno 2 209 859 aplikovaných dávek očkování, a to u 1 441 609 unikátních osob, které dostaly minimálně jednu dávku očkování. U 768 250 osob bylo očkování ukončeno aplikací druhé dávky. Denní přehled vykázaných počtů očkování s rozlišením jednotlivých krajů, přehled dle prioritních skupin a dle věkových kategorií očkovaných shrnují datové přílohy 2 - 4.
+
+Očkování sleduje stanovené prioritní skupiny. Jsou očkováni zdravotničtí pracovníci (18,0 % celku), klienti a pracovníci sociálních služeb (8,4 %, bez zdravotníků v sociálních službách), pracovníci kritické infrastruktury (2,3 % integrovaný záchranný systém, pracovníci energetiky, krizové štáby apod., bez zdravotnických pracovníků pracujících v této oblasti), pracovníci ve školství (8,8 %), dále senioři 70-79 let (31,9 %), senioři 80+ (21,0 %) a chronicky nemocné osoby (3,1 % novotvary, nemoci srdce a plic, diabetes, obezita a jiné).  Zbývajících cca 6,5 % osob středního až velmi mladého věku (49 936 osob / 82 118 vakcinací u mladších 29 let) jsou většinou medici, studenti či dobrovolníci pracující na odběrných místech a jinde ve zdravotnictví při péči o COVID+ pacienty, nebo v sociálních službách.
+
+K 13. 4. 2021 bylo vykázáno očkování alespoň jednou dávkou u 304 297 osob ve věku 80+, což představuje cca 69,0 % všech osob této prioritní kategorie (k 1. 1. 2020 bylo podle dat ČSÚ v populaci ČR 441 100 osob ve věku 80+). U 224 860 osob ve věku 80+ (51,0 % této věkové kategorie v populaci) bylo očkování ukončeno oběma dávkami. Dalších 15 061 osob (3,4 %) má rezervaci termínu očkování a 60 810 osob (13,8 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 380 168 osob (86,2 %) v této věkové skupině.
+
+K 13. 4. 2021 bylo vykázáno očkování alespoň jednou dávkou u 549 156 osob ve věku 70–79 let, což představuje cca 54,3 % všech osob této prioritní kategorie (k 1. 1. 2020 bylo podle dat ČSÚ v populaci ČR 1 011 603 osob ve věku 70–79 let). U 210 968 osob ve věku 70–79 let (20,9 % této věkové kategorie v populaci) bylo očkování ukončeno oběma dávkami. Dalších 77 169 osob (7,6 %) má rezervaci termínu očkování a 196 650 osob (19,4 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 822 975 osob (81,4 %) v této věkové skupině.
+
+Celkově bylo v ČR očkováno již 1 441 609 osob (13,5 % populace – k 1. 1. 2020 bylo podle dat ČSÚ v ČR 10 693 939 osob), z toho 768 250 osob (7,2 %) druhou dávkou. Dalších 165 158 osob (1,5 %) má rezervaci termínu očkování a 496 994 osob (4,6 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 2 103 761 osob (19,7 %).
+
+Celkově bylo v ČR očkováno alespoň jednou dávkou již 1 441 609 osob starších 16 let, což je 16,2 % této populace (k 1. 1. 2020 bylo podle dat ČSÚ v ČR 8 884 689 osob ve věku 16 a více let). Z toho u 768 250 osob (8,6 % populace 16+) bylo očkování ukončeno podáním druhé dávky.
+
+Registrace a očkování u praktických lékařů. Zapojených je 3 620 ordinací praktických lékařů, registraci provedlo celkem 508 900 osob:
+
+  *   80 080 registrovaných osob ve věku 80 a více let,
+  *   268 872 registrovaných osob ve věku 70-79 let,
+  *   159 948 chronicky nemocných osob ve věku do 70 let.
+
+Praktičtí lékaři vykázali celkem 245 775 aplikovaných dávek vakcín. /*
+
+/* Počet vykázaných dávek vakcín v ordinacích praktických lékařů byl k 12. 4. validován, byla vyřazena hlášení od poskytovatelů, u kterých kromě ambulance praktického lékaře působí také očkovací centrum.
+
+S úctou L. Dušek
+

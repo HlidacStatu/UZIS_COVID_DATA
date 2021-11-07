@@ -1,0 +1,30 @@
+Vážené kolegyně a kolegové, dobrý den,
+posílám prosím aktualizované reporty shrnující vývoj zátěže nemocnic, doplněné do templátů dříve posílaných denně.
+
+Závěry jsou zatím stále pozitivní, ačkoli počty hospitalizovaných v mezitýdenním srovnání mírně rostou, trend není eskalační a denní příjmy pacientů s COVID v těžkém stavu jsou nad celou ČR v jednotkách. Je patrný silný ochranný efekt vakcinace bránící těžkému průběhu nemoci. Registrujeme velmi nízkou mortalitu související s COVID, týdně velmi nízké jednotky zemřelých.
+
+Nově jsou doplněny přiložené grafické reporty KKIP02 a 03 (celá ČR i jednotlivé regiony)-> jsou v nich tabulky, kde naleznete vývoj počtu hospitalizací vs. očkování, tedy kolik % z nově hospitalizovaných je neočkovaných, kolik má očkování dokončené, kolik z nich je 65+ apod.
+
+  *   Pro celou ČR a všechny hospitalizace takto data ukazují, že mezi nově hospitalizovanými pacienty (celkové počty zatím za září) bylo cca 70 - 75% neočkovaných nebo s nedokončeným očkováním, zatím za září cca 28% byli pacienti > 14 dní po dokončení očkování, z toho 86% věk 65+, často velmi seniorní, polymorbidní
+  *   Pro celou ČR a hospitalizace na JIP takto data ukazují, že v těžkém stavu bylo hospitalizováno > 75% neočkovaných nebo s nedokončeným očkováním, cca 25% byli pacienti > 14 dní po dokončení očkování, z toho 71% věk 65+, často velmi seniorní, polymorbidní
+  *   Počty pacientů na JIP jsou stále nízké, ve většině regionů v jednotkách a nerostou, nad 10 pacientů hlásí pouze Praha
+
+Posílám dále pravidelně aktualizovaný soubor "KKIP01 - Risk mapping týdenní", který shrnuje rizikovou analýzu aktuálního prevalenčního poolu a odvozuje z toho krátkodobou pravděpodobnostní predikci počtu nových hospitalizací s COVID-19 v následujících 10 - 14 dnech (provedeno pro kraje, i pro jednotlivé okresy).
+Minulý týden tato data ukazovala na cca 100 - 160 nových hospitalizací celkem v dalších cca 10 dnech, přičemž denní příjmy byly predikovány v počtu 10 až 20. Realita v uplynulém týdnu byla zatím 154 všech příjmů pacientů s COVID, z toho nově na JIP bylo přijato 29 pacientů. Podíl nových hospitalizovaných pacientů s těžkým průběhem nemoci se tak drží na cca 20%, což platilo i v jarním období 2021.
+
+Nová data v souboru KKIP01 ukazují:
+
+  *   za posledních cca 14 dní evidujeme v prevalenci cca 393 nově nakažených osob ve věkové třídě 65+ (je patrný mezitýdenní nárůst, v minulém hlášení bylo ve 14denní prevalenci 200 pozitivních 65+) a cca 168 osob ve věku 75+ (v minulém hlášení bylo ve 14denní prevalenci 95 pozitivních 75+) -> tyto počty se ale začaly již na počátku září zvyšovat
+  *   predikce ze stavového modelu: v dalších 10–14 dnech očekáváme minimálně cca 200 nových hospitalizací (horní hranice rizikového odhadu až 300), což znamená, že průměrní denní příjmy nad celou ČR se mohou pohybovat kolem hodnoty 20 a vyšší.  V žádném z regionů není predikována riziková eskalace počtu hospitalizovaných v těžkém stavu.
+
+Soubor nemocnice-zatez-kraje shrnuje vývoj obložnosti různých typů lůžek a celkovou zátěž nemocnic v ČR a v jednotlivých krajích.
+
+Soubor "variantní predikce" je zkrácenou prezentací popisující možné rizikové faktory dalšího vývoje a projekci scénářů populačních predikcí do možného vývoje zátěže nemocnic
+
+  *   Stávající vývoj odpovídá scénáři, který je označen za "realistický", stále ale nejde o rizikovou eskalaci trendů - to platí pro všechny regiony
+  *   V prezentaci je i srovnání září 2020 -> 2021
+
+S úctou
+
+L. Dušek
+

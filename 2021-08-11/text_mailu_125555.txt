@@ -1,0 +1,13 @@
+Vážené kolegyně a kolegové, dobrý den
+- na základě došlých podnětů jsme zaktualizovali základní přehled proočkování populace podle obcí, regionů. Je to zkrácený přehled oproti těm velkým týdenním aktualizacím, ale přináší trochu jiný pohled - kromě přehledu situace v jednotlivých obcích zde přikládám i analýzu ORP podle toho kolik obcí v dané oblasti vykazuje podprůměrnou proočkovanost dospělé populace (16+). Zejména v oblastech, kde je větší kumulace blízkých / sousedících obcí s nízkou proočkovaností, by mohlo hrozit zvýšené šíření nákazy na podzim a vznik lokálních i plošných ohnisek.
+
+V příloze jsou data v MS Excel
+
+  *   první list přináší data přímo z jednotlivých obcí - již seřazeno od nejméně proočkovaných směrem nahoru
+  *   druhý list data agreguje dle ORP a z jiného pohledu: kolik % obcí v daném ORP má podprůměrnou proočkovanost - opět seřazeno od nejnižší hodnoty směrem nahoru.
+  *   oba listy lze jakkoli řadit, filtrovat regiony apod.
+
+Dále prosím přikládám zobrazení těchto dat v simplifikovaných mapách.
+
+S úctou L. Dušek
+

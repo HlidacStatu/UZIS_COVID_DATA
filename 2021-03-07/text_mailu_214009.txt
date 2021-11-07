@@ -1,0 +1,17 @@
+Vážené kolegyně a kolegové, dobrý den,
+posílám prosím v příloze dvě prezentace shrnující hlavní data a trendy ve vývoji epidemie, data uzavřená před weekendem.
+
+  *   jednak souhrnnou prezentaci s vybranými daty
+  *   validaci scénářů prediktivních modelů, které byly připraveny v polovině ledna a února
+
+S úctou L. Dušek
+
+
+Stav epidemie lze stručně shrnout v těchto konstatováních
+
+  *   populačně epidemie celkově zpomaluje, nárůsty prokázaných případů neodpovídají rizikovým scénářům a reprodukce nákazy klesá (= zpomaluje růst, ale šíření stále částečně roste, reprodukční číslo je mírně nad 1)
+  *   neplatí to pro všechny regiony, dle intenzity šíření B.1.1.7. (s vysokou pravděpodobností) se situace velmi liší – rizikově roste kraj Středočeský a zejména Plzeňský, nákaza v této formě přebírá dominanci i v moravských krajích
+  *   v nemocnicích je extrémní zátěž a stále bohužel narůstá -> narůstají těžké stavy na JIP, ani přes weekend toto nekleslo; narůstá i mortalita
+  *   dojde-li v nadcházejícím týdnu k populačnímu zlomu, pak se k němu velmi pravděpodobně synergicky přidají efekty nových opatření a epidemie začne brzdit -> bohužel vysoký počet denně nově nakažených seniorů a zranitelných polymorbidních pacientů povede k další zátěži nemocnic – tato bude klesat (zejména na JIP) velmi pomalu.
+  *   tedy populační zlom bude zřejmě relativně rychlý, ale další pokles bude pozvolný a v nemocnicích ještě minimálně 7 - 10 dní bude vysoká zátěž
+

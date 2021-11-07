@@ -1,0 +1,72 @@
+Vážené kolegyně a kolegové, dobrý den,
+posílám prosím aktualizované reporty shrnující vývoj zátěže nemocnic, různé projekce možného vývoje epidemie a také samozřejmě jejich zdravotních dopadů, zejména na kapacity nemocnic. Vzhledem k vývoji epidemické situace budeme nyní predikce dělat častěji a také se více zaměříme na problematické regiony, kde je zátěž nejvyšší.
+
+V níže uvedených souhrnech se snažím aspoň trochu strukturovaně popsat hlavní závěry a data, která potom najdete v detailech a po regionech v přílohách mailu.
+
+Stručný souhrn na úvod
+
+Viz též příloha - soubor "00_variantni_predikce_update"
+
+  *   Epidemie neustále narůstá, trend rostoucí virové zátěže v populaci je významný (při rostoucí hodnotě R > 1,6). Počet hospitalizovaných v těžkém stavu roste (celkově je k 27.10. v ČR takto hospitalizováno na JIP 181 pacientů s COVID-19) a denní průměrné příjmy pacientů s COVID-19 na JIP překročily počet 18. Ačkoli samozřejmě stále nejde o počty nezvládnutelné zdravotnickým systémem, dynamika růstu je velmi výrazná. Mezi-týdenní nárůsty činí více než 60%.  Rovněž podíl nových případů se symptomy nemoci (jasný indikátor nástupu sezóny respiračních onemocnění) v čase začíná růst, a to zejména v nadprůměrně zatížených regionech (> 40%).
+
+  *   Relativní pozitivita indikovaných testů roste; u testů z klinické a diagnostické indikace dosahuje 13% (avšak v nejvíce zatížených regionech jako je MSK, OLK, JHK přesahuje 18 - 20%). Většina nově prokázaných případů nákazy jsou neočkovaní lidé (75 - 80%) a rovněž mezi nemocnými v těžkém stavu převažují neočkovaní (75%).
+
+  *   Nákaza se šíří zejména mezi mladými lidmi 6 – 19 let a ve věkové kategorii dospělých do 49 let (v těchto populačních skupinách týdenní záchyty překročily hodnotu 750 a 250/100 tis. obyvatel). Bohužel v dalších fázích šíření nákazy již došlo i k výraznějšímu zásahu seniorní a potenciálně zranitelné populace, k 27.10. překročil 7denní počet nových případů ve věku 65+ hranici 100/100 tis. obyv. dané věkové třídy.
+
+  *   Vývoj potvrzuje naplnění tzv. rizikového scénáře, který byl vytvořen ke konci srpna a předpokládal naplnění řady rizikových faktorů. Zejména nedostatečné proočkování populace, včetně seniorních generací, kde by žádoucí bylo překonání hranice 90%. Vedle vlivu podzimní sezóny k riziku dále přispívá i schopnost převažující varianty viru unikat vakcinaci (ochranný efekt očkování proti nákaze klesnul u seniorů 65+ na cca 66%).
+
+Co v souhrnu říkají různé predikce a kdy růst virové nálože v populaci skončí
+
+  *   Velmi častá otázka, na kterou odpovědět přesným údajem nelze. Je jisté, že růst epidemie bude pokračovat minimálně další 2 týdny, pokud by se udržel stávající trend, pak velmi brzy překoná hranici 300 případů za 7 dní/100 tis. obyvatel
+  *   Růst virové nálože v populaci nebude ovšem nekonečný, typicky pro 3 - 5 týdnech se "láme" a šíření se vyčerpá. To poznáme zejména tak, že
+     *   bude klesat počet důvodně indikovaných testů a bude klesat počet a podíl záchytů nákazy se symptomy
+     *   bude klesat relativní pozitivita indikovaných testů (a to zejména v zranitelných a seniorních populačních skupinách)
+     *   jakmile se růst v těchto ukazatelích zastaví, v několika dnech začne klesat R a cca do 10 dnů nejpozději začne klesat počet těžkých případů a zátěž JIP - zde má velký smysl sledovat vývoj v nejvíce zatížených regionech (OLK, MSK, JHK) ... ty nám ukáží vrcholový potenciál růstu v uvedených parametrech
+
+  *   V počtu případů tedy epidemie nadále poroste, což je rizikové, i když většina nových záchytů je stále mezi mladými lidmi, který nehrozí velmi těžký průběh nemoci -> roste totiž prevalence aktivních nákaz -> roste pravděpodobnost kontaktu s nakaženým a infekčním jedincem -> roste pravděpodobnost zásahu zranitelných skupin (zejména neočkovaných)
+
+  *   Vzhledem k nízké proočkovanosti naší populace a vzhledem k stále vysokému počtu vakcinací nechráněných seniorů tak nelze v predikcích vyloučit další eskalaci zátěže nemocnic - a to vysoce pravděpodobně nad 2 000 hospitalizací COVID+ pacientů celkem a nad 250 pacientů s těžkými komplikacemi na JIP (počty ale mohou být do 2 - 3 týdnů až dvojnásobné, počet primárn citlivých osob v populaci je stále velmi vysoký)
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+K přílohám mailu:
+
+Posílám pravidelně aktualizovaný soubor "KKIP01 - Risk mapping týdenní", který shrnuje rizikovou analýzu aktuálního prevalenčního poolu a odvozuje z toho krátkodobou pravděpodobnostní predikci počtu nových hospitalizací s COVID-19 v následujících 10 - 14 dnech (provedeno pro kraje, i pro jednotlivé okresy). Nová data a výstupy predikce počtu hospitalizací ukazují:
+
+  *   za posledních cca 14 dní evidujeme v prevalenci cca 2 976 nově nakažených osob ve věkové třídě 65+ (je patrný silný mezitýdenní nárůst, v minulém hlášení bylo ve 14denní prevalenci 709 pozitivních 65+) a cca 1 380 osob ve věku 75+ (v minulém hlášení bylo ve 14denní prevalenci cca 300 pozitivních 75+) -> tyto počty začínají významně narůstat, a to více než trojnásobně s odstupem 10 - 14 dnů
+  *   pozitivní zprávou je, že se velmi významné nárůsty v počtu nákaz nepropisují do hospitalizací na JIP tak jako před rokem nebo na jaře 2021 ... jde jednoznačně o ochranný efekt vakcinace proti těžkému průběhu nemoci (u seniorní generace až > 87% ochranný efekt)
+  *   predikce ze stavového modelu: v dalších 10–14 dnech očekáváme minimálně cca 1 360 nových hospitalizací (horní hranice rizikového odhadu až 2 500), což znamená, že průměrné denní příjmy nad celou ČR se mohou vysoce pravděpodobně pohybovat v intervalu 130 - 250.
+
+Nově jsou doplněny přiložené grafické reporty KKIP02 a 03 (celá ČR i jednotlivé regiony)-> jsou v nich tabulky, kde naleznete vývoj počtu hospitalizací vs. očkování, tedy kolik % z nově hospitalizovaných je neočkovaných, kolik má očkování dokončené, kolik z nich je 65+ apod.
+
+  *   Pro celou ČR a hospitalizace na JIP takto data ukazují, že v těžkém stavu bylo hospitalizováno cca 73% neočkovaných nebo s nedokončeným očkováním, cca 27% byli pacienti > 14 dní po dokončení očkování, z toho 81% věk 65+, často velmi seniorní, polymorbidní pacienti
+  *   Počty pacientů na JIP rostou ve všech nejvíce zatížených regionech, je ale patrné, že nárůsty jsou významně nižší, než např. na podzim 2020
+
+Soubor nemocnice-zatez-kraje shrnuje vývoj obložnosti různých typů lůžek a celkovou zátěž nemocnic v ČR a v jednotlivých krajích.
+
+  *   Obložnost lůžek v důsledku COVID narůstá a promítá se do ní i rozdílná kapacita struktura lůžkového fondu v různých regionech. K datu 26.10. registrujeme 3544 nahlášených funkčních lůžek JIP, z toho volných 1 401 ... volná kapacita je tedy pouze na 39% celku, neboť většina nemocnic stále naplno operuje a péče není omezena (obsazenost JIP z důvodu COVID: 181 pacientů, tedy cca 5% celkové kapacity)
+  *   Celková volná a funkční kapacita lůžek je zatím dostatečná -> dle hlášení nemocnic z 27.10. /5:00/:
+
+Podíl (%) volné aktuálně nahlášené kapacity JIP (hlášení do NDIP)
+• ČR: 1375 volných JIP - 39,0 % celkové kapacity JIP
+• Hlavní město Praha: 252 volných JIP - 31,5 % celkové kapacity JIP
+• Středočeský kraj: 133 volných JIP - 51,2 % celkové kapacity JIP
+• Jihočeský kraj: 78 volných JIP - 54,9 % celkové kapacity JIP
+• Plzeňský kraj: 81 volných JIP - 36,3 % celkové kapacity JIP
+• Karlovarský kraj: 20 volných JIP - 24,1 % celkové kapacity JIP
+• Ústecký kraj: 82 volných JIP - 31,4 % celkové kapacity JIP
+• Liberecký kraj: 40 volných JIP - 40,8 % celkové kapacity JIP
+• Královéhradecký kraj: 48 volných JIP - 21,9 % celkové kapacity JIP
+• Pardubický kraj: 46 volných JIP - 36,8 % celkové kapacity JIP
+• Kraj Vysočina: 66 volných JIP - 66,7 % celkové kapacity JIP
+• Jihomoravský kraj: 195 volných JIP - 48,6 % celkové kapacity JIP
+• Olomoucký kraj: 69 volných JIP - 35,4 % celkové kapacity JIP
+• Zlínský kraj: 83 volných JIP - 59,7 % celkové kapacity JIP
+• Moravskoslezský kraj: 182 volných JIP - 37,9 % celkové kapacity JIP
+
+V přílohách je dále aktualizované grafické srovnání vývoje 2020 -> 2021, které dokládá že v důsledku pozitivního ochranného efektu vakcinace je dnes zátěž nemocnic významně nižší, než tomu bylo před rokem.
+
+S úctou
+
+L. Dušek
+

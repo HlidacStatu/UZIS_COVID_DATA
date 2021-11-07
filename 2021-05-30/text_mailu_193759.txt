@@ -1,0 +1,23 @@
+Vážené kolegyně a kolegové, dobrý den,
+posílám prosím aktualizované reporty shrnující vývoj zátěže nemocnic, doplněné do krátkodobých modelů z března 2021. Z toho důvodu v modelech zůstává i tehdy nastavený rizikový scénář možného růstu zátěže, který se ale v žádném z regionů již nenaplnil a zátěž nemocnic konzistentně klesá. Tyto modely budeme na počátku června rekalibrovat tak, aby byly platné pro celé léto - spíše ale jen jako alert systém, pokud by se někde projevil růst zátěže anebo nějaké podezřelé případy nákazy. Zátěž jako taková v červnu s vysokou pravděpodobností klesne na velmi malé počty hospitalizovaných s COVID-19.
+
+Základní a rychle čitelné přehledy a trendy jsou v prezentacích KKIP02 a KKIP03.
+
+  *   Je patrný setrvalý pokles nemocniční zátěže ve všech krajích, a to i v regionech, které byly relativně dlouho pod zvýšenou populační zátěží epidemie, protože k nim zrychlené šíření doputovalo po lednu později  (JHČ, ZLK, Vysočin, JMK, MSK).
+  *   Ve většině regionů klesá celkový počet hospitalizovaných rychleji, než by odpovídalo nejoptimističtější predikci z března 2021 - zde je jednoznačně vidět efekt vakcinace a postupující proočkovanosti seniorních a potenciálně zranitelných skupin obyvatel. Již první dávka očkování velmi zásadně snižuje pravděpodobnost těžkého průběhu nákazy a hospitalizace.
+  *   Velmi progresivně klesá nejen celkový počet hospitalizovaných, ale i zátěž jednotek intenzivní péče. V řadě regionů jsou již registrován pouze jednotky hospitalizovaných pacientů.
+
+Posílám dále pravidelně aktualizovaný soubor "Risk mapping týdenní", který shrnuje rizikovou analýzu aktuálního prevalenčního poolu a odvozuje z toho krátkodobou predikci počtu nových hospitalizací s cOVID-19 v následujících 10 - 14 dnech (provedeno pro kraje, i pro jednotlivé okresy)
+
+
+  *   data potvrzují další pokles prevalenční zátěže a shrnuje počty nově nakažených zranitelných pacientů v rámci krajů a okresů ČR.
+  *   za posledních cca 14 dní evidujeme v prevalenci cca 980 nově nakažených osob ve věkové třídě 65+ a cca 410 osob ve věku 75+ -> tyto počty setrvale klesají rychlostí cca - 25% týdně
+  *   predikce ze stavového modelu: v dalších 10–14 dnech očekáváme cca 350 - 370 nových hospitalizací, což znamená, že průměrní denní příjmy nad celou ČR dále klesnou významně pod 30
+  *   dle dostupných projekcí vývoje očkování předpokládáme další pokles zátěže reagující na vyšší proočkovanost zejména v kategoriích věku 60+
+
+Soubor nemocnice-zatez-kraje shrnuje vývoj obložnosti různých typů lůžek a celkovou zátěž nemocnic v ČR a v jednotlivých krajích. I zde je patrný pokles zátěže, standardní lůžka s kyslíkem jsou nad celou ČR obsazena z cca 1,1% celkové kapacity a lůžka intenzivní péče z cca 3,5% celkové kapacity. I nejvyšší hodnoty relativní obložnosti JIP v důsledku pacientů s COVID-19 (např. kraj Zlínský, Ústecký, ..) klesly významně pod 10% celkové regionální kapacity.
+
+S úctou
+
+Dušek
+

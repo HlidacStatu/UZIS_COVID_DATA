@@ -1,0 +1,22 @@
+Prezentaci posílám prosím ještě jedou převedenou do pdf formátu kvůli její velikosti - na některé adresy v původním formátu neprošla. Omlouvám se za komplikace.
+
+Vážené kolegyně a kolegové, dobrý den - posílám prosím souhrnnou prezentaci ke stavu epidemie, aktualizovanou po týdnu + přehled dat o vakcinaci k 26.7. v prezentaci, která shrnuje vývoj dle věkových skupin a krajů.
+
+Stav epidemie je cca stabilizovaný, resp. podobný jako před týdnem. V žádném ze sledovaných ukazatelů nedochází k rizikové eskalaci hodnot, epidemie osciluje kolem 7denních počtů nově nakažených případů 12 - 14/100 tis. obyvatel.
+
+I když je léto, je počet realizovaných testů relativně vysoký a hlavně stabilní v čase (průměrně cca 30tis. PCR testů, cca 46 000 AG testů). Stabilní počet v čase umožňuje relevantně hodnotit vývoj i u ostatních ukazatelů. Relativní pozitivita testů kolísá, ale drží se v bezpečných intervalech pod 4%.
+
+Nadále platí, že vyšší virovou zátěž mají zejména Praha, Středočeský a Plzeňský kraj. Nákaza se šíří zejména mezi nenaočkovanými mladými lidmi nebo lidmi nižšího středního věku. Ale ani v těchto krajích nyní nedochází k růstu epidemie, reprodukční číslo je ve všech třech regionech nižší než 1.
+
+Na okresní úrovni poklesl počet oblastí, kde byl registrován vysoce rizikový růst, aktuálně evidujeme tři okresy s týdenním záchytem počtu pozitivních případů nad 25/100tis. obyvatel a přitom s hodnotou R > 1 nebo blízkou 1:
+
+Klatovy - 37.1; R:0.94
+
+Beroun - 31.1; R:1.07
+
+Kutná Hora - 26.2; R:1.33
+
+Zátěž potenciálně zranitelných skupin obyvatel je dlouhodobě pod kontrolou, nákaza v těchto subpopulacích neeskaluje, a to ani v nejvíce zatížených krajích. Naprostá většina onemocnění má mírný průběh, nepozorujeme tlak na nemocniční péči v žádném z regionů. Počet hospitalizovaných na JIP je dlouhodobě stejný (cca 9 nad celou ČR), mírně narostl celkový počet hospitalizací (na 49 k 27.7.)
+
+S úctou L .Dušek
+

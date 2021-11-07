@@ -1,0 +1,18 @@
+Vážené kolegyně a kolegové, omlouvám se - odeslal jsem souhrnné prezentace a překročilo to těsně velikost Vašich dovolených schránek , - posílám prosím opět ve dvou mailech - souhrnný popis je níže.
+
+L. Dušek
+
+Vážené kolegyně a kolegové, dobrý den – v přílohách prosím posílám pravidelně aktualizovanou větší souhrnnou prezentaci o stavu epidemie a dále aktualizovaná data do dříve vybudovaných prediktivních modelů.
+
+  *   Soubor 00 - shrnuje vývoj epidemie a klesající trendy v zátěži nemocnic
+  *   Soubor 01 je ucelenou prezentací shrnující výběr všech typů prediktivních modelů, včetně nového SEIRV modelu zahrnujícího vakcinaci
+  *   Soubory 02 a 03 jsou přílohy lokalizující klíčové predikce pro jednotlivé regiony, kraje
+
+Všechny klíčové indikátory ukazují na rychlé brždění epidemie a klesající trendy se týkají všech regionů. Vývoj je tedy velmi pozitivní, včetně klesající zátěže nemocnic.
+
+  *    Avšak i přes postupující vakcinaci je stále značná část populace vnímavá k infekci. A tedy i optimistické scénáře modelů stále ukazují na cca 30% podíl populace, která je vnímavá k infekci. Riziko částečného zhoršení vývoje tedy stále není nulové. Stávající vývoj to nicméně nepotvrzuje a trend poklesu epidemie neindikuje žádné zhoršení. Pozitivní zprávou rovněž je, že postupující vakcinace snižuje počet citlivých osob, nyní již i v relativně mladých věkových kategoriích.
+
+Nyní o nadcházejícím weekendu provedeme rekalibraci nových predikcí, avšak pokud bude epidemie nadále brzdit stejným tempem, tak plošné dlouhodobé predikce ztratí pomalu význam a naopak na významu vyrostou lokální indikátory rizikového vývoje.
+
+S úctou L. Dušek
+

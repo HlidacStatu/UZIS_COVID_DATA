@@ -1,0 +1,89 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím v přílohách souhrnnou týdenní prezentaci o stavu epidemie v ČR a v jednotlivých regionech a dále souhrn stavu vakcinace k 11.7. Komplexní prezentaci jsem vzhledem k její velikosti musel převést do pdf formátu. Velmi děkuji za všechny zaslané podněty - jsou v prezentacích promítnuty, případně budu vděčný za další jakékoli kritické poznámky, náměty ke zlepšení.
+
+Přehled dat o postupu vakcinace shrnuje zejména proočkovanost dle hlavních věkových kategorií, trendy a srovnání krajů.
+
+  *   Je evidentní, že vakcinace se významně podílí na kontrole epidemie a na stávající populační situaci - ochrana vakcinací se promítá zejména do nízkých počtů nově nakažených potenciálně zranitelných skupin obyvatel a seniorů (v jednotkách denně)
+  *
+
+Proočkovanost seniorních skupin obyvatel (70+) společně s přirozenou ochranou danou nedávno prodělaným onemocněním přesahuje 80 - 85 % daných populačních kohort. Tento fakt významně snižuje zátěž nemocnic, klesají  počty nově hospitalizovaných a potenciálně zranitelných pacientů. Kalkulováno na celé dospělé populaci ČR dosahuje tato ochrana cca 67 %.
+
+  *
+
+Celkem 58,8 % osob ve věku 16+ je očkováno alespoň 1. dávkou, 43,1 % má očkování ukončené. K 11.7. bylo 59,5 % osob ve věku 18+ je očkováno alespoň 1. dávkou a 44,1 % má očkování ukončené.
+
+  *
+  *   Výše uvedené je jednoznačně pozitivní a zejména vysoký podíl chráněných seniorních skupin je zásadní. ALE bohužel, z prezentace vyplývá stále relativně nízký podíl proočkovaných mladých věkových kategorií -> ukončené očkování má 19,1% kategorie 35 - 39 let, 12,2% kategorie 30 - 34 let, 8,3% kategorie 16 - 29 let, Děti do 16 let zatím dostaly 1. dávku pouze z 2,7%.
+  *   Dostatečné proočkování mladé populace a také populace ve středním věku je podle mého soudu (troufnu si ho subjektivně napsat) jedna z největších výzev do dalšího období, protože právě mezi mladými lidmi, nechráněnými vakcinací, se nákaza bude dále snadno šířit a může tak v populaci vytvořit rizikovou virovou nálož.
+
+Komplexní souhrnná prezentace shrnuje data epidemiologická, zátěž nemocnic, vývoj nákazy ve věkových kategoriích a četnost záchytů různých rizikových případů nákazy (nákazy po vakcinaci, importované nákazy, reinfekce, hlášené případů nákazy s mutacemi, apod. )
+
+  *   Od minulé souhrnné zprávy se situace značně posunula - přibylo okresů, ve kterých pozorujeme potenciálně rizikové šíření nákazy - tedy vyšší virovou nálož s prorůstovými trendy (celkem 15 okresů v riziku, z toho 7 s virovou náloží nad 25 týdenních záchytů na 100 tis. obyvatel)
+  *   Kontinuálně roste virová nálož v Praze, pokračuje šíření ve Středočeském kraji a v Plzeňském kraji + nově se zvýšené hodnoty růst objevují v okresech Vysočiny a Plzeňského kraje.
+  *   Jednotícím faktorem, který tyto rizikové trendy spojuje je šíření v mladé populaci = zejména věkové třídy 16 - 19 let a 20 - 29 let. Seniorní věkové kategorie jsou nyní naopak nově nakaženy pouze v jednotkách případů denně a šíření nákazy mezi mladými lidmi také nijak nedopadá na nemocnice (denní příjmy jsou v průměru od 5 denně v celé ČR, přičemž většinou nejde o těžké průběhy onemocnění). Šíření nákazy v mladé populaci také zvýšilo relativní pozitivitu testů u mladých lidí, včetně indikovaných testů - tyto hodnoty ale stále zůstávají pod hranicí 4%.
+  *   Nadále platí, že naprostá většina nově pozitivních jsou neočkovaní. Cca 20% nově nakažených mladých lidí je po 1. dávce, avšak nákaza u nich byla zachycena velmi brzy po očkování. Cca 5% nově nakažených mladých lidí je po 2. dávce, opět je i zde nákaza zachycena velmi brzy po aplikaci 2. dávky. Výskyt těžkých průběhů po naočkování oběma dávkami je velmi vzácný, jde cca o 0,01% - 0,02% ze všech takto naočkovaných.
+
+Zítra tyto souhrny doplním stručnou aktualizací prediktivních modelů.
+
+S úctou L. Dušek
+
+
+
+
+
+________________________________
+Od: Dušek Ladislav prof. RNDr. Ph.D. <Ladislav.Dusek@uzis.cz>
+Odesláno: pondělí 12. července 2021 3:01
+Komu: vz@psp.cz <vz@psp.cz>; Adámková Věra <AdamkovaV@psp.cz>; schiestlc@psp.cz <schiestlc@psp.cz>; aulickah@psp.cz <aulickah@psp.cz>; behounekj@psp.cz <behounekj@psp.cz>; Behounek Jiri <behounek.j@kr-vysocina.cz>; krupickova.r@kr-vysocina.cz <krupickova.r@kr-vysocina.cz>; brazdilm@psp.cz <brazdilm@psp.cz>; milan.brazdil@seznam.cz <milan.brazdil@seznam.cz>; brzobohataa@psp.cz <brzobohataa@psp.cz>; dvorakj@psp.cz <dvorakj@psp.cz>; neurologdvorak@seznam.cz <neurologdvorak@seznam.cz>; zumroval@psp.cz <zumroval@psp.cz>; gajduskovaa@psp.cz <gajduskovaa@psp.cz>; ota2@seznam.cz <ota2@seznam.cz>; farhank@psp.cz <farhank@psp.cz>; junior.junior@seznam.cz <junior.junior@seznam.cz>; slavikovak@psp.cz <slavikovak@psp.cz>; janulikm@psp.cz <janulikm@psp.cz>; janulmil@nembv.cz <janulmil@nembv.cz>; kankovskyv@psp.cz <kankovskyv@psp.cz>; vit.kankovsky@seznam.cz <vit.kankovsky@seznam.cz>; vit.kankovsky@onhb.cz <vit.kankovsky@onhb.cz>; Kasal D <KasalD@psp.cz>; david.kasal@nempk.cz <david.kasal@nempk.cz>; marikovak@psp.cz <marikovak@psp.cz>; masekj@psp.cz <masekj@psp.cz>; jiri@cadillac.cz <jiri@cadillac.cz>; pokornak@psp.cz <pokornak@psp.cz>; fiserovai@psp.cz <fiserovai@psp.cz>; pastuchovaj@psp.cz <pastuchovaj@psp.cz>; rihovaa@psp.cz <rihovaa@psp.cz>; pavekp@psp.cz <pavekp@psp.cz>; tumal@psp.cz <tumal@psp.cz>; pawlasd@psp.cz <pawlasd@psp.cz>; richterovao@psp.cz <richterovao@psp.cz>; svobodab@psp.cz <svobodab@psp.cz>; bohuslav.svoboda@uvn.cz <bohuslav.svoboda@uvn.cz>; spicakj@psp.cz <spicakj@psp.cz>; Jitka Chalánková <jitka.chalankova@gmail.com>; prof. Julius Špičák <jusp@ikem.cz>; jusp@medicon.cz <jusp@medicon.cz>; aneta.bernardova@gmail.com <aneta.bernardova@gmail.com>; tresnakp@psp.cz <tresnakp@psp.cz>; pavlovicj@psp.cz <pavlovicj@psp.cz>; valekv@psp.cz <valekv@psp.cz>; vlastimil.valek@top09.cz <vlastimil.valek@top09.cz>; andrea.lukacova@top09.cz <andrea.lukacova@top09.cz>; ambra.pharm@seznam.cz <ambra.pharm@seznam.cz>; Miroslava.Hradilova@top09.cz <Miroslava.Hradilova@top09.cz>; jana.pleyerova@top09.cz <jana.pleyerova@top09.cz>; ventrubaj@psp.cz <ventrubaj@psp.cz>; jiriventruba@seznam.cz <jiriventruba@seznam.cz>; jagrovab@psp.cz <jagrovab@psp.cz>; vyzular@psp.cz <vyzular@psp.cz>; vyzula@mou.cz <vyzula@mou.cz>; mrkvicovaa@psp.cz <mrkvicovaa@psp.cz>; hilserm@senat.cz <hilserm@senat.cz>; krausr@senat.cz <krausr@senat.cz>; kraus2020@seznam.cz <kraus2020@seznam.cz>; dernerovaa@senat.cz <dernerovaa@senat.cz>; aliderner@seznam.cz <aliderner@seznam.cz>; fialat@senat.cz <fialat@senat.cz>; fiala@nemst.cz <fiala@nemst.cz>; KantorL <KantorL@senat.cz>; lumir.kantor <lumir.kantor@fnol.cz>; zaloudikj@senat.cz <zaloudikj@senat.cz>; prof. MUDr. Jan Žaloudík,CSc. <jan.zaloudik@gmail.com>; simetkao@senat.cz <simetkao@senat.cz>; senat@ondrejsimetka.cz <senat@ondrejsimetka.cz>; tresli@senat.cz <tresli@senat.cz>; ivotresl@seznam.cz <ivotresl@seznam.cz>; zitterbartk@senat.cz <zitterbartk@senat.cz>; karel.zitterbart@gmail.com <karel.zitterbart@gmail.com>; Mejdrechová Silvie <mejdrechovas@senat.cz>; Jitka Chalánková <jitka.chalankova@gmail.com>; Vystrčil Miloš <vystrcilm@senat.cz>; Nguyen Sue <NguyenS@senat.cz>; bendam@psp.cz <bendam@psp.cz>; ministr@mpo.cz <ministr@mpo.cz>; cunekj <cunekj@senat.cz>
+Předmět: Denní souhrnné prehledy - data o vakcinaci
+
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách souhrnné reporty s daty o vakcinaci. Reporty 01 A + 01 B jsou doplněny dle podkladů MZ ČR.
+
+
+Celkem bylo ke dni 11. 7. 2021 (20:00) vykázáno 8 966 562 aplikovaných dávek očkování, a to u 5 236 161 unikátních osob, které dostaly minimálně jednu dávku očkování. U 3 830 283 osob bylo očkování dokončeno. Denní přehled vykázaných počtů očkování s rozlišením jednotlivých krajů, přehled dle prioritních skupin a dle věkových kategorií očkovaných shrnují datové přílohy 2 - 6.
+
+Očkování sleduje stanovené prioritní skupiny. Podíl podaných dávek podle prioritních skupin je následující (zařazení do skupiny je s prioritou podle uvedeného pořadí): zdravotničtí pracovníci 6,4 %, klienti a pracovníci sociálních služeb 2,9 %, senioři 80+ 6,9 %, senioři 70-79 let 17,4 %, senioři 60-69 let 18,3 %, chronicky nemocné osoby (novotvary, nemoci srdce a plic, diabetes, obezita a jiné) 3,1 %, pracovníci ve školství 3,8 %, pracovníci kritické infrastruktury (integrovaný záchranný systém, pracovníci energetiky, krizové štáby apod.) 2,5 %, osoby 50-59 let 13,2 %, osoby 40-49 let 14,0 %, osoby 30-39 let 6,3 % a ostatní 5,2 %.
+
+Očkování věkové kategorie 80+. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 359 921 osob ve věku 80 a více let, což představuje cca 80,4 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 447 526 osob ve věku 80 a více let). U 338 993 osob ve věku 80 a více let (75,7 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 7 465 osob (1,7 %) má rezervaci termínu očkování a 30 967 osob (6,9 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 398 353 osob (89,0 %) v této věkové skupině.
+
+Očkování věkové kategorie 70–79 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 862 233 osob ve věku 70–79 let, což představuje cca 83,0 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 1 038 378 osob ve věku 70–79 let). U 795 429 osob ve věku 70–79 let (76,6 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 12 326 osob (1,2 %) má rezervaci termínu očkování a 49 543 osob (4,8 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 924 102 osob (89,0 %) v této věkové skupině.
+
+Očkování věkové kategorie 65–69 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 516 600 osob ve věku 65–69 let, což představuje cca 76,8 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 672 418 osob ve věku 65–69 let). U 458 773 osob ve věku 65–69 let (68,2 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 7 473 osob (1,1 %) má rezervaci termínu očkování a 22 364 osob (3,3 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 546 437 osob (81,3 %) v této věkové skupině.
+
+Očkování věkové kategorie 60–64 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 439 404 osob ve věku 60–64 let, což představuje cca 70,3 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 625 465 osob ve věku 60–64 let). U 386 461 osob ve věku 60–64 let (61,8 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 8 410 osob (1,3 %) má rezervaci termínu očkování a 18 199 osob (2,9 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 466 013 osob (74,5 %) v této věkové skupině.
+
+Očkování věkové kategorie 55–59 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 445 359 osob ve věku 55–59 let, což představuje cca 66,5 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 669 733 osob ve věku 55–59 let). U 387 864 osob ve věku 55–59 let (57,9 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 11 357 osob (1,7 %) má rezervaci termínu očkování a 19 176 osob (2,9 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 475 892 osob (71,1 %) v této věkové skupině.
+
+Očkování věkové kategorie 50–54 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 437 622 osob ve věku 50–54 let, což představuje cca 63,3 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 691 083 osob ve věku 50–54 let). U 371 654 osob ve věku 50–54 let (53,8 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 12 899 osob (1,9 %) má rezervaci termínu očkování a 17 875 osob (2,6 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 468 396 osob (67,8 %) v této věkové skupině.
+
+Očkování věkové kategorie 45–49 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 537 832 osob ve věku 45–49 let, což představuje cca 60,9 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 882 586 osob ve věku 45–49 let). U 428 869 osob ve věku 45–49 let (48,6 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 18 299 osob (2,1 %) má rezervaci termínu očkování a 19 205 osob (2,2 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 575 336 osob (65,2 %) v této věkové skupině.
+
+Očkování věkové kategorie 40–44 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 480 068 osob ve věku 40–44 let, což představuje cca 53,7 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 893 321 osob ve věku 40–44 let). U 307 891 osob ve věku 40–44 let (34,5 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 20 374 osob (2,3 %) má rezervaci termínu očkování a 19 133 osob (2,1 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 519 575 osob (58,2 %) v této věkové skupině.
+
+Očkování věkové kategorie 35–39 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 341 087 osob ve věku 35–39 let, což představuje cca 45,3 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 753 310 osob ve věku 35–39 let). U 143 788 osob ve věku 35–39 let (19,1 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 23 523 osob (3,1 %) má rezervaci termínu očkování a 16 985 osob (2,3 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 381 595 osob (50,7 %) v této věkové skupině.
+
+Očkování věkové kategorie 30–34 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 285 290 osob ve věku 30–34 let, což představuje cca 39,7 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 718 931 osob ve věku 30–34 let). U 87 707 osob ve věku 30–34 let (12,2 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 27 276 osob (3,8 %) má rezervaci termínu očkování a 17 979 osob (2,5 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 330 545 osob (46,0 %) v této věkové skupině.
+
+Očkování věkové kategorie 16–29 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 518 543 osob ve věku 16–29 let, což představuje cca 34,9 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 1 485 433 osob ve věku 16–29 let). U 122 768 osob ve věku 16–29 let (8,3 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 76 129 osob (5,1 %) má rezervaci termínu očkování a 52 015 osob (3,5 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 646 687 osob (43,5 %) v této věkové skupině.
+
+Očkování věkové kategorie 12–15 let. K 11. 7. 2021 (20:00) bylo vykázáno očkování alespoň jednou dávkou u 12 202 osob ve věku 12–15 let, což představuje cca 2,7 % všech osob této prioritní kategorie (k 1. 1. 2021 bylo podle dat ČSÚ v populaci ČR 456 488 osob ve věku 12–15 let). U 85 osob ve věku 12–15 let (0,0 % této věkové kategorie v populaci) bylo očkování dokončeno. Dalších 25 231 osob (5,5 %) má rezervaci termínu očkování a 24 875 osob (5,4 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 62 308 osob (13,6 %) v této věkové skupině.
+
+Celkově bylo v ČR očkováno již 5 236 161 osob (48,9 % populace – k 1. 1. 2021 bylo podle dat ČSÚ v ČR 10 701 777 osob), z toho u 3 830 282 osob (35,8 %) bylo očkování již dokončeno. Dalších 250 762 osob (2,3 %) má rezervaci termínu očkování a 308 316 osob (2,9 %) je registrováno a čeká na termín očkování, celkem se účastní očkování 5 795 239 osob (54,2 %).
+
+Celkově bylo v ČR očkováno alespoň jednou dávkou již 5 236 161 osob starších 16 let, což je 59,0 % této populace (k 1. 1. 2021 bylo podle dat ČSÚ v ČR 8 878 184 osob ve věku 16 a více let), z nich u 3 830 283 osob (43,1 % populace 16+) bylo očkování již dokončeno.
+
+Celkově bylo v ČR očkováno alespoň jednou dávkou již 59,5 % dospělé populace (k 1. 1. 2021 bylo podle dat ČSÚ v ČR 8 683 168 osob ve věku 18 a více let), dalších 5,6 % má rezervaci termínu očkování nebo je registrováno a čeká na termín očkování.
+
+Registrace a očkování u praktických lékařů. Zapojených je 3 535 samostatných ordinací praktických lékařů, registraci provedlo celkem 216 957 osob:
+
+  *   28 387 registrovaných osob ve věku 80 a více let,
+  *   67 293 registrovaných osob ve věku 70-79 let,
+  *   33 193 registrovaných osob ve věku 65-69 let,
+  *   21 882 registrovaných osob ve věku 60-64 let,
+  *   17 207 registrovaných osob ve věku 55-59 let,
+  *   48 995 registrovaných osob ve věku do 55 let.
+
+
+Praktičtí lékaři vykázali celkem 1 073 865 aplikovaných dávek vakcín.
+
+S úctou L. Dušek
+

@@ -1,0 +1,11 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím velkou souhrnnou týdenní prezentaci o stavu epidemie, analýzu trendů pro celou ČR a jednotlivé kraje.
+
+Vzhledem k velikosti souboru jsem prezentaci převedl do pdf. Takto ji budeme v standardizovaném provedení udržovat přes léto, pokud se tedy nějaké trendy nepokazí.
+
+Nyní data vyznívají stále velmi pozitivně, z regionů pouze Praha stagnuje na vyšších hodnotách (R blízké 1, 7denní záchyty cca 17/100tis.). Z okresů žádný nepřekračuje 7denní záchyty 25/100tis. obyv., celkem 6 okresů překračuje hodnotu 12,5/100tis. obyv. při R >=0,95. Více viz prezentace, ve které jsou popsány i textové závěry a komentáře.
+
+Situace v pražské populaci je důvodem, proč přestala klesat měřitelná zátěž i celé populace - Praha je jediným z velkých regionů, který neklesá a v posledních dnech dokonce mírně ve virové zátěži roste. Situace se očekávatelně přelévá i do okolních oblastí, proto prorůstové trendy vykazují i okresy Praha-západ, Praha-východ (R > 1, mírně zvýšená populační zátěž) a tak další regiony STČ.
+
+S úctou L. Dušek
+
+

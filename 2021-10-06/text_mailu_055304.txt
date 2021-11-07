@@ -1,0 +1,29 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v příloze souhrnné komplexní prezentace o stavu epidemie, doplněné o vybrané mapy šíření dle okresů a ORP. + soubor s vybranými výstupy prediktivních modelů pro měsíc říjen. Z důvodu velikosti jsou soubor převedeny do pdf.
+
+Souhrnná prezentace uzavírá kompletně data za září a zahrnuje první dny října s relativně jasným závěrem: epidemie setrvale roste a zrychluje její šíření při R > 1,25, nicméně stále jde o převážný zásah mladé až střední populace, a z > 75% u neočkovaných osob. Pomalu ale narůstá i zátěž populace 65+ a projevuje se efekt, kdy virus uniká vakcinaci - tyto trendy zatím neeskalují, ochrana vakcinací proti riziku nákazy je stále > 75% a proti těžkému průběhu nemoci až > 90%. Zátěž nemocnic je stále velmi nízká.
+
+Přiložený soubor s predikcemi dokládá, že v uplynulém období velmi přesně predikoval vývoj zátěže nemocnic tzv. realistický model.
+
+Dle této predikce byl ke konci září celkový počet hospitalizací s COVID-19 mírně vyšší než 200 a počty pacientů na JIP oscilovaly mezi 40 – 50.
+
+To se také skutečně stalo.  Tento vývoj znamená potvrzení vstupních předpokladů realistického scénáře, tedy mírný růst šíření epidemie v důsledku pomalu postupující vakcinace (v populaci 16+ byla dosažena cca 67% proočkovanost). Pozitivním faktem je, že nenastal žádný z rizikových scénářů a vysoká proočkovanost seniorní populace efektivně bránila nárůstu těžkých případů COVID-19 v nemocnicích. Očkování i v průběhu září udrželo ochranný efekt při snížení rizika nákazy o 75 - 80% u osob  s plně dokončeným očkováním.
+
+
+Ve vývoji dalších týdnů je ovšem několik neznámých faktorů
+
+  *   jak se bude nákaza chovat v málo proočkovaných okresech a ORP , kde je kumulovaná větší populace bez očkování
+  *   zda a jak silně bude Delta unikat očkování (ve smyslu rizika nákazy) ... a jaký to bude mít zdravotní dopad /to je i ve vazbě na compliance populace k třetí dávce/
+  *   zda se podaří ještě posílit očkování seniorů (stále existující kohorta 415 000 potenciálně zranitelných ve věku 60+)
+
+Z těchto důvodů pracují přiložené predikce i s rizikovými variantami vývoje. Všechny přiložené modely ukazují v závěru stručně toto:
+
+  1.  Nevyhnutelně musíme počítat minimálně 2 - 3 týdny s vyššími počty nových případů, růst může vést až k hodnotám > 2000 denně, kapacitu trasování a testování je třeba chystat minimálně na 1 500 denně
+  2.  Ani nejrizikovější scénáře neukazují, že by se zátěž nemocnic v říjnu měla vymknout kontrole – tedy maximální počty, které vypadají jako rizikové jsou cca > 1000 hospitalizací celkem a > 250 na JIP v jeden den. ... to je ale zatíženo mnoha neznámými - tak jak tak bychom ale měli čas reagovat, protože vývoj v nemocnicích nebude skokově eskalační
+
+Dnes modely rozpracujeme i pro jednotlivé regiony a poslal bych to s popisem možného vývoje nemocnosti a zátěže nemocnic
+
+S úctou
+
+L. Dušek
+
+

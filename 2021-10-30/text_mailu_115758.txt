@@ -1,0 +1,63 @@
+Vážené kolegyně a kolegové, dobrý den - doplňuji prosím ranní hlášneí z nemocnic, ze kterého vyplývá, že zátěž nemocnic narůstá. Bohužel lze předpokládat další zásadní navýšení zátěže v příštím týdnu - v prevalenčním poolu je velké množství nově nakažených a potenciálně zranitelných osob, mnoho z nich neočkovaných ... nevyhnutelně tedy dojde po weekendu k nárůstu zátěže.
+
+O weekendu doplníme nové predikce očekávané zátěže, ale již nyní je evidenntí, že vývoj směřuje k počtu denních příjmů do nemocnic 200 a více.
+
+Pokud hodnotíme situaci z pohledu celé ČR, pak jsou kapacity lůžkového fondu stále dostatečné
+
+  *   celková obložnost lůžek JIP/ARO dosahuje 6,2%
+  *   do Národního dispečinku LP je hlášena volná dostupná (=plně funkční) kapacita JIP v rozsahu 39,2% celku (tj. 1 380 funkčních lůžek) - viz též graf připojený jako příloha mailu
+  *   rovněž počet pacientů vyžadujících vysoce intenzivní péči (UPV/ECMO) jsou kapacitně zvládnutelné a pohybují se v počtu pod 90 -> volná kapacita lůžek s možností UPV je nahlášena v počtu 575, z toho 225 přímo pro COVID - viz přiložený výstup z NDLP
+
+Kapacitní možnosti různých krajů se ale mezi sebou značně liší, jak je patrné z podílu volné aktuálně nahlášené kapacity JIP (dle zkušeností KKIP je nutné omezovat elektivní péči, pokud % dostupné kapacity klesne pod 25 - 30% a pokud obložnost lůžek JIP pacienty s COVID dosáhne 15% celkové kapacity)
+• ČR: 1380 volných JIP - 39,1 % celkové kapacity JIP
+• Hlavní město Praha: 233 volných JIP - 29,2 % celkové kapacity JIP
+• Středočeský kraj: 109 volných JIP - 42,1 % celkové kapacity JIP
+• Jihočeský kraj: 87 volných JIP - 59,2 % celkové kapacity JIP
+• Plzeňský kraj: 92 volných JIP - 40,4 % celkové kapacity JIP
+• Karlovarský kraj: 27 volných JIP - 32,5 % celkové kapacity JIP
+• Ústecký kraj: 88 volných JIP - 33,5 % celkové kapacity JIP
+• Liberecký kraj: 37 volných JIP - 37,8 % celkové kapacity JIP
+• Královéhradecký kraj: 59 volných JIP - 24,7 % celkové kapacity JIP
+• Pardubický kraj: 47 volných JIP - 37,6 % celkové kapacity JIP
+• Kraj Vysočina: 66 volných JIP - 66,7 % celkové kapacity JIP
+• Jihomoravský kraj: 199 volných JIP - 52,6 % celkové kapacity JIP
+• Olomoucký kraj: 81 volných JIP - 41,5 % celkové kapacity JIP
+• Zlínský kraj: 84 volných JIP - 60,4 % celkové kapacity JIP
+• Moravskoslezský kraj: 171 volných JIP - 35,7 % celkové kapacity JIP
+
+Podíl (%) celkové kapacity JIP obsazené pacienty s COVID
+• ČR: 219 pacientů na JIP - 6,2 % celkové kapacity JIP
+• Hlavní město Praha: 45 pacientů na JIP - 5,6 % celkové kapacity JIP
+• Středočeský kraj: 15 pacientů na JIP - 5,8 % celkové kapacity JIP
+• Jihočeský kraj: 14 pacientů na JIP - 9,5 % celkové kapacity JIP
+• Plzeňský kraj: 6 pacientů na JIP - 2,6 % celkové kapacity JIP
+• Karlovarský kraj: pacientů na JIP - % celkové kapacity JIP
+• Ústecký kraj: 20 pacientů na JIP - 7,6 % celkové kapacity JIP
+• Liberecký kraj: 4 pacientů na JIP - 4,1 % celkové kapacity JIP
+• Královéhradecký kraj: 6 pacientů na JIP - 2,5 % celkové kapacity JIP
+• Pardubický kraj: 4 pacientů na JIP - 3,2 % celkové kapacity JIP
+• Kraj Vysočina: 6 pacientů na JIP - 6,1 % celkové kapacity JIP
+• Jihomoravský kraj: 44 pacientů na JIP - 11,6 % celkové kapacity JIP
+• Olomoucký kraj: 12 pacientů na JIP - 6,2 % celkové kapacity JIP
+• Zlínský kraj: 16 pacientů na JIP - 11,5 % celkové kapacity JIP
+• Moravskoslezský kraj: 27 pacientů na JIP - 5,6 % celkové kapacity JIP
+
+V přílohách mailu dále posílám aktualizovaný přehled očkování z zdravotnických pracovníků a výskyt nákaz v těchto profesních kategoriích.
+
+  *   Stav očkování zůstává cca stejný jako v uplynulých týdnech.
+
+U aktuálně aktivně působících zdravotnických pracovníků má alespoň 1. dávku vakcinace 86 % lékařů, 79 % sesterských povolání a 76 % ostatních zdravotnických povolání.- významněji pokročilo očkování NLZP, kteří takto jako celek mají hodnoty srovnatelné s populací sester
+
+  *   očkování zásadně snížilo počet nákaz, což je velmi pozitivní fakt s ohledem na očekávaný nárůst počtu nemocných - v této sezóně by tak díky očkování nemělo docházet k masivním nákazám u personálu nemocnic - ačkoli nákazy u ZP rostou, stále jsou cca 8 - 9x níže než tomu bylo minulý rok touto dobou (viz prezentace)
+  *   tak jako v uplynulých týdnech nákazy u ZP kopírují celkovou zátěž populace, proto jsou nejvyšší v nejvíce zatížených krajích (OLK, MSK, HMP, ...)
+
+V přiložené prezentaci naleznete i vyhodnocený ochranný efekt vakcinace proti nákaze u ZP - ačkoli je patrné, že ochrana vstupem do podzimu poklesla, stále se většinou drží na  cca 68% - 70% (ochrana proti nákaze). Zásadní ovšem je ochrana proti těžkému průběhu nemoci, ta je u ZP více než 96%, od 1,9, registrujeme pouze jednotky těžkých průběhů nemoci u ZP.
+
+S úctou L .Dušek
+
+
+
+
+
+
+

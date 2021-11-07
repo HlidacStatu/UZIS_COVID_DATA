@@ -1,0 +1,16 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím týdenní aktualizovanou zprávu o stavu epidemie - analytický report s hlavními ukazateli, trendy a se srovnáním regionů. Epidemie velmi silně brzdí na hodnoty, které znamenají v mnoha regionech méně než 10 nových potvrzených případů denně - v takové situaci má smysl se více zaměřit na identifikaci subregionálních potenciálně rizikových oblastí, okresů, ORP ... k tomu zatím na populační úrovni zapojujeme stávajícímu stavu odpovídající cut offs populačních indikátorů:
+
+  *   7denní počty nově diagnostikovaných pacientů (> 25/100tis. a > 12,5/100tis.)
+  *   7denní R >=0,95
+  *   relativní pozitivitu indikovaných testů > 4%
+
+S dalšími poklesy hodnot přijdou postupně více a více na řadu lokální ohniska, clustery. Aspoň tedy doufám, že se nezačne epidemie zase plošně zvedat, ale dále dobrzdí.
+
+Vedle potenciálních ohnisek bude mít stále větší význam sledování a identifikace rizikových záchytů - první verze celkové sumarizace již v prezentaci je (počty nákaz po vakcinaci, nákazy jako reinfekce, podezřelé záchyty nemoci přímo v nemocnici, riziko mutací ... riziko importu, případně vysoce rizikové kombinace všech těchto atributů). - k tomu nyní dokončujeme denní reporting pro kraje i adresně pro KHS.
+
+V prezentaci vyznívají všechny trendy poměrně jednoznačně pozitivně, tedy klesající hodnoty ve všech regionech - i když je nutno zmínit, že v Praze se pokles v posledních dnech zastavil a 7denní záchyty zde stagnují na 15 - 16/ 100tis. obyvatel. Určující bude vývoj v dalších dnech, ostatní ukazatele stavu zde zatím nesignalizují riziko, které by nebylo pod kontrolou KHS.
+
+Budu rád za jakékoli náměty, co do tohoto přiloženého analytického souhrnu dále promítnout a doplnit. předpokládáme jeho týdenní aktualizaci celé léto + k tou regionálně specifický reporting.
+
+S úctou L. Dušek
+

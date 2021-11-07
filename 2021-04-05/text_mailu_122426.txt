@@ -1,0 +1,44 @@
+Vážené kolegyně a kolegové, dobrý den,
+
+v přílohách prosím posílám o reálná data počtů hospitalizovaných doplněné predikce zátěže nemocnic – vše dle modelů z konce února a počátku března, které již nyní definitivně expirují. Nejpozději zítra pošlu nové modely, včetně dlouhodobé predikce do května 2021, ve kterých již bude zvažován i potenciální efekt vakcinace.
+
+Toto ohlédnutí za modely z dřívějšího období má ale nicméně svůj smysl, šlo o období, kdy se republikou postupně sunula v různých fázích vlna šíření nakažlivé formy viru B.1.1.7. a zasahovala postupně všechny regiony od západu na východ. Regiony se tedy od sebe velmi lišily a nebylo možné udělat jeden model univerzálně platný pro všechny dílčí trendy – proto byly vytvořeny scénáře předpokládající růst zátěže i její pokles.
+
+Přeji Vám všem klidný sváteční den
+
+S úctou L. Dušek
+
+
+V přílohách je ucelená prezentace všech typů modelů vybudovaných na konci února a počátku března: soubor "01_predikce_ucelená_prezentace". Tento je doplněn přílohou shrnující dlouhodbé simulace vývoje v prediktivních populačních modelech (3 scénáře, z nichž se naplňuje předpoklad rychlého populačního zpomalování epidemie) - soubor "02_Populacni modely dlouhodobe".
+
+Data ukazují zásadně nové trendy týkající se hospitalizační péče: nemocnost hospitalizovaných s COVID se oproti podzimu změnila a profil hospitalizací je jiný, což krátce shrnuji v těchto bodech:
+
+  *   zátěž nemocnic netvoří pouze nově a akutně hospitalizovaní, ale i dlouhodobě nemocní, kteří obsazují lůžkové kapacity včetně JIP; až cca 25 % nemocných zůstává dlouho na lůžku, i když již jsou ve stavu COVID-
+  *   snižuje se věk nově hospitalizovaných až k hranici 65–67 let: statisticky je to dáno úbytkem velmi seniorních pacientů (proočkovanost kategorie 80+ roste, 1. dávku očkování má > 65 % osob), ale v absolutních počtech je patrné, že problémy mají ve větším počtu i mladší ročníky pacientů
+  *   částečně roste podíl pacientů, kteří musí čelit těžkému průběhu onemocnění, z úrovně 19–20 % narostl podíl na současných 22–23%
+
+Dále přikládám nový soubor "Risk mapping týdenní", který shrnuje počty nakažených zranitelných skupin pacientů v uplynulých dvou týdnech a ukazuje pravděpodobný počet nově hospitalizovaných v následujících 10 - 14 dnech (data jsou připravena na úroveň kraje i okresu, viz dva listy souboru):
+
+  *   Ačkoli jsou předpokládané počty nově hospitalizovaných stále velmi vysoké, je patrný velmi významný pokles predikované zátěže nemocnic
+  *   V prevalenci za posledních 14 dní přibylo více než 13 500 nově nakažených seniorů a potenciálně zranitelných pacientů a prediktivní model ukazuje cca na 4 500 nových hospitalizací v následujícím období. -> to znamená očekávatelné denní příjmy do nemocnic ve výši cca 300 - 400 pacientů denně, pouze ve dnech vrcholné zátěže významně přes 400.
+  *   Predikovaná zátěž nemocnic tak významně klesla ve srovnání v obdobím před cca 2 - 3 týdny, kdy byly vysoce pravděpodobné denní příjmy ve výši nad 700
+  *   Vysoké denní příjmy jsou predikovány pro demograficky velké kraje (PHA, MSK, JMK, STČ, ale např. také pro kraj Ústecký (484 nových hospitalizací v následujících 10 - 14 dnech)
+
+Relativní a standardizované srovnání zátěže regionů shrnuje soubor "Nemocnice_zatez_souhrn_kraje" (aktualizace k 3.4.2021)
+
+  *   data shrnují celkové počty hospitalizovaných registrované k 3.4. - může být částečně nedohlášeno, jde o data z weekendu a Velikonoc
+  *   přesto je patrný jednoznačný pokles nemocniční zátěže, dokládají to i data z pracovních dnů minulého týdne
+  *   podíl obsazených standardních lůžek s podporou O2 dosahuje nad celou ČR 13%, zde je patrný pokles a ten se také promítá do vyššího počtu hlášených volných kapacit (6 682 volných lůžek dle dispečinku intenzivní péče)
+  *   pokles zátěže na JIP je významně pomalejší, pacienti s COVID 19 obsazují stále více než 34% celkových kapacit, přičemž zde jsou patrné velmi významné rozdíly mezi regiony:
+     *   nejvyšší podíl obsazené kapacity vykazují kraje Liberecký a Jihočeský (> 50%), dále Středočeský (téměř 45%), Ústecký (42%) a Jihomoravský (41%).
+     *   data odrážejí nejen absolutní zátěž lůžek JIP, ale také relaci k dostupným kapacitám lůžkového fondu, které se mezi regiony podstatně liší
+
+Soubory "KKIP_vsechny_hospitalizace" a "KKIP_intenzivní_pece" shrnují aktuální vývoj počtu hospitalizovaných pro celou ČR a jednotlivé regiony a uzavírají poslední predikované období do 4.4. 2021.
+
+  *   Celkové počty všech hospitalizovaných pacientů významně klesají s dynamikou odpovídající populačnímu vývoji při R < 0,9 (potvrzuje se tím jisté zpoždění zátěže nemocnic za populačním vývojem) -> tento pokles je patrný ve všech regionech s výjimkou Zlínského a Moravskoslezského kraje, kde celkový počet stagnuje na relativně vysokých počtech (jde o kraje zasažené vysokou vlnou nákaz později, než tomu bylo u ostatních.
+  *   I přes jasný pokles zátěže vykazuje mnoho krajů stále celkového počty hospitalizovaných  blízké maximu z podzimu 2020
+  *   Počty pacientů na lůžkách JIP rovněž klesají, avšak trend poklesu je pomalejší a opožděný za celkovými počty na standardních lůžkách; stále mnoho krajů vykazuje hodnoty významně nad maximem z podzimu 2020
+     *   Absolutní počty jsou velmi rizikově vysoké (měřeno v relaci k podzimu 2020) v HMP, STČ, JHČ, PLZ, ÚSK, MSK
+     *   Velmi výrazný pokles počtu pacientů na JIP vykazují kraje nejvíce zatížené jako první v lednu/únoru - KVK, HKK, PAK
+     *   Obdobně jako u celkových počtů hospitalizovaných, stagnují počty pacientů na JIP v ZLK a MSK
+

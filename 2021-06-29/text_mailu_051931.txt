@@ -1,0 +1,16 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím tři aktualizované soubory s prediktivními modely, které dlouhodobě kultivujeme a nasazujeme pro monitoring epidemie COVID-19.
+
+Jde zejména o dlouhodobý modely SEIR - který od března zahrnuje i komponentu V (vakcinace), V této podobě (SEIRV) umožňuje modelovat vliv vakcinace v rychlém scénáři (ochrana dosažena po 1. dávce) nebo v pomalém scénáři (ochrana dosažena až s odstupem po 2. dávce). - to může být prospěšné při odhadování dopadu různých nových variant viru. Dále jde o krátkodobé modely populační, založené na předpokladu dynamiky šíření epidemie a také o stavové prediktivní modely zaměřené na klinické a zdravotní endpointy - počty hospitalizovaných, počty na JIP s těžkým průběhem a nové příjmy do nemocnic.
+
+Všechny modely jsou prezentovány pro celou ČR a také lokalizovány pro regiony - soubor "01:Predikce_ucelená prezentace" vše shrnuje, a je doplněn regionálními přílohami.
+
+Závěry lze velmi obecně formulovat takto:
+
+  *   celkově se situace v ČR jeví populačně jako stabilní, zátěž populace klesla na velmi nízké hodnoty a také ostatní indikátory jsou celkově na bezpečných hodnotách; této situaci se ale začala vymykat PRaha - zde zátěž neklesá, ale stagnuje kolem 7denní záchytů 17/100 tis. obyv. a zvýšený počet nových případů vykazují zejména mladší populační skupiny (16 - 29 let). - aktuální 7denní odhad R pro PRahu je 1,18 a toto reflektují také regionální zde přiložené modely
+  *   zátěž nemocnic progresivně klesá a potvrzuje tak stále platný ochranný efekt již s odstupem po 1. dávce vakcinace
+  *   i při velmi optimistických scénářích ale stále v létě musíme počítat s 25% - 30% osob v populaci, které budou citlivé vůči nákaze ... modely, které zahrnuly známé parametry mutace Delta ukazují, epidemie má i přes postupující vakcinaci potenciál k růstu, byť tento by již nebyl tak prudký a pravděpodobně by v létě nezasáhnul masivně zdravotnický systím
+  *   vzhledem k tomu, že Delta mutace je významně nakažlivější než předchozí varianty, v populaci nevyhnutelně převáží, pokud se bude šířit. - jeji potenciál ke komunitnímu přenosu zůstává stále vysoký ... může se v první fázi projevit stagnací, zastavením poklesu, tak jak ho nyní registrujeme např. v Praze.
+
+S úctou L. Dušek
+
+

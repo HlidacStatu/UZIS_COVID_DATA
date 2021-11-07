@@ -1,0 +1,9 @@
+Vážené kolegyně a kolegové, dobrý den
+
+- VELMI se omlouvám, bohužel řešíme úplnost dat o očkování za 1.6.. Dodavatel, který řeší jeden z importních modulů, bohužel kvůli covid certifikátům nasadil nedotestovanou verzi SW a narušilo to integritu dat reportovaných z OČM za 1.6. -> oni se to snaží napravit, ale data budou z tohoto důvodu bohužel opožděna. Nemám to nyní jak urychlit, je to nyní technicky mimo nás.
+
+
+Jakmile data budou, ihned pošleme
+
+
+L. Dušek

@@ -1,0 +1,106 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle kraj.
+
+Za včerejší den evidujeme v systému celkem 6 865 nových případů onemocnění COVID-19. Počty záchytů postupují v trendu z předchozích týdnů a při předpokládané obdobné testové kapacitě potvrzují pokles epidemie (pro srovnání pondělní hodnoty uplynulých dvou týdnů: 10 653 -> 8 240).
+
+Hodnota reprodukčního čísla odpovídá týdenním poklesům aktuálně je rovno 0,85.
+
+Včera bylo nově diagnostikováno 1 118 nových pacientů ve věku 65+ (16,3 % celku) a dále 428 nových pacientů ve věku 75+ (6,2 % celku).
+
+Srovnání krajů dokumentuje následující tabulka
+Název kraje
+Počet (%)
+Počet na 100 tis. obyv.
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+Středočeský kraj
+962 (14.0 %)
+69.5
+72.2
+53.2
+Jihomoravský kraj
+760 (11.1 %)
+63.8
+59.6
+49.6
+Moravskoslezský kraj
+754 (11.0 %)
+62.8
+57.0
+48.8
+Olomoucký kraj
+735 (10.7 %)
+116.3
+64.1
+46.4
+Hlavní město Praha
+653 (9.5 %)
+49.3
+51.1
+41.4
+Ústecký kraj
+621 (9.0 %)
+75.6
+87.8
+71.5
+Jihočeský kraj
+430 (6.3 %)
+66.8
+84.8
+64.4
+Pardubický kraj
+412 (6.0 %)
+78.8
+74.6
+55.6
+Liberecký kraj
+371 (5.4 %)
+83.6
+76.1
+59.7
+Plzeňský kraj
+340 (5.0 %)
+57.6
+60.5
+46.8
+Zlínský kraj
+262 (3.8 %)
+45.0
+57.6
+43.7
+Královéhradecký kraj
+254 (3.7 %)
+46.0
+41.1
+32.7
+Kraj Vysočina
+242 (3.5 %)
+47.5
+74.9
+55.6
+Karlovarský kraj
+50 (0.7 %)
+17.0
+23.7
+25.2
+Neznámo
+19 (0.3 %)
+
+
+
+
+Významně zvýšený denní přírůstek je zaznamenán v Olomouckém kraji, kde překročil 116 případů/100tis. pacientů. OLK je také krajem, kde je velmi vysoká a stále rostoucí zátěž intenzivní péče. Hodnoty v ostatních krajích spíše stagnují – dlouhodobý průměr v denních nárůstech klesá zejména v krajích Čech (KVK, KHK), kde se také již promítá do klesající zátěže lůžkové péče.
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (653), Olomouc (324), Brno-město (188), Karviná (184), Frýdek-Místek (181), Hodonín (180), Přerov (168), Děčín (166), Ostrava-město (165), České Budějovice (152), Prostějov (150), Mladá Boleslav (140), Praha-východ (137), Česká Lípa (135), Kladno (132).
+
+K půlnoci je evidován85 úmrtí, 84 je hlášeno z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši > 506 pacientů –jde o počet vysoký, avšak nižší ve srovnání ze začátku uplynulých týdnů (průběžná data: z toho 310 ve věku 65+ a 141 ve věku 75+) - registrujeme celkem 7 624 všech hospitalizovaných pacientů.
+
+Pondělní data z nemocnic vždy přinášejí určité navýšení počtů, protože jednak dochází k zpětnému dohlášení počtů hospitalizovaných z neděle a jednak se při startu nového týdne navyšují počty nově přijímaných pacientů.
+
+Z dat avšak vyplývá velmi pozitivní trend: nerostou počty pacientů vyžadující intenzivní péči – aktuálně registrujeme 1 606 pacientů na JIP.
+
+Data nemocnic budou upřesněna v ranním hlášení po doplnění validací.
+
+S úctou L. Dušek
+

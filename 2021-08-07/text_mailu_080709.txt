@@ -1,0 +1,18 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím aktualizovaný přehled proočkovanosti dle obcí, ORP a okresů, - struktura souborů je stejná jako v předchozích aktualizacích.
+
+Opět prosím dovolím upozornit, že u velmi malých obcí jsme limitováni velikostí vzorku a každý naočkovaný člověk nebo člověk , který změnil bydliště, potom může v určité věkové kategorii představovat relativně velké %. U několika, zejména malých, obcí došlo také k zpětné korekci dat, a může se to projevit malým poklesem v proočkovanosti (cca do 0,5 - 1%) - to může být dáno zejména zpětným upřesněním bydliště očkovaných nebo změnami v bydlišti.
+
+Celkově data opět ukazují na pozitivní posun v proočkovanosti - viz časosběrné mapy. K pozitivnímu posunu došlo zejména v příhraničních oblastech Karlovarského kraje. - nadále ale data ukazují na cca 10 (většinou příhraničních) oblastí republik, kde je proočkovanost relativně nízká, a to i ve více navzájem blízkých obcí. V těchto lokalitách by na podzim mohla vznikat plošně větší ohniska nákazy.
+
+Soubor "01" Data v Excelu  - aktualizuje data dle jednotlivých obcí, s možností vyhledávání a interaktivního třídění dat. Z dat vybírám:
+
+  *   mírně poklesl počet nenaočkovaných seniorů, nicméně stále zůstává značný - ve věku 60+ jde o cca 550 000 osob, - u nich registrujeme cca 100 tis s prodělaným onemocněním, tedy stále dle dostupných dat je primárně naivních cca 450 000 osob 60+ (z toho cca 75 000 ve věku 80+).
+  *   procenticky je nicméně proočkovanost seniorní populace značná, pouze cca 10 obcí ji má nižší než 50% - obce k málo naočkovanými seniory nejsou kumulovány dle regionů - jde spíše o omezenou místně specifickou dostupnost očkovacích míst - i počet těchto obcí poklesl od minulé aktualizace
+  *   obce s nejvyšší proočkovaností dětí do 16 let vykazují nadále max cca 37% naočkovaných v této věkové kategorii - proočkovanost v této populační kohortě je stále velmi nízká; situace se naopak zlepšuje v kategorii 30 - 49 let.
+
+Soubor "02" - prezentace - shrnuje hlavní trendy a potvrzuje, že neexistuje žádný 100% trend, který by ukazoval na nějaké typy sídel s nízkou proočkovaností. Jde o specifické lokality a prakticky v každém regionu je nějaká problematická oblast.
+
+Soubor "03" jsou mapové přílohy ukazující vývoj v čase.
+
+S úctou L. Dušek
+

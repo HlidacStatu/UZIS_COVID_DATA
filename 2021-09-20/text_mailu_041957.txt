@@ -1,0 +1,250 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Včera bylo nahlášeno 182 nově diagnostikovaných pacientů s COVID-19. Minulý týden bylo v odpovídající den potvrzeno 136 nových případů.  Jde o hlášení za neděli, a počty tak mohou být částečně zkresleny jiným objemem a strukturou testů.
+
+Týdenní počet nových záchytů je na hodnotě 28,4 případů / 100 tis. obyvatel.
+
+  *   Celo-populační reprodukční číslo dosahuje hodnoty 1,14 (7denní okno). R z 14denního okna je 1,16.
+
+  *   Celkem bylo k půlnoci z nemocnic nahlášeno 5 nových hospitalizací.
+
+Nadále platí, že největší virová nálož je registrována v populaci mladých lidí, zejména v neočkované populaci ve věku < 30 let; v řadě krajů jde ale o nárůsty i ve věkových třídách 30 - 40 a 40 - 50 let.
+
+  *   za poslední týden nejvíce narostl záchyt ve věkové kategorii 12 - 15 let: 7denní počet nových případů je na hodnotě 87,7/100 tis. obyv. této věkové třídy
+
+Z potvrzených 182 případů je:
+
+  *   138 (75,8%) neočkovaných
+  *   4 (2,2%) po 1. dávce -> z toho 2 (1,1%) více než 14 dní po 1. dávce
+  *   40 (22,0%) po 2. dávce -> z toho 37 (20,3%) více než 14 dní po 2. dávce
+
+Včera bylo potvrzeno 18 nových případů nákazy u věkové kategorie 65+, 6 neočkovaní, 0 po 1. dávce a 12 po 2. dávce očkování.
+
+Zátěž dle jednotlivých krajů shrnuje níže uvedená tabulka.
+
+  *   Praha vykazuje 7denní počet nových případů na hodnotě 47,8 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,28
+  *   Moravskoslezský kraj nyní vykazuje 39,7 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,25
+  *   Karlovarský kraj nyní vykazuje 31,7 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 0,79 (zátěž zde v posledních dnech významně klesá)
+  *   Středočeský kraj nyní vykazuje 30,2 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,15
+
+Ostatní kraje registrují nižší týdenní nárůsty počtu případů než 30/100 tis. obyvatel.
+
+V následujících okresech je registrován potenciálně rizikový vývoj, tedy nadprůměrná virová zátěž (významně vyšší než 30 případů na 100 tis. obyv. za týden) a přitom s hodnotu R > 1 nebo blízkou 1:
+Opava - 84.2; R:1.72
+Vsetín - 55.0; R:1.08
+Teplice - 48.1; R:1.55
+Praha - 47.8; R:1.21
+Frýdek-Místek - 47.1; R:1.16
+Kladno - 45.6; R:1.46
+Rakovník - 43.1; R:1.41
+Chrudim - 43.0; R:1.29
+Břeclav - 42.9; R:0.98
+Beroun - 41.5; R:1.67
+Mělník - 38.2; R:1.27
+Plzeň-město - 34.9; R:2.00
+Brno-město - 34.8; R:1.27
+Praha-východ - 34.4; R:1.20
+České Budějovice - 33.1; R:1.18
+Plzeň-jih - 32.8; R:1.15
+Praha-západ - 31.5; R:1.02
+Ostrava-město - 31.5; R:1.10
+Kutná Hora - 31.5; R:1.33
+
+Ve srovnání nárůstů v okresech (absolutní hodnoty) byly nejvyšší denní záchyty zjištěny v pořadí:
+Praha (51), Opava (14), Praha-východ (12), Teplice (9), Bruntál (7), Brno-město (7), Plzeň-město (6), Ostrava-město (6), Liberec (5), Brno-venkov (4), Břeclav (4), Frýdek-Místek (4), Karviná (3), Nový Jičín (3), Jihlava (3).
+
+Níže je uveden standardizovaný číselný souhrn
+
+S úctou L. Dušek
+
+
+
+Počty nových případů COVID-19
+- Denní nárůst 182 případů
+- 7denní nárůst 3 044 případů
+- 7denní nárůst na 100 tis. obyv.: 28,4 případů
+- K půlnoci je evidováno 0 úmrtí
+
+
+- Počet případů zachycený odpovídajícího dne minulého týdne: 136
+- Změna proti odpovídajícímu dni minulého týdne: 46 (33,8%)
+
+
+- Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 1.14
+- Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 1.16
+
+
+Z nově nakažených 182 případů je:
+- 138 (75,8%) neočkovaných
+- 4 (2,2%) po 1. dávce
+- Z toho 2 (1,1%) více než 14 dní po 1. dávce
+- 40 (22,0%) po 2. dávce
+- Z toho 37 (20,3%) více než 14 dní po 2. dávce
+
+
+
+
+Počty nových případů COVID-19 u seniorních věkových kategorií
+
+
+- Denní nárůst případů v kategorii 65+: 18 (10,0% celku)
+- Denní nárůst případů v kategorii 75+: 7 (4,0% celku)
+
+
+
+- 7denní nárůst případů v kategorii 65+: 236
+- 7denní nárůst případů v kategorii 65+/100 tis.: 10,9
+- 7denní nárůst případů v kategorii 75+: 104
+- 7denní nárůst případů v kategorii 75+/100 tis.: 12,0
+
+
+Z nově nakažených 18 případů 65+ je:
+- 6 (33,3%) neočkovaných
+- 0 (0,0%) po 1. dávce
+- Z toho 0 (0,0%) více než 14 dní po 1. dávce
+- 12 (66,7%) po 2. dávce
+- Z toho 12 (66,7%) více než 14 dní po 2. dávce
+
+
+
+
+
+Srovnání krajů dokumentuje následující tabulka:
+
+
+
+
+
+
+
+
+
+Název kraje
+Denní počet nových případů
+(přepočet
+na  100tis.obyv.)
+7denní počet nových případů na 100 tis. obyv.
+Odhad R
+ze 7denních časových úseků
+14denní počet nových případů na 100 tis. obyv.
+7denní počet testů na 100tis. obyv.
+(Dg+Epi / Prev)*
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+Hlavní město Praha
+51 (3.8)
+47.8
+1.21
+89.1
+1321.0 / 5543.5
+2.6 % / 1.3 %
+Moravskoslezský kraj
+37 (3.1)
+39.7
+1.25
+66.2
+1228.3 / 4203.1
+5.2 % / 1.6 %
+Karlovarský kraj
+6 (2.0)
+31.7
+0.79
+80.1
+853.4 / 2934.4
+7.1 % / 2.1 %
+Středočeský kraj
+20 (1.4)
+30.2
+1.15
+56.2
+972.9 / 3776.2
+2.8 % / 1.6 %
+Jihomoravský kraj
+16 (1.3)
+27.8
+1.22
+49.7
+966.7 / 3311.1
+2.6 % / 1.8 %
+Plzeňský kraj
+7 (1.2)
+27.7
+1.31
+43.3
+810.4 / 4006.3
+2.2 % / 1.3 %
+Zlínský kraj
+2 (0.3)
+26.5
+1.00
+48.1
+1213.5 / 3205.4
+2.0 % / 1.6 %
+Jihočeský kraj
+8 (1.2)
+24.2
+1.02
+48.5
+613.5 / 3278.4
+4.5 % / 1.3 %
+Pardubický kraj
+6 (1.1)
+22.8
+0.96
+47.0
+1072.4 / 3177.5
+2.5 % / 1.1 %
+Ústecký kraj
+14 (1.7)
+19.6
+1.26
+37.2
+871.8 / 3314.3
+3.3 % / 1.4 %
+Olomoucký kraj
+4 (0.6)
+19.0
+1.46
+30.5
+665.3 / 3304.7
+2.4 % / 2.2 %
+Kraj Vysočina
+3 (0.6)
+16.3
+0.76
+37.3
+756.6 / 2513.5
+2.0 % / 1.3 %
+Královéhradecký kraj
+1 (0.2)
+12.3
+0.76
+28.1
+955.7 / 3543.6
+2.6 % / 0.7 %
+Liberecký kraj
+7 (1.6)
+11.3
+1.32
+22.1
+662.9 / 2737.8
+1.6 % / 0.7 %
+ČR
+182 (1.7)
+28.4
+1.14
+52.7
+985.3 / 3797.8
+2.9 % / 1.5 %
+
+
+
+
+Zátěž nemocnic
+
+
+- Denní nové příjmy k hospitalizaci: 5
+- Aktuální počet všech hospitalizací: 147
+- Aktuální počet hospitalizací na JIP: 35
+
+
+

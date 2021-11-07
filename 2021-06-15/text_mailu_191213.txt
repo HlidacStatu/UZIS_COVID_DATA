@@ -1,0 +1,26 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím v přílohách po týdnu komplet aktualizované všechny analýzy a výsledky sledování COVID-19 ve školách, v populaci pedagogů, dětí a mladistvých. Obě prezentace jsou uvnitř doplněny průběžnými závěry a proto níže uvádím jen stručné shrnutí.
+
+Soubor "testy-skoly-aktualizace" je doplněn i daty v MS Excel.
+
+  *   Soubor potvrzuje závěry z předchozích aktualizací - tedy stabilní situaci bez viditelného růstu rizika ve školách všech typů, resp. u žáků všech věkových kategorií.
+  *   V posledním hodnoceném období (31.5. – 13.6.) je situace stabilizovaná, počty zachycených nákaz ve školách klesají nebo se ve většině krajů drží na úrovni dlouhodobého průměru. Zvýšené počty nákaz u dětí a mladistvých vykazují kraje s celkově vyšší virovou zátěží (LBK, ZLK, JČK), nikde avšak epidemie ve věkových kategoriích 5 -19 let neroste.
+  *   Relativní pozitivita prováděných testů je velmi nízká, a to i u testů indikovaných (v drtivé většině PCR) - i tento indikátor ukazuje na klesající sílu epidemie.
+  *   Virová nálož ve věkových kategoriích mladistvých (cca 15–19 let) kopíruje celkovou situaci v dospělé populaci -> proto jsou hodnoty významně zvýšené nad průměr ČR v krajích, kde je virová zátěž vyšší – zejména JČK, LBK a částečně ZLK. Ve všech těchto krajích ale nové záchyty dlouhodobě klesají, byť pomaleji než v celé ČR.
+
+Z výsledků realizovaných testů není patrná žádná významná odchylka od dosud reportovaných dat.
+
+  *   Naprostá většina AG testů u dětí je konfirmována a tedy do centrální databáze jsou hlášeny již jako testy primárně na bázi PCR výsledku. Primární záznamy AG testů u symptomatických dětí bez konfirmace pocházejí hlavně z období těsně po 12.4., nyní tvoří již jen cca 1% - 3% všech záznamů pozitivit u dětí a mladistvých.
+  *   Ne všechny záchyty ve školách jsou konfirmací a šetřením KHS potvrzeny jako související se školou a na druhé straně rovněž v populaci jsou zachytávány nákazy, které se zpětně jako asociované se školou prokáží.
+
+Důležité je, že všechny pozitivně potvrzené případy jsou šetřeny epidemiology na KHS. Tato šetření umožňují odlišit žáky pravděpodobně nakažené v souvislosti se školní docházkou. U dětí ve věku 5 – 11 let, které jsou ve škole nejdéle, prokázalo epidemické šetření KHS u 30 % ze všech zachycených nákaz souvislost se školou. Dále tento podíl nákaz souvisejících se školou klesá k 20 % (věková kategorie 12 – 15 let) a k 3 % (věková kategorie 16 – 19 let).
+
+  *
+
+Soubor "Analyza-deti-skoly" shrnuje zejména výsledky šetření KHS, nahlášené události a potenciálně rizikové záchyty ze všech typů škol.
+
+  *   Tyto zcela nezávislé zdroje dat potvrzují závěry z analýzy testů (viz výše) -> tedy, že provoz škol probíhá bez problémů a bez eskalace počtu rizikových událostí: po 12.4. je z KHS týdně hlášeno cca 20 - 30 událostí, typicky s velmi malým počtem nakažených osob (4 - 6), tedy včas podchycených.
+  *   Na vývoji se zatím rizikově neprojevilo ani rozvolňování opatření, ani postupné otevírání jednotlivých stupňů škol, včetně středních.
+  *   Situace je nadále velmi klidná i v populaci pedagogů, zejména vlivem vysokého stupně proočkovanosti
+
+S úctou L. Dušek
+

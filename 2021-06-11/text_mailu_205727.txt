@@ -1,0 +1,26 @@
+
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách po delší době aktualizované zhodnocení zátěže nemocnic z důvodu COVID-19 a krátkodobé predikce vývoje pro další období. Datové přílohy jsou stejné, jaké jsme v době extrémní zátěže dělali téměř denně, níže je stručně komentuji. Přes nadcházející weekend připravujeme nové dlouhodobé predikce vývoje na letní období - zde je ale patrné, že plošné predikce poněkud ztratí v klesající zátěži smysl a bude třeba se zaměřit na lokální potenciálně riziková ohniska a hlavně na rizikové importy nových forem viru.
+
+Celkové shrnutí zátěže nemocnic (soubory KKIP 01 až 03 + dlouhodobé predikce zátěž nemocnic)
+Postupující vakcinace je hlavním faktorem, který vede k poměrně progresivnímu poklesu zátěže nemocnic, ať již z hlediska celkového počtu hospitalizací nebo z hlediska počtu pacientů vyžadujících vysoce intenzivní péči.
+
+  *   klesající trend zátěže je patrný a významný ve všech regionech, a to včetně těch, kde je situace stále potenciálně riziková a populační virová nálož neklesá (některé okresy regionů: JČK, LBK, ZLK, OLK) ... i v těchto regionech se zátěž v populaci nepromítá do nemocnic v důsledku proočkování potenciálně zranitelných skupin obyvatel
+  *   v řadě regionů (např. KVK, KHK, PAK, VYS, ... ) jsou počty hospitalizovaných na JIP nulové nebo jednotkové a predikce se de facto nemají od čeho odrazit
+  *   velmi nízká zátěž nemocnic nám dává dlouhý reakční čas, pokud by se vývoj v populaci rizikově otáčel, dopad na nemocnice by se projevil v řádu více týdnů
+
+Výhled v počtech nových příjmů do nemocnic
+(soubor "risk-mapping týdenní")
+
+  *    soubor jednoduchou tabulkovou formou shrnuje celkovou prevalenční zátěž potenciálně zranitelnými a seniorními skupinami pacientů a od nich na základě pravděpodobnostních stavových modelů odvozuje očekávatelné počty nových hospitalizací v následujících 10 - 14 dnech – vše je provedeno pro jednotlivé kraje i okresy
+  *   počet nově nakažených potenciálně zranitelných pacientů velmi zásadně klesnul, za posledních 14 dní registrujeme 396 nákaz u věkové kategorie 65+ a 160 nákaz u kategorie 75 + -> pro nadcházející období 10 až 14 dnů modely predikují cca 160 nových hospitalizací, což znamená v průměru cca 10 nových příjmů denně (celá ČR)
+  *   v důsledku postupující vakcinace budou tyto počty nadále klesat, v průběhu června tak lze očekávat pokles celkového počtu hospitalizovaných o dalších až 50% proti současnému stavu
+
+Zátěž nemocnic v číselném souhrnu (soubor "Nemocnice_zatěž_souhrn")
+
+  *    výše uvedená fakta se promítají do klesající obložnosti lůžek z důvodu COVID-19
+  *   pacienti s COVID obsazují nyní cca 0,4% celkové kapacity lůžek s kyslíkem a méně než 1,4% lůžek JIP ... v žádném z regionů tato zátěž nepřekračuje 4 - 5%.
+
+S úctou
+
+L. Dušek
+

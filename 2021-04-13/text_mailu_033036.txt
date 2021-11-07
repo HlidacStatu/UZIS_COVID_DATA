@@ -1,0 +1,190 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Za včerejší den evidujeme v systému celkem 3 843 nových případů onemocnění COVID-19. Jde o hodnotu ukazující na další průkazný pokles zátěže v populaci, v průměru o více než 1 500 - 2 000 nižší než průměrné hodnoty pracovních dní minulého týdne. Hodnotu nelze ale plně srovnat s počátkem minulého týdne, neboť ten byl zkreslen Velikonocemi a konkrétně záchyt o Velikonočním pondělí byl velmi významně snížen (v důsledku nízkého počtu provedených testů).
+
+Právě Velikonocemi je zkreslena i hodnota 7denního odhadu reprodukčního čísla – tedy odhadu R, který pracuje s týdenním časovým oknem. Do něj spadá i výrazný propad záchytů nemoci z Velikonoc a toto referenční období je zkreslující – zejména to nastane na dnešních datech, kdy budou pondělní záchyty v relaci s Velikonočním svátkem.  Hodnota R pro výpočet ze 7denního okna ze 1,05. Pokud vezmeme okno 14denní, je odhad 0,85. Je evidentní, že epidemie dále zpomaluje.
+
+Včera bylo nově diagnostikováno 574 nových pacientů ve věku 65+ (14,9 % celku) a dále 216 nových pacientů ve věku 75+ (5,6 % celku). Absolutní počet nově diagnostikovaných potenciálně zranitelných pacientů nadále klesá v korelaci s celkovými počty záchytů, což opět indikuje, že i v této populační kohortě šíření epidemie zpomaluje. Potvrzením je klesající počet nově hospitalizovaných pacientů.
+
+Srovnání krajů dokumentuje následující tabulka
+
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+
+
+Název kraje
+
+Počet (%)
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+
+Moravskoslezský kraj
+
+607 (15.8 %)
+
+50.6
+
+44.5
+
+34.4
+
+Středočeský kraj
+
+438 (11.4 %)
+
+31.6
+
+36.4
+
+24.2
+
+Ústecký kraj
+
+404 (10.5 %)
+
+49.2
+
+51.0
+
+42.0
+
+Olomoucký kraj
+
+404 (10.5 %)
+
+63.9
+
+50.9
+
+36.7
+
+Jihomoravský kraj
+
+356 (9.3 %)
+
+29.9
+
+37.8
+
+28.3
+
+Hlavní město Praha
+
+341 (8.9 %)
+
+25.7
+
+29.5
+
+22.4
+
+Pardubický kraj
+
+219 (5.7 %)
+
+41.9
+
+48.7
+
+34.9
+
+Liberecký kraj
+
+211 (5.5 %)
+
+47.6
+
+42.7
+
+32.9
+
+Jihočeský kraj
+
+201 (5.2 %)
+
+31.2
+
+52.3
+
+39.1
+
+Kraj Vysočina
+
+189 (4.9 %)
+
+37.1
+
+52.1
+
+37.5
+
+Zlínský kraj
+
+188 (4.9 %)
+
+32.3
+
+46.3
+
+36.5
+
+Plzeňský kraj
+
+187 (4.9 %)
+
+31.7
+
+29.5
+
+21.0
+
+Královéhradecký kraj
+
+46 (1.2 %)
+
+8.3
+
+16.6
+
+13.5
+
+Karlovarský kraj
+
+45 (1.2 %)
+
+15.3
+
+13.5
+
+10.7
+
+Neznámo
+
+7 (0.2 %)
+
+
+
+
+
+
+
+
+
+Nejvyšší denní přírůstek v přepočtu na 100 tis. obyvatel je zaznamenán v krajích OLK (63,9) a MSK (50,6), a ukazuje na ozvuk zrychleného šíření epidemie v těchto krajích, kam "vlna" dorazila nejpozději. Naopak hodnoty v kraji Zlínském a Jihomoravském již klesají. Klesají i týdně kalkulované průměrní denní nárůsty, které v přepočtu na 100tis. obyvatel v některých krajích jen mírně překračují hodnotu 50 (USK, VYS, JHČ, OLK). .... ve srovnání s hodnotami před 2 - 3 týdny tedy došlo až k trojnásobnému poklesu.
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (341), Olomouc (173), Karviná (157), Ostrava-město (146), Frýdek-Místek (141), Přerov (96), Děčín (91), Česká Lípa (84), Hodonín (83), Zlín (80), Prostějov (78), Liberec (78), Kladno (77), České Budějovice (77), Brno-město (77).
+
+K půlnoci je evidováno 42 úmrtí, z toho 41 je hlášeno z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši převyšující 270 pacientů (průběžná data: z toho 167 ve věku 65+ a 74 ve věku 75+). Tato výše denní příjmů je velmi významně snížená oproti běžným počátkům pracovního týdne, kdy v uplynulých týdnech byly evidovány počty významně vyšší než 500.
+
+Celkem nyní registrujeme 5 348 všech hospitalizovaných pacientů. Další pokles evidujeme i z jednotek intenzivní péče – zde aktuálně registrujeme 1 166 pacientů na JIP.
+
+Data o hospitalizacích budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

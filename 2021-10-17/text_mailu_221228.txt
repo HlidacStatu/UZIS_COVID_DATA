@@ -1,0 +1,20 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím velkou souhrnnou prezentaci o stavu epidemie, doplněnou vybranými mapami + prezentaci v ppt o postupu vakcinace. Zítra tyto souhrny ještě doplním pravidelnou aktualizací dat z prediktivních modelů.
+
+Bohužel všechna data ukazují, že vývoj se odvíjí v souladu s tzv. realistickým scénářem predikcí - tedy při relativně stabilním objemu a struktuře testů narůstá počet nově diagnostikovaných případů a směřuje k překročení denního průměru 2000 (nyní > 1300) .... a v návaznosti na to (opět s cca 10denním zpožděním jako na jaře 2021) postupně narůstají počty hospitalizovaných. Opět v souladu s realistickým scénářem směřují celkové počty hospitalizovaných k denním počtům > 500 až 600 a denní počty těžkých případů nákazy k hodnotám > 150 v daný den na lůžku JIP. roste prevalenční zátěž populace, což jasně ukazuje narůstající relativní pozitivita diagnostických testů.
+
+Přes všechno výše napsané nejsou hodnoty žádného z indikátorů vysoce rizikové a neeskalují ... šíření epidemie je silně bržděno očkováním. Ochranný efekt vakcinace proti těžkým průběhům nákazy je u seniorní populace > 87% ... proto jsou také počty hospitalizovaných až 5x nižší než tomu bylo před rokem. Za poslední týden byli mezi nově přijatými na JIP v naprosté většině pacienti neočkovaní (76%).
+
+Bohužel v populaci nadále existují významné rizikové faktory, které mohou vývoj zhoršit. ... proto také stále kalkulujeme s rizikovými scénáři vývoje (více viz v přiložené prezentaci):
+1)Celková proočkovanost populace stále není dostatečná a v populaci existuje minimálně cca 30% vnímavých osob, které se mohou snadno nakazit. Bohužel jde i o značně velkou kohortu seniorních a potenciálně zranitelných osob (nemoc s vysokou pravděpodobností neprodělalo a není očkováno > 410 000 osob ve věku 60+ a > 280 000 osob ve věku 65+). -> V posledních dnech také narůstá počet nově nakažených seniorů. Nejde sice o trvalou rizikovou eskalaci, ale jde o trend, který může směrem do podzimu sílit. Týdenní počet případů v seniorní populaci překročil hranici 36/100 tis. osob ve věku 65+, u věkové kategorie 75+ je překročena hranice 40/100tis. osob 75+.
+2)Proočkovanost populace ve středním a mladém věku (15 – 40 let) je stále nízká (cca 52%) a otevírá tak „bránu“ k šíření nemoci mezi příslušníky nejvíce aktivní generace, tedy k šíření nejen při sociálních a volnočasových interakcích, ale i na pracovištích. -> V posledních dvou týdnech narůstá zátěž populace ve věku 30 – 50 let (týdně > 80 případů/100 tis.), opět převážně mezi neočkovanými osobami.
+3)U nejvíce zranitelných skupin osob se částečně projevuje vyčerpání ochranného efektu vakcinace. Hospitalizovaných pacientů s těžkými komplikacemi na JIP po dokončeném očkování je stále málo a převažují mezi nimi velmi seniorní ročníky (průměrný věk 75 let), pacienti s řadou polymorbidit. Nárůsty jsou ve srovnání s rokem 2020 nízké, avšak mírně narůstá počet nově nakažených seniorů po dvou dávkách očkování.
+4)V okrajových částech republiky, zejména v moravských krajích, stále evidujeme oblasti s rizikovou kumulací málo proočkovaných obcí – tyto lokality mohou být zárodkem lokálních plošných ohnisek nákazy v podzimních měsících.
+5)Existují a dále se prohlubují rozdíly ve virové zátěži regionů a okresů, které mohou být důvodem lokálních ohnisek a plošného šíření nákazy z důvodů přirozené migrace obyvatelstva. Vývoj není ve všech regionech vyrovnaný, nejvíce rizikových trendů vykazuje z řady očekávatelných důvodů Praha, dále opět populačně velké regiony s velkou migrací (za prací, do škol) jako je MSK a částečně JMK, a dále kraj Jihočeský, kde může jít o částečný vliv migrace za prací do zahraničí.
+6)Problémem jsou nákazy u cizinců prokázané na území ČR, a to zejména v Praze. Je třeba kontrolovat riziko zavlečení nových variant viru.
+
+VŠE UKAZUJE NA OBJEKTIVNÍ FAKT, ŽE PŘI VYŠŠÍ PROOČKOVANOSTI POPULACE (> 80% u populace 16+, > 90% u populace 65+) BYCHOM MĚLI EPIDEMII NAPROSTO POD KONTROLOU A POČTY HOSPITALIZOVANÝCH BY BYLY AŽ 3X NIŽŠÍ.
+
+S úctou L. Dušek
+
+
+

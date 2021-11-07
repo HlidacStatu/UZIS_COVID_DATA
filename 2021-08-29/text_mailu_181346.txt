@@ -1,0 +1,41 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím komplexní aktualizované podklady k proočkovanosti obcí, ORP a okresů. Stručně pro přehlednost popisuji obsah jednotlivých reportů níže v odrážkách, až na malé inovace jde o reporty již nastavené a data by tedy měla navazovat na již zaslané soubory.
+
+Upozornění: v týdenním srovnání mohou data zejména v malých obcích ukazovat na nelogické mírné snížení proočkovanosti. Jde o malé změny v rozsahu do 1% a tyto mohou být způsobeny zpětnou validací dat, upřesněním nebo změnou bydliště očkovaných - a v malých sídlech i změny na úrovni jednotlivců mohou vyvolat posun v datech.
+
+Soubory 01 a 02 - data v interaktivním Excelu a dále stručná prezentace v ppt, celkový přehled dat dle obcí, ORP a okresů doplněný stručnou prezentací.
+
+  *   je patrné mírné zlepšování situace, v čase klesá počet obcí s extrémně nízkou proočkovaností, celkem nyní evidujeme 18 obcí s proočkovaností populace 16+ menší než 40%; nízká proočkovanost se týká především velmi malých sídel do cca 750 - 1000 obyvatel a nadále jde více o moravské regiony než Čechy. Pouze u cca 10-11 obcí je proočkovanost populace 60+ menší než 50%.
+  *   ppt prezentace ukazuje, že započítáme-li aplikace aspoň 1 dávky a registrace/rezervace u populace věku 18+ pak zasahujeme očkováním cca 69,4% obyvatel, přičemž v kategorii 70+ je to > 90% vs. věkové třídy 16 - 39 let, kde je to ca 53%.
+  *   v čase se proočkovanost v řadě oblastí a odlehlých částí regionů zlepšila: kromě již dříve uváděného Karlovarského kraje bych zmínil dále jižní okresy Jihočeského kraje, více míst v MSK i ZLK - toto zlepšení se týká i populace 60+, což je velmi podstatné
+
+Soubor 03 shrnuje data z hlediska ORP a ukazuje na oblasti, kde spolu sousedí více obcí s nízkou proočkovaností: takové oblasti by se mohly stát na podzim základem lokálních ohnisek
+
+  *   i zde je patrné, že oblastí s kumulací méně proočkovaných obcí v rámci ORP ubývá v čase, níže kopíruji z reportu v tabulce nejvíce riziková ORP - v naprosté většině jde o odlehlé části moravských regionů
+  *   nicméně trend je pozitivní, ještě před cca 3 týdny bylo registrováno více než 40 ORP s vysokou kumulací málo proočkovaných obcí, nyní je to cca 10 - 14 ORP:
+
+Kraj    ORPkod  ORP     Počet obcí v ORP        Obce s proočkovaností < 56 %    Podíl obcí s proočkovaností < 56 %
+CZ080 Moravskoslezský kraj      8010    Jablunkov       12      11      92%
+CZ080 Moravskoslezský kraj      8021    Třinec  12      10      83%
+CZ072 Zlínský kraj      7201    Bystřice pod Hostýnem   14      11      79%
+CZ071 Olomoucký kraj    7102    Jeseník 24      18      75%
+CZ031 Jihočeský kraj    3106    Kaplice 15      11      73%
+CZ072 Zlínský kraj      7206    Rožnov pod Radhoštěm    9       6       67%
+CZ072 Zlínský kraj      7212    Vsetín  32      20      63%
+CZ053 Pardubický kraj   5305    Králíky 5       3       60%
+CZ053 Pardubický kraj   5306    Lanškroun       22      13      59%
+CZ064 Jihomoravský kraj 6405    Bučovice        20      11      55%
+CZ041 Karlovarský kraj  4104    Kraslice        8       4       50%
+CZ071 Olomoucký kraj    7112    Uničov  10      5       50%
+CZ080 Moravskoslezský kraj      8004    Český Těšín     2       1       50%
+CZ080 Moravskoslezský kraj      8022    Vítkov  12      6       50%
+
+Soubory 04 obsahují mapové přílohy a ukazují také zlepšující se trend vývoje v odlehlých částech více regionů
+
+Příloha - neočkovaní_kraje - data shrnující neočkované osoby a osoby bez záznamu o prodělání nemoci v klíčových populačních věkových kategoriích.
+
+  *   nadále registrujeme cca 526 tis. osob ve věku 60+, kteří nemají ani jednu dávku očkování, přičemž cca 95 tis. z nich má záznam o prodělání nemoci -> celkem je tak k 28.8. registrováno cca 432 000 seniorů ve věku 60+, u kterých lze důvodně předpokládat vysokou citlivost vůči nákaze (část z této kohorty ovšem mohla COVID prodělat bez pozitivního testu a část také nemůže být očkována ze zdravotních důvodů, nicméně je zde uvádíme jako potenciálně zranitelnou rizikovou skupinu bez dalších korekcí).
+
+Přeji vám krásný nedělní podvečer
+
+S úctou L. Dušek
+

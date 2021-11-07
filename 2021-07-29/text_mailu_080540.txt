@@ -1,0 +1,184 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Včera bylo nahlášeno 195 nově diagnostikovaných pacientů s COVID-19. Týdenní počet nových záchytů je na hodnotě 11,6 případů / 100 tis. obyvatel.
+
+  *   Celo-populační reprodukční číslo dosahuje hodnoty 0,86 (7denní okno) a potvrzuje tak aktuálně klesající trend virové zátěže. R z 14denního okna je 0,91.
+  *   Včera bylo nahlášeno 8 nových případů ve věkové kategorii 65+
+
+Zátěž nemocnic je nadále nízká, k půlnoci byly nahlášeny 4 nové příjmy z různých krajů.
+
+Zátěž dle jednotlivých krajů shrnuje níže uvedená tabulka.
+
+Nejvíce zatížené okresy s týdenním počtem nově potvrzených případů vyšším než 20 na 100 tis. obyvatel jsou (v tabulce je denní absolutní nárůst počtu případů a v závorce týdenní počet na 100 tis. obyv.):
+
+Plzeň-město - 77 (39.5)
+
+Klatovy - 29 (33.6)
+
+Plzeň-sever - 27 (33.5)
+
+Plzeň-jih - 20 (28.5)
+
+Praha - 348 (26.1)
+
+Praha-západ - 37 (24.3)
+
+Jablonec nad Nisou - 22 (24.0)
+
+Praha-východ - 40 (21.2)
+
+Beroun - 20 (20.7)
+
+Situace v následujících okresech je nejvíce riziková, tedy mají vyšší virovou zátěž (>25 případů na 100 tis. obyv. za týden) a přitom hodnotu R > 1 nebo blízkou 1:
+
+Plzeň-město - 39.5; R:0.99
+
+Jablonec nad Nisou - 24.0; R:1.83
+
+
+Ve srovnání nárůstů v okresech (absolutní hodnoty) byly nejvyšší denní záchyty zjištěny v pořadí:
+Praha (42), Plzeň-město (22), Pardubice (10), Plzeň-sever (7), Brno-venkov (6), Chomutov (6), Benešov (6), Nymburk (6), Tábor (5), Brno-město (5), Ostrava-město (4), Hradec Králové (4), Jablonec nad Nisou (4), Rokycany (4), Mělník (4).
+
+Níže je uveden standardizovaný číselný souhrn
+
+S úctou L. Dušek
+
+Počty nových případů COVID-19
+- Denní nárůst 195 případů
+- 7denní nárůst 1 239 případů
+- 7denní nárůst na 100 tis. obyv.: 11,6 případů
+- K půlnoci je evidováno 0 úmrtí
+- Počet případů zachycený odpovídajícího dne minulého týdne: 232
+- Změna proti odpovídajícímu dni minulého týdne: - 37 (-16,0%)
+- Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 0.86
+- Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 0.91
+Počty nových případů COVID-19 u seniorních věkových kategorií
+- Denní nárůst případů v kategorii 65+: 8 (4,0% celku)
+- Denní nárůst případů v kategorii 75+: 5 (3,0% celku)
+- 7denní nárůst případů v kategorii 65+: 53
+- 7denní nárůst případů v kategorii 65+/100 tis.: 2,5
+- 7denní nárůst případů v kategorii 75+: 23
+- 7denní nárůst případů v kategorii 75+/100 tis.: 2,7
+Srovnání krajů dokumentuje následující tabulka:
+Název kraje
+Denní počet nových případů
+(přepočet
+na  100tis.obyv.)
+7denní počet nových případů na 100 tis. obyv.
+Odhad R
+ze 7denních časových úseků
+14denní počet nových případů na 100 tis. obyv.
+7denní počet testů na 100tis. obyv.
+(Dg+Epi / Prev)*
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+Plzeňský kraj
+37 (6.3)
+27.9
+0.82
+63.1
+842.9 / 5814.5
+3.3 % / 2.1 %
+Hlavní město Praha
+42 (3.1)
+26.1
+0.73
+65.5
+1785.4 / 9063.9
+1.1 % / 0.5 %
+Středočeský kraj
+30 (2.1)
+14.2
+0.81
+33.4
+1123.0 / 6282.6
+1.4 % / 0.5 %
+Liberecký kraj
+8 (1.8)
+12.4
+1.25
+21.2
+933.8 / 4753.9
+2.7 % / 0.6 %
+Pardubický kraj
+11 (2.1)
+9.9
+1.49
+18.6
+1454.9 / 5229.5
+0.7 % / 0.3 %
+Jihočeský kraj
+11 (1.7)
+9.0
+1.07
+16.6
+656.4 / 4745.9
+2.9 % / 0.3 %
+Jihomoravský kraj
+14 (1.2)
+8.6
+1.27
+15.2
+1485.2 / 5443.2
+0.5 % / 0.2 %
+Ústecký kraj
+12 (1.5)
+7.5
+1.20
+13.2
+1169.3 / 4856.3
+2.2 % / 0.3 %
+Kraj Vysočina
+4 (0.8)
+6.7
+1.00
+13.2
+1137.7 / 5261.3
+1.1 % / 0.3 %
+Zlínský kraj
+2 (0.3)
+5.9
+0.89
+11.2
+1878.2 / 5558.7
+0.6 % / 0.2 %
+Královéhradecký kraj
+10 (1.8)
+5.8
+1.07
+12.5
+1178.6 / 5688.4
+0.9 % / 0.1 %
+Karlovarský kraj
+0 (0.0)
+5.1
+0.48
+15.3
+1020.1 / 4657.9
+3.0 % / 0.3 %
+Moravskoslezský kraj
+9 (0.8)
+4.8
+0.63
+12.5
+1597.6 / 6109.7
+1.1 % / 0.1 %
+Olomoucký kraj
+2 (0.3)
+2.9
+0.62
+9.0
+991.2 / 5238.7
+0.5 % / 0.1 %
+ČR
+195 (1.8)
+11.6
+0.86
+25.8
+1309.3 / 6074.5
+1.2 % / 0.4 %
+________________________________
+Zátěž nemocnic
+- Denní nové příjmy k hospitalizaci: 4
+- Aktuální počet všech hospitalizací: 47
+- Aktuální počet hospitalizací na JIP: 9
+

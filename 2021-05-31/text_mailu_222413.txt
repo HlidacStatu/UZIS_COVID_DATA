@@ -1,0 +1,16 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím tři pravidelně aktualizované přehledy s vybranými výstupy epidemiologických a klinických prediktivních modelů.
+
+  *   soubor "01" je ucelenou prezentací vybraných výstupů a shrnuje již i některé nové dlouhodobější scénáře
+  *   soubory "02" a "03" lokalizují krátkodobé i dlouhodobé modely a predikce pro jednotlivé regiony a tyto jsou doplněny reálnými naměřenými počty nově diagnostikovaných případů, hospitalizovaných apod.
+
+Jde o poslední prezentace k těmto modelům - řada z nich byla kalibrována k 5.3. 2021 a pro období června a července postavíme tento týden modely jiné.
+
+Celkové závěry z modelů jsou velmi stručně tyto:
+
+  *   pro jakékoli predikce již musíme povinně kalkulovat s vakcinací, její postup zásadně přispívá k brždění epidemie ... jako validní se přitom ukazují modely, které vyřazují z populace jako rezistentního již člověka po 14 dnech od 1. dávky vakcíny
+  *   reálný vývoj počtu nově potvrzených případů ukazuje na významné zpomalování epidemie ve všech regionech a zatím v datech není patrný vliv rozvolňování .... nutno napsat zatím, protože poslední krok v rozvolnění všeho k 31.5. se v datech ještě projevit samozřejmě nemohl
+  *   situace tedy zatím vypadá stabilní, - ale i přes pozitivní vývoj modely stále potvrzují, že v populaci je cca 30% k nákaze potenciálně citlivých osob, brždění epidemie není rozhodně u konce a riziko zejména lokálních vzplanutí stále není nulové
+  *   postupující vakcinace nicméně zásadně redukuje počet nových nákaz u potenciálně zranitelných skupin obyvatel a v důsledku toho silně klesá zátěž nemocnic – a to ve všech regionech ... pokud tento vývoj nenaruší nějaké vnější vlivy (mutace) anebo poslední prudké rozvolnění, pak zátěž nemocnic klesne k jednotkám případů denně do 2 - 3 týdnů; během této doby také uvidíme jaký vývoj nastal a zda se rozvolnění k 31.5. projevuje.
+
+S úctou L. Dušek
+

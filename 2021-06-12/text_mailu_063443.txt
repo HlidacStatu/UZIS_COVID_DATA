@@ -1,0 +1,307 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Kumulativní 7denní počet prokázaných případů na 100tis. obyvatel klesnul na hodnotu 14,5.  Hodnota reprodukčního čísla (7denní časové okno) je 0,66 - 0,75. Mezi-týdenní poklesy virové nálože v populaci pokračují a nyní dosahují cca - 25% až - 30%.
+
+  *   souběžně s poklesem virové nálože v populaci klesá i zátěž nemocnic - a to v průměru k 10 - 15 nově přijímaným pacientům denně a celkový počet hospitalizací významně klesá (včera bylo nahlášeno 9 nových příjmů)
+
+Pouze Jihočeský kraj zůstává na hodnotě 7denního počtu případů na 100 tis. obyvatel nad hranicí 25/100 tis. (7denními počet potvrzených případů zde je 28,1 na 100 tis. obyvatel).  i tento kraj tedy jako celek začal klesat, ještě na počátku týdne zde byla tato hodnota kolem 37/100 tis. obyv. Zásadní je, že i v JČK je stabilní situace v nemocnicích a počty hospitalizovaných nerostou.
+
+Další dva kraje, u kterých byly na počátku týdne hodnoty zvýšené, významně v zátěži klesají - kraj Liberecký (nyní 23,5 týdenních záchytů nemoci na 100 tis. obyv.) a kraj Zlínský (nyní 15,7 týdenních záchytů nemoci na 100 tis. obyv.).
+
+Ve srovnání nárůstů v okresech (absolutní hodnoty) byly nejvyšší denní záchyty zjištěny v pořadí: Praha (27), České Budějovice (21), Klatovy (8), Ostrava-město (6), Šumperk (5), Liberec (5), Brno-venkov (5), Plzeň-město (5), Chomutov (4), Příbram (4), Český Krumlov (4), Prachatice (4), Brno-město (4), Jihlava (4), Opava (4).
+
+Okresy s nejvyšší hodnotou 7denního počtu nových případů na 100 tis. obyv. jsou (hodnota > 25/100 tis. obyv.):
+
+Český Krumlov - 62.0
+
+České Budějovice - 50.9
+
+Klatovy - 40.6
+
+Prachatice - 35.4
+
+Šumperk - 35.0
+
+Domažlice - 30.8
+
+Liberec - 29.6
+
+Mezi okresy s nejvyšší zátěží stále zůstávají Č. Krumlov, Č. Budějovice a Klatovy - hodnoty indikátorů se zde ale nezhoršují a mají spíše klesající trend. S výjimkou Domažlic je u všech výše uvedených okresů s vyšší zátěží hodnota reprodukčního čísla aktuálně nižší než 1.
+
+Níže je uveden standardizovaný číselný souhrn
+
+S úctou L. Dušek
+
+
+Počty nových případů COVID-19
+
+-    Denní nárůst 180 případů
+-    7denní nárůst 1 547 případů
+-    7denní nárůst na 100 tis. obyv.: 14,5 případů
+-    K půlnoci je evidováno  1 úmrtí
+
+-    Počet případů zachycený odpovídajícího dne minulého týdne:  319
+-    Změna proti odpovídajícímu dni minulého týdne: - 139 (-43,6%)
+
+-    Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 0.66
+-    Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 0.72
+
+Počty nových případů COVID-19 u seniorních věkových kategorií
+
+-    Denní nárůst případů v kategorii 65+:  9 (5,0% celku)
+-    Denní nárůst případů v kategorii 75+:  3 (2,0% celku)
+
+-    7denní nárůst případů v kategorii 65+:  118
+-    7denní nárůst případů v kategorii 65+/100 tis.: 5,5
+-    7denní nárůst případů v kategorii 75+:  52
+-    7denní nárůst případů v kategorii 75+/100 tis.: 6,0
+
+
+
+Srovnání krajů dokumentuje následující tabulka:
+
+Název kraje
+
+Denní počet nových případů
+
+(přepočet
+
+na  100tis.obyv.)
+
+7denní počet nových případů na 100 tis. obyv.
+
+Odhad R
+
+ze 7denních časových úseků
+
+14denní počet nových případů na 100 tis. obyv.
+
+7denní počet testů na 100tis. obyv.
+
+(Dg+Epi / Prev)*
+
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+
+Jihočeský kraj
+
+31 (4.8)
+
+28.1
+
+0.77
+
+63.9
+
+1202.2 / 7635.4
+
+2.5 % / 1.8 %
+
+Liberecký kraj
+
+8 (1.8)
+
+23.5
+
+0.66
+
+59.4
+
+1407.5 / 9167.5
+
+2.5 % / 1.4 %
+
+Plzeňský kraj
+
+16 (2.7)
+
+17.9
+
+0.74
+
+42.0
+
+1014.0 / 8253.7
+
+0.8 % / 2.4 %
+
+Hlavní město Praha
+
+27 (2.0)
+
+16.9
+
+0.74
+
+40.4
+
+2504.3 / 11088.4
+
+0.5 % / 0.4 %
+
+Zlínský kraj
+
+6 (1.0)
+
+15.7
+
+0.50
+
+51.5
+
+2492.4 / 10841.6
+
+2.0 % / 0.4 %
+
+Moravskoslezský kraj
+
+17 (1.4)
+
+15.2
+
+0.56
+
+43.4
+
+2070.0 / 9549.7
+
+1.4 % / 0.5 %
+
+Kraj Vysočina
+
+10 (2.0)
+
+14.9
+
+0.99
+
+31.2
+
+1720.1 / 7456.0
+
+1.1 % / 0.5 %
+
+Olomoucký kraj
+
+13 (2.1)
+
+13.6
+
+0.66
+
+37.0
+
+1223.3 / 8166.4
+
+1.0 % / 0.9 %
+
+Středočeský kraj
+
+16 (1.1)
+
+13.2
+
+0.73
+
+31.1
+
+1495.8 / 8720.3
+
+0.8 % / 0.6 %
+
+Ústecký kraj
+
+8 (1.0)
+
+12.2
+
+0.65
+
+30.7
+
+1519.7 / 7305.6
+
+1.6 % / 0.5 %
+
+Jihomoravský kraj
+
+17 (1.4)
+
+11.3
+
+0.59
+
+31.5
+
+1456.2 / 8864.3
+
+0.9 % / 0.6 %
+
+Pardubický kraj
+
+4 (0.8)
+
+8.2
+
+0.47
+
+27.0
+
+1891.7 / 9040.0
+
+0.8 % / 0.4 %
+
+Karlovarský kraj
+
+2 (0.7)
+
+5.8
+
+1.55
+
+8.5
+
+1066.1 / 7329.4
+
+0.9 % / 0.2 %
+
+Královéhradecký kraj
+
+3 (0.5)
+
+2.7
+
+0.39
+
+10.0
+
+1426.5 / 8940.2
+
+0.8 % / 0.1 %
+
+ČR
+
+180 (1.7)
+
+14.5
+
+0.66
+
+37.0
+
+1700.7 / 9123.3
+
+1.0 % / 0.6 %
+
+
+
+
+
+
+Zátěž nemocnic
+
+-    Denní nové příjmy k hospitalizaci:  9
+-    Aktuální počet všech hospitalizací:  207
+-    Aktuální počet hospitalizací na JIP:  41
+
+
+

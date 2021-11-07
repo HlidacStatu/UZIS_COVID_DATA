@@ -1,0 +1,66 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím plnou sadu reportů a analýz, mapy a soubory s daty o proočkovanosti obcí, ORP a regionů.
+
+Na úvod opět upozorňuji, že zejména ve velmi malých sídlech, obcích, může v čase dojít i ke zpětné mírné korekci proočkovanosti - a to i tak že tato mírně poklesne. V nejmenších sídlech je každý člověk na hodnotách viditelný a zpětně může dojít ke korekcím záznamů o bydlišti či změně validací dat.
+
+Datové soubory "01" jsou nově doplněny nejen na úroveň obcí, ale ukazují i srovnání okresů a ORP - vždy v rozdělení dle věkových kategorií
+
+CELKOVĚ POZITIVNÍ ZPRÁVOU JE, ŽE SE OČKOVÁNÍ V POSLEDNÍM TÝDNU ZRYCHLILO A VÝZNAMNĚJI POKLESL I POČET NECHRÁNĚNÝCH SENIORNÍCH SKUPIN OBYVATEL (VIZ SOUBOR PŘÍLOHA 01)
+
+  *   Nově evidujeme cca 277 tis. osob ve věku 65+, kteří nejsou pravděpodobně chráněni ani proděláním nemoci, ani očkováním (pokles o cca 3 - 4 tisíce proti minulému týdnu)
+  *   Nově evidujeme cca 404 tis. osob ve věku 60+, kteří nejsou pravděpodobně chráněni ani proděláním nemoci, ani očkováním (pokles o cca 6 tisíc proti minulému týdnu)
+
+Přiložené soubory 01 a 02 (data a prezentace) shrnují současný stav poočkovanosti dle velikosti sídel. - v datech lze snadno vyfiltrovat obce/ORP/okresy dle charakteristik a dle regionální příslušnosti.
+
+Nízkou proočkovanost seniorů 60+ (50% této populace a méně) hlásí 12 obcí z různých krajů; ve srovnání s předchozím týdnem došlo k nárůstu proočkovanosti populace seniorů a počet obcí s významně nízkou proočkovaností poklesl:
+
+Kraj    Obec    populace        očkovaní        neočkovaní
+CZ072 Zlínský kraj      Vyškovec        30      30,0%   21
+CZ032 Plzeňský kraj     Chlumy  73      34,2%   48
+CZ032 Plzeňský kraj     Hvožďany (Domažlice)    10      40,0%   6
+CZ063 Kraj Vysočina     Hornice 19      42,1%   11
+CZ041 Karlovarský kraj  Vřesová 40      42,5%   23
+CZ032 Plzeňský kraj     Hamry (Klatovy) 40      45,0%   22
+CZ041 Karlovarský kraj  Nová Ves (Sokolov)      42      47,6%   22
+CZ071 Olomoucký kraj    Podolí (Přerov) 57      49,1%   29
+CZ053 Pardubický kraj   Tetov   59      49,2%   30
+CZ032 Plzeňský kraj     Štítov  14      50,0%   7
+CZ042 Ústecký kraj      Staňkovice (Litoměřice) 4       50,0%   2
+CZ053 Pardubický kraj   Selmice 38      50,0%   19
+
+Soubory 03 shrnují proočkovanost z pohledu ORP - zejména jsou zde identifikovány oblasti, kde spolu sousedí více obcí s nízkou úrovní proočkovanosti
+Soubor 04 jsou aktualizované a doplněné mapové podklady
+
+Nejvíce rizikové ORP (s kumulací více než 50 % vzájemně blízkých nebo sousedících obcí s malou proočkovaností) přičemž hranice proočkovanosti je zde nastavena na 60% - tedy následující OPR kumulují více než 50% svých obcí, které mají proočkovanost populace 16+ nižší  než 60%):
+Kraj    ORPkod  ORP     Počet obcí v ORP        Obce s proočkovaností < 60 %    Podíl obcí s proočkovaností < 60 %
+CZ080 Moravskoslezský kraj      8010    Jablunkov       12      12      100%
+CZ072 Zlínský kraj      7206    Rožnov pod Radhoštěm    9       8       89%
+CZ072 Zlínský kraj      7201    Bystřice pod Hostýnem   14      12      86%
+CZ071 Olomoucký kraj    7102    Jeseník 24      20      83%
+CZ080 Moravskoslezský kraj      8021    Třinec  12      9       75%
+CZ031 Jihočeský kraj    3106    Kaplice 15      11      73%
+CZ072 Zlínský kraj      7210    Valašské Meziříčí       18      13      72%
+CZ072 Zlínský kraj      7212    Vsetín  32      23      72%
+CZ080 Moravskoslezský kraj      8016    Odry    10      7       70%
+CZ080 Moravskoslezský kraj      8015    Nový Jičín      16      11      69%
+CZ053 Pardubický kraj   5306    Lanškroun       22      14      64%
+CZ053 Pardubický kraj   5305    Králíky 5       3       60%
+CZ071 Olomoucký kraj    7111    Šumperk 36      21      58%
+CZ080 Moravskoslezský kraj      8022    Vítkov  12      7       58%
+CZ071 Olomoucký kraj    7104    Lipník nad Bečvou       14      8       57%
+CZ071 Olomoucký kraj    7106    Mohelnice       14      8       57%
+CZ064 Jihomoravský kraj 6405    Bučovice        20      11      55%
+CZ080 Moravskoslezský kraj      8003    Bruntál 31      17      55%
+CZ032 Plzeňský kraj     3215    Tachov  27      14      52%
+CZ071 Olomoucký kraj    7112    Uničov  10      5       50%
+CZ080 Moravskoslezský kraj      8004    Český Těšín     2       1       50%
+
+Příloha 02 obsahuje sumární tabulky s daty o osobách, které prodělaly COVID - je zde kvantifikováno kolik z nich je již očkovaných - po krajích, dle věkových skupin
+
+  *   Celkem evidujeme 1 708 918 osob se záznamem o prodělané nemoci a z nich 972 297 osob má alespoň jednu dávku očkování (tj. cca 57%)
+
+Přeji všem krásný sobotní večer
+
+S úctou L. Dušek
+
+
+

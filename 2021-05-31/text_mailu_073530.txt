@@ -1,0 +1,58 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím denní ranní zprávu o stavu zátěže nemocnic, v datových přílohách mailu potom zejména přehledy dle jednotlivých krajů a zařízení.
+
+Nadále pokračuje trend poklesu zátěže nemocnic, počty propouštěných pacientů významně převyšují příjmy a pokles zátěže pokračuje zejména na intenzivní péči. Celková obložnost lůžek JIP z důvodu COVID-19 poklesla na 3,0%.
+
+Na počátku pracovního týdne dojde k částečnému navýšení nových příjmů, které by ale nemělo být významné a bude jednorázové (typický výkyv po weekendu). Dle všech prediktivních modelů bude zátěž nemocnic nadále klesat, neboť klesá počet potenciálně zranitelných pacientů mezi nově nakaženými a prevalenční pool je stále méně rizikový.
+
+  *   celkový počet pacientů s COVID v nemocnicích klesá ve všech regionech, a to rychlostí minimálně 20% týdně – aktuálně je registrováno 491 pacientů na lůžku
+  *   Klesá zátěž intenzivní péče – hlášeno je 114 pacientů na JIP, z toho 49 s vysoce intenzivní léčbou typu UPV / ECMO
+
+S úctou L. Dušek
+
+
+Celkový souhrn situace v ČR
+• Celkem hospitalizovaných bylo včera 491.
+• Hospitalizovaní tvoří 4,4 % z celkem pozitivních.
+• Těžký průběh onemocnění a na JIP je hlášeno u 114 osob, 45x UPV, 4x ECMO.
+• Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 18,9 %.
+• Potvrzeno 1 úmrtí.
+
+Nově přijatí pacienti
+• Celkem 15 nově přijatých pacientů.
+• Průměrný věk nově přijatých pacientů činí 58 let.
+• Těžký stav je hlášen u 1 nově přijatých pacientů, stav střední je hlášen 6x.
+• Nejvíce příjmů bylo v následujících krajích: HMP(3), JHC(2), MSK(2).
+
+Nově propuštění pacienti
+• Za 30.05.2021: celkem 12 propuštěných pacientů.
+• Za 29.05.2021: celkem 19 propuštěných pacientů.
+• Za 28.05.2021: celkem 97 propuštěných pacientů.
+
+Zátěž dle krajů a nemocnic
+• Nejvíce pacientů je v následujících krajích (z toho na JIP): MSK 88 (18), ZLK 85 (13), JMK 81 (23).
+• UPV potřebuje nejvíce pacientů v JMK 81 (9), ZLK 85 (8), ULK 34 (6).
+• ZZ s více jak 30 pacienty:
+Krajská nemocnice T. Bati, a. s. (34).
+
+Dostupné kapacity dle dispečinku IP
+• UPV - volná kapacita ( 665 lůžek), tj. 30,2 % celku. ECMO - volná kapacita ( 61 přístrojů), tj. 68,5 % celku.
+• JIP lůžka (HFNO+UPV): volná kapacita COVID+ 936 lůžek (+ volná kapacita pro COVID- pacienty 686 lůžek).
+• Stand. lůžka s O2: volná kapacita COVID+ 1 605 lůžek (+ volná kapacita pro COVID- pacienty 4981 lůžek).
+
+Podíl (%) celkové kapacity JIP obsazené pacienty s COVID
+• ČR: 114 pacientů na JIP - 3,0 % celkové kapacity JIP
+• Hlavní město Praha: 12 pacientů na JIP - 1,4 % celkové kapacity JIP
+• Středočeský kraj: 6 pacientů na JIP - 2,2 % celkové kapacity JIP
+• Jihočeský kraj: 3 pacientů na JIP - 1,9 % celkové kapacity JIP
+• Plzeňský kraj: 6 pacientů na JIP - 2,5 % celkové kapacity JIP
+• Karlovarský kraj: pacientů na JIP - % celkové kapacity JIP
+• Ústecký kraj: 11 pacientů na JIP - 3,9 % celkové kapacity JIP
+• Liberecký kraj: 6 pacientů na JIP - 5,2 % celkové kapacity JIP
+• Královéhradecký kraj: 2 pacientů na JIP - 0,8 % celkové kapacity JIP
+• Pardubický kraj: 4 pacientů na JIP - 3,1 % celkové kapacity JIP
+• Kraj Vysočina: 2 pacientů na JIP - 1,7 % celkové kapacity JIP
+• Jihomoravský kraj: 23 pacientů na JIP - 5,6 % celkové kapacity JIP
+• Olomoucký kraj: 8 pacientů na JIP - 4,0 % celkové kapacity JIP
+• Zlínský kraj: 13 pacientů na JIP - 7,7 % celkové kapacity JIP
+• Moravskoslezský kraj: 18 pacientů na JIP - 3,4 % celkové kapacity JIP
+

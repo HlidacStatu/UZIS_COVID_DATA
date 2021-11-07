@@ -1,0 +1,190 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Za včerejší den evidujeme v systému celkem 976 nových případů onemocnění COVID-19. Počet denně potvrzených případů je hlášením z neděle, kdy je nutné očekávat významné snížení počtu prováděných testů, údaj tedy není reprezentativní pro hodnocení časových trendů. I tak ale částečně potvrzuje další zpomalování epidemie, pro srovnání – minulou neděli bylo registrováno 1 923 případů a o Velikonočním pondělí 1 417.
+
+Právě Velikonocemi je zkreslena i hodnota 7denního reprodukčního čísla – tedy odhadu R, který pracuje s týdenním časovým oknem. Do něj spadá i výrazný propad záchytů nemoci z Velikonoc a toto referenční období je zkreslující – zejména to nastane na dnešních datech, kdy budou pondělní záchyty v relaci s Velikonočním svátkem.  Hodnota R pro výpočet ze 7denního okna ze 0,96. Pokud vezmeme okno 14denní, je odhad 0,87. Je evidentní, že epidemie dále zpomaluje.
+
+Včera bylo nově diagnostikováno 199 nových pacientů ve věku 65+ (20,4 % celku) a dále 79 nových pacientů ve věku 75+ (8,1 % celku). Absolutní počet nově diagnostikovaných potenciálně zranitelných pacientů klesá v korelaci s celkovými počty záchytů, což opět indikuje, že i v této populační kohortě šíření epidemie zpomaluje. Potvrzením je klesající počet nově hospitalizovaných pacientů - tento začal klesat již od poloviny minulého týdne, nejde tedy o artefakt weekendu.
+
+Srovnání krajů dokumentuje následující tabulka
+
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+
+
+Název kraje
+
+Počet (%)
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+
+Hlavní město Praha
+
+149 (15.3 %)
+
+11.3
+
+27.8
+
+21.0
+
+Středočeský kraj
+
+134 (13.7 %)
+
+9.7
+
+34.3
+
+22.8
+
+Ústecký kraj
+
+129 (13.2 %)
+
+15.7
+
+46.4
+
+41.5
+
+Moravskoslezský kraj
+
+105 (10.8 %)
+
+8.7
+
+38.9
+
+31.0
+
+Zlínský kraj
+
+86 (8.8 %)
+
+14.8
+
+44.2
+
+36.4
+
+Jihomoravský kraj
+
+86 (8.8 %)
+
+7.2
+
+34.6
+
+26.2
+
+Královéhradecký kraj
+
+57 (5.8 %)
+
+10.3
+
+17.3
+
+15.0
+
+Liberecký kraj
+
+49 (5.0 %)
+
+11.0
+
+36.9
+
+27.3
+
+Kraj Vysočina
+
+41 (4.2 %)
+
+8.0
+
+50.1
+
+36.0
+
+Pardubický kraj
+
+37 (3.8 %)
+
+7.1
+
+45.3
+
+31.9
+
+Plzeňský kraj
+
+34 (3.5 %)
+
+5.8
+
+25.7
+
+17.7
+
+Olomoucký kraj
+
+29 (3.0 %)
+
+4.6
+
+42.4
+
+31.7
+
+Jihočeský kraj
+
+27 (2.8 %)
+
+4.2
+
+50.3
+
+37.8
+
+Karlovarský kraj
+
+13 (1.3 %)
+
+4.4
+
+12.9
+
+10.9
+
+Neznámo
+
+0 (0.0 %)
+
+
+
+
+
+
+
+
+
+Nedělní hodnoty jsou snížené ve všech regionech a maskují tak rozdíly mezi kraji. Tyto nadále existují a jsou patrné z denních průměrů kalkulovaných z hodnot týdne po standardizaci na 100 tis. obyvatel. I tyto 7denní průměry dlouhodobě klesají, a to zejména v regionech, které byly zrychleným šířením epidemie po Vánocích zasaženy jako první - tedy zejména KVK, HKK. Tento pokles se týká i potenciálně zranitelných skupin obyvatel, v tabulce jako věková kategorie 65+.
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (149), Zlín (45), Ostrava-město (38), Liberec (34), Uherské Hradiště (32), Brno-město (29), Teplice (29), Jihlava (28), Benešov (27), Ústí nad Labem (24), Most (24), Rychnov nad Kněžnou (22), Brno-venkov (22), Hradec Králové (21), Děčín (21).
+
+K půlnoci je evidováno 43 úmrtí, všechna jsou hlášena z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši převyšující 180 pacientů (průběžná data: z toho 108 ve věku 65+ a 53 ve věku 75+). Prokazatelně nižší příjmy do nemocnic ve srovnání s předchozím týdnem jsou významným potvrzením klesajícího trendu v zátěži nemocnic. Toto srovnání platí i ve vztahu k velikonočním svátkům, aktuální počty nově přijímaných pacientů jsou nižší.
+
+Celkem nyní registrujeme 5 070 všech hospitalizovaných pacientů. Tento počet bude ale z nemocnic po weekendu částečně nedohlášen, a bude doplněn v průběhu dne. Další pokles avšak evidujeme z jednotek intenzivní péče – zde aktuálně registrujeme 1 190 pacientů na JIP.
+
+Data o hospitalizacích budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

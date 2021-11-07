@@ -1,0 +1,58 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím denní ranní zprávu o stavu zátěže nemocnic, v datových přílohách mailu potom zejména přehledy dle jednotlivých krajů a zařízení.
+
+Situace v nemocnicích zůstává stabilní, zátěž je nízká a neroste v žádném z krajů. Nízké denní příjmy k hospitalizaci v důsledku COVID se dlouhodobě pohybují pod průměrem 5 pacientů.
+
+Aktuálně nemocnice hlásí 32 hospitalizací, z toho 8 na JIP a z toho 2 UPV. Nevyšší počty hospitalizovaných hlásí trvale Praha - celkem 14, z toho 5 na JIP. Pražská populace generuje velkou část aktuálních hospitalizací, ale ani v tomto regionu počty významně nerostou.
+Celkové počty hospitalizovaných zůstávají nízké, obložnost lůžek JIP z důvodu COVID-19 je na 0,2% celkové kapacity.
+
+  *   za včerejšek byly k půlnoci nahlášeny 2 nové příjmy
+  *   predikce na další týdny jsou rovněž pozitivní, v prevalenci je velmi málo potenciálně zranitelných a aktuálně nakažených pacientů; počty denně nově nakažených osob ve věku 65+ se pohybují v nízkých jednotkách
+
+S úctou L. Dušek
+
+Celkový souhrn situace v ČR
+• Celkem hospitalizovaných bylo včera 32.
+• Hospitalizovaní tvoří 1,1 % z celkem pozitivních.
+• Těžký průběh onemocnění a na JIP je hlášeno u 8 osob, 2x UPV, 0x ECMO.
+• Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 12,5 %.
+• Potvrzeno 0 úmrtí.
+
+Nově přijatí pacienti
+• Celkem 2 nově přijatí pacienti
+• Průměrný věk nově přijatých pacientů činí 60 let.
+• Těžký stav je hlášen u 0 nově přijatých pacientů, stav střední je hlášen 0x.
+• Nejvíce příjmů bylo v následujících krajích: JMK(1), HKK(1).
+
+Nově propuštění pacienti
+• Za 25.07.2021: celkem 2 propuštěných pacientů.
+• Za 24.07.2021: celkem 2 propuštěných pacientů.
+• Za 23.07.2021: celkem 6 propuštěných pacientů.
+
+Zátěž dle krajů a nemocnic
+• Nejvíce pacientů je v následujících krajích (z toho na JIP): HMP 14 (5), MSK 6 (2), JMK 4 (0).
+• UPV potřebuje nejvíce pacientů v HMP 14 (2), KVK 1 (0), JMK 4 (0).
+• ZZ s více jak 30 pacienty:
+V žádné nemocnici není více, než 30 pacientů.
+
+Dostupné kapacity dle dispečinku IP
+• UPV - volná kapacita ( 636 lůžek), tj. 29,7 % celku. ECMO - volná kapacita ( 67 přístrojů), tj. 77,9 % celku.
+• JIP lůžka (HFNO+UPV): volná kapacita COVID+ 811 lůžek (+ volná kapacita pro COVID- pacienty 741 lůžek).
+• Stand. lůžka s O2: volná kapacita COVID+ 1 189 lůžek (+ volná kapacita pro COVID- pacienty 4949 lůžek).
+
+Podíl (%) celkové kapacity JIP obsazené pacienty s COVID
+• ČR: 8 pacientů na JIP - 0,2 % celkové kapacity JIP
+• Hlavní město Praha: 5 pacientů na JIP - 0,6 % celkové kapacity JIP
+• Středočeský kraj: pacientů na JIP - % celkové kapacity JIP
+• Jihočeský kraj: pacientů na JIP - % celkové kapacity JIP
+• Plzeňský kraj: pacientů na JIP - % celkové kapacity JIP
+• Karlovarský kraj: pacientů na JIP - % celkové kapacity JIP
+• Ústecký kraj: pacientů na JIP - % celkové kapacity JIP
+• Liberecký kraj: pacientů na JIP - % celkové kapacity JIP
+• Královéhradecký kraj: 1 pacientů na JIP - 0,4 % celkové kapacity JIP
+• Pardubický kraj: pacientů na JIP - % celkové kapacity JIP
+• Kraj Vysočina: pacientů na JIP - % celkové kapacity JIP
+• Jihomoravský kraj: pacientů na JIP - % celkové kapacity JIP
+• Olomoucký kraj: pacientů na JIP - % celkové kapacity JIP
+• Zlínský kraj: pacientů na JIP - % celkové kapacity JIP
+• Moravskoslezský kraj: 2 pacientů na JIP - 0,4 % celkové kapacity JIP
+

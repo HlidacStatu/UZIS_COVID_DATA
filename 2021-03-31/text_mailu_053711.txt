@@ -1,0 +1,190 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle kraj.
+
+Za včerejší den evidujeme v systému celkem 8 568 nových případů onemocnění COVID-19. Jde o úterní počty potvrzených případů, které jsou typicky nejvyšší za celý týden. I tato hodnota potvrzuje v mezi-týdenním srovnání pokles (minulý týden byl vrchol záchytů na hodnotě 10 966). Celkový trend odpovídá průměrnému poklesu denních počtů potvrzených případů o cca 2 000 - 2 500.
+
+Hodnota reprodukčního čísla zastává pod 1 a odpovídá týdenním poklesům aktuálně je rovno 0,85.
+
+Včera bylo nově diagnostikováno 1 288 nových pacientů ve věku 65+ (15,0 % celku) a dále 468 nových pacientů ve věku 75+ (5,5 % celku). Stále jde o relativně vysoké počty nově nakažených a potenciálně zranitelných pacientů, i když i tyto ale postupně klesají, což se následně jistě projeví v dalším mírném poklesu zátěže nemocnic.
+
+Srovnání krajů dokumentuje následující tabulka
+
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+
+
+Název kraje
+
+Počet (%)
+
+Počet na 100 tis. obyv.
+
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+
+Středočeský kraj
+
+1,244 (14.5 %)
+
+89.8
+
+67.7
+
+50.7
+
+Jihomoravský kraj
+
+929 (10.8 %)
+
+77.9
+
+57.4
+
+48.1
+
+Ústecký kraj
+
+907 (10.6 %)
+
+110.5
+
+83.4
+
+70.6
+
+Moravskoslezský kraj
+
+871 (10.2 %)
+
+72.6
+
+55.5
+
+48.2
+
+Jihočeský kraj
+
+818 (9.5 %)
+
+127.0
+
+81.2
+
+61.4
+
+Hlavní město Praha
+
+757 (8.8 %)
+
+57.2
+
+48.5
+
+39.5
+
+Pardubický kraj
+
+539 (6.3 %)
+
+103.1
+
+69.9
+
+49.8
+
+Zlínský kraj
+
+538 (6.3 %)
+
+92.4
+
+58.4
+
+43.0
+
+Kraj Vysočina
+
+453 (5.3 %)
+
+88.9
+
+71.7
+
+50.4
+
+Olomoucký kraj
+
+431 (5.0 %)
+
+68.2
+
+59.8
+
+43.5
+
+Plzeňský kraj
+
+387 (4.5 %)
+
+65.6
+
+56.8
+
+44.0
+
+Liberecký kraj
+
+375 (4.4 %)
+
+84.5
+
+71.1
+
+56.1
+
+Královéhradecký kraj
+
+221 (2.6 %)
+
+40.1
+
+37.4
+
+31.7
+
+Karlovarský kraj
+
+82 (1.0 %)
+
+27.8
+
+22.5
+
+21.6
+
+Neznámo
+
+16 (0.2 %)
+
+
+
+
+
+
+
+
+
+Na vrcholu týdne denní přírůstky kalkulované v přepočtu na 100 tis. obyvatel narostly zejména v krajích Ústeckém, Jihočeském a Pardubickém.
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (757), České Budějovice (278), Brno-město (221), Zlín (214), Ostrava-město (205), Karviná (188), Olomouc (187), Brno-venkov (184), Frýdek-Místek (184), Litoměřice (182), Pardubice (163), Beroun (153), Liberec (153), Mladá Boleslav (147), Žďár nad Sázavou (143).
+
+K půlnoci je evidován 85 úmrtí, všechna jsou hlášena z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši > 440 pacientů –jde o počet vysoký, avšak nižší ve srovnání uplynulých týdnů (průběžná data: z toho 252 ve věku 65+ a 140 ve věku 75+) - registrujeme celkem 7 580 všech hospitalizovaných pacientů.
+
+Průběžná data nemocnic potvrzují pokračující, byť pozvolný, pokles zátěže – celkové počty hospitalizací po "nárazu" v prvním pracovním dni týdne opět klesají. Mírný pokles je patrný i na jednotkách intenzivní péče. Aktuálně registrujeme 1 600 pacientů na JIP.
+
+Data nemocnic budou upřesněna v ranním hlášení po doplnění validací.
+
+S úctou L. Dušek
+

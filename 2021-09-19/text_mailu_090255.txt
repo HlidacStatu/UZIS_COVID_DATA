@@ -1,0 +1,30 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím komplexní zprávu s daty a analýzami, + soubory s daty o proočkovanosti obcí, ORP a regionů.
+
+Jde o týdenní podrobné hlášení s daty zavřenými k včerejšku, včetně mapových podkladů. Populace 16+ má dokončené očkování z 65%.
+
+Datové soubory jsou opět připraveny pro interaktivní práci, lze v nich filtrovat i konkrétní obce a ORP:
+
+  *   Soubor 01 - vakcinace dle obcí shrnuje jednotlivé obce
+  *   Soubor 03 - jiný pohled dle ORP, data ukazují ORP dle počtu (podílu) málo proočkovaných obcí.
+
+Hlavní závěry z přiložených souborů jsou cca tyto:
+
+  *   Mírně klesá počet seniorů bez očkování, nicméně stále jde o počet vysoký. Ve věkové třídě 60+ nemá očkování cca 509 tis. osob, z nich cca 90 tis. má záznam o prodělání nemoci - pravděpodobně nechráněných tak zůstává 420 000tis osob (ve věkové třídě 65+ jde o cca 289 tis. osob)
+  *   Postupně v čase se mírně zlepšuje proočkovanost malých obcí, celkem cca 10 obcí (všechny velmi malá sídla) vykazuje proočkovanost populace 60+ menší než 50%; celkem 15 obcí vykazuje proočkovanost populace 16+ nižší než 40%
+
+Zde kopíruji ORP s vysokým podílem vzájemně sousedících obcí s nízkou proočkovaností dospělé populace. I počet těchto potenciálně rizikových míst v čase mírně klesá a situace se zlepšuje - nyní registrujeme cca 10 větších ORP s nízkou proočkovaností (kraje ZLK, MSK, OLK). - více viz "soubory 03"
+
+Kraj    ORP     Počet obcí v ORP        Obce s proočkovaností < 56 %    Podíl obcí s proočkovaností < 56 %
+CZ080 Moravskoslezský kraj      Jablunkov       12      10      83%
+CZ031 Jihočeský kraj    Kaplice 15      11      73%
+CZ072 Zlínský kraj      Bystřice pod Hostýnem   14      10      71%
+CZ071 Olomoucký kraj    Jeseník 24      17      71%
+CZ072 Zlínský kraj      Rožnov pod Radhoštěm    9       6       67%
+CZ053 Pardubický kraj   Králíky 5       3       60%
+CZ053 Pardubický kraj   Lanškroun       22      11      50%
+CZ072 Zlínský kraj      Vsetín  32      16      50%
+CZ080 Moravskoslezský kraj      Vítkov  12      6       50%
+
+
+S úctou L. Dušek
+

@@ -1,0 +1,257 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Včera bylo nahlášeno 314 nově diagnostikovaných pacientů s COVID-19. Minulý týden bylo v odpovídající den potvrzeno 249 nových případů. Jde o nedělní hlášení, kdy jsou záchyty nižší z důvodu poklesu počtu testů. Avšak i tyto hodnoty ukazují na setrvalý růst epidemie, v mezi-týdenním srovnání o více než 30%.
+
+Týdenní počet nových záchytů je na hodnotě 41,9 případů / 100 tis. obyvatel.
+
+  *   Celo-populační reprodukční číslo dosahuje hodnoty 1,36 (7denní okno). R z 14denního okna je 1,21
+
+  *   Celkem bylo k půlnoci z nemocnic nahlášeno 12 nových hospitalizací.
+
+Z potvrzených 314 případů je:
+
+  *   221 (70,4%) neočkovaných
+  *   6 (1,9%) po 1. dávce -> z toho 4 (1,3%) více než 14 dní po 1. dávce
+  *   87 (27,7%) po 2. dávce -> z toho 85 (27,1%) více než 14 dní po 2. dávce
+
+Včera bylo potvrzeno 31 nových případů nákazy u věkové kategorie 65+, 6 neočkovaní, 2 po 1. dávce a 23 po 2. dávce očkování.
+
+  *   Populační zátěž ve věkové kategorii 65+ postupně narůstá, nárůst je zatím velmi pomalý a většina nakažených má mírný průběh nemoci, bez hospitalizace. Je zde patrný silný brzdící efekt očkování. Na datech se projevuje existující riziko částečného vyčerpání ochranného efektu vakcinace. Týdenní počet nových případů na 100tis. obyvatel v této věkové třídě je nyní 16,8 (před týdnem šlo o hodnotu 10,5).
+
+Růst epidemie se promítá do více věkových kategorií, nadále ale nejvíce zatíženou skupinou zůstávají mladí lidé, kde se zátěž šíří zejména mezi neočkovanou částí populace. Týdenní záchyty na 100 tis. obyvatel (vždy v rámci dané věkové třídy) jsou následující:
+
+  *   věková třída 6 - 11 let: 89,4
+  *   věková třída 12 - 15 let: 92,9
+  *   věková třída 16 - 19 let: 71,1
+  *   věková třída 20 - 29 let: 56,4
+  *   věková třída 30 - 49 let: 45,1
+
+Zátěž jednotlivých krajů shrnuje podrobná tabulka v datovém souhrnu na konci mailu. Nadprůměrnou zátěž vykazují zejména kraje:
+
+  *   Praha vykazuje 7denní počet nových případů na hodnotě 60,4 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,22
+  *   Moravskoslezský kraj nyní vykazuje 59,9 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,27
+  *   Jihočeský kraj vykazuje 51,3 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,52
+  *   Jihomoravský kraj vykazuje 49,1 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,50
+  *   Středočeský kraj nyní vykazuje 46,9 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,26
+
+Růst epidemie při R blízkém nebo významně vyšším než 1 je ale patrný ve většině krajů. Čtyři regiony zůstávají pod hranící týdenního počtu záchytů 25 / 100 tis. obyvatel: VYS, LBK, HKK, KVK.
+
+V následujících okresech je registrován nejvyšší rizikový růst epidemie, tedy nadprůměrná virová zátěž (významně vyšší než 50 případů na 100 tis. obyv. za týden) a přitom s hodnotu R > 1 nebo blízkou 1 (více viz příloha 01 a podrobná data v reportech):
+České Budějovice - 87.0; R:1.71
+Opava - 86.5; R:1.06
+Most - 78.4; R:2.49
+Mělník - 76.4; R:1.47
+Praha-západ - 75.5; R:1.16
+Frýdek-Místek - 74.6; R:1.34
+Klatovy - 66.1; R:1.58
+Nymburk - 65.0; R:3.67
+Ostrava-město - 64.9; R:1.23
+Brno-město - 64.9; R:1.55
+Praha - 60.4; R:1.22
+Český Krumlov - 60.3; R:1.42
+Šumperk - 59.2; R:2.15
+Brno-venkov - 56.5; R:1.20
+Rokycany - 54.6; R:1.69
+Praha-východ - 54.0; R:1.19
+Vsetín - 53.6; R:1.90
+Teplice - 51.2; R:1.78
+
+Ve srovnání nárůstů v okresech (absolutní hodnoty) byly nejvyšší denní záchyty zjištěny v pořadí:
+Praha (65), Ostrava-město (26), Brno-město (15), Opava (13), Pardubice (13), Praha-západ (12), Brno-venkov (11), Bruntál (10), Praha-východ (9), České Budějovice (9), Liberec (8), Nový Jičín (8), Olomouc (7), Uherské Hradiště (7), Frýdek-Místek (5).
+
+Níže je uveden standardizovaný číselný souhrn
+
+S úctou L. Dušek
+
+
+
+
+Počty nových případů COVID-19
+- Denní nárůst 314 případů
+- 7denní nárůst 4 485 případů
+- 7denní nárůst na 100 tis. obyv.: 41,9 případů
+- K půlnoci je evidováno 0 úmrtí
+
+
+- Počet případů zachycený odpovídajícího dne minulého týdne: 249
+- Změna proti odpovídajícímu dni minulého týdne: 65 (26,1%)
+
+
+- Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 1.36
+- Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 1.21
+
+
+Z nově nakažených 314 případů je:
+- 221 (70,4%) neočkovaných
+- 6 (1,9%) po 1. dávce
+- Z toho 4 (1,3%) více než 14 dní po 1. dávce
+- 87 (27,7%) po 2. dávce
+- Z toho 85 (27,1%) více než 14 dní po 2. dávce
+
+
+
+
+Počty nových případů COVID-19 u seniorních věkových kategorií
+
+
+- Denní nárůst případů v kategorii 65+: 31 (10,0% celku)
+- Denní nárůst případů v kategorii 75+: 18 (6,0% celku)
+
+
+
+- 7denní nárůst případů v kategorii 65+: 375
+- 7denní nárůst případů v kategorii 65+/100 tis.: 17,4
+- 7denní nárůst případů v kategorii 75+: 152
+- 7denní nárůst případů v kategorii 75+/100 tis.: 17,6
+
+
+Z nově nakažených 31 případů 65+ je:
+- 6 (19,4%) neočkovaných
+- 2 (6,5%) po 1. dávce
+- Z toho 2 (6,5%) více než 14 dní po 1. dávce
+- 23 (74,2%) po 2. dávce
+- Z toho 23 (74,2%) více než 14 dní po 2. dávce
+
+
+
+
+
+Srovnání krajů dokumentuje následující tabulka:
+
+
+
+
+
+
+
+
+
+Název kraje
+Denní počet nových případů
+(přepočet
+na  100tis.obyv.)
+7denní počet nových případů na 100 tis. obyv.
+Odhad R
+ze 7denních časových úseků
+14denní počet nových případů na 100 tis. obyv.
+7denní počet testů na 100tis. obyv.
+(Dg+Epi / Prev)*
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+Hlavní město Praha
+65 (4.9)
+60.4
+1.22
+112.7
+1334.7 / 5155.6
+3.3 % / 2.2 %
+Moravskoslezský kraj
+63 (5.3)
+59.9
+1.27
+108.1
+1210.6 / 3720.7
+6.9 % / 2.4 %
+Jihočeský kraj
+16 (2.5)
+51.3
+1.52
+83.6
+621.2 / 2730.3
+10.0 % / 3.6 %
+Jihomoravský kraj
+37 (3.1)
+49.1
+1.50
+77.6
+906.4 / 2968.2
+4.9 % / 3.3 %
+Středočeský kraj
+33 (2.4)
+46.9
+1.26
+82.7
+1016.6 / 3478.0
+3.4 % / 2.5 %
+Olomoucký kraj
+12 (1.9)
+37.3
+1.67
+55.5
+609.8 / 2831.0
+5.8 % / 3.5 %
+Plzeňský kraj
+10 (1.7)
+36.0
+1.46
+61.6
+732.9 / 3653.7
+2.6 % / 2.8 %
+Zlínský kraj
+15 (2.6)
+35.2
+1.35
+59.0
+1135.3 / 2907.9
+5.4 % / 1.6 %
+Ústecký kraj
+16 (2.0)
+33.7
+1.61
+51.9
+824.1 / 2719.9
+3.8 % / 2.1 %
+Pardubický kraj
+19 (3.6)
+25.1
+1.28
+46.5
+971.0 / 2779.2
+3.3 % / 1.4 %
+Kraj Vysočina
+7 (1.4)
+22.6
+1.13
+42.1
+656.2 / 2197.5
+3.8 % / 1.9 %
+Liberecký kraj
+10 (2.3)
+18.1
+2.50
+26.4
+618.8 / 2458.2
+3.1 % / 1.8 %
+Královéhradecký kraj
+8 (1.5)
+16.2
+1.75
+25.1
+827.7 / 2969.7
+2.5 % / 1.0 %
+Karlovarský kraj
+3 (1.0)
+12.6
+0.66
+33.8
+628.7 / 2512.4
+2.2 % / 0.8 %
+ČR
+314 (2.9)
+41.9
+1.36
+72.2
+943.3 / 3401.5
+4.4 % / 2.3 %
+
+
+
+
+Zátěž nemocnic
+
+
+- Denní nové příjmy k hospitalizaci: 12
+- Aktuální počet všech hospitalizací: 204
+- Aktuální počet hospitalizací na JIP: 45
+
+
+

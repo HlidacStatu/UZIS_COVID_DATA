@@ -1,0 +1,23 @@
+Vážené kolegyně a kolegové, dobrý den - dovolte prosím krátký souhrn první sady změn, který jsme obohatili ranní reporting o stavu epidemie. Jde o první část - během tohoto týdne dále zavedeme reporting nad rizikovými záchyty, ohnisky a případně lokálními výkyvy v parametrech.
+
+Důvodem změn je zásadní zlepšení situace, kdy řada plošných ukazatelů již nemá takový význam, ale má smysl pozornost opět soustředit na okresní úroveň, případně nižší.
+
+Každý den ráno tedy budeme posílat nové soubory a rozšířený původní reporting. - zde jenom přikládám na dokreslení reporty, které již odešly dnes ráno:
+
+Zejména je zcela nový soubor "Okresy_kraje_epidem_parametry"
+
+  *   jde o komplexní export mnoha parametrů, epidemiologických , trendových, počty testů, zátěže v nemocnicích apod. - vše na úrovni jednotlivých krajů a dále v samostatném listu na úrovni okresů.
+
+Dále je zásadně rozšířen obsah souboru "01_nove_pripady_shrnuti"
+
+  *    zde na první stran naleznete souhrn hlavních indikátorů šíření epidemie po krajích
+  *   dále jsou zde nově 7denní záchyty počtu nových případů na 100 tis obyvatel velmi detailně po věkových kategoriích
+  *   podobně nově počty testů a jejich relativní pozitivita, opět detailně po věkových kategoriích
+  *   soubor nese generovaný seznam okresů podle míry zvýšeného rizika - počty záchytů nemoci, reprodukční číslo nebo trendové změny, nárůst relativní pozitivity záchytu, apod.
+
+Ostatní soubory v příloze jsou doplněny a rozšířeny o další parametry, které snad usnadní jejich využití. Zde jsme vycházeli i z řady podnětů uživatelů - zejména je takto doplněn soubor "Denní data", který shrnuje počty záchytů detailně po věkových kategoriích, apod.
+
+Všechny automatizované exporty ještě graficky doladíme. Pokud budete mít k obsahu další náměty a připomínky, vše určitě zabudujeme.
+
+S úctou L. Dušek
+

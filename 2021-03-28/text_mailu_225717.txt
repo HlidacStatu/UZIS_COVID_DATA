@@ -1,0 +1,44 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím na konci týdne doplněné a aktualizované diagramy s predikcemi zátěže nemocnic a prediktivní výhled na další období (vše v podobě v jaké podklady dostávají krajští koordinátoři intenzivní péče).
+
+Jde o "klasické" výstupy s krátkodobými modely a projekcemi, kde nyní bohužel musíme držet aktivních několik zcela protichůdných scénářů. Důvodem jsou opravdu velké rozdíly mezi regiony, zatímco na severu a západě Čech klesá zátěž nemocnic rychlostí odpovídající R < 0,8 (KVK, HKK), tak na východě je zátěž stále vysoká (MSK) nebo dokonce rostoucí (OLK).
+
+  *    Je zcela nepochybné, že "nová epidemie" spojená s nastupující dominancí B.1.1.7. prošla od západu na východ a nyní stále drží rostoucí zátěž v posledních 2–3 krajích.
+
+Hlavní soubory zde souhrnně komentuji a níže potom popisuji situaci a trendy v jednotlivých regionech.
+
+S úctou
+
+L. Dušek
+
+V přílohách je aktualizovaný soubor  "Risk mapping týdenní", který shrnuje jednak strukturu prevalence a počet nově nakažených potenciálně zranitelných pacientu, a dále výstupy ze stavových pravděpodobnostních modelů, které predikují výši očekávatelných příjmů do nemocnic.
+
+  *   soubor má dva listy - jeden pro kraje, druhý detailní pro okresy
+  *   data v celorepublikovém souhrnu jednoznačně ukazují na brždění šíření nákazy i mezi zranitelnými kohortami pacientů: např. počet v posledních 2 týdnech nově nakažených osob ve věku 65 klesnul od poslední aktualizace z 24 000 na stávajících cca 17 500 - jde stále o vysoké počty, trend je ale prokazatelně klesající
+  *   predikce ukazuje na očekávatelný příjem do nemocnic ve výši cca 6030 nových hospitalizací v následujících cca 1 - 14 dnech - lze tedy očekávat v nejvíce zátěžových pracovních dnech (počátky týdne) příjmy stále až > 500 denně, průměr ale bude klesat spíše k hodnotám 400 a nižším
+  *   je ovšem nutné zdůraznit variabilitu mezi regiony – viz níže
+
+Dále jsou přiloženy soubory mapující reálný vývoj počtu hospitalizací dle hlášení nemocnic a krátkodobé projekce prediktivních modelů: soubory KKIP01 – KKIP03
+
+  *   Predikce po regionech pro celkový počet hospitalizovaných obsahují soubory KKIP01 a KKIP03 a pro počty hospitalizovaných na JIP KKIP01 a KKIP02
+
+Vývoj celkového počtu hospitalizací (KKIP03, KKIP01)
+
+  *   nad celou ČR klesající trend odpovídající předpokládanému poklesu při R = 0,9 (počty reagují na populační situaci před cca týdnem, se zpožděním, ale klesají) - lze očekávat rychlost poklesu o cca 1 500 týdně
+  *   velmi významně klesají dříve nejvíce zatížené kraje - tedy Plzeňský, Karlovarský a Královéhradecký (zde jde o pokles až při R < 0,8)
+  *   pokles vykazují i všechny kraje Čech, Kraj Vysočina a nově také JMK a OLK; naopak stagnující a velmi vysoké počty registrujeme stále v MSK (cca 880 pacientů na lůžku)
+
+Vývoj počtu hospitalizací na JIP (KKIP03, KKIP01)
+
+  *   nad celou ČR klesají průkazně i počty pacientů na JIP, pokles je ale pomalejší než v případě celkového počtu hospitalizací a krátkodobě odpovídá spíše hodnotě R mírně pod 1
+  *   počty jsou stále vysoce nad maximem z podzimu 2020 (tehdy max cca 1 200 pacientů na JIP, stávající počty jsou > 1 600)
+  *   silněji a vysoce průkazně klesá tato zátěž u dříve nejvíce zatížených regionů: STČ, JHČ, PLK, velmi silně KVK, KHK, LBK, PAK
+  *   zátěž zůstává velmi vysoká (vysoce nad maximem z podzimu 2020)  a stagnuje v kraji Ústeckém - zde existuje stále i riziko dalšího růstu (viz soubor KKIP02) - v prevalenci má tento kraj stále vysoké počty nakažených potenciálně zranitelných osob
+  *   Nejvíce rizikový vývoj je registrován v OLK - zde počty pacientů na JIP stále rostou tempem odpovídajícím R > 1,1 a jsou vysoce nad maximem podzimu 2020
+  *   V dalších východních krajích počty na JIP začal klesat (MSK, ZLK, JMK)
+
+SOUHRN
+
+  *   I přes klesající trendy je zátěž nemocnic stále vysoká a ve většině regionů převyšuje maximum z podzimu 2020
+  *   Udrží-li se stávající trendy, dojde v následujícím týdnu k poklesu o cca 20 - 25% zátěže a počty dosáhnou hranice maxima z listopadu 2020 nebo klesnou pod ni.
+  *   Situace bude nejlepší v krajích západu a severu Čech
+

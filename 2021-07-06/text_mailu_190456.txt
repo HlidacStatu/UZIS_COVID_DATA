@@ -1,0 +1,15 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím soubory s vyhodnocenými / aktualizovanými prediktivními modely pro epidemii COVID-19.
+
+Soubor označený "01" obsahuje ucelenou prezentaci a souhrn všech modelů, doplněnou dvěma přílohami - tyto lokalizují modely pro jednotlivé kraje a uzavírají predikce provedené pro červen 2021.
+
+Velká část modelů je zde vyhodnocena již v závěru své působnosti - zejména modely predikující zátěž nemocnic. Tato postupně v červnu klesala až k současným cca 30 hospitalizacím s COVIDem nad celou ČR, přičemž počty pacientů na JIP jsou nižší než 10. Další sledování těchto trendů na úrovni jednotlivých regionů již nemá smysl. Nadále budou sledovány zejména rizikové hospitalizace (nákazy po vakcinaci, přímý záchyt onemocnění v nemocnici apod.).
+
+Podobně vyexpirovaly krátkodobé modely populačního vývoje, které během celého června potvrzovaly vývoj podle optimistických scénářů. Pro další sledování vývoje je nutné rozlišovat situaci zejména v potenciálně rizikově zasažených oblastech, tj. Praha a s ní sousedící okresy STČ.
+
+Modely pracující s dlouhodobě známými parametry epidemie potvrzují stále existující potenciál nákazy se v populaci šířit. Bez ohledu na velmi příznivý vývoj epidemie v měsíci červnu v populaci existuje stále značný prostor pro růst epidemie a pro šíření nákazy, zejména mezi mladšími věkovými kategoriemi, které jsou málo proočkované.
+
+
+Velkou část léta 2021 musíme v predikcích stále počítat s cca 25% - 30% populace, která bude k infekci primárně vnímavá a nebude chráněna ani očkováním, ani proděláním nemoci. Nadto bude stále velká část očkovaných chráněna pouze 1. dávkou, která nemusí plně působit proti novým variantám viru. Na tuto skutečnost upozorňuje nový scénář modelu SEIR-V, který simuluje zejména podmínky šíření Delta varianty viru (vyšší nakažlivost, schopnost infekce po 1. dávce vakcíny - v modelu jsme nastavili simulačně předpoklad šíření nové varianty od 20.6. a to při 20% navýšení bazální reprodukce nákazy) - viz přiložený soubor "01". Model ukazuje potenciál zvedajících se počtů nakažených kontinuálně během celého léta, avšak pravděpodobně bez dopadu na nemocnice, neboť půjde o nákazu mladých osob nebo osob středního věku. Rizikem ovšem je, že takto by se během léta mohla v populaci vytvořit značná virová nálož, která by na podzim mohla eskalovat v šíření.
+
+S úctou L. Dušek
+

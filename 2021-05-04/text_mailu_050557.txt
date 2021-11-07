@@ -1,0 +1,150 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Za včerejší den evidujeme v systému celkem 2 216 nových případů onemocnění COVID-19. Jde o hodnotu z prvního pracovního dne tohoto týdne – podle prediktivních scénářů by ke konci týdne měly průměrné denní záchyty klesnout pod 2000. pro srovnání – minulé pondělí bylo zachyceno 2 579 nově potvrzených případů.
+
+Hodnota reprodukčního čísla je 0,89 (7denní časové okno). Hodnota R pro 14denní časové okno je 0,89.
+
+Včera bylo nově diagnostikováno 296 nových pacientů ve věku 65+ (13,4 % celku) a dále 89 nových pacientů ve věku 75+ (4,0 % celku).
+
+Srovnání krajů dokumentuje následující tabulka
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+
+
+
+
+
+
+Název kraje
+Denní počet nových případů (%)
+Denní počet nových případů na 100 tis. obyv.
+7denní počet nových případů na 100 tis. obyv.
+14denní počet nových případů na 100 tis. obyv.
+7denní počet nových případů 65+ na 100 tis. 65+
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+Moravskoslezský kraj
+320 (14.4 %)
+26.7
+160.9
+342.7
+117.5
+13.6 % / 4.6 %
+Středočeský kraj
+285 (12.9 %)
+20.6
+108.3
+247.1
+59.8
+4.7 % / 4.9 %
+Hlavní město Praha
+256 (11.6 %)
+19.3
+107.9
+224.3
+65.3
+6.1 % / 2.0 %
+Ústecký kraj
+231 (10.4 %)
+28.1
+174.2
+362.7
+130.0
+10.4 % / 1.9 %
+Jihomoravský kraj
+211 (9.5 %)
+17.7
+131.8
+295.0
+91.4
+14.7 % / 7.1 %
+Olomoucký kraj
+178 (8.0 %)
+28.2
+147.6
+341.9
+108.5
+7.1 % / 11.9 %
+Jihočeský kraj
+157 (7.1 %)
+24.4
+198.4
+416.4
+125.9
+28.2 % / 4.0 %
+Zlínský kraj
+157 (7.1 %)
+27.0
+200.0
+457.3
+134.3
+6.7 % / 2.3 %
+Pardubický kraj
+136 (6.1 %)
+26.0
+103.1
+254.7
+69.8
+12.5 % / 3.1 %
+Liberecký kraj
+111 (5.0 %)
+25.0
+104.4
+240.5
+85.6
+16.2 % / 5.7 %
+Kraj Vysočina
+79 (3.6 %)
+15.5
+173.4
+367.4
+109.3
+5.7 % / 6.5 %
+Plzeňský kraj
+55 (2.5 %)
+9.3
+76.8
+178.7
+53.5
+2.0 % / 2.7 %
+Královéhradecký kraj
+26 (1.2 %)
+4.7
+49.9
+107.0
+24.3
+1.0 % / 3.8 %
+Karlovarský kraj
+8 (0.4 %)
+2.7
+47.2
+87.6
+28.2
+0.0 % / 0.0 %
+ČR
+2,216 (100.0 %)
+20.7
+131.1
+287.3
+87.9
+8.5 % / 3.6 %
+
+Celkový 7denní počet nově potvrzených případů klesl na 131,1 /100tis. obyvatel. Nejnižší hodnoty opět vykazují kraje KVK a HKK, pod hranicí 7denních počtů potvrzených případů pod 100/100tis se rovněž drží a dále klesá kraj Plzeňský.
+
+  *   Klesající trend blízký zmíněné hranici je patrný v LBK, HMP a PAK. - tyto tři kraje již hodnotu 100/100tis. obyv překračují pouze velmi těsně.
+  *   STČ klesá rovněž - aktuální hodnota je 108,3
+  *   Zlínský kraje stále zůstává na relativně vysokých hodnotách, nicméně i zde je patrný pokles - aktuální hodnota je 200/100 tis. a obdobný závěr platí pro kraj Jihočeský - 198/100 tis.
+
+K půlnoci evidováno 15 úmrtí, všechna jsou hlášena z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 160 pacientů (průběžná data: z toho 77 ve věku 65+ a 36 ve věku 75+).
+
+  *   navýšení příjmu do nemocnic je v pondělí po weekendu běžným jevem, výše uvedená hodnota je vysoce pravděpodobně nejvyšší z celého týdne; podle platných predikcí tento týden příjmy do nemocnic klesnou v průměru až pod 100 denně
+
+Celkem nyní registrujeme 2 564 všech hospitalizovaných pacientů, (opět mírné navýšení proti weekendu: došlo k jednorázovému navýšení příjmů v pondělí a nemocnice dohlásily zpětně některé weekendové záznamy)
+
+Aktuálně registrujeme cca 544 pacientů na JIP.
+
+Data o hospitalizacích budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

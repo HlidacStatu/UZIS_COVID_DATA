@@ -1,0 +1,30 @@
+Vážené kolegyně a kolegové, dobrý den - posílám k včerejšku aktualizované přehledy proočkovanosti dle velikosti sídel, s členěním okres - ORP a zejména jednotlivé obce.
+
+Soubor "01"- MS Excel
+
+  *   shrnuje data dle obcí a krajů, proočkovanost celkové dospělé populace a dále dle věkových kategorií
+  *   data umožňují jakkoli seznam třídit nebo filtrovat
+
+Soubor PRILOHA - je doplněním pro data v 01 a ukazuje změnu v čase od 13.7., opět po jednotlivých obcích - tříděním zjistíte, že jsou obce, kde došlo za cca 10 dní k značnému pozitivnímu posunu
+
+  *   v souboru je zvláštní list s výpisem několika obcí, kde jakoby v čase proočkovanost mírně poklesla ... změna to není podstatná, jde o velmi malé obce a pokles je v jednotkách osob (důvodem jsou zpětné korekce nahlášených dat v databázi a také posuny v bydlišti několika osob)
+  *   přikládám to proto, že data jsou zcela otevřená, a tedy toto si může kdokoli nalézt, tak aby nedošlo k mylné interpretaci
+
+Soubor "02" - prezentace v ppt
+
+  *   shrnuje hlavní trendy dle velikosti sídel
+  *   je zřejmé, že celková proočkovanost (měřeno na celé populaci) nevykazuje mezi typy sídel nějaký významný trend nebo změny ... je třeba data studovat specificky po regionech
+  *   nicméně ale,. při dělení na věkové kategorie některé trendy viditelné jsou - v malých a menších sídlech je nižší proočkovanosti v kategorii věku 80+ a dále u mladých lidí .... evidentně zde hraje svou roli faktor snadné dostupnosti
+  *   v podstatě v každém regionu lze nalézt oblasti, kde je proočkovanost podprůměrná
+
+Soubory "03" - shrnující mapy dle okresů, ORP, obcí
+
+  *   doplněno o nejnovější data
+  *   na základě podnětů z krajů byla předchozí verze map detailněji rozčleněna dle věkových kategorií
+
+Na závěr si dovoluji upozornit, že na portálu https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 jsou k dispozici plná OPEN data k očkování, která umožní i plnohodnotné subregionální analýzy.
+
+Přeji všem krásný den
+
+S úctou L. Dušek
+

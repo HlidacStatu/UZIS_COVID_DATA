@@ -1,0 +1,41 @@
+Vážené kolegyně a kolegové, dobrý večer – posílám prosím zkrácenou verzi map a souborů s daty o proočkovanosti obcí, ORP a regionů.
+
+Situace se od poslední aktualizace v neděli zase trochu zlepšila – mírně ubylo málo proočkovaných obcí. Proočkovanost populace ve věku 60+ dosáhla 81,2% (alespoň 1 dávka), celkem neočkovaných je v této kohortě 524 513 osob.
+
+Obce s méně než 50% proočkovaností populace 60+ jsem vykopíroval do této tabulky (více viz přiložený soubor):
+Stav k 31.08.2021
+
+Věk 60+ let
+Kraj    ObecKod Obec    populace        očkovaní        neočkovaní
+CZ072 Zlínský kraj      592838  Vyškovec        30      26,7%   22
+CZ032 Plzeňský kraj     540307  Chlumy  73      34,2%   48
+CZ041 Karlovarský kraj  560707  Vřesová 40      35,0%   26
+CZ032 Plzeňský kraj     566331  Hvožďany (Domažlice)    10      40,0%   6
+CZ063 Kraj Vysočina     590665  Hornice 19      42,1%   11
+CZ053 Pardubický kraj   575810  Tetov   59      44,1%   33
+CZ032 Plzeňský kraj     578240  Hamry (Klatovy) 40      45,0%   22
+CZ071 Olomoucký kraj    547093  Mutkov  15      46,7%   8
+CZ053 Pardubický kraj   575615  Selmice 38      47,4%   20
+CZ041 Karlovarský kraj  560561  Nová Ves (Sokolov)      42      47,6%   22
+CZ071 Olomoucký kraj    516864  Podolí (Přerov) 57      49,1%   29
+
+
+Nejvíce rizikové ORP (s kumulací více než 50 % vzájemně blízkých nebo sousedících obcí s malou proočkovaností) shrnuje následující tabulka:
+Kraj    ORPkod  ORP     Počet obcí v ORP        Obce s proočkovaností < 56 %    Podíl obcí s proočkovaností < 56 %
+CZ080 Moravskoslezský kraj      8010    Jablunkov       12      11      92%
+CZ080 Moravskoslezský kraj      8021    Třinec  12      10      83%
+CZ072 Zlínský kraj      7201    Bystřice pod Hostýnem   14      11      79%
+CZ031 Jihočeský kraj    3106    Kaplice 15      11      73%
+CZ071 Olomoucký kraj    7102    Jeseník 24      17      71%
+CZ072 Zlínský kraj      7206    Rožnov pod Radhoštěm    9       6       67%
+CZ053 Pardubický kraj   5305    Králíky 5       3       60%
+CZ053 Pardubický kraj   5306    Lanškroun       22      13      59%
+CZ072 Zlínský kraj      7212    Vsetín  32      18      56%
+CZ064 Jihomoravský kraj 6405    Bučovice        20      11      55%
+
+Pokud by bylo k těmto analýzám udělat nějaké podrobnější výstupy v některém z regionů, prosím napište mi, uděláme obratem.
+
+S úctou L. Dušek
+
+
+

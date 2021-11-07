@@ -1,0 +1,38 @@
+Vážené kolegyně a kolegové, v přílohách posílám aktualizovaná hlášení z nemocnic, přehledy dle krajů a jednotlivých zařízení.
+
+Níže shrnutá data jsou průběžným hlášením ze soboty a hodnoty tedy nejsou plně reprezentativní, celkové počty hospitalizovaných bývají o weekendu částečně nedohlášené. Avšak i přesto je patrný trend klesající zátěže, daný mimo jiné opět velkým počtem propouštěných pacientu (od pátku více než 920 nahlášených propuštění). Počty propouštěných pacientů významně převyšují nové příjmy již od poloviny týdne, v pátek tento trend dále zesílil. Včera bylo přijato k hospitalizaci + 196 nových pacientů. Celkově registrujeme 5 271 hospitalizovaných s COVID-19.
+
+Za reprezentativní avšak lze považovat hlášené počty pacientů na intenzivní péči a tyto rovněž klesají: aktuálně je hlášeno 1 241 pacientů na JIP, z toho 603 x UPV a 22x ECMO.
+
+Tomuto trendu odpovídá i hlášení volných lůžkových kapacit v Národním dispečinku lůžkové péče, podle kterého se většina regionů dostává s dostupnými kapacitami lůžek JIP nad 20 % a pouze menší část region je nadále kriticky limitovaná a jejich volné kapacity JIP jsou nižší než 10 % celku.
+
+S úctou L. Dušek
+
+
+
+Celkový souhrn situace v ČR
+• Celkem hospitalizovaných bylo včera 5 271.
+• Hospitalizovaní tvoří 5,1 % z celkem pozitivních.
+• Těžký průběh onemocnění a na JIP je hlášeno u 1 241 osob, 603x UPV, 22x ECMO.
+• Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 23,2 %.
+• Potvrzeno 37 úmrtí.
+
+Nově přijatí a propuštění pacienti
+• Celkem 196 nově přijatých pacientů.
+• Průměrný věk nově přijatých pacientů činí 67 let.
+• Těžký stav je hlášen u 15 nově přijatých pacientů, stav střední je hlášen 119x.
+• Nejvíce příjmů bylo v následujících krajích: HMP(29), MSK(29), JHC(24).
+9.4. bylo propuštěno 742 pacientů
+10.4. bylo propuštěno 179 pacientů
+
+Zátěž dle krajů a nemocnic
+• Nejvíce pacientů je v následujících krajích (z toho na JIP): HMP 719 (199), JMK 677 (173), MSK 660 (111).
+• UPV potřebuje nejvíce pacientů v JMK 677 (87), HMP 719 (78), STC 448 (59).
+• ZZ s více jak 70 pacienty:
+Krajská nemocnice T. Bati, a. s. (156), Fakultní nemocnice Brno (138), Nemocnice České Budějovice, a.s. (133), Fakultní Thomayerova nemocnice (132), Fakultní nemocnice v Motole (128), FN Na Bulovce (123), Fakultní nemocnice Plzeň (110), Fakultní nemocnice Ostrava (110), Fakultní nemocnice Královské Vinohrady (106), KZ, a.s., Masarykova nem. Ústí n. L., o.z. (105), Nem. Pardubického kraje, a.s., Pardubická nem. (101), Městská nemocnice Ostrava, příspěvková organizace (93), Nemocnice Tábor, a.s. (93), Nemocnice Nové Město na Moravě, p.o. (86), Fakultní nemocnice Olomouc (82), Všeobecná fakultní nemocnice v Praze (79), Nemocnice Vyškov, příspěvková organizace (75), KZ, a.s., Nemocnice Most, o.z. (75), Nemocnice Kyjov, příspěvková organizace (72).
+
+Dostupné kapacity dle dispečinku IP
+• UPV - volná kapacita ( 460 lůžek), tj. 18,9 % celku. ECMO - volná kapacita ( 38 přístrojů), tj. 42,7 % celku.
+• JIP lůžka (HFNO+UPV): volná kapacita COVID+ 879 lůžek (+ volná kapacita pro COVID- pacienty 432 lůžek).
+• Stand. lůžka s O2: volná kapacita COVID+ 2 417 lůžek (+ volná kapacita pro COVID- pacienty 4129 lůžek).
+

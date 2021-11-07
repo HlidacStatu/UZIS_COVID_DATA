@@ -1,0 +1,47 @@
+Vážené kolegyně a kolegové, v přílohách posílám aktualizovaná hlášení z nemocnic, přehledy dle krajů a jednotlivých zařízení.
+
+Počty hospitalizovaných dosud dohlášené za neděli a celý weekend ukazují na další významný pokles zátěže v nemocnicích, i když na konečné zhodnocení budeme muset počkat na nová data z počátku týdne. V pondělí vždy nemocnice zpětně korigují data a nedohlášené záznamy a také dojde k (jednorázovému) dennímu nárůstu počtu nově přijatých pacientů k hospitalizaci. Data z pátku a z weekendu avšak jednoznačně potvrzují trend z druhé poloviny minulého týdne, kdy počet nově přijímaných pacientů začal významně klesat.
+
+  *   Celkem je nyní průběžně registrováno 5 070 hospitalizovaných pacientů s COVID-19
+  *   Průměrný věk nově hospitalizovaných se stabilně drží v intervalu 65–67 let
+
+Nové příjmy do nemocnic klesly pod hodnotu 400 denně již v druhé polovině minulého týdne a pokles v mezi-týdenním srovnání pokračoval i o weekendu. Včera bylo celkem přijato k hospitalizaci + 190 pacientů. Pokles koreluje s klesajícím počtem nově denně nakažených potenciálně zranitelných pacientů.
+
+Snižující se zátěž potvrzují hlášené počty pacientů na intenzivní péči, které rovněž klesají, i když zde je pokles pomalejší než u celkových počtů hospitalizovaných:
+
+  *    aktuálně je hlášeno 1 190 pacientů na JIP, z toho 588 x UPV a 20 x ECMO.
+
+Klesající podíl pacientů s COVIDEm na obsazenosti lůžek intenzivní péče potvrzuje i hlášení volných lůžkových kapacit v Národním dispečinku lůžkové péče, podle kterého se většina regionů dostává s dostupnými kapacitami lůžek JIP k 20 % nebo nad 20 %. Aktuálně žádný z krajů nehlásí vysoce kritický stav, kdy by volné kapacity lůžek JIP poklesly pod 10 % celku.
+
+S úctou L. Dušek
+
+
+
+Celkový souhrn situace v ČR
+• Celkem hospitalizovaných bylo včera 5 070.
+• Hospitalizovaní tvoří 5,8 % z celkem pozitivních.
+• Těžký průběh onemocnění a na JIP je hlášeno u 1 190 osob, 588x UPV, 20x ECMO.
+• Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 22,9 %.
+• Potvrzeno 43 úmrtí. Průměrný věk 76 let.
+
+Nově přijatí a propuštění pacienti
+• Celkem 190 nově přijatých pacientů.
+• Průměrný věk nově přijatých pacientů činí 65 let.
+• Těžký stav je hlášen u 21 nově přijatých pacientů, stav střední je hlášen 110x.
+• Nejvíce příjmů bylo v následujících krajích: MSK(35), HMP(29), JHC(20).
+• Dne 9.4. bylo propuštěno 748 pacientů
+• Dne 10.4. bylo propuštěno 198 pacientů
+• Dne 11.4. bylo propuštěno (zatím nahlášeno) 94 pacientů
+
+Zátěž dle krajů a nemocnic
+• Nejvíce pacientů je v následujících krajích (z toho na JIP): HMP 696 (195), MSK 651 (116), JMK 626 (154).
+• UPV potřebuje nejvíce pacientů v JMK 626 (76), HMP 696 (75), OLK 287 (57).
+• ZZ s více jak 70 pacienty:
+Krajská nemocnice T. Bati, a. s. (155), Fakultní nemocnice Brno (131), Fakultní Thomayerova nemocnice (130), Fakultní nemocnice v Motole (124), Nemocnice České Budějovice, a.s. (120), Fakultní nemocnice Královské Vinohrady (115), Fakultní nemocnice Plzeň (110), Fakultní nemocnice Ostrava (107), Nem. Pardubického kraje, a.s., Pardubická nem. (105), FN Na Bulovce (100), Nemocnice Tábor, a.s. (98), Městská nemocnice Ostrava, příspěvková organizace (94), Nemocnice Nové Město na Moravě, p.o. (83), KZ, a.s., Nemocnice Most, o.z. (81), Fakultní nemocnice Olomouc (81), Všeobecná fakultní nemocnice v Praze (81), Nemocnice Vyškov, příspěvková organizace (73).
+
+Dostupné kapacity dle dispečinku IP
+• UPV - volná kapacita ( 456 lůžek), tj. 18,8 % celku. ECMO - volná kapacita ( 38 přístrojů), tj. 42,7 % celku.
+• JIP lůžka (HFNO+UPV): volná kapacita COVID+ 877 lůžek (+ volná kapacita pro COVID- pacienty 432 lůžek).
+• Stand. lůžka s O2: volná kapacita COVID+ 2 358 lůžek (+ volná kapacita pro COVID- pacienty 4257 lůžek).
+
+

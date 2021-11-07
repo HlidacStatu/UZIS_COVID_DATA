@@ -1,0 +1,17 @@
+Vážené kolegyně a kolegové, dobrý den
+posílám v příloze vybrané soubory a reporty generované pravidelně pro KKIP – nyní aktualizované s uzavřeným celým předchozím týdnem.
+
+Aktualizované soubory potvrzují setrvale klesající trend v počtu hospitalizovaných ve všech regionech - klesají celkové počty hospitalizovaných, tak i počty na intenzivní péči. Žádný z regionů nyní nehlásí rizikové nárůsty nebo fluktuace v zátěži. Tyto trendy doložené ještě v dosluhujících prediktivních modelech z počátku března 2021 dokládají soubory KKIP01 - KKIP03.
+
+Krátkodobé predikce ukazují na další pokles zátěže v následujících dnech - tyto predikce vycházejí z klesajícího počtu nově nakažených pacientů v seniorním věku a potenciálně zranitelných pacientů. Doplněný soubor "risk mapping" ukazuje na další pokles prevalenční zátěže a shrnuje počty nově nakažených zranitelných pacientů v rámci krajů a okresů ČR.
+
+  *   za posledních cca 14 dní evidujeme v prevalenci cca 1340 nově nakažených osob ve věkové třídě 65+ a cca 500 osob ve věku 75+
+  *   v dalších 10–14 dnech očekáváme cca 490 - 500 nových hospitalizací, což znamená, že průměrní denní příjmy nad celou ČR dále klesnou až k počtu 30. - jde o řádový pokles ve srovnání s hodnotami z dubna 2021.
+  *   dle dostupných projekcí vývoje očkování předpokládáme další pokles zátěže reagující na vyšší proočkovanost zejména v kategoriích věku 60+
+
+Soubor nemocnice-zatez-kraje shrnuje vývoj obložnosti různých typů lůžek a celkovou zátěž nemocnic v ČR a v jednotlivých krajích. I zde je patrný pokles zátěže, standardní lůžka s kyslíkem jsou nad celou ČR obsazena z cca 1,5% celkové kapacity a lůžka intenzivní péče z cca 4,6% celkové kapacity. Nejvyšší relativní obložnost JIP v důsledku pacientů s COVID-19 hlásí kraje Zlínský a Ústecký (10 - 11% jejich  celkové kapacity).
+
+S úctou L. Dušek
+
+
+

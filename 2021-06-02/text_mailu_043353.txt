@@ -1,0 +1,291 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Vzhledem k pozitivnímu vývoji epidemiologické situace jsme připravili více strukturovanou podobu reportingu - v podobě číselného souhrnu uvedeného níže. Data tak budou snad přehlednější. Všechny dosud posílané údaje jsou zde uvedeny a kopírovaná tabulka obsahuje i více údajů, než předchozí verze (tedy regionálně kalkulované reprodukční číslo, standardizovaný počet testů, 7denní i 14denní počet potvrzených případů, pozitivita testů, apod. - viz níže).
+
+Zpomalování epidemie nadále významně zpomaluje - včerejší záchyt potvrzených případů v počtu 475 je významně nižší než hodnota v minulém týdnu (658). Reprodukční číslo je nadále nižší než 0,8 a týdenní relativní pokles dosahuje hodnot vyšších než - 30%.
+
+Kumulativní 7denní počet prokázaných případů na 100tis. obyvatel klesnul na hodnotu 26,3. Pod hodnotu 25/100tis. obyv. kleslo již 7 krajů, včetně demograficky velkých oblastí jak oje HMP, STČ a nově také JMK.
+
+Po pondělním výkyvu nadále klesá počet hospitalizovaných, aktuálně k hodnotě 468 (z toho 103 na JIP) - počty denních příjmů klesly v průměru k hodnotě 30.
+
+S úctou L. Dušek
+
+
+CELKOVÝ ČÍSELNÝ PŘEHLED NAD DATY UPLYNULÉHO DNE
+
+
+Počty nových případů COVID-19
+
+-    Denní nárůst: 475 případů
+-    7denní nárůst: 2 818 případů
+-    7denní nárůst na 100 tis. obyv.: 26,3 případů
+
+-    Počet případů zachycený odpovídajícího dne minulého týdne:  658
+-    Změna proti odpovídajícímu dni minulého týdne: - 183
+
+-    Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 0.78
+-    Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 0.74
+
+
+
+Počty nových případů COVID-19 u seniorních věkových kategorií
+
+-    Denní nárůst případů v kategorii 65+:  39 (8,0% celku)
+-    Denní nárůst případů v kategorii 75+:  13 (3,0% celku)
+
+-    7denní nárůst případů v kategorii 65+:  285
+-    7denní nárůst případů v kategorii 65+/100 tis.: 13,2
+-    7denní nárůst případů v kategorii 75+:  120
+-    7denní nárůst případů v kategorii 75+/100 tis.: 13,9
+
+
+
+Srovnání krajů dokumentuje následující tabulka:
+
+Název kraje
+
+Denní počet nových případů
+
+(přepočet
+
+na  100tis.obyv.)
+
+7denní počet nových případů na 100 tis. obyv.
+
+Odhad R
+
+ze 7denních časových úseků
+
+14denní počet nových případů na 100 tis. obyv.
+
+7denní počet testů na 100tis. obyv.
+
+(Dg+Epi / Prev)*
+
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+
+Zlínský kraj
+
+55 (9.5)
+
+41.7
+
+0.80
+
+105.8
+
+3079.9 / 12820.1
+
+3.3 % / 0.9 %
+
+Liberecký kraj
+
+37 (8.4)
+
+35.7
+
+0.85
+
+86.8
+
+1636.7 / 11077.9
+
+3.5 % / 1.5 %
+
+Jihočeský kraj
+
+33 (5.1)
+
+35.6
+
+0.81
+
+84.1
+
+1439.8 / 9719.5
+
+3.7 % / 1.9 %
+
+Olomoucký kraj
+
+25 (4.0)
+
+34.4
+
+0.72
+
+88.5
+
+1496.4 / 10529.8
+
+3.8 % / 1.5 %
+
+Moravskoslezský kraj
+
+77 (6.5)
+
+33.9
+
+0.72
+
+85.9
+
+2542.2 / 11636.7
+
+3.3 % / 0.8 %
+
+Kraj Vysočina
+
+14 (2.8)
+
+29.9
+
+0.83
+
+67.8
+
+2038.9 / 9161.4
+
+1.7 % / 1.0 %
+
+Ústecký kraj
+
+34 (4.2)
+
+26.7
+
+0.80
+
+62.9
+
+1892.9 / 10025.3
+
+3.8 % / 0.9 %
+
+Jihomoravský kraj
+
+41 (3.4)
+
+24.5
+
+0.69
+
+63.6
+
+1613.7 / 11078.9
+
+2.7 % / 1.0 %
+
+Plzeňský kraj
+
+36 (6.1)
+
+23.9
+
+0.86
+
+53.8
+
+1111.3 / 10453.1
+
+2.0 % / 1.6 %
+
+Hlavní město Praha
+
+54 (4.0)
+
+23.7
+
+0.77
+
+58.3
+
+2900.6 / 13226.5
+
+0.7 % / 0.6 %
+
+Středočeský kraj
+
+45 (3.2)
+
+20.5
+
+0.90
+
+44.0
+
+1879.0 / 10309.0
+
+1.0 % / 0.9 %
+
+Pardubický kraj
+
+12 (2.3)
+
+15.9
+
+0.82
+
+39.0
+
+2370.8 / 10482.2
+
+1.3 % / 0.4 %
+
+Královéhradecký kraj
+
+10 (1.8)
+
+10.3
+
+0.78
+
+24.5
+
+1857.8 / 11378.3
+
+0.8 % / 0.3 %
+
+Karlovarský kraj
+
+2 (0.7)
+
+5.5
+
+1.07
+
+9.9
+
+1219.2 / 8457.2
+
+0.9 % / 0.2 %
+
+ČR
+
+475 (4.4)
+
+26.3
+
+0.78
+
+63.8
+
+2048.9 / 11191.6
+
+1.8 % / 0.9 %
+
+
+
+
+
+
+Zátěž nemocnic
+
+-    Denní nové příjmy k hospitalizaci:  21
+-    Celkový počet všech hospitalizací: 468
+-    Celkový počet hospitalizací na JIP: 103
+-    K půlnoci je evidováno: 2 úmrtí
+
+
+
+

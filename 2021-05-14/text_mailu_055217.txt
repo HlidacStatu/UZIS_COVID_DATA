@@ -1,0 +1,268 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Za včerejší den evidujeme v systému celkem 1 261 nových případů onemocnění COVID-19. Počet nově potvrzených případů dále klesá a epidemie stále silně brzdí. Tento fakt platí pro všechny regiony, pozorujeme pouze vybrané okresy se zvýšenými hodnotami. Týdenní průměrný pokles zátěže se stále pohybuje mezi 20 - 25%. Denní průměr nových záchytů klesne tento týden významně pod 1 400.
+
+  *   Pro srovnání – odpovídající hodnota minulého týdne byla 1872 nových případů (středa)
+
+Hodnota reprodukčního čísla je 0,77 (7denní časové okno). Hodnota R pro 14denní časové okno je 0,82.
+
+Včera bylo nově diagnostikováno 134 nových pacientů ve věku 65+ (10,6 % celku) a dále 39 nových pacientů ve věku 75+ (3,1 % celku). V obou těchto potenciálně velmi zranitelných skupinách pacientů je nadále i na počátku nového týdne patrný významný pokles zátěže, který se promítá do snižujícího se počtu nově přijatých k hospitalizaci.
+
+Srovnání krajů dokumentuje následující tabulka
+Srovnání trendů ve vývoji nových případů na 100 tis. obyvatel v celé ČR a v jednotlivých krajích obsahuje datová příloha této zprávy
+
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+
+
+
+
+
+
+
+
+Název kraje
+
+Denní počet nových případů (%)
+
+Denní počet nových případů na 100 tis. obyv.
+
+7denní počet nových případů na 100 tis. obyv.
+
+14denní počet nových případů na 100 tis. obyv.
+
+7denní počet nových případů 65+ na 100 tis. 65+
+
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+
+Moravskoslezský kraj
+
+163 (12.9 %)
+
+13.7
+
+112.8
+
+256.2
+
+74.4
+
+14.8 % / 2.8 %
+
+Jihomoravský kraj
+
+157 (12.5 %)
+
+13.1
+
+92.0
+
+212.8
+
+64.9
+
+9.3 % / 3.1 %
+
+Hlavní město Praha
+
+141 (11.2 %)
+
+10.6
+
+69.7
+
+162.8
+
+33.6
+
+3.8 % / 1.2 %
+
+Středočeský kraj
+
+130 (10.3 %)
+
+9.3
+
+64.2
+
+161.2
+
+31.9
+
+7.1 % / 2.6 %
+
+Ústecký kraj
+
+115 (9.1 %)
+
+14.1
+
+90.3
+
+246.5
+
+61.4
+
+9.7 % / 1.8 %
+
+Zlínský kraj
+
+103 (8.2 %)
+
+17.8
+
+120.5
+
+301.5
+
+74.3
+
+10.5 % / 2.4 %
+
+Jihočeský kraj
+
+96 (7.6 %)
+
+14.9
+
+118.3
+
+292.3
+
+64.9
+
+20.1 % / 6.6 %
+
+Olomoucký kraj
+
+89 (7.1 %)
+
+14.1
+
+80.1
+
+197.9
+
+57.3
+
+10.7 % / 3.2 %
+
+Kraj Vysočina
+
+80 (6.3 %)
+
+15.7
+
+120.1
+
+296.0
+
+52.0
+
+12.0 % / 3.6 %
+
+Pardubický kraj
+
+49 (3.9 %)
+
+9.4
+
+61.8
+
+157.4
+
+42.7
+
+6.0 % / 1.6 %
+
+Liberecký kraj
+
+43 (3.4 %)
+
+9.7
+
+74.8
+
+173.1
+
+58.4
+
+12.4 % / 3.4 %
+
+Plzeňský kraj
+
+42 (3.3 %)
+
+7.1
+
+49.4
+
+117.8
+
+22.2
+
+5.3 % / 2.1 %
+
+Královéhradecký kraj
+
+30 (2.4 %)
+
+5.4
+
+31.2
+
+78.8
+
+17.3
+
+6.6 % / 0.6 %
+
+Karlovarský kraj
+
+21 (1.7 %)
+
+7.2
+
+30.3
+
+70.6
+
+32.9
+
+3.2 % / 0.2 %
+
+ČR
+
+1,261 (100.0 %)
+
+11.8
+
+82.3
+
+199.9
+
+50.1
+
+9.0 % / 2.5 %
+
+
+
+Celkový 7denní počet nově potvrzených případů klesl na 82,3/100tis. obyvatel
+
+  *   Nejnižší hodnoty stále vykazují kraje KVK a HKK – oba tyto kraje de drží velmi významně v počtu týdenních záchytů pod hranici 50/100 tis. obyv. - oba tyto regiony nadále klesají a jejich týdenní záchyt se pohybuje kolem 30 případů / 100 tis. obyv.
+  *   Poklesy jsou patrné ve všech krajích – nad hranicí týdenního záchytu 100/100tis. zůstávají MSK, ZLK, JHK a Kraj Vysočina
+
+Nejvyšší záchyty (absolutní počty) jsou registrovány v okresech: Praha (141), Brno-město (56), Ostrava-město (43), Opava (35), Zlín (34), Frýdek-Místek (33), Olomouc (31), Vsetín (29), Děčín (27), Nový Jičín (26), České Budějovice (25), Třebíč (25), Pelhřimov (24), Česká Lípa (24), Uherské Hradiště (22).
+
+K půlnoci je evidováno 13 úmrtí, všechna jsou hlášena z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 91 pacientů (průběžná data: z toho 46 ve věku 65+ a 22 ve věku 75+).
+
+  *   Celkem nyní registrujeme 1 697 všech hospitalizovaných pacientů. - počty stále setrvale klesají a naplňují v trendu velmi optimistický scénář vývoje
+
+Aktuálně registrujeme cca 373 pacientů na JIP. I v tomto ukazateli je patrný dlouhodobý pokles, který se týká všech regionů.
+
+Data o hospitalizacích budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

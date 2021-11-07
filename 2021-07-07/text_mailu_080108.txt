@@ -1,0 +1,16 @@
+Vážené kolegyně a kolegové, dobrý den – posílám v příloze aktualizovanou prezentaci s daty o průběhu vakcinace, kde již promítáme věkovou kategorii 12 - 15 let (zatím se projevuje nízkými počty).
+
+Dále prosím přikládám přehled proočkovanosti dle velikosti obcí a sídel. Jako marker jsme pro tento přehled vzali % populace (dle bydliště osob) s alespoň 1. dávkou očkování.
+
+  *   přehled je vypracován do krátké souhrnné prezentace doplněné daty v MS Excel
+
+V přiložené prezentaci ("Vakcinace_dle_velikosti_sidla") je tento souhrn proveden agregovaně - tedy po kategoriích dle velikostí sídel. Zde se celkově nad celou populací neprojevuje žádný významný trend a proočkovanost je v průměru podobná. Tento fakt ale již neplatí při rozboru v rámci krajů, kde je patrná nižší míra proočkovanosti zejména u menších obcí v krajích Moravskoslezském, Zlínském a Olomouckém. To ale není jejich exkluzivní postavení - nižší míra proočkovanosti se týká vybraných obcí a sídel napříč všemi kraji.
+
+Proto jsme připravili jednoduchý report v MS Excel, kde je proočkovanost přímo po obcích - lze v tom jakkoli filtrovat. Je patrné, že zejména odlehlejší oblastí vícero krajů mají obce s mírou proočkovanosti i nižší než 25% - 30%. Přibližně 165 obcí (většinou malých) má proočkovanost 1. dávkou pod 40%.
+
+Tyto obce lze najít ve více krajích a nízkou proočkovanost mají i různá města - hlavním klíčem zde je zřejmě postavení v rámci kraje, geografická a dopravní dostupnost, nikoli samotná velikost sídla.
+
+Analýza může být mírně zkreslena - vše je kalkulováno dle bydliště osob. Zde je jistá míra neurčitosti, řada lidí může mít v daném sídle hlášeno bydliště, a přitom tam nežije apod. ... ale celkový trend by to významně zkreslovat nemělo.
+
+S úctou L. Dušek
+

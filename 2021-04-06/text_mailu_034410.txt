@@ -1,0 +1,108 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle kraj.
+
+Za včerejší den evidujeme v systému celkem 1 405 nových případů onemocnění COVID-19. Jde o záchyty z volného a svátečního dne, které samozřejmě nejsou nijak reprezentativní pro hodnocení trendů. De facto kopírují vývoj v jakési prodloužené neděli s oslabeným počtem testů. Z hlediska trendů počátek tohoto týdne tedy nepůjde hodnotit, v úterý a možná i středu lze očekávat vyšší nárůsty, které budou kompenzovat dlouhodobější výpadek testů.
+
+Hodnota reprodukčního čísla je rovna 0,71. Ale i tento odhad je silně zatížen zkreslením nižšími záchyty v důsledku nižšího počtu testů a zřejmě i zájmem o testování ve svátek a po celý weekend. Soudě podle vývoje dalších ukazatelů bude skutečná hodnota R kolem 0,8 - 0,85.
+
+Včera bylo nově diagnostikováno 288 nových pacientů ve věku 65+ (20,5 % celku) a dále 128 nových pacientů ve věku 75+ (9,1 % celku).
+
+Srovnání krajů dokumentuje následující tabulka
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+Název kraje
+Počet (%)
+Počet na 100 tis. obyv.
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+Středočeský kraj
+229 (16.3 %)
+16.5
+42.1
+30.9
+Hlavní město Praha
+185 (13.2 %)
+14.0
+34.5
+25.2
+Ústecký kraj
+146 (10.4 %)
+17.8
+54.8
+52.2
+Moravskoslezský kraj
+138 (9.8 %)
+11.5
+40.5
+34.6
+Kraj Vysočina
+115 (8.2 %)
+22.6
+57.4
+42.2
+Jihočeský kraj
+111 (7.9 %)
+17.2
+55.2
+47.1
+Zlínský kraj
+103 (7.3 %)
+17.7
+52.0
+42.7
+Jihomoravský kraj
+89 (6.3 %)
+7.5
+40.3
+33.3
+Pardubický kraj
+88 (6.3 %)
+16.8
+52.3
+36.9
+Královéhradecký kraj
+76 (5.4 %)
+13.8
+21.9
+19.1
+Plzeňský kraj
+33 (2.3 %)
+5.6
+33.3
+26.3
+Liberecký kraj
+32 (2.3 %)
+7.2
+43.7
+34.6
+Karlovarský kraj
+31 (2.2 %)
+10.5
+16.5
+13.3
+Olomoucký kraj
+27 (1.9 %)
+4.3
+38.0
+30.0
+Neznámo
+2 (0.1 %)
+
+
+
+
+Pokles hodnot ze svátečního pondělí je silně patrný ve všech krajích a do značné míry smazává rozdíly mezi nimi.
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (185), Ostrava-město (57), Zlín (54), České Budějovice (47), Praha-východ (46), Jihlava (43), Brno-město (38), Mladá Boleslav (36), Pelhřimov (30), Uherské Hradiště (29), Jičín (29), Děčín (29), Most (28), Pardubice (28), Svitavy (25).
+
+K půlnoci je evidováno 54 úmrtí, všechna jsou hlášena z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši mírně výše než + 230 pacientů (průběžná data: z toho 139 ve věku 65+ a 60 ve věku 75+). Počet nových příjmů byl v pondělí srovnatelný s hodnotami v sobotu a v neděli. Celkem registrujeme 5 709 hospitalizovaných pacientů.
+
+Pokles je hlášen i na jednotkách intenzivní péče. Aktuálně registrujeme 1 252 pacientů na JIP.
+
+Průběžná data nemocnic sice potvrzují pokles nemocniční zátěže, avšak zejména u celkových počtů hospitalizací je nutné počítat s jistou nedohlášeností hodnot, kterou nemocnice doplní v pracovním dni. Dále jsou data částečně posunutá z důvodu velmi vysokého počtu propuštěných. Po Velikonocích tedy očekáváme dočasně vyšší denní počty přijímaných a jakési nárazové vyrovnání původního trendu.
+
+Data nemocnic budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

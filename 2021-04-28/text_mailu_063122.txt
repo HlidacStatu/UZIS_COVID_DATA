@@ -1,0 +1,62 @@
+Vážené kolegyně a kolegové, v přílohách posílám aktualizovaná hlášení z nemocnic, přehledy dle krajů a jednotlivých zařízení.
+
+Celkový počet hospitalizovaných nadále klesá, po pondělním mírném nárůstu opět počty propuštěných pacientů převyšují počty pacientů nově přijatých. Včerejší příjem + 177 pacientů potvrzuje predikovaný trend, dle modelů průměrné počty denně přijímaných pacientů klesnou pod 150.
+
+Celkem je v nemocnicích nyní evidováno 3 102 pacientů s COVID-19
+
+  *    hospitalizovaní tvoří dlouhodobě cca 5–6% nově potvrzených případů
+  *   pacienti s těžkým průběhem onemocnění tvoří dlouhodobě 21 - 23 % všech hospitalizovaných
+
+Kontinuálně též klesá počet pacientů na JIP, aktuálně je hlášeno 728 a i tyto hodnoty dle platných predikcí tento týden dále významně klesnou.
+
+V souladu  s výše popsanými trendy rovněž narůstá počet funkčních dostupných lůžek a klesá obložnost lůžek JIP pacienty s COVID-19, celkově nad celou ČR obsazují tito pacienti 17,9% této kapacity. Níže je v číselném souhrnu přehled tohoto podílu pro jednotlivé kraje.
+
+S úctou L. Dušek
+
+
+Celkový souhrn situace v ČR
+• Celkem hospitalizovaných bylo včera 3 102.
+• Hospitalizovaní tvoří 5,7 % z celkem pozitivních.
+• Těžký průběh onemocnění a na JIP je hlášeno u 728 osob, 359x UPV, 19x ECMO.
+• Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 21,9 %.
+• Potvrzeno 22 úmrtí.
+
+Nově přijatí pacienti
+• Celkem 177 nově přijatých pacientů.
+• Průměrný věk nově přijatých pacientů činí 64 let.
+• Těžký stav je hlášen u 9 nově přijatých pacientů, stav střední je hlášen 98x.
+• Nejvíce příjmů bylo v následujících krajích: MSK(27), JHC(26), JMK(24).
+
+Nově propuštění pacienti
+• Za 27.04.2021: celkem 268 propuštěných pacientů.
+• Za 26.04.2021: celkem 355 propuštěných pacientů.
+• Za 25.04.2021: celkem 71 propuštěných pacientů.
+
+Zátěž dle krajů a nemocnic
+• Nejvíce pacientů je v následujících krajích (z toho na JIP): MSK 447 (82), JMK 385 (109), HMP 350 (102).
+• UPV potřebuje nejvíce pacientů v MSK 447 (47), ULK 318 (44), HMP 350 (44).
+• ZZ s více jak 70 pacienty:
+Krajská nemocnice T. Bati, a. s. (123), Fakultní nemocnice Ostrava (92), FN Na Bulovce (74).
+
+Dostupné kapacity dle dispečinku IP
+• UPV - volná kapacita ( 586 lůžek), tj. 24,8 % celku. ECMO - volná kapacita ( 38 přístrojů), tj. 42,7 % celku.
+• JIP lůžka (HFNO+UPV): volná kapacita COVID+ 1 039 lůžek (+ volná kapacita pro COVID- pacienty 484 lůžek).
+• Stand. lůžka s O2: volná kapacita COVID+ 1 915 lůžek (+ volná kapacita pro COVID- pacienty 4523 lůžek).
+
+Podíl (%) celkové kapacity JIP obsazené pacienty s COVID
+• ČR: 728 pacientů na JIP - 17,9 % celkové kapacity JIP
+• Hlavní město Praha: 102 pacientů na JIP - 11,7 % celkové kapacity JIP
+• Středočeský kraj: 58 pacientů na JIP - 21,2 % celkové kapacity JIP
+• Jihočeský kraj: 52 pacientů na JIP - 31,7 % celkové kapacity JIP
+• Plzeňský kraj: 26 pacientů na JIP - 9,1 % celkové kapacity JIP
+• Karlovarský kraj: pacientů na JIP - % celkové kapacity JIP
+• Ústecký kraj: 85 pacientů na JIP - 27,1 % celkové kapacity JIP
+• Liberecký kraj: 30 pacientů na JIP - 21,0 % celkové kapacity JIP
+• Královéhradecký kraj: 26 pacientů na JIP - 9,9 % celkové kapacity JIP
+• Pardubický kraj: 22 pacientů na JIP - 14,3 % celkové kapacity JIP
+• Kraj Vysočina: 25 pacientů na JIP - 20,3 % celkové kapacity JIP
+• Jihomoravský kraj: 109 pacientů na JIP - 25,5 % celkové kapacity JIP
+• Olomoucký kraj: 47 pacientů na JIP - 18,7 % celkové kapacity JIP
+• Zlínský kraj: 64 pacientů na JIP - 37,6 % celkové kapacity JIP
+• Moravskoslezský kraj: 82 pacientů na JIP - 15,1 % celkové kapacity JIP
+

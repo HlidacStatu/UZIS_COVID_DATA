@@ -1,0 +1,20 @@
+Vážené kolegyně a kolegové, dobrý den - ke konci týdne jsme aktualizovali data o proočkovanosti ve vztahu k velikosti sídel a obcí (populačně na velikost populace), posílám to prosím pro informaci v přílohách i s pokusem o mapovou vizualizaci. Cílem je co nejvíce návodně připravit podklady pro případnou intervenci na místě v oblastech, kde je proočkovanost nižší.
+
+Musím ovšem hned na úvod sdělit, že u velmi malých obcí může být problém s malými čísly, proto je % z populace vždy potřeba měřit i s ohledem na absolutní počet obyvatel. Dále také nelze vyloučit problém s určením bydliště, tedy zejména fakt, že trvalé bydliště dané osoby je uvedeno v místě, kde ona nežije apod. Toto by ale nemělo narušit celkové trendy, je se mohou projevit dílčí rozpory v datech z velmi malých sídel.
+
+Soubor "01" v Excelu obsahuje seznam obcí s určením podílu očkovaných / neočkovaných , a to i dle věku - lze v tom listovat, třídit, dle obcí, dle věku, dle jejich velikosti, dle kraje, ...
+
+Soubor "02" je prezentací doplňující soubor 01 -> zde prosím uvidíte, že paušální členění proočkovanosti dle velikosti sídla nic moc neukazuje – je nutné problém analyzovat po regionech detailněji. Nejde tedy paušálně označit nějaký typ sídla za problémový – je to otázka místní časové a geografické dostupnosti a situace.
+
+  *   Na závěr prezentace jsou velikosti sídel ještě srovnání i přes kraje - je patrné, že rozdíly mezi kraji existují napříč téměř všemi velikostmi sídel
+
+Soubor "03" doplňuje mapky , kde na první pohled vypadávají jako problematické okrajové části republiky a částečně Morava .... mimochodem některé moravské regiony mají nízkou proočkovanost i v jiných segmentech prevence, např. u očkování spalniček, human PV apod ....
+
+Soubor "04" jen doplňuje snad přehledně počty neočkovaných lidí vyššího až seniorního věku - cílem je umožnit posoudit, kde by se vyplatilo provést i lokální intervenci, tedy kde je v absolutním počtu těchto osob nejvíce.
+
+Pokud byste cokoli k tomu potřebovali doplnit nebo by bylo něco špatně, napište prosím.
+
+Budu to aktualizovat, ale nemá to cenu příliš často, nemění se to podstatně. Tedy cca 1 x za 14 dní bychom provedli update.
+
+S úctou L. Dušek
+

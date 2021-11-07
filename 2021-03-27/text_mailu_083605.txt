@@ -1,0 +1,125 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle krajů
+
+Za včerejší den evidujeme v systému celkem 7 654 nových případů onemocnění COVID-19. Hodnota významně ukazuje na brždění epidemie – jednak i ve srovnání s včerejším dnem a postupně se vyvíjejícím průměrem tohoto týdne a jednak i ve srovnání s týdnem předchozím (minulý týden byly odpovídající záchyty nemoci v posledních pracovních dnech přes 9 700 případů).
+
+Průměrné hodnoty tohoto týdne jsou významně pod průměrem týdne minulého, až o cca 2500 potvrzených případů nižší než minulý týden. Tomu odpovídá i klesající hodnota reprodukčního čísla, aktuálně je rovno 0,79.
+
+Časový vývoj počtu potvrzených případů jednoznačně ukazuje na zpomalování šíření nákazy, čemuž odpovídá i vývoj relativní pozitivity testů. Relativní pozitivita záchytu dlouhodobě klesá, jak u testů z klinické a diagnostické indikace, tak u testů indikovaných epidemiologicky (zejména u těchto epidemiologicky indikovaných testů je pokles velmi významný, 7denní průměr klesl na hranici 15%)  – zde je v tabulce aktuální souhrn z dnešního rána:
+
+Relativní pozitivita testů dle indikace testu
+Za 26.3.
+Za 25.3.
+7denní průměr k 25.3.
+Diagnostická indikace
+31,1%
+28,1%
+30,6%
+Epidemiologická indikace
+15,8%
+13,5%
+15,2%
+Preventivní a plošné testování
+0,6%
+0,5%
+0,6%
+
+Včera bylo provedeno 25 413 testů PCR a 109 688 antigenních testů, a to u 134 183 unikátních testovaných osob. Testy s preventivní indikací a prováděné v rámci plošného testování tvořily 75,8 % celkového počtu testů.
+Včera bylo nově diagnostikováno 1 172 nových pacientů ve věku 65+ (15,3 % celku) a dále 443 nových pacientů ve věku 75+ (5,8 % celku).
+
+Srovnání krajů dokumentuje následující tabulka
+
+
+SUMARIZACE VÝVOJE V KRAJÍCH
+
+Název kraje
+Počet (%)
+Počet na 100 tis. obyv.
+Průměrný denní nárůst za týden celkem na 100 tis. obyv.
+Průměrný denní nárůst za týden ve věku 65+ na 100 tis. obyv. 65+
+Středočeský kraj
+1,193 (15.6 %)
+86.1
+79.0
+58.7
+Ústecký kraj
+831 (10.9 %)
+101.2
+94.0
+76.1
+Hlavní město Praha
+764 (10.0 %)
+57.7
+56.2
+44.1
+Moravskoslezský kraj
+752 (9.8 %)
+62.6
+58.8
+47.5
+Jihomoravský kraj
+666 (8.7 %)
+55.9
+59.7
+49.1
+Jihočeský kraj
+574 (7.5 %)
+89.1
+92.4
+66.6
+Kraj Vysočina
+554 (7.2 %)
+108.7
+80.3
+58.8
+Plzeňský kraj
+474 (6.2 %)
+80.4
+67.6
+49.5
+Pardubický kraj
+439 (5.7 %)
+84.0
+83.2
+63.3
+Liberecký kraj
+357 (4.7 %)
+80.5
+92.8
+74.0
+Zlínský kraj
+341 (4.5 %)
+58.5
+56.1
+40.7
+Olomoucký kraj
+338 (4.4 %)
+53.5
+61.3
+44.7
+Královéhradecký kraj
+238 (3.1 %)
+43.1
+46.3
+37.0
+Karlovarský kraj
+108 (1.4 %)
+36.7
+29.6
+32.0
+Neznámo
+25 (0.3 %)
+
+
+
+
+Klesající trend je patrný u všech regionů – týdně kalkulovaný denní průměrný přírůstek se drží pod 100 / 100 tis. obyvatel u všech krajů. Trend je dlouhodobější a již setrvalý.
+
+Ve srovnání okresů, včetně Prahy, vykazují vysoké absolutní nárůsty počtu případů: Praha (764), Nymburk (235), Ostrava-město (189), České Budějovice (189), Frýdek-Místek (168), Kladno (159), Žďár nad Sázavou (156), Karviná (155), Olomouc (152), Teplice (144), Zlín (144), Děčín (143), Litoměřice (142), Ústí nad Orlicí (136), Brno-město (133).
+
+K půlnoci je evidováno 67 úmrtí, z toho 65 je hlášeno z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši vyšší 493 pacientů – počet přibližně stejný jako včera (průběžná data: z toho 298 ve věku 65+ a 138 ve věku 75+) - registrujeme celkem 7 897 všech hospitalizovaných pacientů, což je opět pokles proti průměrné hodnotě týdne. Na jednotkách JIP je registrováno 1 682 pacientů. I zde jde o pokles.  Počty propuštěných pacientu významně převýšily nové příjmy, bohužel přijatých je stále vysoký počet - důsledek vysokého počtu nově nakažených a potenciálně zranitelných osob z obbobí uplynulých cca 7 - 10 dní.
+
+
+S úctou L. Dušek
+

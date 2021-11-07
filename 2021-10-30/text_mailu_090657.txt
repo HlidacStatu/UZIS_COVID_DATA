@@ -1,0 +1,34 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím aktualizaci indikátorů rizika, resp. rizikových faktorů a ukazatelů stavu epidemie.
+
+Hodnoty "cut off" vycházejí z mnoha odborných konzultací a také z mezinárodních guidelines , po konzultaci s RKI v Německu jsme nastavili podobné hranice pro zátěž nemocnic. Dle mého nej svědomí tak shrnujeme panel indikátorů, který kopíruje "the best practice" aplikovanou ve většině zemí - takto to hodnotíme již od září minulého roku, zde to jen dostalo nový přehledný souhrn,
+
+  *   viz též "metodická příloha"
+
+Nicméně ale, je to otevřené téma a budu velmi  rád za kritické poznámky, náměty nebo doplnění. Rovněž je možné přenastavit hraniční hodnoty.
+
+Report bohužel dává nepochybnou zprávu - a sice že se pohybujeme v rizikovém vývoji a rizikovém scénáři.
+
+Report bude v týdnu generován pravidelně i pro jednotlivé kraje.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Přikládám také k včerejšku aktualizovaný soubor shrnující hlavní rizikové ukazatele v okresech a k nim jejich riziková skóre. Je evidentní, že zátěž v populaci za poslední týden významně narostla , nad hranici 7denních záchytů 300/100tis. obyv. je téměř 30 okresů. Důležitější je ale posouzení rizikové dynamiky vývoje dané a) relativní pozitivitou testů, b) zásahem zranitelných skupin, c)7denním konzistentním trendem a d) symptomatičností případů ... při komplexním hodnocení je situace nejrizikovější v následujících okresech:
+Kraj    Nové případy za 7 dní na 100 000 obyvatel       7denní relativní pozitivita diagnostických testů        7denní relativní pozitivita epidemiologických testů     7denní relativní pozitivita všech indikovaných testů    Symptomatičtí:  % z pozitivních         R (zjednodušený výpočet) - 7 denní úseky        Nové případy 65+ za 7 dní na 100 000 obyvatel 65+
+Olomoucký kraj  561,3   35,5%   16,9%   22,7%   50,1%   1,6     179,5
+Jihočeský kraj  505,1   32,8%   13,8%   18,7%   43,4%   1,2     165,7
+Olomoucký kraj  420,9   31,1%   15,2%   19,7%   40,0%   1,5     111,2
+Olomoucký kraj  403,5   24,9%   12,6%   15,5%   41,8%   1,4     157,2
+Jihočeský kraj  391,9   24,7%   12,1%   15,6%   45,2%   1,2     263,3
+Jihomoravský kraj       363,9   19,0%   11,6%   14,4%   57,4%   1,8     211,4
+Jihočeský kraj  361,5   28,6%   11,7%   17,1%   39,6%   1,6     185,8
+Olomoucký kraj  347,6   28,0%   10,2%   15,4%   42,4%   1,1     130,6
+Zlínský kraj    344,4   28,1%   9,6%    13,6%   59,0%   1,7     182,0
+Moravskoslezský kraj    510,8   25,9%   8,9%    11,5%   30,7%   1,3     287,9
+Jihomoravský kraj       472,5   19,9%   10,6%   13,6%   47,5%   1,5     195,4
+Jihomoravský kraj       429,1   13,9%   8,0%    10,4%   46,6%   1,5     183,8
+Moravskoslezský kraj    409,0   23,9%   8,0%    10,2%   33,2%   1,3     139,0
+
+Přeji krásný weekend všem
+
+L. Dušek
+

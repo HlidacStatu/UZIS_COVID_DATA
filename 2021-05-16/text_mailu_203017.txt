@@ -1,0 +1,35 @@
+Vážené kolegyně a kolegové, dobrý den,
+posílám prosím aktualizovaný souhrn stavu CoVID-19 v nemocnicích, predikce vývoje a přehledy zátěže po jednotlivých krajích.
+
+Aktualizaci těchto predikcí nyní provádíme týdně, vzhledem k stabilní situaci a plošně klesající zátěži v nemocnicích to snad stačí, Pokud by prosím bylo třeba někde častější zobrazování, napište prosím.
+
+Zítra pošlu po celém uzavřeném týdnu tradiční strukturovaný přehled vývoje dle dlouhodobých predikcí.
+
+Celkový souhrn zátěže nemocnic (viz soubor "Stručný souhrn situace")
+
+  *   Celkový počet hospitalizovaných pacientů stále kontinuálně klesá, aktuální týdenní pokles se stále drží v intervalu -25% až - 29%. Ke dni 16.5. je registrováno celkem 1 341 všech pacientů s CVID-19 na lůžkách nemocnic.
+  *   Denní počty nově hospitalizovaných pacientů velmi významně klesají a týdenním průměru se již významně drží pod 100 příjmů denně. V pracovních dnech se příjmy drží na úrovni cca 70 denně.
+  *   Klesající zátěž nemocnic se týká všech regionů, pokles zátěže je důsledkem klesající virové nálože v populaci a zejména postupující vakcinace. Klesá počet pacientů ze seniorních věkových skupin, kde velmi narostla proočkovanost - průměrný věk nově přijatých pacientů klesl k hranici 63 let.
+  *   Kontinuálně klesá rovněž zátěž JIP: na lůžkách JIP je hlášeno cca 310 - 320 pacientů, z toho cca 135 vyžaduje vysoce intenzivní péči typu UPV, ECMO.
+  *   Podíl pacientů v těžkém stavu z celkového počtu hospitalizovaných se pohybuje mezi 18 - 20 %. - i tento podíl mírně klesnul, v únoru - březnu dosahoval až 23%.
+
+Vývoj zátěže nemocnic v jednotlivých regionech shrnují přiložené soubory KKIP01 - KKIP03.
+
+  *   Zátěž nemocnic klesá kontinuálně a kopíruje tak pokles zátěže v populaci, kde se dlouhodobě drží trend sledující reprodukční číslo v intervalu 0,7 - 0,8. Grafy v souborech KKIP02 - 03 zobrazují více scénářů krátkodobých predikcí, nejrizikovější je nastaven dle R = 1,1, avšak v žádném z regionů takový vývoj není nenastává. To je velmi pozitivní zpráva. Pozitivní vývoj je důsledkem pokračující vakcinace zranitelných skupin obyvatel.
+  *   Rovněž zátěž JIP klesá ve všech regionech, opět trend sleduje pokles zátěže při R 0,7 až 0,8, a to ve všech regionech.
+
+Soubor "nemocnice-zatez-souhrn-kraje" kvantifikuje současnou zátěž segmentu lůžkové péče, včetně relativní obsazenosti lůžek s ohledem na velikost lůžkového fondu v krajích
+
+  *   z dat je rovněž patrný významný pokles zátěže ve všech krajích
+  *   pacienti s COVID obsahují cca 2,6% celkové kapacity lůžek s podporou O2 a 7,9 % lůžek JIP – pokles relativně obsazenosti lůžek JIP je patrný ve všech krajích. Nejvyšší obložnost lůžek JIP pacienty s COVID dosahuje v některých krajích hodnoty 14% - 15%.
+
+Zjednodušenou predikci vývoje zátěže nemocnic v dalších 10 - 14 dnech shrnuje přiložený soubor "Risk mapping týdenní"
+
+  *   Klesající virová nálož v populaci a postupující vakcinace signifikantně redukují počet potenciálně zranitelných nakažených pacientů - za posledních 14 dní evidujeme cca 2 400 potvrzených případů u osob ve věku 65+ a 800 u osob ve věku 75+.
+  *   Pro období následujících 10 - 14 dnů predikujeme cca do 850 nových hospitalizací - průměrné počty denních příjmů do nemocnic tak klesnou pod hranici 70 - 80.
+
+S úctou
+
+L. Dušek
+
+

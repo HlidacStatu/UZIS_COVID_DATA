@@ -1,0 +1,14 @@
+Vážené kolegyně a kolegové, dobrý večer - v přílohách mailu prosím naleznete tři prezentace, které shrnují aktualizace krátkodobých a dlouhodobých prediktivních modelů zaměřených na
+
+  *   vývoj populačních rizik
+  *   vývoj počtu nově diagnostikovaných případů
+  *   vývoj zátěže nemocnic
+
+Soubor 01 - shrnuje uceleně všechny typy modelů i se závěry
+Soubor 02 - obsahuje krátkodobé modely predikce, lokalizované pro ČR i pro jednotlivé regiony
+Soubor 03 - je projekcí dlouhodobých modelů SEIR, opět pro ČR i jednotlivé regiony
+
+Celkové závěry jsou velmi pozitivní. Současný vývoj odpovídá velmi optimistickému scénáři, který předpokládal rychlé brždění epidemie odpovídající reprodukčnímu číslu cca 0,8, posílenému o rychlý efekt postupující vakcinace (imunita dosažená již po 1. dávce vakcíny). Poklesy zátěže jsou registrovány ve všech regionech ČR.
+
+S úctou L. Dušek
+

@@ -1,0 +1,16 @@
+Vážené kolegyně a kolegové, dobrý večer - posílám v příloze čtyři větší prezentace, které jednak shrnují stav epidemie po uplynulém týdnu a dále ukazují nové implementace dlouhodobých prediktivních modelů. - dobudovali jsme model, který nazýváme SEIRV (V jako vakcinace) a je to nová adaptace stavových modelů zahrnující blok vakcinace - tedy kohorty chráněné před nákazou po aplikaci 1. a/nebo 2. dávky očkování.
+
+  *   tyto modely velmi dobře vysvětlují současné zpomalování epidemie a zejména dobře sedí do predikcí počtu nových hospitalizací
+  *   je tak evidentní, že postupující vakcinace má již populační efekt a dopad.
+
+V přílohách jsou
+
+  *   soubor "01" - ucelená prezentace predikcí, včetně nových dlouhodobých modelů
+  *   soubor "02" - souhrnná prezentace stavu epidemie
+  *   soubor "03" - rozpracované dlouhodobé modely pro regiony - populační
+  *   soubor "04" - rozpracované krátkodobé projekce modelů pro regiony - populační
+
+Přeji všem příjemný zbytek nedělního večera a dobrý start nového týdne
+
+S úctou L. Dušek
+

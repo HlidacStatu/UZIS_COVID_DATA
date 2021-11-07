@@ -1,0 +1,26 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách souhrnné reporty s daty o vakcinaci. Reporty 01 A a 01 B jsou doplněny dle podkladů MZ ČR.
+
+Upozorňuji na tyto nové podklady a reporty:
+
+  *   v hlášení o aplikovaných dávkách ("02") jsou již zabudovány nové prioritní skupiny, tedy senioři 70–79 let a také pedagogové/školství
+  *   nově jsme připravili report "04 – Vakcinace-praktičtí lékaři" - shrnuje počty aplikovaných dávek u PL, zatím bez osob s uzavřenými oběma dávkami; report má dva listy – jeden dle prioritních skupin a jeden dle věku
+  *   nově jsme připravili report "00-souhrn rezervace – registrace", který má dva listy – shrnuje stav registrací a rezervací v CRS a také u praktiků - zde může být překryv, protože máme hlášeno, že k praktikům míří i řada lidí, kteří ruší rezervace v CRS - toto prověříme, nemělo by se to dít samozřejmě ...
+
+Oba nové reporty budou generovány denně a dále doplňovány. Budeme opět vděčni za zpětnou vazbu, pokud byste cokoli chtěli doplnit nebo udělat jinak.
+
+Celková zpráva o vakcinacích
+
+Celkem bylo ke dni 4. 3. 2021 (20:00) vykázáno 771 223 aplikovaných dávek očkování, a to u 515 743 unikátních osob, které dostaly minimálně jednu dávku očkování.  U 255 480 osob bylo očkování ukončeno aplikací druhé dávky. Denní přehled vykázaných počtů očkování s rozlišením jednotlivých krajů, přehled dle prioritních skupin a dle věkových kategorií očkovaných shrnují datové přílohy 2 - 4.
+Očkování sleduje stanovené prioritní skupiny.
+Jsou očkováni zdravotničtí pracovníci (35,5 % celku), klienti a pracovníci sociálních služeb (16,0 %, bez zdravotníků v sociálních službách), pracovníci kritické infrastruktury (2,0 %: integrovaný záchranný systém, pracovníci energetiky, krizové štáby apod., bez zdravotnických pracovníků pracujících v této oblasti), pracovníci ve školství (2,6 %), dále senioři 70-79 let (4,8 %) a senioři 80+ (33,1 %).  Zbývajících cca 6,0 % osob středního až velmi mladého věku (24 164 osob / 39 119 vakcinací u mladších 29 let) jsou většinou medici, studenti či dobrovolníci pracující na odběrných místech a jinde ve zdravotnictví při péči o COVID+ pacienty, nebo v sociálních službách.
+K 4. 3. 2021 bylo vykázáno očkování alespoň jednou dávkou u 212 271 osob ve věku 80+, což představuje cca 48,1 % všech osob této prioritní kategorie (k 1. 1. 2020 bylo podle dat ČSÚ v populaci ČR 441 100 osob ve věku 80+). U 92 542 osob ve věku 80+ (21,0 % této věkové kategorie v populaci) bylo očkování ukončeno oběma dávkami.
+Registrace v centrálním rezervačním systému. Registraci k očkování provedlo 694 955 osob, k očkování je rezervováno 280 758 osob, 414 197 osob čeká na termín očkování.
+
+  *   Senioři ve věku 80+ let: 234 424 osob je registrováno (cca 53,1 % této věkové kategorie), 175 425 osob má rezervovaný termín
+  *   Senioři ve věku 70–79 let: 273 102 provedených registrací, 43 247 osob má rezervovaný termín
+  *   Pracovníci ve zdravotnictví: 32 372 provedených registrací, 18 044 osob má rezervovaný termín
+  *   Pracovníci ve školství: 155 057 provedených registrací, 44 042 osob má rezervovaný termín
+
+Registrace a očkování u praktických lékařů. Zapojených je 1 921 ordinací praktických lékařů, registrováno je celkem 126 201 osob, 7 955 osob má rezervovaný termín. Vykázáno bylo celkem 96 178 aplikovaných dávek vakcín.
+ S úctou L. Dušek
+

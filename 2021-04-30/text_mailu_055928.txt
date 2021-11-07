@@ -1,0 +1,54 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+V přílohách najdete prosím nový report – zjednodušený přehled počtu nově potvrzených případů na 100tis. obyvatel - v trendu od 1.4. pro celou ČR a jednotlivé regiony. Je denně aktualizováno.
+
+Za včerejší den evidujeme v systému celkem 2 216 nových případů onemocnění COVID-19. Počty nově potvrzených případů postupně ke konci týdne dále klesají, průměrný denní počet tento týden bude mírně vyšší než 2000. Pokles je patrní i v mezi-týdenním srovnání – ve srovnání týdnů jde o cca 20% redukci. Pro srovnání – hodnota ze čtvrtka minulého týdne byla 2 628 a z pátku 2 600.
+
+Hodnota reprodukčního čísla je 0,89 (7denní časové okno). Hodnota R pro 14denní časové okno je 0,87.
+
+Včera bylo nově diagnostikováno 303 nových pacientů ve věku 65+ (13,7 % celku) a dále 92 nových pacientů ve věku 75+ (4,1 % celku).
+
+Počty nově nakažených pacientů ze seniorních věkových skupin postupně významně klesají - zejména ve vyšších věkových skupinách, kde se již projevuje efekt postupující vakcinace. Podíl nově nakažených osob ve věku 75+ se již drží pod 5% z celkového počtu nakažených.
+
+Srovnání krajů dokumentuje následující tabulka
+KÓD
+NUTS3   Název kraje     Zkratka
+NUTS3   Nárůst za 7 dní
+na 100 000 obyvatel     Nárůst COVDI19
+7 dní zpětně    Nové případy 29. 04.
+CZ010   Hlavní město Praha      PHA     110,4   1 462   234
+CZ020   Středočeský kraj        STC     120,9   1 675   226
+CZ031   Jihočeský kraj  JHC     204,5   1 317   232
+CZ032   Plzeňský kraj   PLK     95,6    564     65
+CZ041   Karlovarský kraj        KVK     51,9    153     8
+CZ042   Ústecký kraj    ULK     177,4   1 456   215
+CZ051   Liberecký kraj  LBK     115,4   512     74
+CZ052   Královéhradecký kraj    HKK     57,1    315     62
+CZ053   Pardubický kraj PAK     121,3   634     89
+CZ063   Kraj Vysočina   VYS     187,3   955     211
+CZ064   Jihomoravský kraj       JMK     143,3   1 708   232
+CZ071   Olomoucký kraj  OLK     177,1   1 119   138
+CZ072   Zlínský kraj    ZLK     224,0   1 305   199
+CZ080   Moravskoslezský kraj    MSK     170,6   2 048   226
+CZ088   Neurčeno                        9       1
+CZ099   Cizinci bez pobytu v ČR                 19      4
+CZ      Česká republika ČR      142,6   15 251  2 216
+
+
+Celkový 7denní počet nově potvrzených případů klesl na 142,6 /100tis. obyvatel a klesá denně (včerejší hodnota byla mírně vyšší než 146).
+
+Nejnižší hodnoty opět vykazují kraje KVK a HKK, pod hranicí 7denních počtů potvrzených případů pod 100/100tis se rovněž drží a dále klesá kraj Plzeňský. Klesající trend blízký zmíněné hranici je patrný v LBK a HMP. Vysoké hodnoty stále registrujeme v kraji Zlínském, i zde ale s klesajícím trendem.
+
+K půlnoci evidováno 15 úmrtí, všechna jsou hlášena z nemocnic.
+
+Zátěž nemocnic: počet nově přijatých byl nahlášen ve výši cca 176 pacientů (průběžná data: z toho 90 ve věku 65+ a 32 ve věku 75+). Celkem nyní registrujeme 2 782 všech hospitalizovaných pacientů,
+
+  *   Tyto hodnoty opět svědčí o dalším poklesu zátěže nemocnic. Dle prediktivních modelů klesne celkový počet pacientů tento týden významně pod 3 000.
+  *   Počty denně propuštěných pacientů převyšují denní příjmy
+
+Dlouhodobější pokles ve srovnání s průměrem minulého týdne evidujeme i z jednotek intenzivní péče – zde aktuálně registrujeme cca 631 pacientů na JIP.
+
+Data o hospitalizacích budou upřesněna v ranním hlášení z nemocnic.
+
+S úctou L. Dušek
+

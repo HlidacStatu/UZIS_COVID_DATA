@@ -1,0 +1,46 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím v příloze souhrnnou prezentaci k stavu epidemie a doplněná aktuální data do dříve vybudovaných a kalibrovaných modelů - populačních i "klinických", predikujících zátěž nemocnic.
+
+Stav epidemie - soubor "00" neobsahuje žádnou vysloveně rizikovou indikaci negativního trendu, všechny ukazatele epidemie silně klesají a klesající trend je patrný ve všech regionech. Je ale také nutno podotknout, že stále v některých regionech přetrvávají relativně velké rozdíly ve virové náloži mezi okresy, což by mohl být jeden z důvodů možného lokálního nebo sub-regionálního růstu rizika. To se ale zatím neprojevuje, i přes výkyvy v hodnotách některých okresů, je celkový trend klesající. Rizikové hodnoty přetrvávají v cca 4 - 10 okresech.
+
+Pro příští období již připravíme detailní reportování o lokálních ohniscích a clusterech.
+
+Zásadním ukazatelem zpomalování epidemie je relativní pozitivita záchytu u indikovaných testů (tedy nikoli u testů preventivních) - takto selektované testy z diagnostické, klinické a epidemiologické indikace dosáhly v relativní pozitivitě velmi bezpečných hodnot:
+
+Relativní pozitivita testů dle indikace testu*
+
+Za 30. 05. 2021
+
+Za 29. 05. 2021
+
+7denní průměr k 29. 05. 2021
+
+Diagnostická indikace
+
+1,3%
+
+2,4%
+
+2,4%
+
+Epidemiologická indikace
+
+1,1%
+
+1,8%
+
+1,1%
+
+Preventivní a plošné testování
+
+0,0%
+
+0,1%
+
+0,0%
+
+* Relativní pozitivita testů může být v posledním dni ovlivněna nedohlášením negativních testů v daném okamžiku (v případě velkého počtu testů jsou pro zpracování prioritizovány pozitivní testy a negativní testy jsou z laboratoří hlášeny postupně). Z toho důvodu dochází zpětně (cca 1 – 3 dny) ke korekcím průběžně hlášených hodnot.
+
+Více viz přiložená prezentace
+
+S úctou L. Dušek
+

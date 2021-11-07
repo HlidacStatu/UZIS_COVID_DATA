@@ -1,0 +1,244 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Včera bylo nahlášeno 138 nově diagnostikovaných pacientů s COVID-19. Minulý týden bylo v odpovídající den potvrzeno 140 nových případů.  Jde o záchyty za neděli, které nejsou plně reprezentativní pro dlouhodobý trend a většinou jsou limitovány sníženým množstvím realizovaných testů. Další vývoj epidemie velmi průkazně ukáže první polovina nadcházejícího týdne.
+
+Týdenní počet nových záchytů je na hodnotě 24,4 případů / 100 tis. obyvatel.
+
+  *   Epidemie nadále roste: celo-populační reprodukční číslo dosahuje hodnoty 1,19 (7denní okno). R z 14denního okna je 1,22.
+
+  *   Pro srovnání – v roce 2020 bylo k tomuto datu zachyceno 1537 nových případů nákazy.
+
+  *   Celkem bylo k půlnoci z nemocnic nahlášeno 9 nových hospitalizací, denní příjmy do nemocnic se stále drží na dlouhodobém průměru < 10.
+
+Nadále platí, že největší virová nálož je registrována v populaci mladých lidí, zejména v neočkované populaci ve věku < 30 let; v řadě krajů jde ale o nárůsty i ve věkových třídách 30 - 40 a 40 - 50 let.
+
+Z potvrzených 253 případů je:
+
+  *   107 (77,5%) neočkovaných
+  *   1 (0,7%) po 1. dávce -> z toho 1 (0,7%) více než 14 dní po 1. dávce
+  *   30 (21,7%) po 2. dávce -> z toho 29 (21,0%) více než 14 dní po 2. dávce
+
+Včera bylo potvrzeno 8 nových případů nákazy u věkové kategorie 65+, 1 neočkovaný, 0 po 1. dávce a 6 po 2. dávce očkování.
+
+Zátěž dle jednotlivých krajů shrnuje níže uvedená tabulka.
+
+  *   Karlovarský kraj nadále mírně narostl v zátěži: nyní vykazuje 48,4 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,25
+  *   Praha vykazuje 7denní počet nových případů na hodnotě 41,8 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,17
+  *   Středočeský kraj nyní vykazuje 25,9 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,16 – vyšší hodnoty se týkají okresů sousedících s Prahou
+  *   Významnější prorůstovou dynamiku vykazují i kraje Jihočeský a Moravskoslezský
+
+Nicméně téměř všechny kraje nyní vykazují určité ukazatele růstu epidemie při reprodukčnm čísle > 1.
+
+V následujících okresech je registrován potenciálně rizikový vývoj, tedy nadprůměrná virová zátěž (vyšší než 30 případů na 100 tis. obyv. za týden) a přitom s hodnotu R > 1 nebo blízkou 1:
+Karlovy Vary - 82.2; R:1.02
+Písek - 61.5; R:1.13
+Břeclav - 47.2; R:1.96
+Praha - 41.8; R:1.17
+Frýdek-Místek - 35.9; R:1.24
+Český Krumlov - 35.9; R:1.47
+Třebíč - 35.3; R:1.26
+Vsetín - 35.2; R:1.67
+Teplice - 33.4; R:1.39
+Sokolov - 33.1; R:2.64
+Praha-západ - 32.8; R:1.02
+Beroun - 32.2; R:0.97
+Ostrava-město - 30.9; R:1.44
+
+Ve srovnání nárůstů v okresech (absolutní hodnoty) byly nejvyšší denní záchyty zjištěny v pořadí:
+Praha (36), Teplice (7), Karlovy Vary (5), Brno-venkov (5), Olomouc (5), Nový Jičín (4), Opava (4), Ostrava-město (4), Břeclav (4), Rychnov nad Kněžnou (4), České Budějovice (4), Nymburk (4), Praha-východ (3), Příbram (3), Pardubice (3).
+
+Níže je uveden standardizovaný číselný souhrn
+
+S úctou L. Dušek
+
+
+
+Počty nových případů COVID-19
+- Denní nárůst 138 případů
+- 7denní nárůst 2 608 případů
+- 7denní nárůst na 100 tis. obyv.: 24,4 případů
+- K půlnoci je evidováno 1 úmrtí
+
+
+- Počet případů zachycený odpovídajícího dne minulého týdne: 140
+- Změna proti odpovídajícímu dni minulého týdne: - 2 (-1,4%)
+
+
+- Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 1.19
+- Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 1.22
+
+
+Z nově nakažených 138 případů je:
+- 107 (77,5%) neočkovaných
+- 1 (0,7%) po 1. dávce
+- Z toho 1 (0,7%) více než 14 dní po 1. dávce
+- 30 (21,7%) po 2. dávce
+- Z toho 29 (21,0%) více než 14 dní po 2. dávce
+
+
+
+
+Počty nových případů COVID-19 u seniorních věkových kategorií
+
+
+- Denní nárůst případů v kategorii 65+: 7 (5,0% celku)
+- Denní nárůst případů v kategorii 75+: 3 (2,0% celku)
+
+
+
+- 7denní nárůst případů v kategorii 65+: 166
+- 7denní nárůst případů v kategorii 65+/100 tis.: 7,7
+- 7denní nárůst případů v kategorii 75+: 62
+- 7denní nárůst případů v kategorii 75+/100 tis.: 7,2
+
+
+Z nově nakažených 7 případů 65+ je:
+- 1 (14,3%) neočkovaných
+- 0 (0,0%) po 1. dávce
+- Z toho 0 (0,0%) více než 14 dní po 1. dávce
+- 6 (85,7%) po 2. dávce
+- Z toho 6 (85,7%) více než 14 dní po 2. dávce
+
+
+
+
+
+Srovnání krajů dokumentuje následující tabulka:
+
+
+
+
+
+
+
+
+
+Název kraje
+Denní počet nových případů
+(přepočet
+na  100tis.obyv.)
+7denní počet nových případů na 100 tis. obyv.
+Odhad R
+ze 7denních časových úseků
+14denní počet nových případů na 100 tis. obyv.
+7denní počet testů na 100tis. obyv.
+(Dg+Epi / Prev)*
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+Karlovarský kraj
+5 (1.7)
+48.4
+1.25
+80.8
+851.7 / 3014.2
+7.3 % / 2.7 %
+Hlavní město Praha
+36 (2.7)
+41.8
+1.17
+68.8
+1351.5 / 6333.4
+3.1 % / 0.9 %
+Moravskoslezský kraj
+17 (1.4)
+26.7
+1.61
+39.2
+1083.0 / 3870.1
+3.7 % / 1.0 %
+Středočeský kraj
+20 (1.4)
+25.9
+1.16
+42.6
+886.1 / 4154.4
+3.6 % / 1.2 %
+Pardubický kraj
+7 (1.3)
+24.5
+1.36
+36.7
+1186.8 / 3717.3
+2.7 % / 1.2 %
+Jihočeský kraj
+6 (0.9)
+24.2
+1.01
+46.9
+526.3 / 3170.1
+5.3 % / 1.7 %
+Jihomoravský kraj
+14 (1.2)
+22.1
+1.05
+38.4
+972.9 / 3544.3
+1.9 % / 1.6 %
+Zlínský kraj
+3 (0.5)
+21.5
+1.20
+35.7
+1028.4 / 3179.2
+3.2 % / 1.0 %
+Kraj Vysočina
+2 (0.4)
+20.8
+1.43
+33.4
+671.5 / 2482.1
+3.2 % / 2.0 %
+Ústecký kraj
+9 (1.1)
+17.9
+1.02
+31.8
+808.6 / 3314.9
+5.1 % / 0.7 %
+Královéhradecký kraj
+7 (1.3)
+15.3
+1.68
+22.0
+858.2 / 3616.5
+3.1 % / 0.8 %
+Plzeňský kraj
+3 (0.5)
+15.2
+1.20
+26.6
+691.7 / 4178.1
+1.4 % / 0.8 %
+Olomoucký kraj
+8 (1.3)
+11.7
+1.12
+22.7
+643.1 / 3121.4
+1.5 % / 0.6 %
+Liberecký kraj
+0 (0.0)
+11.1
+0.67
+25.1
+804.6 / 3422.3
+2.1 % / 0.7 %
+ČR
+138 (1.3)
+24.4
+1.19
+40.7
+936.9 / 3992.5
+2.9 % / 1.1 %
+
+
+
+
+Zátěž nemocnic
+
+
+- Denní nové příjmy k hospitalizaci: 9
+- Aktuální počet všech hospitalizací: 113
+- Aktuální počet hospitalizací na JIP: 27
+
+
+

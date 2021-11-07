@@ -1,0 +1,38 @@
+Vážené kolegyně a kolegové, posílám prosím aktualizované podklady k proočkovanosti dle obcí, ORP, okresů - aktualizace s uzavřenými pátečními daty, Tedy k 21.8. včetně.
+
+Opět prosím upozorňuji, že při srovnání proočkovanosti v čase může dojít zejména u velmi malých obcí k mírnému poklesu hodnoty, typicky kolem - 0,5 až - 1%) - u těchto velmi malých obcí je každý člověk na procentech vidět a vlivem zpětné kontroly dat, změny bydliště nebo přesnějšího určení bydliště ze základních registrů se toto může stát.
+
+Soubory jsou aktualizované a řazené standardně jako v předchozích aktualizacích.
+
+Soubor "01" obsahuje primární data v MS Excel tak, aby bylo možné jimi listovat, třídit a filtrovat.
+Soubor "02" - je stručná souhrnná prezentace s výsledky
+
+  *   Je evidentní, že se celkově (nad celou populací) blížíme proočkovanosti 70% (pokud započítáme i běžící registrace a rezervace) - v populaci 16+ má alespoň 1 dávku cca 65% osob
+  *   napříč regiony je cca kolem 30 obcí (většinou velmi malých = do 750 obyvatel) , odlehlejších částech krajů), kde je proočkovanost dospělé populace velmi nízká (kategorie 16+ méně než 40%). - počet těchto obcí ale nicméně klesá v čase, situace se mírně zlepšuje
+  *   u seniorní populace 60+ je obcí s velmi nízkou proočkovaností málo (cca do 20 obcí má proočkovanost seniorů 60+ menší než 50%).
+  *   proočkovanost a připravený zájem k očkování (registrace) je u velmi seniorních kategorií (70+ , 80+) evidována až k populačním 90%, opět je ale nižší u velmi malých odlehlých obcí.
+
+Soubory "03" shrnují tato data z jiného úhlu pohledu - a to dle kumulace méně proočkovaných obcí v ORP, s cílem identifikovat oblasti, kde je proočkovanost menší a kde evidujeme kumulaci méně proočkovaných obcí blízko u sebe (riziko plošného šíření nákazy) -> nejvíce rizikové oblasti se týkají okrajových částí zejména moravských krajů. - zde kopíruji výběr do tabulky - více viz soubor 03_vyber ORP v Excelu a k němu mapový podklad.
+Kraj    ORPkod  ORP     Počet obcí v ORP        Obce s proočkovaností < 56 %    Podíl obcí s proočkovaností < 56 %
+CZ080 Moravskoslezský kraj      8010    Jablunkov       12      11      92%
+CZ072 Zlínský kraj      7206    Rožnov pod Radhoštěm    9       8       89%
+CZ080 Moravskoslezský kraj      8021    Třinec  12      10      83%
+CZ072 Zlínský kraj      7201    Bystřice pod Hostýnem   14      11      79%
+CZ071 Olomoucký kraj    7102    Jeseník 24      18      75%
+CZ031 Jihočeský kraj    3106    Kaplice 15      11      73%
+CZ072 Zlínský kraj      7212    Vsetín  32      21      66%
+CZ053 Pardubický kraj   5305    Králíky 5       3       60%
+CZ053 Pardubický kraj   5306    Lanškroun       22      13      59%
+CZ080 Moravskoslezský kraj      8015    Nový Jičín      16      9       56%
+CZ064 Jihomoravský kraj 6405    Bučovice        20      11      55%
+CZ071 Olomoucký kraj    7111    Šumperk 36      19      53%
+CZ041 Karlovarský kraj  4104    Kraslice        8       4       50%
+CZ071 Olomoucký kraj    7112    Uničov  10      5       50%
+CZ072 Zlínský kraj      7210    Valašské Meziříčí       18      9       50%
+CZ080 Moravskoslezský kraj      8004    Český Těšín     2       1       50%
+CZ080 Moravskoslezský kraj      8022    Vítkov  12      6       50%
+
+V dalším mailu pošlu ještě další mapové podklady - z důvodu velikosti převedené do pdf
+
+S úctou L. Dušek
+

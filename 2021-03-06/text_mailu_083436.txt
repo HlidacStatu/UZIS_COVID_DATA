@@ -1,0 +1,23 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách souhrnné reporty s daty o vakcinaci. Reporty 01 A a 01 B jsou doplněny dle podkladů MZ ČR.
+
+Celkem bylo ke dni 5. 3. 2021 (20:00) vykázáno 804 859 aplikovaných dávek očkování, a to u 544 312 unikátních osob, které dostaly minimálně jednu dávku očkování.  U 260 547 osob bylo očkování ukončeno aplikací druhé dávky. Denní přehled vykázaných počtů očkování s rozlišením jednotlivých krajů, přehled dle prioritních skupin a dle věkových kategorií očkovaných shrnují datové přílohy 2 - 4.
+Očkování sleduje stanovené prioritní skupiny. Jsou očkováni zdravotničtí pracovníci (34,6 % celku), klienti a pracovníci sociálních služeb (15,7 %, bez zdravotníků v sociálních službách), pracovníci kritické infrastruktury (2,0 %: integrovaný záchranný systém, pracovníci energetiky, krizové štáby apod., bez zdravotnických pracovníků pracujících v této oblasti), pracovníci ve školství (3,1 %), dále senioři 70-79 let (5,9 %) a senioři 80+ (32,6 %).
+K 5. 3. 2021 bylo vykázáno očkování alespoň jednou dávkou u 217 853 osob ve věku 80+, což představuje cca 49,4 % všech osob této prioritní kategorie. U 95 339 osob ve věku 80+ (21,6 % této věkové kategorie v populaci) bylo očkování ukončeno oběma dávkami.
+Registrace v centrálním rezervačním systému. Registraci k očkování provedlo 721 897 osob, k očkování je rezervováno 322 908 osob, 398 989 osob čeká na termín očkování.
+
+  *   Senioři ve věku 80+ let: 234 749 osob je registrováno (cca 53,2 % této věkové kategorie), 175 425 osob má rezervovaný termín
+  *   Senioři ve věku 70–79 let: 295 944 provedených registrací, 71 792 osob má rezervovaný termín
+  *   Pracovníci ve zdravotnictví: 32 471 provedených registrací, 18 409 osob má rezervovaný termín
+  *   Pracovníci ve školství: 157 907 provedených registrací, 53 811 osob má rezervovaný termín
+
+Registrace a očkování u praktických lékařů. Zapojených je 2 161 ordinací praktických lékařů, registrováno je celkem 161 089 osob, 9 870 osob má rezervovaný termín. Vykázáno bylo celkem 41 152 aplikovaných dávek vakcín.
+
+S úctou L. Dušek
+
+
+Nové denně generované reporty:
+
+  *   v hlášení o aplikovaných dávkách ("02") jsou již zabudovány nové prioritní skupiny, tedy senioři 70–79 let a také pedagogové/školství
+  *   report "04 – Vakcinace-praktičtí lékaři" - shrnuje počty aplikovaných dávek u PL, zatím bez osob s uzavřenými oběma dávkami; report má dva listy – jeden dle prioritních skupin a jeden dle věku
+  *   "00-souhrn rezervace – registrace", který má dva listy – shrnuje stav registrací a rezervací v CRS a také u praktiků
+

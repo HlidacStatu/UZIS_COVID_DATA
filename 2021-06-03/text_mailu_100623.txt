@@ -1,0 +1,12 @@
+Vážené kolegyně a kolegové, dobrý den - včera se vývoj celkové virové nálože opět v tomto týdnu posunul směrem dolů a většina regionů již směřuje pod 7denní kumulativní počet potvrzených případů < 25/100tis. obyv. . ... tento údaj sice není nijak standardizovaný k počtu testů, ale díky plošnému testování je objem testů velmi vyrovnaný a klesající trend je tak reprezentativní a plně interpretovatelný.
+
+Dovoluji si doplnit ranní hlášení přiloženou krátkou souhrnnou prezentací, která ukazuje, že v podstatě všechny indikátory směřují k velmi bezpečným hodnotám a nikde nevidíme konzistentní nárůst rizika v populačních markerech.
+
+K tomu přikládám vybrané soubory popisující zátěž nemocnic v jednotlivých krajích, a to s těmito pozitivními závěry:
+
+  *   počet hospitalizovaných klesá ve všech krajích a ve více regionech je již méně než 10 hospitalizovaných na JIP; nové příjmy jsou vždy v týdenním úhrnu převýšeny propouštěním pacientů
+  *   obložnost celkové kapacity JIP v důsledku COVID-19 celorepublikově klesla pod 2,7% (soubor "nemocnice_zatez_kraje")
+  *   dle dat v souboru "risk_mapping_tydenni" nadále zásadně klesá počet nakažených a potenciálně zranitelných pacientů - celkem v prevalenci je cca 750 nakažených ve věku 65+, týdenní pokles je až - 30%. -> v důsledku tohoto vývoje prediktivní modely ukazují na cca 270 pravděpodobných nových hospitalizací v následujících 10 - 14 dnech, a tedy počet nových příjmů denně začne v dlouhodobém průměru klesat k hodnotě 20.
+
+S úctou L. Dušek
+

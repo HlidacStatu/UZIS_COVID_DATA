@@ -1,0 +1,19 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím v přílohách uzavřená sledování výskytu nákaz ve školách za 1. pololetí 2021 a těmito soubory zároveň po dobu léta toto reportování ukončuji.
+
+V přílohách naleznete komplexní shrnutí hlášení epidemických šetření KHS (vývoj počtu ohnisek jsem zařadil i retrospektivně) a dále celkový souhrn zachycených nákaz u pedagogů a žáků (soubor "REPORT_deti_skoly_COVID19")
+
+  *   Z těchto dat lze učinit závěr, že konec školního roku se obešel bez eskalace většího množství ohnisek ve školách a školských zařízeních. Zachycené události byly spíše malé, tedy s malým počtem nakažených a v čase jejich počet nijak nenarůstal.
+  *   Průběh konce školního roku také jednoznačně ukázal na stabilizaci situace mezi pedagogy - vlivem očkování zde registrované nákazy téměř vymizely
+
+Dále posílám soubor "testy_skoly_aktualizace", který uzavírá sledování výsledků testů ve školách a je doplněn daty v MS Excel
+
+  *   Z nahlášených dat vyplývá, že testy prováděné ve školách neindikovaly systémový a plošný rizikový vývoj či kontinuální eskalaci v šíření epidemie. Tento závěr je ve shodě s šetřením KHS, které rovněž nehlásily eskalaci počtu ohnisek a rizikových událostí. V závěru školního roku byl avšak v mnoha krajích zachycen růst počtu nákaz mezi dětmi a mladistvými ve věkových kategoriích 12 – 19 let. Pouze u části (max. 30%) těchto nákaz byla prokázána souvislost se školním kolektivem a návštěvou školy.
+  *   Všechny pozitivně potvrzené případy byly šetřeny epidemiology na KHS. Tato šetření umožňují odlišit děti pravděpodobně nakažené v souvislosti se školní docházkou. U dětí ve věku 5 – 11 let, které byly ve škole nejdéle, prokázalo epidemické šetření KHS u 30 % ze všech zachycených nákaz souvislost se školou. Dále tento podíl nákaz souvisejících se školou klesal k 20 % (věková kategorie 12 – 15 let) a k 4 % (věková kategorie 16 – 19 let).
+
+  *   Zvýšený 7denní počet pozitivních záchytů na 100tis. mladistých byl registrován zejména ve věkové třídě 16 - 19 let, v této věkové kategorii vykazuje zvýšené počty nakažených zejména Hl. m. Praha, dále kraj Liberecký a Plzeňský.- toto je zcela ve shodě s denním monitoringem epidemické situace v regionech.
+
+
+S úctou L. Dušek
+
+
+

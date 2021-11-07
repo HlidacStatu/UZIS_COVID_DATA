@@ -1,0 +1,11 @@
+Vážené kolegyně a kolegové, dobrý večer
+
+Posílám prosím týdenní ucelenou prezentaci o vývoji epidemie a jejích parametrů, doplněnou výběrem aktualizovaných krátkodobých a dlouhodobých prediktivních modelů. Do modelů již máme zabudovaný i potenciální efekt vakcinace dle postupující proočkovanosti populace a dle plánovaných dodávek vakcín.
+
+Prezentace jsem vybavil popisky a průběžnými závěry, tak je zde více nepopisuji, závěry z trendů jsou celkově pozitivní, - i když je nutné zdůraznit, že epidemie není zcela dobržděna a v nemocnicích je stále ještě relativně hodně pacientů. Zátěž ale významně klesá, tento týden klesne dle predikcí počet nových hospitalizací na denní průměr 50 a níže. Klesající trend se týká všech regionů.
+
+Regionální predikce a lokalizace modelů pro jednotlivé regiony. Soubory označené "02" a "03" obsahují vybudované krátkodobé a dlouhodobé modely lokalizované pro jednotlivé regiony.
+
+S úctou L. Dušek
+
+

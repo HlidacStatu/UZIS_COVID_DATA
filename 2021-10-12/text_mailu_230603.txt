@@ -1,0 +1,45 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím v příloze několik souborů s aktualizovanými prediktivními modely pro období do počátku listopadu. + výhled vývoje v zátěži nemocnic
+
+Všechny typy modelů shrnuje soubor v pdf "00_variantní_predikce" - zde jsou jednak modely populační dlouhodobé, dále krátkodobé projekce dle SIR modelů a zejména modely pro zdravotní dopad epidemie a předpokládaný vývoj zátěže nemocničního systému
+
+  *   zpětné vyhodnocení modelů (závěr prezentace) ukázalo, že scénáře pracující s nižší proočkovaností populace jako s hlavním rizikem vývoje se naplňují, resp. na konci září se jejich predikce naplnily téměř přesně
+
+  *   tato situace nadále trvá, - nechci opakovat zprávu posílanou před týdnem, ale všechna hlavní rizika stále trvají (tedy podstatná subpopulace nenaočkovaných seniorů, potenciální riziko u neočkovaných sociálních a zdravotnických pracovníků, neočkované celé obce či ORP v některých regionech a také celková nízká proočkovanost mladé populace)
+  *   -> modely takto dále realisticky predikují, že v brzké budoucnosti může být průměrný počet denně nově diagnostikovaných případů > 2000 a poroste také zátěž nemocnic
+  *   predikce pro nemocnice ukazují na realistický a pravděpodobně očekávatelný denní příjem > 50 pacientů ...stále jde o počty zvládnutelné robustností intenzivní péče a lůžkovým fondem. Bohužel ale, pokud se očkování dále neposune, budou nárůsty nevyhnutelně pokračovat i v listopadu.
+
+Soubor "00_variantní_predikce" prezentuje tři principiální scénáře vývoje, přičemž současný stav indikátorů ukazuje na scénář II, který nazýváme "realistický": jeho vstupními předpoklady jsou zejména snížená proočkovanost (cca 70% v populaci 16+; cca 80% v populaci 65+), + riziko 25% ztráty ochrany dané vakcinací
+
+  *   tento scénář predikuje další růst epidemie, avšak určitě v následujících týdnech se zvládnutelnými a kontrolovatelnými zdravotními dopady
+  *   v tomto scénáři je "realisticky" v brzké době očekávatelný vyšší počet denně hospitalizovaných pacientů (až > 50 v denním průměru), dále celkové počty hospitalizovaných > 500 až > 600  a z toho > 150 na JIP
+
+Příloha 01 doplňuje predikce grafickým srovnáním období 2020 - 2021.
+
+  *   je patrné, že vývoj v roce 2021 je ve většině klíčových indikátorů stále významně příznivější než v roce 2020, zejména v dopadu do nemocnic (zátěž je nyní až 5x nižší) - to je jednoznačně efekt ochrany dané vakcinací
+
+Příloha 02 shrnuje neočkované skupiny obyvatel dle věku a krajů
+
+Příloha 03 je přehledem krátkodobých projektů na 2 - 3 týdny, krátkodobé predikce očekávatelného počtu nových případů při udržení objemu a struktury testů; je nepochybné, že ve většině regionů má epidemie roste a růst je nutné očekávat minimálně i v dalších 2 - 3 týdnech.
+
+PŘI STÁVAJÍCÍM ROZVOLNĚNÍ PLOŠNÝCH OPATŘENÍ JE HLAVNÍM KLÍČEM K ZLEPŠENÍ VÝHLEDU DO PODZIMU A KE KONTROLE EPIDEMIE ZEJMÉNA DALŠÍ POSÍLENÍ OČKOVÁNÍ.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Výše uvedené doplňuji ještě aktualizovanými standardními soubory, které připravujeme zejména pro kraje a jejich koordinátory intenzivní péče.
+
+Posílám pravidelně aktualizovaný soubor "KKIP01 - Risk mapping týdenní", který shrnuje rizikovou analýzu aktuálního prevalenčního poolu a odvozuje z toho krátkodobou pravděpodobnostní predikci počtu nových hospitalizací s COVID-19 v následujících 10 - 14 dnech (provedeno pro kraje, i pro jednotlivé okresy).
+
+Nová data v souboru KKIP01 ukazují:
+
+  *   za posledních cca 14 dní evidujeme v prevalenci cca 920 nově nakažených osob ve věkové třídě 65+ (je patrný týdenní nárůst, v minulém hlášení bylo ve 14denní prevalenci 729 pozitivních 65+) a cca 409 osob ve věku 75+ (v minulém hlášení bylo ve 14denní prevalenci 292 pozitivních 75+) -> tyto počty začínají narůstat
+  *   predikce ze stavového modelu: v dalších 10–14 dnech očekáváme minimálně cca 420 nových hospitalizací (horní hranice rizikového odhadu až 650), což znamená, že průměrné denní příjmy nad celou ČR se mohou pohybovat kolem hodnoty 45-50.
+
+Nově jsou doplněny přiložené grafické reporty KKIP02 a 03 (celá ČR i jednotlivé regiony)-> jsou v nich tabulky, kde naleznete vývoj počtu hospitalizací vs. očkování, tedy kolik % z nově hospitalizovaných je neočkovaných, kolik má očkování dokončené, kolik z nich je 65+ apod.
+
+Soubor nemocnice-zatez-kraje shrnuje vývoj obložnosti různých typů lůžek a celkovou zátěž nemocnic v ČR a v jednotlivých krajích.
+
+S úctou
+
+L. Dušek
+
+

@@ -1,0 +1,37 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím souhrnnou prezentaci (soubor Vakcinace – souhrn) s daty o postupu očkování. Dovolím si z ní vybrat několik, podle mne stále velmi pozitivních faktů
+
+  *   v celkové kvantitě se blížíme k počtu 6 mil obyvatel očkovaných aspoň 1. dávkou vakcíny (aktuálně registrujeme 5 908 557 osob očkovaných alespoň 1 dávkou, a z toho 5 624 870 má očkování ukončené)
+  *   pokud vezmeme do kalkulace i neočkované osoby, které mají potvrzené prodělání nemoci v databázi testů, pak v populaci 18+ i 16+ překračujeme i s očkováním hranici očekávatelné imunitní ochrany 70 % a blížíme se 75 %; to je velmi dobrá zpráva
+  *   ačkoli je objektivním faktem, že zájem o očkování zpomaluje a počty registrovaných k očkování klesají v čase, tak stále očkování pokračuje v mladých ročnících a roste počet aplikovaných dávek – zejména věková kategorie 16–29 let se blíží hranici 50% proočkovanosti, což je velký nárůst proti situaci v červenci
+
+Celkově tak data ukazují velmi pozitivní trend a i stávající vývoj epidemie potvrzuje, že do září vstupujeme s bezpečnými hodnotami všech relevantních ukazatelů šíření epidemie.
+
+Dále prosím přikládám aktualizované soubory s daty o proočkovanosti dle obcí, ORP a okresů
+
+  *   Soubory Data 01 a Mapy 01 shrnují proočkovanost populace dle konkrétních obcí, soubor s daty je interaktivní, lze jím třídit, filtrovat. Ačkoli stále existují obce s nízkou proočkovaností, tak jejich počet klesá.
+  *   Soubory Data 02 a Mapy 02 nabízejí trochu jiný pohled – a to identifikace oblastí (ORP), kde je kumulováno větší množství (většinou malých) sídel s nízkou úrovní proočkovanosti
+     *   taková kumulace míst s nízkou proočkovaností může být riziková pro podzimní měsíce, může zde docházet ke vzniku lokálních ohnisek, k šíření i mezi potenciálně zranitelnými obyvateli
+     *   i zde ale je dobrá zpráva, že míst, kde je více sousedících obcí s nízkou proočkovaností v čase ubývá a očkování pomalu postupuje i ve většině odlehlých částí krajů
+     *   z tohoto úhlu pohledu jsou potenciálně rizikové zejména některé oblasti kraje Moravskoslezského a Zlínského - při použití hranice alespoň 50% dostatečně proočkovaných obcí v ORP níže kopíruji tabulku s oblastmi, kde je situace horší (počet těchto míst ale v čase klesá)
+
+Na konci weekendu k této agendě opět zpracujeme podrobnější podklady.
+
+S úctou L. Dušek
+
+
+Kraj    ORPkod  ORP     Počet obcí v ORP        Obce s proočkovaností < 56 %    Podíl obcí s proočkovaností < 56 %
+CZ080 Moravskoslezský kraj      8010    Jablunkov       12      11      92%
+CZ072 Zlínský kraj      7201    Bystřice pod Hostýnem   14      11      79%
+CZ071 Olomoucký kraj    7102    Jeseník 24      18      75%
+CZ080 Moravskoslezský kraj      8021    Třinec  12      9       75%
+CZ031 Jihočeský kraj    3106    Kaplice 15      11      73%
+CZ072 Zlínský kraj      7206    Rožnov pod Radhoštěm    9       6       67%
+CZ072 Zlínský kraj      7212    Vsetín  32      20      63%
+CZ053 Pardubický kraj   5305    Králíky 5       3       60%
+CZ053 Pardubický kraj   5306    Lanškroun       22      13      59%
+CZ064 Jihomoravský kraj 6405    Bučovice        20      11      55%
+
+
+
+
+

@@ -1,0 +1,24 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím sadu tří prezentací, které shrnují nové rekalibrace všech používaných modelů vývoje epidemie na léto 2021.
+
+  *   soubor "01" shrnuje hlavní typy modelů a závěry v ucelené prezentaci
+  *   soubory "02, 03" prezentují populační modely - krátkodobé a dlouhodobé pro ČR a pro jednotlivé regiony
+
+Soubory nastavují nově predikce dle tří typů modelů:
+
+  *   Dlouhodobé populační modely zahrnující i efekt vakcinace (SEIRV), které jsou připraveny pro různé scénáře vývoje včetně možného šíření variant viru částečně rezistentních k očkování ... komponenta "V" u těchto modelů pracuje tak, že očkovaného po první (rychlý efekt) nebo po druhé dávce očkování vyřadí z vnímavých k infekci ... a naopak při modelování rizika šíření mutace, která by byla rezistentní k očkování, je i očkovaný s určitou pravděpodobností zařazen k vnímavým
+  *   Krátkodobé projekce populačních trendů založené na SIR modelech, - predikce počtu nově potvrzených případů
+  *   Predikce zátěže nemocnic založené na stavových modelech a pravděpodobnostních odhadech nemocnosti - modely predikující celkový počet hospitalizací, počet hospitalizovaných na JIP
+
+Predikce na regionální úrovni začínají být poněkud problematické, neboť se nyní již pohybují ve velmi nízkých číslech. V řadě regionů nyní registrujeme denně i pod 10 nových případů onemocnění, na subregionální úrovni takto přestává mít smysl odhad R (je velmi variabilní). Proto jsou modely pro léto spíše nástrojem pro nastavení určitých hraničních hodnot, jejichž překročení by znamenalo rizikový nebo potenciálně rizikový vývoj.
+
+Závěry z nastavených modelů pro léto lze stručně shrnout následovně:
+
+  *   epidemiologická situace začíná být velmi stabilní, epidemie neustále zpomaluje a proběhlé rozvolňování na její vývoj nemá vliv, - obdobně návrat dětí do škol probíhá bez větších problémů
+  *   zlepšování situace je evidentním efektem vakcinace - v populaci ubývá pro původní i stávající variantu (Alpha) viru rizikových kontaktů, snižuje se pravděpodobnost přenosu nákazy; postupně nastupuje a po 1.7. ještě více nastoupí faktor sezónnosti - mimo jiné spojený také se změnou chování populace a s menším množstvím kontaktů v interních prostorách
+  *   v důsledku vakcinace klesá zátěž nemocnic podle nejrychlejších scénářů a predikce ukazují, že již dosahujeme období, kdy denní příjmy do nemocnic budou v celé ČR v jednotkách případů
+  *   byly provedeny rizikové simulace - zejména pro riziko šíření mutace rezistentní k očkování (viz přiložený soubor 01): do modelu byla vložena až 70% pravděpodobnost ztráty imunity po očkování 1. dávkou (odpovídá cca prvním publikacím o mutaci Delta, kde 1. dávka zřejmě chrání jen ze 30%) -> i tento vysoce rizikový vývoj by se v první části léta projevil spíše pozvolným nárůstem počtu nových případů a nikoli zásahem nemocnic
+  *   výše uvedené neznamená, že je epidemie vyřešena - prediktivní modely nejsou nic jiného než nástroj pro simulace, pracující s průměrnými hodnotami - i v létě tak mohou vznikat potenciálně riziková ohniska, nebo velké clustery -> i v optimistických predikcích rychlosti očkování stále musíme počítat s více než 25% vnímavé populace ... a zejména je tedy třeba sledovat riziko šíření nových forem viru.
+
+S úctou L. Dušek
+
+
