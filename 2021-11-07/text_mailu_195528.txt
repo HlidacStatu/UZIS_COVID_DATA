@@ -1,0 +1,53 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím aktualizaci indikátorů rizika, resp. rizikových faktorů a ukazatelů stavu epidemie.
+
+Přiložená verze prezentace s indikátory je nově aktualizovaná a doplněná v souladu s mezinárodními doporučeními - zejména je nově zařazeno separátní sledování hodnot v neočkované a očkované populaci.
+
+  *   Hodnoty "cut off" vycházejí z mnoha odborných konzultací a také z mezinárodních guidelines , po konzultaci s RKI v Německu jsme nastavili podobné hranice pro zátěž nemocnic. Dle mého nej svědomí tak shrnujeme panel indikátorů, který kopíruje "the best practice" aplikovanou ve většině zemí - takto to hodnotíme již od září minulého roku, zde to jen dostalo nový přehledný souhrn,
+
+Závěry vyplývající z hodnot indikátorů jsou víceméně jasné
+
+  *   v ČR pokračuje velmi rychlé šíření nákazy, která zasahuje zejména neočkovanou populaci. Populační hodnoty indikátorů jsou vysoce rizikové (7denní záchyty, dlouhodobě vysoké R. vysoká a rostoucí relativní pozitivita testů, růst počtu a podílu symptomatických nákaz a také samozřejmě růst zátěže nemocnic)
+  *   v prezentaci je ale také patrný stále masivní ochranný efekt vakcinace proti těžkému průběhu nemoci, a to zejména u seniorní populace (65+: ochranný efekt proti těžkému průběhu nemoci 84 - 87%)
+  *   bohužel ale viditelně klesá ochranný efekt vakcinace proti samotné nákaze: v celé populaci se drží na 67% a u seniorní populace klesl v posledních 7 dnech na 54%. -> tento trend by měl být velkou výzvou pro posilující dávky očkování
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Přikládám také k včerejšku aktualizovaný soubor shrnující hlavní rizikové ukazatele v okresech a k nim jejich riziková skóre.
+
+  *   Je evidentní, že zátěž v populaci za poslední týden významně narostla , nad hranici 7denních záchytů 300/100tis. obyv. je téměř 61 okresů.
+  *   Důležitější je ale posouzení rizikové dynamiky vývoje dané a) relativní pozitivitou testů, b) zásahem zranitelných skupin, c)7denním konzistentním trendem a d) symptomatičností případů ... při komplexním hodnocení je situace nejrizikovější v následujících okresech:
+
+K datu  Okres   Kraj    Nové případy za 7 dní na 100 000 obyvatel       7denní relativní pozitivita diagnostických testů        7denní relativní pozitivita epidemiologických testů     7denní relativní pozitivita všech indikovaných testů    Symptomatičtí:  % z pozitivních         R (zjednodušený výpočet) - 7 denní úseky        Nové případy 65+ za 7 dní na 100 000 obyvatel 65+
+06.11.2021      Šumperk Olomoucký kraj  951,1   44,0%   23,6%   34,2%   54,8%   1,7     387,2
+06.11.2021      Přerov  Olomoucký kraj  728,5   37,1%   17,5%   27,1%   57,6%   1,8     293,9
+06.11.2021      Kolín   Středočeský kraj        575,4   32,9%   12,2%   17,5%   57,7%   1,8     244,9
+06.11.2021      Uherské Hradiště        Zlínský kraj    549,3   31,6%   11,7%   18,5%   66,7%   1,7     308,4
+06.11.2021      Písek   Jihočeský kraj  472,1   25,0%   12,5%   17,8%   57,1%   1,9     236,5
+06.11.2021      Bruntál Moravskoslezský kraj    452,9   26,5%   13,3%   18,6%   58,3%   1,8     227,8
+06.11.2021      Tábor   Jihočeský kraj  442,2   31,4%   11,9%   21,0%   21,9%   1,7     192,5
+06.11.2021      Břeclav Jihomoravský kraj       413,8   28,0%   9,5%    18,1%   57,1%   1,9     291,6
+06.11.2021      Jeseník Olomoucký kraj  352,7   31,5%   10,1%   18,3%   69,9%   2,4     129,2
+06.11.2021      Prostějov       Olomoucký kraj  1 080,1 42,2%   22,2%   31,4%   62,4%   1,4     503,5
+06.11.2021      České Budějovice        Jihočeský kraj  820,9   39,8%   20,9%   29,0%   58,7%   1,3     331,4
+06.11.2021      Brno-město      Jihomoravský kraj       763,6   22,8%   11,8%   17,2%   57,1%   1,3     362,7
+06.11.2021      Olomouc Olomoucký kraj  734,8   33,9%   15,5%   23,3%   58,6%   1,4     362,6
+06.11.2021      Strakonice      Jihočeský kraj  731,6   37,2%   18,8%   26,5%   55,0%   1,6     278,7
+06.11.2021      Vyškov  Jihomoravský kraj       713,9   34,1%   17,2%   25,7%   74,3%   1,5     428,9
+06.11.2021      Frýdek-Místek   Moravskoslezský kraj    704,6   35,0%   11,6%   18,6%   58,1%   1,4     380,9
+06.11.2021      Blansko Jihomoravský kraj       702,1   30,9%   17,6%   24,0%   67,1%   1,3     405,3
+06.11.2021      Prachatice      Jihočeský kraj  699,1   31,6%   16,2%   22,3%   51,3%   1,4     448,6
+06.11.2021      Karviná Moravskoslezský kraj    660,3   31,0%   11,6%   17,9%   53,8%   1,5     394,9
+06.11.2021      Opava   Moravskoslezský kraj    625,8   35,1%   13,0%   19,1%   50,9%   1,4     289,4
+06.11.2021      Kroměříž        Zlínský kraj    622,0   35,7%   13,8%   20,5%   66,9%   1,4     399,5
+06.11.2021      Zlín    Zlínský kraj    595,5   28,4%   10,6%   15,1%   54,2%   1,3     293,7
+06.11.2021      Český Krumlov   Jihočeský kraj  590,3   36,3%   16,7%   24,7%   66,6%   1,5     343,1
+06.11.2021      Nový Jičín      Moravskoslezský kraj    582,6   35,9%   13,5%   20,4%   60,5%   1,4     350,0
+06.11.2021      Vsetín  Zlínský kraj    578,6   33,1%   13,2%   20,4%   69,8%   1,3     371,8
+
+Více je v detailu pro všechny okresy uvedeno v přiloženém datovém souboru MS Excel
+
+S úctou
+
+L. Dušek
+
+
