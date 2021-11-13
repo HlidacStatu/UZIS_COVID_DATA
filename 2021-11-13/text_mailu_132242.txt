@@ -1,0 +1,359 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím plnou sadu reportů a analýz, mapy a soubory s daty o proočkovanosti obcí, ORP a regionů.
+
+Na úvod opět upozorňuji, že zejména ve velmi malých sídlech, obcích, může v čase dojít i ke zpětné mírné korekci proočkovanosti - a to i tak že tato mírně poklesne. V nejmenších sídlech je každý člověk na hodnotách viditelný a zpětně může dojít ke korekcím záznamů o bydlišti či změně validací dat.
+
+
+Datové soubory v Excelu označené "01" jsou nově doplněny nejen na úroveň obcí, ale ukazují i srovnání okresů a ORP - vždy v rozdělení dle věkových kategorií
+
+CELKOVĚ POZITIVNÍ ZPRÁVOU JE, ŽE SE OČKOVÁNÍ V POSLEDNÍM TÝDNU ZRYCHLILO A VÝZNAMNĚJI POKLESL I POČET NECHRÁNĚNÝCH SENIORNÍCH SKUPIN OBYVATEL (VIZ SOUBORY "01_data..." a PŘÍLOHA 01)
+
+Přiložené soubory 01 a 02 (data a prezentace) shrnují současný stav proočkovanosti dle velikosti sídel. - v datech lze snadno vyfiltrovat obce/ORP/okresy dle charakteristik a dle regionální příslušnosti.
+
+Nízkou proočkovanost seniorů 60+ (50% této populace a méně) hlásí stále stejných 12 velmi malých obcí z různých krajů:
+Kraj    Obec    populace 60+
+očkovaní        neočkovaní
+CZ072 Zlínský kraj      Vyškovec        30      30,0%   21
+CZ032 Plzeňský kraj     Chlumy  73      34,2%   48
+CZ032 Plzeňský kraj     Hvožďany (Domažlice)    10      40,0%   6
+CZ063 Kraj Vysočina     Hornice 19      42,1%   11
+CZ032 Plzeňský kraj     Hamry (Klatovy) 40      45,0%   22
+CZ041 Karlovarský kraj  Vřesová 40      45,0%   22
+CZ053 Pardubický kraj   Tetov   59      47,5%   31
+CZ041 Karlovarský kraj  Nová Ves (Sokolov)      42      47,6%   22
+CZ071 Olomoucký kraj    Podolí (Přerov) 57      49,1%   29
+CZ032 Plzeňský kraj     Štítov  14      50,0%   7
+CZ042 Ústecký kraj      Staňkovice (Litoměřice) 4       50,0%   2
+CZ053 Pardubický kraj   Selmice 38      50,0%   19
+
+Proočkovanost seniorů 60+ pod 60% všech takto starých obyvatel hlásí cca 58 obcí.
+
+Soubory 03 (data a mapy) shrnují proočkovanost z pohledu ORP - zejména jsou zde identifikovány oblasti, kde spolu sousedí více obcí s nízkou úrovní proočkovanosti
+Soubory 04 (mapy) jsou aktualizované a doplněné mapové podklady
+
+Nejvíce rizikové ORP (s kumulací více než 50 % vzájemně blízkých nebo sousedících obcí s malou proočkovaností) přičemž hranice proočkovanosti je zde nastavena na 60% - tedy následující OPR kumulují více než 40% svých obcí, které mají proočkovanost populace 16+ nižší  než 60%):
+Kraj    ORP     Počet obcí v ORP        Obce s proočkovaností < 60 %    Podíl obcí s proočkovaností < 60 %
+CZ080 Moravskoslezský kraj      Jablunkov       12      12      100%
+CZ072 Zlínský kraj      Rožnov pod Radhoštěm    9       8       89%
+CZ072 Zlínský kraj      Bystřice pod Hostýnem   14      10      71%
+CZ071 Olomoucký kraj    Jeseník 24      17      71%
+CZ031 Jihočeský kraj    Kaplice 15      10      67%
+CZ080 Moravskoslezský kraj      Třinec  12      8       67%
+CZ080 Moravskoslezský kraj      Vítkov  12      7       58%
+CZ053 Pardubický kraj   Lanškroun       22      12      55%
+CZ072 Zlínský kraj      Vsetín  32      17      53%
+CZ032 Plzeňský kraj     Tachov  27      13      48%
+CZ071 Olomoucký kraj    Šumperk 36      17      47%
+CZ080 Moravskoslezský kraj      Bruntál 31      14      45%
+CZ064 Jihomoravský kraj Bučovice        20      9       45%
+CZ071 Olomoucký kraj    Přerov  59      26      44%
+CZ071 Olomoucký kraj    Lipník nad Bečvou       14      6       43%
+CZ071 Olomoucký kraj    Mohelnice       14      6       43%
+CZ053 Pardubický kraj   Králíky 5       2       40%
+CZ071 Olomoucký kraj    Uničov  10      4       40%
+CZ072 Zlínský kraj      Valašské Klobouky       20      8       40%
+CZ080 Moravskoslezský kraj      Odry    10      4       40%
+
+
+Příloha 02 obsahuje sumární tabulky s daty o osobách, které prodělaly COVID - je zde kvantifikováno kolik z nich je již očkovaných - po krajích, dle věkových skupin
+
+  *   Celkem evidujeme 1 782 585 osob se záznamem o prodělané nemoci a z nich 1 010 885 osob má alespoň jednu dávku očkování (tj. cca 56,7%)
+
+S úctou L. Dušek
+
+
+
+
+
+
+________________________________
+Od: Dušek Ladislav prof. RNDr. Ph.D. <Ladislav.Dusek@uzis.cz>
+Odesláno: sobota 13. listopadu 2021 7:21
+Komu: vz@psp.cz <vz@psp.cz>; Adámková Věra <AdamkovaV@psp.cz>; schiestlc@psp.cz <schiestlc@psp.cz>; aulickah@psp.cz <aulickah@psp.cz>; behounekj@psp.cz <behounekj@psp.cz>; Behounek Jiri <behounek.j@kr-vysocina.cz>; krupickova.r@kr-vysocina.cz <krupickova.r@kr-vysocina.cz>; brazdilm@psp.cz <brazdilm@psp.cz>; milan.brazdil@seznam.cz <milan.brazdil@seznam.cz>; brzobohataa@psp.cz <brzobohataa@psp.cz>; dvorakj@psp.cz <dvorakj@psp.cz>; neurologdvorak@seznam.cz <neurologdvorak@seznam.cz>; zumroval@psp.cz <zumroval@psp.cz>; gajduskovaa@psp.cz <gajduskovaa@psp.cz>; ota2@seznam.cz <ota2@seznam.cz>; farhank@psp.cz <farhank@psp.cz>; junior.junior@seznam.cz <junior.junior@seznam.cz>; slavikovak@psp.cz <slavikovak@psp.cz>; janulikm@psp.cz <janulikm@psp.cz>; janulmil@nembv.cz <janulmil@nembv.cz>; kankovskyv@psp.cz <kankovskyv@psp.cz>; vit.kankovsky@seznam.cz <vit.kankovsky@seznam.cz>; vit.kankovsky@onhb.cz <vit.kankovsky@onhb.cz>; Kasal D <KasalD@psp.cz>; david.kasal@nempk.cz <david.kasal@nempk.cz>; marikovak@psp.cz <marikovak@psp.cz>; masekj@psp.cz <masekj@psp.cz>; jiri@cadillac.cz <jiri@cadillac.cz>; pokornak@psp.cz <pokornak@psp.cz>; fiserovai@psp.cz <fiserovai@psp.cz>; pastuchovaj@psp.cz <pastuchovaj@psp.cz>; rihovaa@psp.cz <rihovaa@psp.cz>; pavekp@psp.cz <pavekp@psp.cz>; tumal@psp.cz <tumal@psp.cz>; pawlasd@psp.cz <pawlasd@psp.cz>; richterovao@psp.cz <richterovao@psp.cz>; svobodab@psp.cz <svobodab@psp.cz>; bohuslav.svoboda@uvn.cz <bohuslav.svoboda@uvn.cz>; spicakj@psp.cz <spicakj@psp.cz>; Jitka Chalánková <jitka.chalankova@gmail.com>; prof. Julius Špičák <jusp@ikem.cz>; jusp@medicon.cz <jusp@medicon.cz>; aneta.bernardova@gmail.com <aneta.bernardova@gmail.com>; tresnakp@psp.cz <tresnakp@psp.cz>; pavlovicj@psp.cz <pavlovicj@psp.cz>; valekv@psp.cz <valekv@psp.cz>; vlastimil.valek@top09.cz <vlastimil.valek@top09.cz>; andrea.lukacova@top09.cz <andrea.lukacova@top09.cz>; ambra.pharm@seznam.cz <ambra.pharm@seznam.cz>; Miroslava.Hradilova@top09.cz <Miroslava.Hradilova@top09.cz>; jana.pleyerova@top09.cz <jana.pleyerova@top09.cz>; ventrubaj@psp.cz <ventrubaj@psp.cz>; jiriventruba@seznam.cz <jiriventruba@seznam.cz>; jagrovab@psp.cz <jagrovab@psp.cz>; vyzular@psp.cz <vyzular@psp.cz>; vyzula@mou.cz <vyzula@mou.cz>; mrkvicovaa@psp.cz <mrkvicovaa@psp.cz>; hilserm@senat.cz <hilserm@senat.cz>; krausr@senat.cz <krausr@senat.cz>; kraus2020@seznam.cz <kraus2020@seznam.cz>; dernerovaa@senat.cz <dernerovaa@senat.cz>; aliderner@seznam.cz <aliderner@seznam.cz>; fialat@senat.cz <fialat@senat.cz>; fiala@nemst.cz <fiala@nemst.cz>; KantorL <KantorL@senat.cz>; lumir.kantor <lumir.kantor@fnol.cz>; zaloudikj@senat.cz <zaloudikj@senat.cz>; prof. MUDr. Jan Žaloudík,CSc. <jan.zaloudik@gmail.com>; simetkao@senat.cz <simetkao@senat.cz>; senat@ondrejsimetka.cz <senat@ondrejsimetka.cz>; tresli@senat.cz <tresli@senat.cz>; ivotresl@seznam.cz <ivotresl@seznam.cz>; zitterbartk@senat.cz <zitterbartk@senat.cz>; karel.zitterbart@gmail.com <karel.zitterbart@gmail.com>; Mejdrechová Silvie <mejdrechovas@senat.cz>; Jitka Chalánková <jitka.chalankova@gmail.com>; Vystrčil Miloš <vystrcilm@senat.cz>; Nguyen Sue <NguyenS@senat.cz>; bendam@psp.cz <bendam@psp.cz>; ministr@mpo.cz <ministr@mpo.cz>; cunekj <cunekj@senat.cz>; Philipp Tom MUDr., Ph.D., MBA <tom.philipp@ftn.cz>
+Předmět: Nova epidemiologická data a aktualizace trendů
+
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Včera bylo nahlášeno 14 199 nově diagnostikovaných pacientů s COVID-19. Týdenní počet nových záchytů je na hodnotě 660,5 případů / 100 tis. obyvatel. Minulý týden bylo v odpovídající den potvrzeno 9 237 nových případů. Týdenní relativní změny v klíčových epidemických indikátorech přesahují 50%. Počty nových případů tento týden v pracovních dnech výrazně oscilují, což indikuje, že šíření virové nálože v populaci ještě nedosáhlo svého vrcholu.
+
+Epidemie bohužel stále drží silnou prorůstovou dynamiku a sílí i v indikátorech zdravotního dopadu. Tím není myšlen jen růst v počtu nově diagnostikovaných případů, ale stále rostoucí virová zátěž v subpopulacích zranitelných osob, rostoucí relativní pozitivita testů (diagnostických i epidemiologicky indikovaných), narůstající počet i podíl symptomatických případů a neposlední řadě i zátěž nemocnic.
+
+  *   nadále roste relativní pozitivita indikovaných testů, denní relativní nárůsty se nicméně začínají mírně snižovat (signál, že se růst začíná mírně zpomalovat - stále je to ale růstový trend). Jde stále o velmi vysoké hodnoty a o jeden z nejsilnějších indikátorů růstu rizikové prevalence (aktuální hodnoty 7 denních průměrů nad celou ČR jsou 30,4% pro testy indikované diagnosticky a klinicky, a 12,1% pro epidemiologické indikace) - avšak v nejvíce zatížených regionech registrujeme hodnoty až přes 40% nebo vyšší než 35% (OLK, MSK, JMK, JHK) - viz tabulka níže v datovém souhrnu a viz příloha , soubor "01"  -> toto je nadále jasný indikátor stále rostoucí prevalence aktivních nákaz, které tak vytvářejí pool pro přenos nákazy do všech věkových kategorií populace, včetně potenciálně zranitelných skupin
+
+  *   Celo-populační reprodukční číslo dosahuje hodnoty 1,32 (7denní okno). R z 14denního okna je 1,40
+
+  *   Celkem bylo k půlnoci z nemocnic nahlášeno 377 nových hospitalizací. Celkem nemocnice hlásí  3 845 hospitalizovaných s COVID-19, z toho 513 na JIP.
+     *   Denní příjmy do nemocnic celkově v pracovním týdnu přesáhly průměr 350
+     *   Zátěž nemocnic bohužel roste dle rizikových predikcí, které jsou odvozeny od narůstajícího rizikového potenciálu nových případů v prevalenci (= rostoucí zátěž seniorních a potenciálně zranitelných skupin)
+     *   Kontinuálně rostou i počty pacientů na JIP ale stále platí, že v důsledku ochranného efektu vakcinace nerostou počty pacientů na JIP tak prudce a rychle jako celkové počty hospitalizací a virová zátěž v populaci
+
+  *   Za včerejšek je zatím nahlášeno 36 úmrtí - jde o průběžný počet, záznamy o úmrtí se následně dohlašují zpětně, denní průměr v počtu zemřelých, kteří byli v době úmrtí COVID+, již několik dní přesahuje 40
+
+Z potvrzených 14 199 případů je:
+
+  *   9 397 (66,2%) neočkovaných
+  *   331 (2,3%) po 1. dávce -> z toho 104 (0,7%) více než 14 dní po 1. dávce
+  *   4 471 (31,5%) po 2. dávce -> z toho 4 381 (30,9%) více než 14 dní po 2. dávce
+
+Včera bylo potvrzeno 1 447 nových případů nákazy u věkové kategorie 65+, 448 neočkovaní, 11 po 1. dávce a 988 po 2. dávce očkování.
+
+  *   Populační zátěž ve věkové kategorii 65+ stále narůstá; denně průměrně přibývá do prevalence více než 1000 osob ve věku 65+
+  *   Růst zátěže potvrzuje i dlouhodobě rostoucí relativní pozitivita testů indikovaných v této věkové kategorii (všechny indikované testy: 26,1%).
+  *   Týdenní počet nových případů na 100tis. obyvatel v této věkové třídě je nyní 329,3
+  *   Zátěž seniorní populace roste v čase, přičemž je u velké části této skupiny patrná i částečná ztráta ochrany očkováním proti nákaze
+
+Růst epidemie se promítá do více věkových kategorií, nadále ale nejvíce zatíženou skupinou zůstávají mladí lidé, kde se zátěž šíří zejména mezi neočkovanou částí populace. Významně ale neustále narůstá zátěž ve všech věkových kategoriích, včetně dospělé populace. Týdenní záchyty na 100 tis. obyvatel (vždy v rámci dané věkové třídy) jsou následující:
+
+  *   věková třída 6 - 11 let: 1460,0
+  *   věková třída 12 - 15 let: 1622,8
+  *   věková třída 16 - 19 let: 1211,1
+  *   věková třída 20 - 29 let: 655,6
+  *   věková třída 30 - 49 let: 684,9
+  *   věková třída 50 - 64 let: 485,2
+
+Zátěž jednotlivých krajů shrnuje podrobná tabulka v datovém souhrnu na konci mailu. Nadprůměrnou zátěž vykazují zejména kraje:
+
+  *   Olomoucký kraj vykazuje 7denní počet nových případů na hodnotě 1036,9 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,26 - velmi rychlý růst zátěže, při relativní pozitivitě klinicky indikovaných testů 40,8%
+  *   Jihomoravský kraj vykazuje 7denní počet nových případů na hodnotě 875,3 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,34. Relativní pozitivita diagnosticky indikovaných testů narůstá - aktuální hodnota 32,1%.
+Moravskoslezský kraj nyní vykazuje 841,2 nových případů týdně na 100 tis. obyvatel, reprodukční číslo je rovno 1,25, při rostoucí záchytovosti indikovaných testů (39,4%).
+  *   Zlínský kraj vykazuje 7denní počet nových případů na hodnotě 802,1 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,39. Relativní pozitivita diagnosticky indikovaných testů narůstá - aktuální hodnota 37,7%.
+
+V ČR nadále zůstává a v čase se prohlubuje gradient rostoucí virové zátěže ve směru západ -> východ. Moravské kraje vykazují až dvojnásobnou relativní pozitivitu testů ve srovnání se západem a severem Čech. Růst epidemie při R významně vyšším než 1 je ale patrný ve všech krajích. Relativní pozitivita klinicky a diagnosticky indikovaných testů roste rovněž ve všech krajích a ve všech krajích také nabývá rizikových hodnot (nejnižší hodnoty jsou cca 22 - 23%).
+
+V následujících okresech je registrován nejvyšší rizikový růst epidemie, tedy nadprůměrná virová zátěž (významně vyšší než 800 případů na 100 tis. obyv. za týden) a přitom s hodnotu R > 1 nebo blízkou 1 (více viz příloha 01 a podrobná okresní data v reportech):
+
+Prostějov - 1173.2; R:1.10
+
+Šumperk - 1168.7; R:1.15
+
+Olomouc - 1116.2; R:1.50
+
+Strakonice - 1033.6; R:1.42
+
+Vyškov - 1010.4; R:1.42
+
+Brno-město - 991.6; R:1.30
+
+Prachatice - 970.9; R:1.42
+
+Ostrava-město - 938.2; R:1.17
+
+Brno-venkov - 927.8; R:1.16
+
+Frýdek-Místek - 894.3; R:1.29
+
+České Budějovice - 871.3; R:1.06
+
+Přerov - 825.4; R:1.13
+
+Vsetín - 825.3; R:1.45
+
+Blansko - 817.6; R:1.17
+
+Znojmo - 817.1; R:1.64
+
+Zlín - 814.0; R:1.41
+
+Karviná - 811.0; R:1.24
+
+Opava - 805.6; R:1.27
+
+Ve srovnání nárůstů v okresech (absolutní hodnoty) byly nejvyšší denní záchyty zjištěny v pořadí:
+Praha (1448), Brno-město (692), Ostrava-město (590), Olomouc (555), Frýdek-Místek (517), Karviná (477), Brno-venkov (389), Vsetín (360), Zlín (332), České Budějovice (322), Nový Jičín (319), Znojmo (290), Opava (283), Žďár nad Sázavou (278), Šumperk (276).
+
+Níže je uveden standardizovaný číselný souhrn
+
+S úctou L. Dušek
+
+
+
+
+Počty nových případů COVID-19
+- Denní nárůst 14 199 případů
+- 7denní nárůst 70 689 případů
+- 7denní nárůst na 100 tis. obyv.: 660,5 případů
+- K půlnoci je evidováno 36 úmrtí
+
+
+- Počet případů zachycený odpovídajícího dne minulého týdne: 9 237
+- Změna proti odpovídajícímu dni minulého týdne: 4 962 (53,7%)
+
+
+- Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 1.32
+- Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 1.40
+
+
+Z nově nakažených 14 199 případů je:
+- 9 397 (66,2%) neočkovaných
+- 331 (2,3%) po 1. dávce
+- Z toho 104 (0,7%) více než 14 dní po 1. dávce
+- 4 471 (31,5%) po 2. dávce
+- Z toho4 381 (30,9%) více než 14 dní po 2. dávce
+
+
+
+
+Počty nových případů COVID-19 u seniorních věkových kategorií
+
+
+- Denní nárůst případů v kategorii 65+: 1 447 (10,0% celku)
+- Denní nárůst případů v kategorii 75+: 553 (4,0% celku)
+
+
+
+- 7denní nárůst případů v kategorii 65+: 7 107
+- 7denní nárůst případů v kategorii 65+/100 tis.: 329,3
+- 7denní nárůst případů v kategorii 75+: 2 956
+- 7denní nárůst případů v kategorii 75+/100 tis.: 341,8
+
+
+Z nově nakažených 1 447 případů 65+ je:
+- 448 (31,0%) neočkovaných
+- 11 (0,8%) po 1. dávce
+- Z toho 2 (0,1%) více než 14 dní po 1. dávce
+- 988 (68,3%) po 2. dávce
+- Z toho 985 (68,1%) více než 14 dní po 2. dávce
+
+
+
+
+
+Srovnání krajů dokumentuje následující tabulka:
+
+
+
+
+
+
+
+
+
+Název kraje
+Denní počet nových případů
+(přepočet
+na  100tis.obyv.)
+7denní počet nových případů na 100 tis. obyv.
+Odhad R
+ze 7denních časových úseků
+14denní počet nových případů na 100 tis. obyv.
+7denní počet testů na 100tis. obyv.
+(Dg+Epi / Prev)*
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+Olomoucký kraj
+1301 (206.3)
+1036.9
+1.26
+1822.3
+3452.4 / 3197.8
+40.8 % / 18.5 %
+Jihomoravský kraj
+2141 (179.1)
+875.3
+1.34
+1534.1
+3428.0 / 3519.9
+31.8 % / 14.4 %
+Moravskoslezský kraj
+2309 (193.6)
+841.2
+1.25
+1519.7
+3606.5 / 3609.3
+39.0 % / 12.9 %
+Zlínský kraj
+983 (169.4)
+802.1
+1.39
+1371.8
+3537.2 / 2776.5
+37.3 % / 14.5 %
+Jihočeský kraj
+901 (140.0)
+736.2
+1.20
+1348.9
+3004.3 / 3048.4
+35.8 % / 15.9 %
+Plzeňský kraj
+581 (98.3)
+628.7
+1.32
+1114.8
+3111.0 / 3729.0
+25.7 % / 11.5 %
+Hlavní město Praha
+1449 (108.5)
+626.9
+1.30
+1089.7
+3627.9 / 6664.6
+20.8 % / 8.3 %
+Pardubický kraj
+592 (113.2)
+619.7
+1.38
+1032.0
+3623.6 / 3059.9
+26.2 % / 12.1 %
+Středočeský kraj
+1548 (110.7)
+601.4
+1.35
+1032.0
+3383.5 / 4006.9
+24.9 % / 10.5 %
+Kraj Vysočina
+891 (175.1)
+539.6
+1.48
+895.5
+2579.1 / 2766.4
+29.7 % / 11.6 %
+Ústecký kraj
+696 (85.2)
+402.2
+1.52
+667.7
+2440.7 / 3088.5
+24.6 % / 10.3 %
+Královéhradecký kraj
+333 (60.5)
+394.0
+1.42
+645.6
+2579.3 / 3130.2
+23.0 % / 8.6 %
+Liberecký kraj
+298 (67.3)
+368.4
+1.37
+633.9
+2617.5 / 2576.9
+22.4 % / 9.8 %
+Karlovarský kraj
+173 (59.0)
+229.4
+1.36
+399.6
+1579.6 / 2887.0
+25.8 % / 7.9 %
+ČR
+14199 (132.7)
+660.5
+1.32
+1150.8
+3206.2 / 3863.0
+30.0 % / 11.8 %
+
+
+
+
+Zátěž nemocnic
+
+
+- Denní nové příjmy k hospitalizaci: 377
+- Aktuální počet všech hospitalizací: 3 845
+- Aktuální počet hospitalizací na JIP: 513
+
+
+
+
