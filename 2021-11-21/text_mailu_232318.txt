@@ -1,0 +1,33 @@
+Vážené kolegyně a kolegové, dobrý večer - posílám prosím aktualizované predikce potenciální zátěže regionů - jednak populační trendy a zejména predikce možné zátěže nemocnic a zdravotního dopadu epidemie.
+
+Na úvod prosím několik poznámek:
+
+  *   Současný vývoj epidemie je nadále rizikový -> rostou sice celkové počty nových případů denně, ale to není nejpodstatnější -> podstatná je riziková struktura prevalence; nákaza se nově významně šíří i v seniorní populaci, zátěž ve věkové kategorii 65+ přesahuje 430 případů/100 tis. za týden a roste relativní pozitivita testů indikovaných u seniorů (> 29%) ... toto jsou hlavní markery dalšího rizikového vývoje, u kterých dochází denně k nárůstu
+  *   Neustále rostoucí počty nově nakažených potenciálně zranitelných osob a rostoucí relativní pozitivita testů ukazuje, že v prevalenční zátěži ještě nebylo dosaženo vrcholu a lze očekávat další růst. Populační modely sice ukazuje, že se při stávající rychlosti šíření vyčerpá (začne ubývat nakazitelných osob), ale nelze s jistotou predikovat na jakých hodnotách a na jak dlouho se vrchol udrží -> zásadní v této situaci musí být ochrana zranitelných, stále je v populaci minimálně 300tis. takových osob, které nejsou chráněny ani vakcinací, ani proděláním nemoci
+  *   V zátěži je patrný stále silný gradient "západ -> východ" a velké rozdíly mezi regiony ztěžují mimo jiné i predikce rizik na úrovni krajů. Proto jsou regionálně lokalizované modely zatíženy značnou nejistotou - zejména v krajích s nízkým počtem hospitalizovaných.
+
+Soubor "aktualizace_variantní_predikce_vývoje" shrnuje hlavní rizikové faktory, celo-populační trendy, krátkodobé projekce pravděpodobného vývoje v populační zátěži a také v zátěži nemocnic.
+
+  *   predikce se bohužel naplňují, resp. jsou potvrzeny dosavadním vývojem reálných dat - populační modely pro uplynulý týden ukazovaly riziko až 17tis. nových případů průměrně denně, což bylo téměř naplněno; obdobně bylo predikováno cca 600 nových příjmů do nemocnic a průměr uplynulých pracovních dnů byl 595 -> toto ukazuje na platnost tzv. rizikového scénáře
+  *   rizikové predikce tak ukazují na konci měsíce na vysoce pravděpodobnou týdenní zátěž ve výši > 1 100 nových případů za týden na 100 tis. obyvatel -> pro nemocnice potom nárůst až nad 740 nových příjmů denně a toho na JIP více než 90 až 100
+  *   při vývoji shrnutém v předchozím bodě lze ke konci měsíce očekávat více než 6 000 hospitalizací v jeden den na JIP až 1 100 pacientů, což je zátěž, která významně omezí "necovidovou" péči
+  *   maximální odhady rizikového vývoje v prosinci ukazují na více než 10 000 - 11 000 hospitalizací celkem a více než 1 600 těžkých případů na JIP v jeden den - ale i tyto hodnoty mohou být s určitou pravděpodobností překonány (v populaci stále existuje velký potenciál k šíření nákazy a k zdravotním dopadům)
+
+Přikládám aktualizovaný soubor "Risk mapping", který shrnuje rizikovou analýzu aktuálního prevalenčního poolu a odvozuje z toho krátkodobou pravděpodobnostní predikci počtu nových hospitalizací s COVID-19 v následujících 10 - 14 dnech (provedeno pro kraje, i pro jednotlivé okresy).
+
+  *   V uplynulých cca 14 dnech registrujeme více než 16 700 nově nakažených osob ve věku 65+ a dále více než 6 800 osob ve věku 75+. -> dle rizikových faktorů, které tento prevalenční pool nese, lze v dalších dnech očekávat až více než 740 příjmů do nemocnic denně, z toho více než 90 až 100 na JIP. /stávající průměrný počet nových příjmů je cca 595 denně)
+
+Vývoj v jednotlivých krajích shrnují soubory KKIP02 a KKIP03 - > jsou v nich tabulky, kde naleznete vývoj počtu hospitalizací vs. očkování, tedy kolik % z nově hospitalizovaných je neočkovaných, kolik má očkování dokončené, kolik z nich je 65+ apod.
+
+  *   Dlouhodobě platí, že na JIP je z těchto důvodů nově přijímáno cca 70% neočkovaných pacientů, kteří tak generují většinu této nejzávažnější zátěže. Pacienti s těžkým průběhem i po očkování jsou typicky ve velmi seniorním věku (průměr 78 let), s řadou vážných chorob. Důvodem průlomové nákazy zde tedy byl zřejmě špatný zdravotní stav člověka, u kterého vakcína neměla nebo již nemohla vyvolat dostatečný ochranný efekt.
+
+Soubory KKIP02 a 03 jsou uvnitř doplněny krátkodobými projekcemi vývoje dle různých scénářů (zcela spolehlivě to nelze provést ve všech regionech, v regionech s nízkou zátěží JIP je projekce velmi variabilní nebo nemožná) ..... nicméně nad celou ČR a v nejvíce zatížených regionech projekce spolehlivě ukazuje na rizikový vývoj očekávatelné zátěže nemocnic
+
+
+  *   nelze bohužel vyloučit další eskalaci rizika, která by v prosinci vedla až k počtům hospitalizací blízkým nebo vyšším vrcholu jara 2021
+  *   velmi rizikový vývoj je patrný v moravských krajích, i když zatím stále platí, že přírůstky zátěže na JIP jsou nižší než růst celkového počtu hospitalizací a celkové zátěže v populaci
+
+Výše komentované predikce doplňují ještě přílohy srovnávající vývoj 2020 - 2021, a shrnující počty a podíly neočkovaných a nechráněných osob v populaci.
+
+S úctou L. Dušek
+
