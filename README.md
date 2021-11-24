@@ -5,4 +5,6 @@ Přes opakované žádosti a opakované sliby tyto reporty Ministerstvo zdravotn
 
 Jedná se o seznam všech příloh, které ÚZIS či prof. Dušek emailem zasílal státní úřadům, politikům a úředníkům. Adresáti nejsou součástí těchto dat, ke stažení jsou pouze přílohy emailů rozdělené podle dne, kdy byly zaslané.
 
-V případě, že z vážných důvodů potřebujete i samotný email či jeho adresáty, obratťe se na ÚZIS nebo analyzy@hlidacstatu.cz.
+V případě, že z vážných důvodů potřebujete bližší informace o datech, obratťe se na ÚZIS (uzis@uzis.cz nebo tisk@uzis.cz).
+
+V případě, že z vážných důvodů potřebujete originál emailu, piště na podpora@hlidacstatu.cz a uveďte den a důvod. 
