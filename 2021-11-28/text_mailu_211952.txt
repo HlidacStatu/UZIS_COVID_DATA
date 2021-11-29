@@ -1,0 +1,47 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím popisnou souhrnnou prezentaci (z důvod velikosti v pdf), doplněnou o některé další soubory a prezentace.
+
+Soubor "Aktualizace - souhrn" - Přiložený souhrn potvrzuje stále vysoce rizikové epidemické parametry, tak jak je zde shrnuji v několika bodech. Přesto je na datech z posledních dnů patrné zbrzdění vývoje v relativní pozitivitě testů i v symptomatičnosti nových případů - tyto hodnoty spíše oscilují na vysoké hladině, ale dále neeskalují. Může avšak jít také o doprovodný efekt změny počtu testů a poklesu v počtu realizovaných Ag testů. Poslední slide přiložené prezentace ale dokládá, že zpomalení růstu v relativní pozitivitě testů se týká většiny nejvíce zatížených regionů  - pokud vývoj v následujících několika dnech tento trend potvrdí, znamenalo by to, že růst epidemie dosáhl v daných regionech vrcholu.
+
+  *   Stále je ale objektivním faktem, že epidemie neustále narůstá, trend rostoucí virové zátěže v populaci je významný (při hodnotě R 1,2 – 1,3). Počet hospitalizovaných v těžkém stavu roste (celkově je k 27.11. v ČR takto hospitalizováno na JIP 906 pacientů s COVID-19). Podíl nových případů se symptomy nemoci v čase narostl (sezónní efekt), a to zejména v nadprůměrně zatížených regionech (> 60%). Relativní pozitivita indikovaných testů zůstává stále velmi rizikově vysoká; u testů z klinické a diagnostické indikace dosahuje 36 % (avšak v nejvíce zatížených regionech jako je OLK, JHC, ZLK přesahuje 45 %). Nákaza se šíří ve všech věkových kategoriích populace, včetně potenciálně zranitelných kohort a seniorů. V populaci 65+ přesáhl 7denní počet nově prokázaných případů hodnotu 520/100 tis. obyv. a relativní pozitivita test zde narostla nad 30%.
+  *   Vývoj tak stále potvrzuje naplnění tzv. rizikového scénáře, který byl vytvořen ke konci srpna a předpokládal naplnění řady rizikových faktorů. Zejména nedostatečné proočkování populace, včetně seniorních generací, kde by žádoucí bylo překonání hranice 90%. Vedle vlivu podzimní sezóny k riziku dále přispívá i schopnost převažující varianty viru unikat vakcinaci (ochranný efekt očkování proti nákaze klesnul u seniorů 65+ pod 60%).
+  *   I přes celkově rizikový vývoj lze v posledním týdnu pozorovat jisté známky zpomalování růstu prevalence aktivních nákaz. Relativní pozitivita indikovaných testů již neroste skokově, ale osciluje na dosažených vysokých hodnotách – jde zatím o neprůkazný indikátor, že prevalence aktivních nákaz již prudce nenarůstá. Bohužel ale je nutné nadále počítat s růstem zátěže nemocnic – denně do prevalence přibývá průměrně více než 1 600 nově nakažených zranitelných osob.
+
+Dále přikládám aktualizovanou prezentaci "mezinárodní srovnání", která vychází dominantně z posledních aktualizovaných dat ECDC
+
+  *   tato data potvrzují rizikový růst klíčových ukazatelů epidemie ve většině zemí EU
+  *   souhrny týkající se očkování a proočkovanosti populace jsou v závěru prezentace - úplně na závěr jsme doložili srovnání ČR s několika dalšími státy (Německo, Rakousko, Portugalsko) -> stále je bohužel viditelná signifikantně nižší úroveň proočkovanosti české populace ve srovnání s průměrem EU a ve srovnání s většinou "západních" států
+
+Vybrané klíčové indikátory stavu epidemie v standardizovaných 7denních přehledech ukazuje soubor "Indikatory-epidemie"
+
+  *   zde jsou vybrané klíčové indikátory vyhodnoceny s využitím hraničních hodnot korespondujících s významnými mezinárodními doporučeními -> z dat je patrná vysoká rizikovost situace v české populaci
+  *   data také ukazují na klesající ochranu vakcíny proti nákaze (cca k 60% - 65%) u seniorů, ale na stále velmi vysoký ochranný efekt proti těžkému průběhu onemocnění ... počty pacientů s těžkým průběhem nemoci jsou mezi očkovanými (v přepočtu na 100tis.) jsou 5x až 7x nižší než u neočkovaných
+
+Přiložená data v MS Excel "Rizikové okresy" potom shrnují vybrané ukazatele epidemie v jednotlivých okresech; pokud jako hlavní ukazatel vezmeme stupeň zátěže seniorní populace 65+, pak mezi nejrizikovější okresy patří zejména tyto (více v detailu viz přiložený soubor):
+Okres   Kraj    Nové případy za 7 dní na 100 000 obyvatel       7denní relativní pozitivita všech indikovaných testů    Symptomatičtí:  % z pozitivních         R (zjednodušený výpočet) - 7 denní úseky        Nové případy 65+ za 7 dní na 100 000 obyvatel 65+
+Prostějov       Olomoucký kraj  1 848,8 31,9%   63,6%   1,2     901,9
+Karviná Moravskoslezský kraj    1 528,1 26,8%   48,5%   1,3     823,3
+Šumperk Olomoucký kraj  1 907,2 41,0%   60,0%   1,2     820,4
+Vsetín  Zlínský kraj    1 451,1 30,0%   66,3%   1,2     770,8
+Rokycany        Plzeňský kraj   1 077,0 23,8%   52,2%   1,2     700,0
+Olomouc Olomoucký kraj  1 656,5 30,8%   58,5%   1,1     691,7
+Kroměříž        Zlínský kraj    1 560,7 31,7%   64,8%   1,1     674,7
+Uherské Hradiště        Zlínský kraj    1 616,9 27,6%   58,9%   1,3     667,2
+Bruntál Moravskoslezský kraj    1 271,8 25,2%   67,1%   1,4     663,2
+Prachatice      Jihočeský kraj  1 626,7 29,5%   54,7%   1,2     663,2
+Hodonín Jihomoravský kraj       1 397,1 31,5%   63,0%   1,3     660,7
+České Budějovice        Jihočeský kraj  1 516,8 30,7%   56,5%   1,3     660,1
+Žďár nad Sázavou        Kraj Vysočina   1 267,6 26,3%   38,3%   1,4     651,0
+Nový Jičín      Moravskoslezský kraj    1 397,0 29,5%   59,6%   1,2     650,1
+Svitavy Pardubický kraj 1 384,6 28,2%   61,8%   1,2     646,3
+Zlín    Zlínský kraj    1 557,1 24,6%   51,3%   1,1     643,7
+Opava   Moravskoslezský kraj    1 393,8 25,7%   52,6%   1,1     632,8
+Frýdek-Místek   Moravskoslezský kraj    1 539,2 27,5%   53,7%   1,1     627,8
+Havlíčkův Brod  Kraj Vysočina   1 217,6 28,6%   45,7%   1,3     621,1
+Vyškov  Jihomoravský kraj       1 558,2 30,7%   59,6%   1,1     607,1
+Ostrava-město   Moravskoslezský kraj    1 321,4 26,1%   51,8%   1,2     605,0
+Břeclav Jihomoravský kraj       1 234,5 26,0%   60,4%   1,1     604,3
+Strakonice      Jihočeský kraj  1 308,6 31,0%   55,6%   1,0     603,9
+Brno-město      Jihomoravský kraj       1 324,3 23,5%   58,9%   1,0     599,0
+
+S úctou L. Dušek
+
