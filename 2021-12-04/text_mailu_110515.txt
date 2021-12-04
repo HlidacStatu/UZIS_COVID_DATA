@@ -1,0 +1,272 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím stručný souhrn vybraných indikátorů stavu epidemie.
+
+Nejprve prosím stručný komentář k průběžně aktualizovaným souborům, které posíláme koordinátorům lůžkové  péče - soubory KKIP01 - KKIP03, - tedy hlášení z nemocnic o vývoji zátěže.
+
+Ačkoli se na populační úrovni růst řady indikátorů zastavil nebo aspoň zpomalil, stále bohužel zůstává populační virová nálož na velmi rizikových hodnotách a nelze čekat prudký a významný pokles zátěže nemocnic. Toto tvrzení lze opřít o několik základních údajů:
+
+  *   relativní pozitivita testů (indikovaných klinicky i epidemiologicky) zůstává na velmi vysokých hodnotách .. stále tedy trvá riziko vysoké prevalence aktivních nákaz = vysoká pravděpodobnost kontaktu s nakaženým i v běžném životě = riziko zásahu zranitelné části populace
+  *   nadále je vysoká úroveň symptomatičnosti nově nakažených a rovněž vysoký podíl komplikovaných průběhů nákazy mezi nově diagnostikovanými případy
+  *   a to hlavní - ačkoli vývoj počtu nových případů začal stagnovat, šíření nákazy v seniorní a potenciálně zranitelné populaci je stále velmi rizikové - 7denní počet nových případů v populaci 65+ významně přesáhnul hodnotu 500, a relativní pozitivita indikovaných testů v této populaci přesahuje 30% -> to jsou jasné indikátory budoucí zátěže nemocnic
+
+Data z nemocnic bohužel potvrzují rizikové predikce, - celkový počet COVID+ pacientů léčených v nemocnicích na počátku prosince překročil v souladu s predikcí významně 6000 a blíží se 7000 a počet pacientů léčených na JIP překročil hranici 900, z toho počet na vysoce intenzivní péči (UPV, ECMO) dosáhnul téměř 500
+
+  *   je také nutno doplnit, že narůstá denně hlášená mortalita pacientů, kteří byli v době úmrtí COVID+ - aktuálně je zpětně dohlašována až na úroveň 100 úmrtí denně
+
+Soubor KKIP01 - "risk mapping" - bohužel stále potvrzuje narůstající rizikovost a také velikost prevalenčního poolu, který s vysokou pravděpodobností dále navýší zátěž nemocnic
+
+  *   denně tento týden nově přibývalo do prevalence více než 1 700 (cca průměr) potenciálně zranitelných pacientů denně, zátěž v této dimenzi rostla o více než 20% v mezi-týdenním srovnání
+  *   pravděpodobnostní modely ukazují na pokračování vysokých denních příjmů do nemocnic, a to až nad 900 denně
+  *   ve 14denní aktivní prevalenci registrujeme 22 936 nakažených ve věku 65+ a 8 332 nakažených ve věku 75+
+
+Soubor KKIP01 je opět připraven pro jednotlivé kraje i okresy, dle bydliště nakažených.
+
+Soubory KKIP02 - KKIP03 shrnují časové průběhy počtu pacientů (celkové počty a počty na JIP) v ČR a po jednotlivých krajích.
+
+  *   KKIP 02 - zátěž JIP: Stále platí, že vývoj počtu pacientů na JIP je pomalejší než dynamika celkového počtu hospitalizovaných = stále se zde velmi významně promítá ochranný vliv vakcinace. Vývoj probíhá dle spodní hranice rizika modelu vybudovaného v září.
+  *   KKIP 02 - zátěž JIP: Nový rizikový vývoj a vysoké počty pacientů na JIP s potenciálem růst evidujeme v krajích Libereckém, Pardubickém, Vysočina; situace se naopak relativně stabilizovala v moravských krajích, včetně nejvíce zatíženého JMK (zde nadále počty pacientů ve výši nad 170 představují nejvyšší zátěž v ČR)
+  *   KKIP 03 - celkový počet hospitalizací: i tento vývoj se v posledním týdnu částečně stabilizoval, nicméně bohužel celkové počty hospitalizovaných v daném dni dosahují téměř hodnoty 7 000, zátěž je to tedy stále velmi vysoká; vývoj v moravských krajích se stabilizoval , nově narůstá počet pacientů  ve Středočeském kraji a v kraji Libereckém
+
+Realita příjmů do nemocnic v posledních 5 dnech:
+
+  *   celkové příjmy pacientů COVID+: 677 denně
+  *   příjmy pacientů s vážnými komplikacemi / v těžkém stavu: 135 denně
+  *   příjmy pacientů nově na JIP (včetně překladů): 106 denně
+
+Dále prosím přikládám celkový souhrn prováděných testů - i v posledních pracovních dnech týdne se objem realizovaných testů držel na velmi vysokých hodnotách, u PCR testů blízkých 100 000 denně. ČR nadále patří mezi cca 8 nejvíce testujících států Evropy na 100tis. obyvatel - dle dat ECDC.
+
+
+Počet provedených (nahlášených) testů
+
+Za 03. 12. 2021
+
+Počet otestovaných osob*
+
+Za 02. 12. 2021
+
+Počet otestovaných osob*
+
+PCR testů
+
+94 591
+
+
+
+99 612
+
+
+
+Antigenní (Ag) testy
+
+21 950
+
+115 467
+
+26 640
+
+125 073
+
+
+Relativní pozitivita testů dle indikace testu
+
+Za 03. 12. 2021
+
+Za 02. 12. 2021
+
+7denní průměr k 03. 12. 2021
+
+Diagnostická indikace
+
+35,3%
+
+34,6%
+
+34,7%
+
+Epidemiologická indikace
+
+14,1%
+
+14,2%
+
+14,7%
+
+Preventivní a plošné testování
+
+7,5%
+
+7,0%
+
+7,8%
+
+Výše popsaná stagnace na rizikových hodnotách se týká všech dříve nejvíce zatížených moravských krajů, zátěž se v čase postupně přesouvá do regionů Čech – aktuálně velmi vysoké počty nových případů hlásí Pardubický kraj, Vysočina, Jihočeský a Středočeský kraj.  Následující tabulka dokládá čtyři vybrané indikátory stavu epidemie – je patrné, že i přes celkovou stagnaci je relativní pozitivita testů nadále velmi vysoká ve všech krajích, nejnižší hodnoty jsou u diagnosticky a klinicky indikovaných testů kolem 26 - 27%.
+
+
+Název kraje
+
+7denní počet nových případů na 100 tis. obyv.
+
+Odhad R
+
+ze 7denních časových úseků
+
+7denní počet testů na 100tis. obyv.
+
+(Dg+Epi / Prev)*
+
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+
+Zlínský kraj
+
+1435.9
+
+0.92
+
+4527.9 / 1835.0
+
+40.9 % / 18.4 %
+
+Olomoucký kraj
+
+1408.5
+
+0.86
+
+3997.8 / 2591.2
+
+42.8 % / 18.8 %
+
+Jihomoravský kraj
+
+1294.4
+
+0.91
+
+3935.6 / 2881.7
+
+33.7 % / 17.9 %
+
+Pardubický kraj
+
+1253.5
+
+0.95
+
+4595.1 / 2380.8
+
+36.0 % / 17.0 %
+
+Kraj Vysočina
+
+1249.5
+
+1.07
+
+3518.9 / 2357.7
+
+38.5 % / 18.1 %
+
+Moravskoslezský kraj
+
+1226.7
+
+0.87
+
+4072.2 / 2505.4
+
+39.4 % / 15.5 %
+
+Jihočeský kraj
+
+1190.6
+
+0.91
+
+3693.3 / 2328.6
+
+38.3 % / 18.1 %
+
+Středočeský kraj
+
+1003.8
+
+0.93
+
+4117.2 / 3606.3
+
+31.3 % / 12.0 %
+
+Královéhradecký kraj
+
+996.5
+
+1.06
+
+3849.7 / 2574.1
+
+33.0 % / 13.7 %
+
+Hlavní město Praha
+
+978.1
+
+0.89
+
+3940.4 / 6059.3
+
+27.1 % / 9.8 %
+
+Ústecký kraj
+
+942.0
+
+1.02
+
+3516.5 / 2850.8
+
+32.7 % / 15.0 %
+
+Liberecký kraj
+
+924.1
+
+0.96
+
+3587.3 / 2204.2
+
+33.7 % / 15.4 %
+
+Plzeňský kraj
+
+872.2
+
+0.87
+
+3369.0 / 2677.3
+
+26.6 % / 13.3 %
+
+Karlovarský kraj
+
+464.7
+
+0.99
+
+2319.7 / 2461.6
+
+27.3 % / 10.6 %
+
+ČR
+
+1110.2
+
+0.92
+
+3888.6 / 3228.4
+
+34.7 % / 14.7 %
+
+Přeji Vám všem pokud možno klidný předvánoční weekend
+
+S úctou L. Dušek
+
+
