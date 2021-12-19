@@ -1,0 +1,68 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovanou souhrnnou prezentaci ke stavu vakcinace uzavřenou ke konci pracovní části tohoto týdne. Ve většině slidů je kladen důraz na srovnání situace v krajích.
+
+Souhrnný přehled dávek aplikovaných za první část prosince (souhrn k 17.12.):
+
+  *   celkem bylo za k 17.12. aplikováno 1 317 617 dávek (souhrn k 9. 12. byl 704 548 dávek, tedy celkový objem narostl za poslední týden 1,9x); v průměru tak za první polovinu prosince registrujeme více než 77 000 dávek denně. Z celkového objemu v prosinci tvořila 78,4% dávka posilující: očkování posilující dávkou tak drží ve srovnání s listopadem významně zesílený trend
+  *   první dávku u dvou-dávkového schématu absolvovalo k 17.12. celkem 97 983 o osob (7,4% všech dávek) a jedno-dávkovou vakcínu si vzalo 13 212 osob (1,0%)
+  *   pokud jde o všechny primo-vakcinace, pak celkový součet dávek podaných dávek za prvních 17 dní prosince byl cca 111tis (pro srovnání: za celý říjen to bylo 144 839 dávek, za celý listopad potom cca 419 tis. dávek) - viz slidy č. 10 - 12 v prezentaci
+  *   započalo očkování dětí ve věku pod 12 let, k 17.12. registrujeme 1 026 očkovaných
+
+Celkem je tedy v prosinci k 17.12. průměrně denně aplikováno:
+
+  *   60 748 posillujících dávek
+  *   10 218 dávek ukončujících dvoudávkové schéma
+  *   6 541 primovakcinací
+
+Stav registrací od 10.12. ukazuje tato tabulka (viz též přiložený excel):
+Registrace očkování
+Datum   < 12 let        12-15 let       > 16 let
+10.12.2021      20      372     15 417
+11.12.2021      0       253     10 686
+12.12.2021      1 894   492     14 323
+13.12.2021      8 961   760     56 410
+14.12.2021      2 979   554     25 990
+15.12.2021      2 623   499     20 226
+16.12.2021      2 228   478     16 989
+17.12.2021      1 695   393     91 033
+18.12.2021      700     236     26 750
+
+
+Postupně narůstá proočkovanost v mladých věkových kategoriích, které byly na podzim proočkované velmi málo. Alespoň 1 dávku očkování registrujeme u následujících podílů těchto věkových kategorií:
+
+  *   kategorie 35 - 39 let: 63,3% (před cca měsícem: 59,5%)
+  *   kategorie 30 - 34 let: 61,0% (před cca měsícem: 56,3%)
+  *   kategorie 16 - 29 let: 64,1% (před cca měsícem: 58,7%)
+  *   kategorie 12 - 15 let: 45,9% (před cca měsícem: 39,4%)
+
+Nejvyšší podíl očkovaných s alespoň 1 dávkou má kategorie 70+ let: 90,0%
+
+Očkování má dokončeno:
+
+  *   84,2% osob ve věku 60+
+  *   86,4% osob ve věku 65+
+  *   72,0% osob ve věku 18+
+  *   71,8% osob ve věku 16+
+  *   40,9% osob ve věku 12 - 15 let
+
+Očkování posilující dávkou pokračuje, od minulého týdne narostl podíl osob s třetí dávkou (na 76,5% z těch, kteří na ni mají nárok; z věkové skupiny 60+ až na 86,6%)  (viz slidy 4 až 8 v prezentaci) -> jde o další nárůst proti situaci na počátku prosince
+
+  *   k 17.12. bylo aplikováno 1 916 525 těchto dávek: narostl tak i podíl takto očkovaných z těch, kteří mají na posilující dávku nárok dle časového odstupu od vakcinace na počátku roku 2021 - aktuálně 3. dávku dostalo 76,5% dosud oslovených
+  *   největší podíl z pozvaných, kteří si již dali posilující dávku, vykazuje nadále Praha (86,9%), nejnižší naopak Moravskoslezský kraj (69,8%)
+  *   u věkové kategorie 60+ mělo/má nárok na posilující dávku cca 1 670 tis. osob a dosud ji absolvovalo 86,6% z nich
+  *   senioři ve věku 60+ tvoří 75,4% ze všech osob s dosud aplikovanou posilující dávkou
+
+Posilující dávku má aplikováno (vztaženo na velikost dané populační kategorie):
+
+  *   Věková kategorie 80+: 62,4%
+  *   Věková kategorie 70 - 79: 59,9%
+  *   Věková kategorie 65 - 69: 46,7%
+  *   Věková kategorie 60 - 64: 39,7%
+
+Týdně postupně (byť stále relativně pomalu) klesá počet seniorů, kteří nejsou chráněni vakcinací a ani nemají záznam o prodělání nemoci:
+
+  *   u věkové kategorie 60+ je to nyní cca 308,1 tis. osob (před cca týdnem to bylo 323,8 tis osob)
+  *   u věkové kategorie 65+ je to nyní cca 196,2 tis. osob (před cca týdnem to bylo 211,9 tis. osob)
+
+S úctou L. Dušek
+
+
