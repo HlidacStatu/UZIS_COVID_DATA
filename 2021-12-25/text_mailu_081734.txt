@@ -1,0 +1,107 @@
+Vážené kolegyně a kolegové, dobrý den, posílám prosím aktualizovaná hlášení a reporty o zátěži nemocnic.
+
+Aktuálně nemocnice hlásí 3 489 hospitalizací, z toho 713 na JIP a z toho 369 x UPV a 15 x ECMO.
+
+  *   jde o nereprezentativní hlášení shrnující data za Štědrý den, - jednak nejsou všechny hospitalizace dohlášeny a jednak jsou počty zkresleny nízkým počtem nových příjmů (82) vs. vysokým počtem propuštěných pacientů (od 23.12. více než 1 300 propuštěných)
+
+Za včerejšek bylo dosud nahlášeno 26 úmrtí (průběžné hlášení, které se v čase ještě doplňuje; denní průměrné počty, zpětně dohlášené, přesahují v průměru 65
+
+Za včerejšek bylo nemocnicemi dosud nahlášeno 82 nově přijatých pacientů.
+
+Obložnost lůžek JIP z důvodu COVID-19 je na 19,6 % celkové kapacity.
+Nahlášená dostupná volná kapacita: 1202 volných JIP lůžek - 33,0 % celkové kapacity JIP
+
+  *   V přílohách mailu je doložen stav dostupné lůžkové kapacity dle aktuálního hlášení Národního dispečinku lůžkové péče (NDLP)
+
+S úctou L. Dušek
+
+Celkový souhrn situace v ČR
+• Celkem hospitalizovaných bylo včera 3 489.
+• Hospitalizovaní tvoří 2,1 % z celkem pozitivních.
+• Průměrný věk všech hospitalizovaných činí 68 let.
+• Těžký průběh onemocnění a na JIP je hlášeno u 713 osob, 369x UPV, 15x ECMO.
+• Průměrný věk všech hospitalizovaných na JIP činí 63 let.
+• Podíl osob v těžkém stavu z celkového počtu hospitalizovaných je 21,2 %.
+• Potvrzeno 26 úmrtí.
+
+Nově přijatí pacienti
+• Celkem 82 nově přijatých pacientů.
+• Průměrný věk nově přijatých pacientů činí 63 let.
+• Těžký stav je hlášen u 9 z nově přijatých pacientů, stav střední je hlášen 49x.
+• Nejvíce příjmů bylo v následujících krajích: MSK(17), PHA(14), JHC(13).
+
+Nově propuštění pacienti
+• Za 24.12.2021: celkem 168 propuštěných pacientů.
+• Za 23.12.2021: celkem 584 propuštěných pacientů.
+• Za 22.12.2021: celkem 601 propuštěných pacientů.
+
+Počet hospitalizovaných mimo JIP vs. očkování
+• 2 776 celkem hospitalizovaných mimo JIP
+• 1 440 (51,9%) neočkovaní
+• 88 (3,2%) po 1. dávce -> z toho 50 (1,8%) déle než 14 dní po 1. dávce
+• 996 (35,9%) po 2. dávce -> z toho 973 (35,1%) déle než 14 dní po 2. dávce
+
+Počet hospitalizovaných na JIP vs. očkování
+• 713 celkem hospitalizovaných na JIP
+• 489 (68,6%) neočkovaní
+• 18 (2,5%) po 1. dávce -> z toho 10 (1,4%) déle než 14 dní po 1. dávce
+• 164 (23,0%) po 2. dávce -> z toho 159 (22,3%) déle než 14 dní po 2. dávce
+
+Počet všech nově hospitalizovaných (za daný den) mimo JIP vs. očkování
+• 77 celkem nově hospitalizovaných mimo JIP
+• 49 (63,6%) neočkovaní
+• 1 (1,3%) po 1. dávce -> z toho 0 (0,0%) déle než 14 dní po 1. dávce
+• 21 (27,3%) po 2. dávce -> z toho 20 (26,0%) déle než 14 dní po 2. dávce
+
+Počet všech nově hospitalizovaných (za daný den) na JIP vs. očkování (nově hospitalizovaní i přesunutí ze standardního oddělení)
+• 24 celkem nově hospitalizovaných na JIP
+• 19 (79,2%) neočkovaní
+• 1 (4,2%) po 1. dávce -> z toho 1 (4,2%) déle než 14 dní po 1. dávce
+• 4 (16,7%) po 2. dávce -> z toho 4 (16,7%) déle než 14 dní po 2. dávce
+
+Zátěž dle krajů a nemocnic
+• Nejvíce pacientů je v následujících krajích (z toho na JIP): MSK 509 (88), HMP 487 (103), JMK 440 (116).
+• UPV potřebuje nejvíce pacientů v JMK 440 (68), MSK 509 (50), HMP 487 (43).
+• ZZ s více jak 70 pacienty:
+Krajská nemocnice T. Bati, a. s. (105), Nemocnice České Budějovice, a.s. (93), FN Na Bulovce (90), Fakultní nemocnice Brno (86), Fakultní nemocnice Královské Vinohrady (80), Fakultní Thomayerova nemocnice (76), Uherskohradišťská nemocnice a.s. (75), Fakultní nemocnice Plzeň (75), Fakultní nemocnice v Motole (73), Fakultní nemocnice Olomouc (73).
+
+Dostupné kapacity dle dispečinku IP
+• UPV - volná kapacita ( 473 lůžek), tj. 23,1 % celku. ECMO - volná kapacita ( 40 přístrojů), tj. 41,7 % celku.
+• JIP lůžka (HFNO+UPV): volná kapacita COVID+ 618 lůžek (+ volná kapacita pro COVID- pacienty 584 lůžek).
+• Stand. lůžka s O2: volná kapacita COVID+ 1 915 lůžek (+ volná kapacita pro COVID- pacienty 5993 lůžek).
+
+Podíl (%) celkové kapacity JIP obsazené pacienty s COVID
+• ČR: 713 pacientů na JIP - 19,6 % celkové kapacity JIP
+• Hlavní město Praha: 103 pacientů na JIP - 13,1 % celkové kapacity JIP
+• Středočeský kraj: 55 pacientů na JIP - 24,1 % celkové kapacity JIP
+• Jihočeský kraj: 41 pacientů na JIP - 28,7 % celkové kapacity JIP
+• Plzeňský kraj: 41 pacientů na JIP - 16,2 % celkové kapacity JIP
+• Karlovarský kraj: 8 pacientů na JIP - 9,5 % celkové kapacity JIP
+• Ústecký kraj: 44 pacientů na JIP - 16,5 % celkové kapacity JIP
+• Liberecký kraj: 26 pacientů na JIP - 25,7 % celkové kapacity JIP
+• Královéhradecký kraj: 35 pacientů na JIP - 15,2 % celkové kapacity JIP
+• Pardubický kraj: 24 pacientů na JIP - 18,3 % celkové kapacity JIP
+• Kraj Vysočina: 34 pacientů na JIP - 34,3 % celkové kapacity JIP
+• Jihomoravský kraj: 116 pacientů na JIP - 27,0 % celkové kapacity JIP
+• Olomoucký kraj: 48 pacientů na JIP - 25,4 % celkové kapacity JIP
+• Zlínský kraj: 50 pacientů na JIP - 27,3 % celkové kapacity JIP
+• Moravskoslezský kraj: 88 pacientů na JIP - 17,2 % celkové kapacity JIP
+
+Podíl (%) volné aktuálně nahlášené kapacity JIP
+• ČR: 1202 volných JIP - 33,0 % celkové kapacity JIP
+• Hlavní město Praha: 170 volných JIP - 21,6 % celkové kapacity JIP
+• Středočeský kraj: 108 volných JIP - 47,4 % celkové kapacity JIP
+• Jihočeský kraj: 51 volných JIP - 35,7 % celkové kapacity JIP
+• Plzeňský kraj: 84 volných JIP - 33,2 % celkové kapacity JIP
+• Karlovarský kraj: 17 volných JIP - 20,2 % celkové kapacity JIP
+• Ústecký kraj: 85 volných JIP - 31,8 % celkové kapacity JIP
+• Liberecký kraj: 31 volných JIP - 30,7 % celkové kapacity JIP
+• Královéhradecký kraj: 101 volných JIP - 43,9 % celkové kapacity JIP
+• Pardubický kraj: 48 volných JIP - 36,6 % celkové kapacity JIP
+• Kraj Vysočina: 51 volných JIP - 51,5 % celkové kapacity JIP
+• Jihomoravský kraj: 190 volných JIP - 44,2 % celkové kapacity JIP
+• Olomoucký kraj: 69 volných JIP - 36,5 % celkové kapacity JIP
+• Zlínský kraj: 57 volných JIP - 31,1 % celkové kapacity JIP
+• Moravskoslezský kraj: 140 volných JIP - 27,3 % celkové kapacity JIP
+
+
