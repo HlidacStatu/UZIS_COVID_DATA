@@ -1,0 +1,77 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím plnou sadu reportů a analýz, mapy a soubory s daty o proočkovanosti obcí, ORP a regionů.
+
+Datové soubory v Excelu označené "01" jsou doplněny na úroveň obcí, dále pro  srovnání okresů a ORP - vždy v rozdělení dle věkových kategorií + soubor Příloha 01 shrnuje počty a podíl neočkovaných, ani nemocí nechráněných, seniorů
+
+Data celkově potvrzují zvyšující se počet aplikovaných dávek očkování (postupně roste proočkovanost ve všech věkových kategoriích, včetně velmi mladé populace), postupně klesá počet nechráněných seniorů a mírně se zlepšuje i počet málo proočkovaných obcí.
+
+Přiložené soubory 01 a 02 (data a prezentace) shrnují současný stav proočkovanosti dle velikosti sídel. - v datech lze snadno vyfiltrovat obce/ORP/okresy dle charakteristik a dle regionální příslušnosti.
+
+Nízkou proočkovanost seniorů 60+ (55% této populace a méně) hlásí následující malé obce různých krajů:
+Stav k 25.12.2021
+        Věk 60+ let
+Kraj    Obec    Kategorie obce  populace        očkovaní        neočkovaní
+CZ072 Zlínský kraj      Vyškovec        do 750 obyvatel 30      30,0%   21
+CZ032 Plzeňský kraj     Chlumy  do 750 obyvatel 73      39,7%   44
+CZ032 Plzeňský kraj     Hvožďany (Domažlice)    do 750 obyvatel 10      40,0%   6
+CZ063 Kraj Vysočina     Hornice do 750 obyvatel 19      42,1%   11
+CZ053 Pardubický kraj   Tetov   do 750 obyvatel 59      49,2%   30
+CZ032 Plzeňský kraj     Hamry (Klatovy) do 750 obyvatel 40      50,0%   20
+CZ041 Karlovarský kraj  Vřesová do 750 obyvatel 40      50,0%   20
+CZ042 Ústecký kraj      Staňkovice (Litoměřice) do 750 obyvatel 4       50,0%   2
+CZ053 Pardubický kraj   Selmice do 750 obyvatel 38      52,6%   18
+CZ071 Olomoucký kraj    Podolí (Přerov) do 750 obyvatel 57      52,6%   27
+CZ071 Olomoucký kraj    Srbce   do 750 obyvatel 26      53,8%   12
+CZ053 Pardubický kraj   Bohuňov (Svitavy)       do 750 obyvatel 50      54,0%   23
+CZ063 Kraj Vysočina     Bělá (Pelhřimov)        do 750 obyvatel 11      54,5%   5
+
+Počet velmi málo proočkovaných obcí sice pomalu klesá, ale za poslední týden se nijak nezměnil. Proočkovanost seniorů 60+ pod 60% všech takto starých obyvatel hlásí cca 33 obcí. (více viz data v souborech 01)
+
+Soubory 03 (data a mapy) shrnují proočkovanost z pohledu ORP - zejména jsou zde identifikovány oblasti, kde spolu sousedí více obcí s nízkou úrovní proočkovanosti + Soubor 04 (mapy) jsou aktualizované a doplněné mapové podklady
+
+Výběr ORP s velmi málo proočkovanými obcemi shrnuje následující tabulka (více viz soubor 03):
+Kraj    ORPkod  ORP     Počet obcí v ORP        Obce s proočkovaností < 70 %    Podíl obcí s proočkovaností < 70 %
+CZ041 Karlovarský kraj  4104    Kraslice        8       8       100%
+CZ072 Zlínský kraj      7201    Bystřice pod Hostýnem   14      14      100%
+CZ072 Zlínský kraj      7206    Rožnov pod Radhoštěm    9       9       100%
+CZ080 Moravskoslezský kraj      8004    Český Těšín     2       2       100%
+CZ080 Moravskoslezský kraj      8005    Frenštát pod Radhoštěm  6       6       100%
+CZ080 Moravskoslezský kraj      8010    Jablunkov       12      12      100%
+CZ080 Moravskoslezský kraj      8016    Odry    10      10      100%
+CZ071 Olomoucký kraj    7111    Šumperk 36      35      97%
+CZ072 Zlínský kraj      7212    Vsetín  32      31      97%
+CZ071 Olomoucký kraj    7102    Jeseník 24      23      96%
+CZ053 Pardubický kraj   5306    Lanškroun       22      21      95%
+CZ072 Zlínský kraj      7210    Valašské Meziříčí       18      17      94%
+CZ080 Moravskoslezský kraj      8015    Nový Jičín      16      15      94%
+CZ071 Olomoucký kraj    7104    Lipník nad Bečvou       14      13      93%
+CZ071 Olomoucký kraj    7106    Mohelnice       14      13      93%
+CZ080 Moravskoslezský kraj      8021    Třinec  12      11      92%
+CZ071 Olomoucký kraj    7112    Uničov  10      9       90%
+CZ031 Jihočeský kraj    3106    Kaplice 15      13      87%
+CZ064 Jihomoravský kraj 6405    Bučovice        20      17      85%
+CZ064 Jihomoravský kraj 6404    Břeclav 18      15      83%
+CZ080 Moravskoslezský kraj      8022    Vítkov  12      10      83%
+CZ052 Královéhradecký kraj      5215    Vrchlabí        16      13      81%
+CZ041 Karlovarský kraj  4101    Aš      5       4       80%
+CZ052 Královéhradecký kraj      5210    Nová Paka       5       4       80%
+CZ053 Pardubický kraj   5305    Králíky 5       4       80%
+
+
+Příloha 01 shrnuje počet osob (v různých věkových kategoriích), které nejsou chráněny očkováním a ani proděláním nemoci
+
+  *   u věkové kategorie 60+ je to nyní cca 301,1 tis. osob (před cca dvěma týdny to bylo 323,8 tis osob, před týdnem 308,1 ti. osob)
+  *   u věkové kategorie 65+ je to nyní cca 189,9 tis. osob (před cca dvěma týdny to bylo 211,9 tis. osob, před týdnem 196,2 tis. osob)
+
+PŘÍLOHA 2 JE NOVĚ ROZŠÍŘENA A OBSAHUJE I DETAILNÍ VYHODNOCENÍ POSILUJÍCÍCH DÁVEK A HODNOCENÍ VAKCINACE PRO VŠECHNY VĚKOVÉ KATEGORIE
+
+
+Příloha 02 obsahuje sumární tabulky s daty o osobách, které prodělaly COVID - je zde kvantifikováno kolik z nich je již očkovaných - po krajích, dle věkových skupin
+
+  *   Celkem evidujeme 2 149 181 osob se záznamem o prodělané nemoci a z nich 1 092 069 osob má alespoň jednu dávku očkování (tj. cca 50,8%)
+
+S úctou L. Dušek
+
+
+
+
+
