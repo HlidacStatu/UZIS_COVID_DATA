@@ -1,0 +1,35 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovaný týdenní souhrn o stavu nákaz v sociálních zařízeních + přehled očkování a nákaz u zdravotnických pracovníků.
+
+Soubor "Analyza_soc_sluzby_ohniska" - aktualizace k 26.12. 2021
+Prezentace je vytvořena ze dvou zdrojů dat, které se nezávisle na sobě doplňují a také potvrzují:
+1) šetření KHS hlásících ohniska nákazy a výsledky epidemiologických šetření
+2) k tomu nezávislé přímé zadávání nákaz od pobytových sociálních zařízení (zadávané přímo přes vybudovaný datový most do modulu ISIN).
+
+  *   Oba zdroje ukazují na nárůst počtu nákaz v listopadu ve srovnání s říjnem 2021, ale celkově jde stále o počty ohnisek a nakažených osob významně nižší, než která jsme registrovali např. na počátku roku 2021. Zásadní také je, že počty hlášených těžkých průběhů nemoci, zejména těch vyžadujících vážnou hospitalizaci, jsou významně nižší než v předchozích obdobích vrcholné epidemické zátěže. Projevuje se zde jednoznačně ochranný efekt proočkování populace klientů, určitě i v kombinaci s vysokým podílem osob, které nákazu již prodělaly.
+  *
+  *   Dle hlášení KHS došlo v říjnu a zejména v listopadu 2021 k mírnému nárůstu počtu nákaz (a ohnisek) v sociálních zařízeních. Jde ale o počty, které jsou velmi významně nižší ve srovnání např. s jarem 2021. KHS identifikovaly za říjen 15 ohnisek v sociálních zařízeních (celkem 158 nakažených osob) a za listopad 39 ohnisek s celkem 644 dosud zařazenými nakaženými osobami. Za prosinec bylo k datu 26.12. ze strany KHS identifikováno a nahlášeno 35 událostí v sociálních zařízeních s celkem 503 nakaženými osobami. Dle hlášení KHS je tak patrný mírný pokles počtu událostí a nakažených osob, nákazy v čase ke konci roku dále nenarůstají. Nadále platí, že v žádném z regionů KHS neregistrují kumulaci nákaz v segmentu sociálních služeb, nejvyšší výskyt (4 ohniska se 106 zařazenými osobami) registruje Jihočeský kraj.
+  *
+  *   Z individuálních hlášení poskytovatelů sociálních služeb byl v listopadu patrný nárůst počtu nakažených ve srovnání s říjnem 2021. Tato data tedy nezávisle potvrzují nálezy zjištěné epidemiologickými šetřeními ze strany KHS. Za měsíc listopad bylo dohlášeno 946 nákaz pracovníků a 814 nákaz klientů pobytových sociálních služeb. Počet hlášených úmrtí klientů dosáhnul v listopadu hodnoty 112. Ačkoli jde o výrazný nárůst ve srovnání s počátkem podzimu, stále se jedná o počty významně nižší než v zimních až jarních měsících 2021. Za prosinec bylo k datu 26.12. na bázi přímého hlášení od poskytovatelů sociálních služeb dosud registrováno 512 nákaz u personálu a 352 nákaz u klientů. Celkem 48 nakažených klientů zemřelo. Počty případů s těžkým průběhem nákazy, zejména vyžadujícím hospitalizaci, zůstávají nízké, v jednotkách případů denně v celé ČR.
+
+Soubor "ZP_nakazy a vakcinace" - aktualizace k 25-26.12. 2021 + příloha denní data o nákazách ZP v MS Excel
+
+
+  *   Data o vakcinaci ukazují, že proočkovanost ZP i během počátku prosince mírně vzrostla, a to ve všech profesních skupinách. Celková proočkovanost ZP dosáhla 83,3 % (jen ZP skutečně aktivní ve zdravotnictví).
+  *   U aktuálně aktivně působících zdravotnických pracovníků má alespoň 1. dávku vakcinace cca 88 % lékařů, 83 % sesterských povolání a 81 % ostatních zdravotnických povolání.
+
+  *   Aktuální data ukazují, že pokračuje pokles nákaz u ZP (průměrné denní počty nově nakažených ZP hlesají v týdenním srovnání o cca 18% - lékaři a až o 30 - 40% u sester a ostatních NLZP). Nákazy u ZP tak sledují celkový populační trend ve vývoji epidemie. Zdravotničtí pracovníci jsou vystavováni riziku nákazy významně více než běžná populace a vývoj jejich virové zátěže je velmi dobrým indikátorem epidemiologických trendů.
+  *   Data v souboru dále potvrzují, že ochranný efekt vakcinace proti nákaze v čase klesá. Populace zdravotnických pracovníků je v tomto ohledu velmi důležitý model – jednak byli očkování mezi prvními na počátku 2021 a jednak jde o profesní skupinu primárně vystavenou riziku nákazy. Zásadním faktem ovšem je, že ochranný efekt vakcinace proti těžkému průběhu nemoci trvá i v této profesní kategorii. V současnosti registrujeme pouze jednotky ZP s těžším průběhem nemoci po očkování. Ochranný efekt proti nákaze (kalkulováno pro všechny profese ZP společně) klesl k hodnotě 65%.
+
+  *   Aktuálně je denně nově diagnostikováno jako COVID+ (7denní průměr) 17 lékařů, 45 sester a 48 ostatních NLZP: u všech kategorií jde o významný pokles proti minulému týdnu - sestupný trend je konzistentní v čase již minimálně 3 týdny
+  *   Prevalence nakažených je sice stále vysoká, ale významně klesá: cca 365 lékařů, 1 157 sester a 1321 NLZP
+  *   Nejvyšší zátěž populace ZP registrujeme v regionech, které jsou celkově nejvíce zatíženy prevalencí aktivních nákaz - tedy zejména Kraj Vysočina, Pardubický kraj, Ústecký kraj a Liberecký kraj.
+
+  *   Očkování ZP posilující dávkou - viz slidy č. 7 - 9 v prezentaci.
+     *   Vztaženo na celkový počet aktivních pracovníků: lékaři 64,8%, sestry 47,6% a ostatní NLZP 42,0% (NLZP s velkými rozdíly: např. záchranáři 53,8% vs. ošetřovatelé 37,5%)
+        *   Ve všech profesních kategoriích jde o nárůst až o 2% ve srovnání s minulým týdnem
+     *   Pokud vyhodnotíme podíl ZP s posilující dávkou jen mezi těmi, kteří na ni mají časově nárok, pak dosud tuto dávku dostalo cca 79% lékařů, 65,3% sester, 60,8% NLZP
+
+S úctou
+
+L. Dušek
+
