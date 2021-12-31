@@ -1,0 +1,20 @@
+Vážené kolegyně a kolegové, dobrý den - v přílohách prosím posílám stručný přehled dat o stavu epidemie a dále podklady, které shrnují vybraná data o očekávaném a nevyhnutelném šíření Omicronu + variantní modely šíření Omicronu. Tyto modely jsou tvořeny s velkou dávkou nejistoty, nicméně je konfrontujeme s kolegy ze zahraničí  a s více českými akademickými týmy, které nezávisle vývoj také sledují, a principiálně se velmi shodujeme.
+
+Zásadní sdělení je, že Omicron se již v ČR komunitně šíří a nyní by podle modelových odhadů měl dosahovat cca 10 - 15% podíl na prevalenci aktivních nákaz, zřejmě větší podíl v Praze. To nezávisle potvrzuje i zpráva publikovaná zde: https://www.dianabiotech.com/omikroncr/
+
+Z této situace a při daném doubling time lze očekávat dosažení podílu 50% na celkové prevalenci cca do poloviny ledna, zřejmě již v prvních 10 dnech. Téměř s jistotou Omicron v české populaci významně převáží již v druhé polovině ledna. Prezentace a přiložený souhrn (vychází ze základních parametrů Omikronu z literatury a reportů zemí, které již mají aspoň trochu dlouhý F-up) shrnují cca toto:
+
+  *   vysoká nakažlivost varianty Omicron (2,5x až 3x vyšší než Delta)
+  *   nižší riziko těžkého průběhu, nižší virulence, -> riziko hospitalizací poloviční až třetinové proti Delta
+  *   v rychlosti šíření ale i nízká procentická rizikovost může vést k vysokým absolutním počtům nakažených a tedy k vysokým počtům hospitalizací
+  *   proto realistický, střední scénář předpokládá, že populační zátěž ve smyslu prevalence aktivních nákaz bude minimálně tak velká jako u Delty, spíše vyšší -> dopad na nemocnice bude cca 50% jako u Delty (optimistický výpočet) nebo stejný jako u Delty (realistický výpočet) ... k tomu je ale nutné připočíst ještě nemalou zátěž, která v nemocnicích přetrvává a bude přetrvávat z vlny Delta
+  *   je tedy nutné realisticky počítat s až 7 000 hospitalizacemi v jeden den a z toho v jeden den až s 900 - 1000 na JIP - vše ale relativně rychleji než na podzim roku 2021 - v tom je to riziko vyšší
+
+Více je prosím v prezentaci, kterou následně rozkreslíme i pro jednotlivé regiony.
+
+Přikládám ještě summary ve wordu, kde jsem zkusil sepsat odpovědi na nejčastější otázky, které k tomuto dostáváme.
+
+Přeji Vám krásný předposlední večer tohoto roku
+
+S úctou L. Dušek
+
