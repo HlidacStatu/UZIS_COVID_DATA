@@ -1,0 +1,79 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovanou souhrnnou prezentaci ke stavu vakcinace uzavřenou k 9.1. 2022. Ve většině slidů je kladen důraz na srovnání situace v krajích, jsou zařazeny i nové tabulkové souhrny s průběhem očkování děti, včetně zapojení ordinací PLDD.
+
+Souhrnný přehled dávek za uzavřený prosinec 2021:
+
+  *   celkem bylo za prosinec  aplikováno 1 937 601 dávek -> tedy celkový objem za poslední týden stále významně rostl); v průměru tak za prosinec registrujeme více než 62 500 dávek denně (kalkulováno včetně vánočních svátků a konce roku).
+  *   z celkového dosavadního objemu v prosinci tvořila 78,6% dávka posilující: očkování posilující dávkou tak drží i ve srovnání s listopadem významně zesílený trend
+  *   první dávku u dvou-dávkového schématu absolvovalo za prosinec celkem 140 337 osob (7,2% všech dávek) a jedno-dávkovou vakcínu si vzalo 15 517 osob (0,8%)
+  *   pokud jde o všechny primo-vakcinace, pak celkový součet dávek podaných za prosinec byl cca 156tis (pro srovnání: za celý říjen to bylo cca 144tis. dávek, za celý listopad potom cca 419 tis. dávek) - viz slidy č. 12 - 14 v prezentaci
+
+Celkem je tedy v prosinci průměrně denně aplikováno:
+
+  *   49 140 posillujících dávek
+  *   8 335 dávek ukončujících dvoudávkové schéma
+  *   5 025 primovakcinací
+
+Slide 15 v prezentaci ukazuje start očkování za první týden v lednu, kdy se počty aplikovaných dávek velmi rychle vrátily nad průměr 60 tis. denně - opět významně dominují posilující dávky (cca 85%)
+Stav registrací od 3.1. 2022 ukazuje tato tabulka (viz též přiložený excel):
+Registrace očkování
+Datum   < 12 let        12-15 let       > 16 let
+03.01.2022      1 355   856     60 458
+04.01.2022      1 150   773     85 429
+05.01.2022      872     672     41 817
+06.01.2022      829     520     30 393
+07.01.2022      586     349     20 132
+08.01.2022      211     209     10 796
+
+
+Pokračuje očkování dětí ve věku pod 12 let:
+
+  *   k 8.1. evidujeme 27 609 očkovaných ve věku 5 - 11 let (kategorie 12 - 15 let: 218 275 osob)
+  *   z celkového množství dávek podaných dětem ve věku 5 -11 let drtivou většinu podala očkovací místa (70,9%); PLDD se podíleli z 26,6%
+  *   z hlediska % podaných dávek dětem pod 12 let v kraji je zapojení PLDD největší v krajích STČ, LBK, KHK
+  *   očkování dle ISIN provádí 444 ordinací PLDD (= pouze 24,9% celkového počtu) - z dat je patrné, že tito lékaři neočkují jen děti, ale i mladé dospělé (rodiče? dětí) - viz slide 32 prezentace
+
+K 8.1. 2022 z celkového množství 15 988 tis. dávek bylo aplikováno:
+
+  *   83,1% na očkovacích místech
+  *   14,9% v ordinacích PLD
+  *   0,4% v ordinacích PLDD
+  *   1,6% u ostatních poskytovatelů
+
+Postupně narůstá proočkovanost v mladých věkových kategoriích, které byly na podzim proočkované velmi málo. Alespoň 1 dávku očkování registrujeme u následujících podílů těchto věkových kategorií:
+
+  *   kategorie 35 - 39 let: 64,5% (před cca 6 týdny: 59,5%)
+  *   kategorie 30 - 34 let: 62,6% (před cca 6 týdny: 56,3%)
+  *   kategorie 16 - 29 let: 66,1% (před cca 6 týdny: 58,7%)
+  *   kategorie 12 - 15 let: 49,9% (před cca 6 týdny: 39,4%)
+
+Nejvyšší podíl očkovaných s alespoň 1 dávkou má kategorie 70+ let: > 91%
+
+Očkování má dokončeno:
+
+  *   85,2% osob ve věku 60+
+  *   87,5% osob ve věku 65+
+  *   73,3% osob ve věku 18+
+  *   73,1% osob ve věku 16+
+  *   44,8% osob ve věku 12 - 15 let
+
+Očkování posilující dávkou pokračuje, aplikována byla u 74,1% osob, které na ní mají nárok (k 8.1.: 2 843 484 z 3 835 475) (viz slidy 4 až 8 v prezentaci)
+
+  *   největší podíl z pozvaných, kteří si již dali posilující dávku, vykazuje nadále Praha (81,1%), nejnižší naopak Moravskoslezský a Karlovarský kraj (cca 69 - 70%)
+  *   u věkové kategorie 60+ mělo/má nárok na posilující dávku cca 2 014 tis. osob a dosud ji absolvovalo 84,3% z nich
+  *   senioři ve věku 60+ tvoří 59,7% ze všech osob s dosud aplikovanou posilující dávkou
+
+Posilující dávku má aplikováno (vztaženo na velikost dané populační kategorie):
+
+  *   Věková kategorie 80+: 67,4%
+  *   Věková kategorie 70 - 79: 68,0%
+  *   Věková kategorie 65 - 69: 57,8%
+  *   Věková kategorie 60 - 64: 48,2%
+
+Postupně (byť stále relativně pomalu) klesá počet seniorů, kteří nejsou chráněni vakcinací a ani nemají záznam o prodělání nemoci:
+
+  *   u věkové kategorie 60+ je to nyní cca 289,5 tis. osob (před Vánoci to bylo 301 tis. osob)
+  *   u věkové kategorie 65+ je to nyní cca 18,7 tis. osob (před Vánoci to bylo 190 tis. osob)
+
+S úctou L. Dušek
+
+
