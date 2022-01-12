@@ -1,0 +1,33 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím několik souhrnných prezentací ke stavu epidemie, vše aktualizované k 9. - 10.
+
+  *   Celkový souhrn stavu epidemie
+  *   Aktualizovaný vývoj dle již dříve publikovaných variantních scénářů a predikcí
+  *   Mezinárodní přehled (data ECDC, WHO) ... aktualizace dle dostupnosti zpětně v čase
+  *   Příloha: data v MS Excel - stupeň imunizace / kvantifikace počtu imunitně nechráněných osob dle věkových kategorií
+
+Celková souhrnná prezentace je zaměřena zejména na riziko šíření variant Omikron a rozebírá růszné aspekty tohoto problému:
+
+  *   epidemie (resp. počet nakažených) v ČR zatím nekontrolovaně neeskaluje, většina relevantních indikátorů je ale již nyní v rizikových hodnotách, ve kterých stagnují nebo e otáčejí k růstu
+  *   zesílení epidemie není patrné ve všech regionech, nejvíce rostoucí zátěž registrujeme v Praze, v okresech Praha Východ a Praha západ + v některých vybraných městech
+  *   nákaza se prokazatelně nejvýznamněji šíří v populaci mladých lidí, typicky 16 - 30 let
+  *   Omikron se již v ČR prokazatelně šíří komunitně, v Praze již překonal 50% podíl v prevalenci aktivních nákaz, v celé populaci se tak stane nejpozději do konce týdne - v prezentaci jsou uvedena i nová data o šíření v zaměstnaneckých skupinách, dle věkových tříd apod.
+  *   prezentace dokládá stále platný a velmi významný ochranný efekt očkování proti těžkému průběhu nemoci, u posilující dávky i proti nákaze samotné
+  *   zdravotní dopad Omikronu zatím není patrný, v nemocnicích stále dochází hlavně k dozvuku odeznívající vlny "Delta"
+  *   ...více viz přiložený soubor "Souhrn_stav_epidemie_leden10"
+
+Soubor "Aktualizace_variantni_predikce_leden10" stručně shrnuje současný vývoj dle tří typů prediktivních modelů - vývoj populační zátěže, zásah zranitelných skupin a zejména pravděpodobnostní modely zátěže nemocnic.
+Celkové závěry těchto modelů ve vztahu k možnému vlivu varianty Omikron lze shrnout takto:
+
+  *   Klesne efektivní ochrana dvou-dávkových vakcín až na úroveň < 35%; ALE booster dávka ochranu opět navýší až k > 70%. Vysoká nakažlivost (doubling time cca 2 – 3 dny) představuje riziko    i v případě snížené virulence. Zásadní ochranou proti těžkému průběhu nemoci představuje pouze očkování. Osoby s posilující dávkou budou významně chráněny i proti nákaze.
+  *
+  *   Dle realistického scénáře by byly nakaženy zejména osoby dosud nechráněné očkováním a v uplynulých 6 měsících ani proděláním nemoci. Předpokládaný počet nakažených by odpovídal podzimu 2021, zásah nemocnic by byl cca poloviční proti „vlně Delta“. Rizikem je současná vysoká obsazenost nemocnic, vysoký počet neočkovaných zranitelných osob a rychlost předpokládaného šíření viru. V tomto scénáři by zátěž nemocnic podstatně narostla, ale byla by zvládnutelná.
+
+  *   Dle rizikového scénáře by byly nakaženy osoby dosud nechráněné očkováním a v uplynulých 6 měsících ani proděláním nemoci + osoby, u kterých by došlo k průlomovým infekcím po očkování i po nemoci (až 50% riziko průlomu). Předpokládaný počet nakažených by významně překročil podzim 2021, očkovaní by nicméně byli ve významné většině chráněni proti těžkému průběhu nemoci. Zásah nemocnic by dosáhnul až úrovně „vlny Delta“. Při stávající obsazenosti nemocnic jde o vysoké riziko dalšího nárůstu zátěže. Rizikem je dále vysoký počet neočkovaných zranitelných osob a extrémní rychlost předpokládaného šíření viru. V tomto scénáři existuje riziko  velmi vysoké zátěže nemocnic.
+
+Soubor "mezinar_srovnani" přináší vybraný přehled hlavních ukazatelů pro státy EU a EHP + na závěr přehled stavu očkováí, včetně populační proočkovanosti posilující dávkou.
+
+S úctou L. Dušek
+
+
+
+
