@@ -1,0 +1,239 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím nový report s včerejšími aktualizovanými daty z centrálního systému COVID19/ISIN, aktualizované trendy a přehled dle regionů.
+
+Včera bylo nahlášeno 11 675 nově diagnostikovaných pacientů s COVID-19. Týdenní počet nových záchytů je na hodnotě 525,4 případů / 100 tis. obyvatel. Minulý týden bylo v odpovídající den zachyceno 6 636 nových případů COVID-19.
+
+Dostupné ukazatele potvrzují návrat epidemie k růstu, téměř všechny hodnoty v polovině týdne  ukazují na rizikový růstový trend.
+
+  *   Relativní pozitivita testů začíná opět růst. Aktuální hodnoty 7 denních průměrů nad celou ČR jsou u diagnosticky indikovaných testů 21,0%, u epidemiologicky indikovaných testů jde o hodnotu 11,9%) viz příloha , soubor "01" / hodnoty v posledních dnech kolísají a neklesají, což může být důsledek malého počtu testů
+
+  *   Celo-populační reprodukční číslo dosahuje hodnoty 1,22 (7denní okno). R z 14denního okna je 1,19. Tyto hodnoty nyní již přestávají být ve svém odhadu zkreslené obdobím Vánoc a budou se stabilizovat.
+
+  *   Celkem bylo k půlnoci z nemocnic nahlášeno 93 nových hospitalizací. Celkem nemocnice průběžně hlásí 1 912 hospitalizovaných s COVID-19, z toho na JIP 372 pacientů.
+
+  *   Za včerejšek je zatím nahlášeno 13 úmrtí - jde o průběžný počet, záznamy o úmrtí se následně dohlašují zpětně; počty dohlášených úmrtí v čase postupně klesají a sledují tak trend pomalého poklesu počtů pacientů s těžkým průběhem nemoci (léčených na intenzivní péči)
+
+Z potvrzených 11 675 případů je:
+
+  *   6 428 (55,1%) neočkovaných
+  *   188 (1,6%) po 1. dávce -> z toho 104 (0,9%) více než 14 dní po 1. dávce
+  *   5 059 (43,3%) po 2. dávce -> z toho 4 993 (42,8%) více než 14 dní po 2. dávce
+
+Včera bylo potvrzeno 456 nových případů nákazy u věkové kategorie 65+, 375 neočkovaní, 2 po 1. dávce a 129 po 2. dávce očkování.
+
+  *   Zátěž seniorní populace ve srovnání s koncem roku 2021 významně poklesla, avšak stále osciluje na relativně vysokých hodnotách ukazatelů rizika. Relativní pozitivita testů indikovaných v této věkové kategorii (všechny indikované testy): 12,3 %. Týdenní počet nových případů na 100tis. obyvatel v této věkové třídě: 134,5
+
+Zátěž se promítá do všech věkových kategorií mladých i dospělých.  Nárůsty se nejvíce týkají věkových kategorií 15 - 30 let. Týdenní záchyty na 100 tis. obyvatel (vždy v rámci dané věkové třídy) jsou následující:
+
+  *   věková třída 6 - 11 let: 857,2
+  *   věková třída 12 - 15 let: 1065,5
+  *   věková třída 16 - 19 let: 1502,1
+  *   věková třída 20 - 29 let: 743,6
+  *   věková třída 30 - 49 let: 599,7
+  *   věková třída 50 - 64 let: 352,2
+
+Zátěž jednotlivých krajů shrnuje podrobná tabulka v datovém souhrnu na konci mailu. Nadprůměrnou zátěž  vykazují zejména kraje:
+
+  *   Praha vykazuje 7denní počet nových případů na hodnotě 1035,1 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,41 při relativní pozitivitě klinicky indikovaných testů 25,8%.
+  *   Středočeský kraj vykazuje 7denní počet nových případů na hodnotě 644,8 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,37 při relativní pozitivitě klinicky indikovaných testů 24,6 %.
+  *   Zlínský kraj vykazuje 7denní počet nových případů na hodnotě 522,0 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,25 při relativní pozitivitě klinicky indikovaných testů 25,9 %.
+  *   Ústecký kraj vykazuje 7denní počet nových případů na hodnotě 495,0 na 100 tis. obyvatel a aktuální reprodukční číslo je 1,14 při relativní pozitivitě klinicky indikovaných testů 23,5 %.
+
+Výše uvedené regiony v zátěži významně rostou, což platí zejména pro Prahu, která v prevalenci aktivních nákaz  významaně převyšuje průměr celé republiky. Ostatní regiony dosud vykazují 7denní počet nových případů nižší než 450/100tis. obyv. Zátěž ve všech regionech ale zůstává na vysokých hodnotách. Relativní pozitivita klinicky a diagnosticky indikovaných testů je u nejvíce zatížených krajů blízká hodnotě 25%, naopak nejnižší hodnoty jsou pod 15 %.
+
+Následující  okresy přestaly v zátěži klesat a trend epidemie se otočil k růstu (R je blízké 1 nebo nad 1) a jsou na vysokých hodnotách ukazatelů zátěže (7denní počty případů/100tis. obyv. > 500; hodnota R) - podrovněji viz datové přílohy zprávy:
+Praha-západ - 1074.3; R:1.45
+Praha - 1035.1; R:1.41
+Praha-východ - 955.3; R:1.51
+Vsetín - 805.5; R:1.36
+Ústí nad Labem - 743.4; R:1.33
+Mladá Boleslav - 644.1; R:1.30
+Beroun - 625.5; R:1.41
+Litoměřice - 615.9; R:1.31
+Brno-město - 586.6; R:1.17
+Šumperk - 580.2; R:1.15
+Strakonice - 568.5; R:1.84
+Mělník - 563.7; R:1.24
+Hradec Králové - 538.2; R:1.29
+Nymburk - 532.8; R:1.53
+Kladno - 529.2; R:1.43
+Chomutov - 516.9; R:1.23
+Benešov - 504.3; R:1.34
+Kolín - 504.2; R:1.39
+Příbram - 503.3; R:1.09
+Semily - 502.2; R:1.11
+
+Ve srovnání okresů (včetně Prahy) jsou v absolutních denních nárůstech počtu případů nejvyšší hodnoty zde:
+Praha (2864), Brno-město (520), Praha-východ (419), Praha-západ (322), Vsetín (303), Ostrava-město (238), Brno-venkov (228), Hradec Králové (206), Olomouc (194), Pardubice (189), Ústí nad Labem (188), Plzeň-město (175), Kladno (175), Chomutov (171), Nový Jičín (166).
+
+S úctou L. Dušek
+
+
+Počty nových případů COVID-19
+- Denní nárůst 11 675 případů
+- 7denní nárůst 56 229 případů
+- 7denní nárůst na 100 tis. obyv.: 525,4 případů
+- K půlnoci je evidováno 13 úmrtí
+- Počet případů zachycený odpovídajícího dne minulého týdne: 6 636
+- Změna proti odpovídajícímu dni minulého týdne: 5 039 (75,9%)
+- Aktuální odhad R počítané dle 7denních časových úseků pro ČR: 1.22
+- Aktuální odhad R počítané dle 14denních časových úseků pro ČR: 1.19
+Z nově nakažených 11 675 případů je:
+- 6 428 (55,1%) neočkovaných
+- 188 (1,6%) po 1. dávce
+- Z toho 104 (0,9%) více než 14 dní po 1. dávce
+- 5 059 (43,3%) po 2. dávce
+- Z toho 4 993 (42,8%) více než 14 dní po 2. dávce
+
+
+Počty nových případů COVID-19 u seniorních věkových kategorií
+- Denní nárůst případů v kategorii 65+: 456 (4,0% celku)
+- Denní nárůst případů v kategorii 75+: 174 (1,0% celku)
+- 7denní nárůst případů v kategorii 65+: 2 902
+- 7denní nárůst případů v kategorii 65+/100 tis.: 134,5
+- 7denní nárůst případů v kategorii 75+: 1 123
+- 7denní nárůst případů v kategorii 75+/100 tis.: 129,9
+Z nově nakažených 456 případů 65+ je:
+- 325 (71,3%) neočkovaných
+- 2 (0,4%) po 1. dávce
+- Z toho 2 (0,4%) více než 14 dní po 1. dávce
+- 129 (28,3%) po 2. dávce
+- Z toho 127 (27,9%) více než 14 dní po 2. dávce
+
+
+Srovnání krajů dokumentuje následující tabulka:
+
+
+
+
+
+
+
+Název kraje
+Denní počet nových případů
+(přepočet
+na  100tis.obyv.)
+7denní počet nových případů na 100 tis. obyv.
+Odhad R
+ze 7denních časových úseků
+14denní počet nových případů na 100 tis. obyv.
+7denní počet testů na 100tis. obyv.
+(Dg+Epi / Prev)*
+7denní relativní pozitivita indikovaných (Dg/Epi) testů v % *
+Hlavní město Praha
+2864 (214.5)
+1035.1
+1.41
+1658.2
+4120.3 / 5371.8
+24.9 % / 12.4 %
+Středočeský kraj
+1844 (131.9)
+644.8
+1.37
+1070.1
+3371.3 / 3043.6
+23.6 % / 11.7 %
+Zlínský kraj
+665 (114.6)
+552.0
+1.25
+942.2
+2839.1 / 1557.4
+25.1 % / 14.1 %
+Ústecký kraj
+847 (103.7)
+495.0
+1.14
+888.7
+2747.4 / 2208.3
+23.2 % / 11.8 %
+Liberecký kraj
+431 (97.4)
+461.0
+1.00
+887.5
+2576.0 / 1899.8
+24.2 % / 12.7 %
+Královéhradecký kraj
+562 (102.0)
+458.6
+1.19
+817.7
+2721.1 / 1962.0
+20.5 % / 12.1 %
+Jihomoravský kraj
+1170 (97.9)
+450.0
+1.14
+797.2
+2576.6 / 2395.2
+16.7 % / 11.9 %
+Pardubický kraj
+455 (87.0)
+420.4
+1.14
+759.3
+2804.4 / 1946.0
+17.5 % / 11.5 %
+Olomoucký kraj
+556 (88.2)
+406.8
+1.17
+724.6
+2351.5 / 2482.5
+21.8 % / 10.5 %
+Plzeňský kraj
+539 (91.2)
+402.7
+1.17
+717.9
+2335.4 / 2535.7
+17.1 % / 11.8 %
+Karlovarský kraj
+224 (76.4)
+396.2
+1.49
+624.6
+2373.6 / 2339.5
+14.4 % / 10.7 %
+Jihočeský kraj
+419 (65.1)
+368.3
+1.09
+697.5
+2129.9 / 2061.1
+19.9 % / 11.0 %
+Moravskoslezský kraj
+796 (66.7)
+331.0
+0.98
+643.9
+2312.2 / 2007.2
+18.7 % / 9.8 %
+Kraj Vysočina
+301 (59.2)
+309.3
+0.98
+620.0
+1999.4 / 2058.6
+16.5 % / 10.4 %
+ČR
+11675 (109.1)
+525.4
+1.22
+913.6
+2811.9 / 2794.3
+20.5 % / 11.7 %
+
+Zátěž nemocnic
+- Denní nové příjmy k hospitalizaci: 93
+- Aktuální počet všech hospitalizací: 1 912
+- Aktuální počet hospitalizací na JIP: 372
+
+
+
+
+
+
+
+
