@@ -1,0 +1,50 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovaný souhrn o stavu nákaz v sociálních zařízeních + přehled očkování a nákaz u zdravotnických pracovníků.
+
+Soubor "Analyza_soc_sluzby_ohniska" - aktualizace k 15.1. 2022
+Prezentace je vytvořena ze dvou zdrojů dat, které se nezávisle na sobě doplňují a také potvrzují:
+1) šetření KHS hlásících ohniska nákazy a výsledky epidemiologických šetření
+2) k tomu nezávislé přímé zadávání nákaz od pobytových sociálních zařízení (zadávané přímo přes vybudovaný datový most do modulu ISIN).
+
+  *   Zásadním závěrem zůstává, že počty registrovaných nákaz v pobytových sociálních zařízeních neeskalují a situace je pod kontrolou.
+  *   Zejména zůstává nízký počet těžkých průběhů nákazy a úmrtí. Potvrzují to jak hlášení KHS, tak přímá hlášení poskytovatelů. Projevuje se zde jednoznačně ochranný efekt proočkování populace klientů, určitě i v kombinaci s vysokým podílem osob, které nákazu již prodělaly.
+
+Dle hlášení KHS
+
+  *   Za leden 2022 je dosud hlášeno pouze 6 událostí se 64 nakaženými (stav k 15. 1.)
+  *   Ve srovnání s počátkem roku 2021 jde stále o velmi nízké počty a při dělení na kraje pouze o jednotkové výskyty nákazy. Tato data ukazují, že situace v sociálních zařízeních je stále pod kontrolou, velký ochranný efekt hraje vakcinace a také samozřejmě počet klientů, kteří prodělali nákazu v uplynulém období.
+  *
+
+Individuální hlášení poskytovatelů nezávisle potvrzují závěry epidemiologických šetření KHS.
+
+  *   V lednu bylo dosud nahlášeno 127 případů nákazy personálu a 52 klientů, z nichž 11 zemřelo.
+  *   Počty případů s těžkým průběhem nákazy, zejména vyžadujícím hospitalizaci, zůstávají nízké, v jednotkách případů denně v celé ČR.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Soubor "ZP_nakazy a vakcinace" - aktualizace k 15.1. 2022 + příloha denní data o nákazách ZP v MS Excel
+
+
+  *   Celková proočkovanost ZP dosáhuje 83,6 % (jen ZP skutečně aktivní ve zdravotnictví).
+  *   U aktuálně aktivně působících zdravotnických pracovníků má alespoň 1. dávku vakcinace cca 88,1 % lékařů, 83,7 % sesterských povolání a 81 % ostatních zdravotnických povolání (hodnoty zůstávají cca stejné jako na konci roku 2021).
+
+  *   Aktuální data ukazují, že pokles nákaz u ZP se zastavil a denní počet nově pozitivně diagnostikovaných začal narůstat. Zdravotničtí pracovníci jsou vystavováni riziku nákazy významně více než běžná populace a vývoj jejich virové zátěže je velmi dobrým indikátorem epidemiologických trendů - projevuje se zde již nastupující šíření varianty Omikron.
+
+  *   Aktuálně je denně nově diagnostikováno jako COVID+ (7denní průměr) 37 lékařů, 61 sester a 66 ostatních NLZP: tyto počty jsou ale stále velmi nízké ve srovnání s počátkem roku 2021, kdy denně přibývaly stovky nakažených ZP
+  *   Prevalence nakažených je stále relativně vysoká, opět ale významně nižší ve srovnání s počátkem 2021: cca 486 lékařů, 944 sester a 1113 NLZP
+
+  *
+
+Data v prezentaci potvrzují, že ochranný efekt vakcinace proti nákaze v čase významně klesá, což je mimo jiné i důsledek nastupujícího šíření varianty Omikron. Avšak posilující dávka vrací ochranu proti nákaze zpět nad hodnotu 70% až 85%. Zásadním faktem zůstává, že ochranný efekt vakcinace proti těžkému průběhu nemoci trvá i v této profesní kategorii. V současnosti registrujeme pouze jednotky ZP s těžším průběhem nemoci po očkování.
+
+  *
+  *   Očkování ZP posilující dávkou - viz slidy č. 7 - 9 v prezentaci.
+
+     *   Pokud vyhodnotíme podíl ZP s posilující dávkou jen mezi těmi, kteří na ni mají časově nárok, pak dosud tuto dávku dostalo cca 85% lékařů, 73,9% sester, 669,8% NLZP - u všech profesí je patrný významný nárůst proti datům z prosince 2021
+
+     *   Vztaženo na celkový počet aktivních pracovníků: lékaři 70,6%, sestry 55,3% a ostatní NLZP 50,0% (NLZP s velkými rozdíly: např. záchranáři 61,4% vs. ošetřovatelé 46,2%)
+        *   Ve všech profesních kategoriích jde o nárůst proti situaci z konce roku 2021
+
+S úctou
+
+L. Dušek
+
