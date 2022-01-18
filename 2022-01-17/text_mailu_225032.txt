@@ -1,0 +1,50 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách souhrn aktuální epidemiologické situace, doplněná reálná data do dříve publikovaných prediktivních modelů + další přílohy s daty
+
+Konkrétně jde o soubory:
+
+  *   Souhrn_stav_epidemie: velká ucelená prezentace shrnující hlavní dimenze hodnocení epidemické situace
+  *   Aktualizace_variantní predikce: reálná data doplněná do publikovaných prediktivních modelů - včetně modelů pravděpodobné zátěže nemocnic
+  *   Mezinár srovnání - srovnání vybraných ukazatelů mezi zeměmi EU a EHP
+  *   Priloha01 _ krátkodobé projekce kraje vývoje počtu nákaz pro jednotlivé kraje (variantní projekce dle předpokládaného a možného rozptylu R)
+  *   Priloha02 - data v Excelu – kvantifikace počtu osob (dle věkových kategorií – subpopulací), které nejsou nijak chráněny – tedy ani vakcinaci, ani proděláním choroby
+
+Dále přikládám základní sadu souborů shrnujících hodnocení klíčových indikátorů epidemie
+
+  *   soubor "Priloha_metodika indikatory" zdůvodňuje vybraný set parametrů a indikátorů a jejich hodnocení
+  *   soubor "01_indikátory_epidemie" tyto hodnoty indikátorů kvantifikuje k 16.1.
+  *   soubor "02_indikatory_vyvoj v čase" zobrazuje časové řady vybraných ukazatelů
+
+Závěry a zhodnocení situace jsou zejména uvedeny v příloze "Souhrn_stav_epidemie".
+Zde bych situaci pouze stručně shrnul takto:
+
+  *   Varianta Omikron ve shodě s predikcemi dosáhla dominance v naprosté většině krajů (podíl na prevalenci aktivních nákaz bude > 80%) a v následujících dnech musíme očekávat růst počtu nakažených - to indikuje např. i vývoj záchytovosti u testování ve školách, obrat epidemických ukazatelů prevalence k růstu, opětovný růst relativní pozitivity testů apod.
+  *
+  *   Stávající reprodukční číslo překračuje hodnotu 1,5 (odhad pro 7denní časové okno) a bude dále růst - zvláště silná akcelerace šíření je patrná v Praze a v přilehlých okresech STČ /tyto regiony ukazují možný vývoj i v dalších částech země/
+  *
+  *   Je evidentní, že dále klesá ochranný efekt prodělání nemoci (narůstají suspektní reinfekce až k 12% celkových pozitivních záchytů denně) a dále také ochranný efekt vakcinace bez posilující dávky proti nákaze
+  *   -> ochrana dvou-dávkového očkování proti samotné nákaze u Omikronu velmi silně klesá (až k 10%), ale posilující dávka ji velmi významně vrací zpět nad 70% až 80%. To prokazuje nejen rozbor zachycených suspektních případů Omikronu dle PCR, ale také analýza ochranného efektu vakcín v čase.
+  *
+  *   Zcela zásadní ale je, že se stále drží významný ochranný efekt vakcinace proti těžkému průběhu nemoci (až na > 95%) a mezi těžkými průběhy COVIdu registrujeme pouze významnou menšinu očkovaných. Posilující dávka očkování tento ochranný efekt zvyšuje až k 95%.
+
+  *   Zdravotní dopad nastupující dominance Omikronu se zatím jeví jako zvládnutelný, zásadní rizika neeskalují a počet pacientů v nemocnicích postupně klesá, stále je ale ještě přiliš brzy na zhodnocení potenciálních efektů, nová varianta viru ještě nezasáhla plně seniorní populaci ani populaci potenciálně zranitelných
+     *   Celkové příjmy do nemocnic v pracovních dnech uplynulého týdne dosahovaly počtu až 170, dlouhodobý průměr (který čekáme i v nadcházejících dnech) je 150 nových hospitalizací denně, z toho cca do 30 na JIP
+
+Výsledky získané k 16.1. tedy ukazují na zatím relativně bezpečný vývoj, nedochází k eskalaci počtu hospitalizovaných a v žádném z regionů není patrný rizikový vývoj na intenzivní péči. Neroste počet těžkých hospitalizací zahájených v den (nebo bezprostředně po) stanovení diagnózy COVID-19.
+
+Nově jsme aktivovali systém sledování hospitalizací a těžkých průběhů nákazy v čase (denně), a to i v relaci na rizikové faktory nakažených. Systém prozatím nedokládá rizikový vývoj, i když počty hospitalizovaných nejsou rozhodně zanedbatelné
+
+  *   podíl hospitalizovaných z celkem pozitivně diagnostikovaných v žádném ze dnů po 1.1. 2022 nepřekročil 10% (10 - 14denní Fup), spíše se pohybuje mezi 5 - 7%); počty hospitalizovaných na JIP do 10 dnů nepřekračují 1% z diagnostikovaných
+  *   neroste pravděpodobnost hospitalizace na JIP (v % proti všem nově hospitalizovaným osciluje stále kolem 20%)
+  *   neroste počet ani podíl případů hospitalizovaných velmi rychle po diagnóze (v den diagnózy, do 1 až do 3 dnů od ní) -> do tří dnů od diagnózy je hospitalizováno 1% - 3% nově diagnostikovaných
+
+Výše uvedené pozitivní závěry platí i pro subpopulaci potenciálně zranitelných nově nakažených pacientů.
+Budeme-li uvažovat populaci dle věku 65+:
+
+  *   v této populaci nedochází zatím k prudkému růstu virové zátěže (7denní počty nových případů / 100tis. se drží pod 150, při relativní pozitivitě indikovaných testů do 13%
+  *   podíl celkově hospitalizovaných v této skupině do 7 až 10 dnů dosahuje cca 20% - 25%, v maximech 30% -> to odpovídá vývoji rizika v předchozích vlnách epidemie; zatím v tomto dopadu není patrná žádná riziková změna nebo vývoj či eskalace
+  *   v nejrizikovějších skupinách (3 a více rizikových faktorů + vysoký věk 65+) je do 7 až 10 dnů od diagnózy hospitalizováno cca 50% nově diagnostikovaných, což opět odpovídá poměrům např. z jara nebo podzimu 2021
+
+S úctou
+
+L. Dušek ​
+
