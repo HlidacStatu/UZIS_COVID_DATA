@@ -1,0 +1,68 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím plnou sadu reportů a analýz, mapy a soubory s daty o proočkovanosti obcí, ORP a regionů.
+
+Datové soubory v Excelu označené "01" jsou doplněny na úroveň obcí, dále pro  srovnání okresů a ORP - vždy v rozdělení dle věkových kategorií + soubor Příloha 01 shrnuje počty a podíl neočkovaných, ani nemocí nechráněných, seniorů i ostatních věkových kategorií
+
+Přiložené soubory 01 a 02 (data a prezentace) shrnují současný stav proočkovanosti dle velikosti sídel. - v datech lze snadno vyfiltrovat obce/ORP/okresy dle charakteristik a dle regionální příslušnosti.
+
+Soubor 03 (data) shrnuje proočkovanost z pohledu ORP - zejména jsou zde identifikovány oblasti, kde spolu sousedí více obcí s nízkou úrovní proočkovanosti + Soubor 04 (mapy) jsou aktualizované a doplněné mapové podklady
+
+VŠECHNY SOUBORY OZNAČENÉ 01 AŽ 04 OBSAHUJÍ NOVĚ DATA O PROOČKOVANOSTI POSILUJÍCÍ DÁVKOU - V MAPÁCH I V EXCELOVÝCH DATOVÝCH SOUBORECH, TAM JE TO VLOŽENO JAKO SAMOSTATNÉ LISTY
+
+Nízkou proočkovanost seniorů 60+ posilující dávkou (nižší než 65%) hlásí tyto okresy (více viz datové soubory "01"):
+Očkovaní posilující dávkou
+
+
+
+Stav k 22.01.2022
+
+Věk 60+ let
+Kraj    OkresKod        Okres   populace        očkovaní        neočkovaní
+CZ072 Zlínský kraj      CZ0723  Vsetín  38 194  58,0%   16 048
+CZ071 Olomoucký kraj    CZ0711  Jeseník 11 073  58,5%   4 600
+CZ080 Moravskoslezský kraj      CZ0802  Frýdek-Místek   55 661  58,5%   23 105
+CZ080 Moravskoslezský kraj      CZ0804  Nový Jičín      39 215  59,1%   16 029
+CZ080 Moravskoslezský kraj      CZ0803  Karviná 66 563  59,2%   27 153
+CZ041 Karlovarský kraj  CZ0411  Cheb    24 521  60,6%   9 664
+CZ072 Zlínský kraj      CZ0721  Kroměříž        29 288  60,8%   11 493
+CZ080 Moravskoslezský kraj      CELKEM  CELKEM  317 726 60,8%   124 401
+CZ064 Jihomoravský kraj CZ0646  Vyškov  23 481  61,0%   9 150
+CZ071 Olomoucký kraj    CZ0715  Šumperk 33 646  61,6%   12 909
+CZ071 Olomoucký kraj    CZ0714  Přerov  35 760  61,8%   13 667
+CZ071 Olomoucký kraj    CZ0713  Prostějov       29 474  61,9%   11 237
+CZ042 Ústecký kraj      CZ0425  Most    28 333  62,4%   10 666
+CZ071 Olomoucký kraj    CELKEM  CELKEM  171 721 62,7%   64 131
+CZ080 Moravskoslezský kraj      CZ0805  Opava   46 692  62,7%   17 404
+CZ080 Moravskoslezský kraj      CZ0806  Ostrava-město   83 904  62,9%   31 169
+CZ080 Moravskoslezský kraj      CZ0801  Bruntál 25 691  62,9%   9 541
+CZ072 Zlínský kraj      CELKEM  CELKEM  159 409 63,1%   58 874
+CZ051 Liberecký kraj    CZ0514  Semily  20 358  63,2%   7 492
+CZ042 Ústecký kraj      CZ0421  Děčín   34 659  63,2%   12 752
+CZ041 Karlovarský kraj  CELKEM  CELKEM  79 346  63,3%   29 087
+CZ032 Plzeňský kraj     CZ0321  Domažlice       14 649  63,4%   5 355
+CZ032 Plzeňský kraj     CZ0327  Tachov  13 332  63,5%   4 867
+CZ051 Liberecký kraj    CZ0511  Česká Lípa      26 231  63,9%   9 459
+CZ041 Karlovarský kraj  CZ0413  Sokolov 22 544  64,2%   8 072
+CZ064 Jihomoravský kraj CZ0644  Břeclav 30 931  64,5%   10 989
+CZ032 Plzeňský kraj     CZ0326  Rokycany        13 288  64,6%   4 700
+CZ064 Jihomoravský kraj CZ0641  Blansko 29 198  64,6%   10 327
+CZ053 Pardubický kraj   CZ0533  Svitavy 27 896  64,6%   9 862
+CZ064 Jihomoravský kraj CZ0645  Hodonín 42 763  64,7%   15 109
+CZ041 Karlovarský kraj  CZ0412  Karlovy Vary    32 281  64,8%   11 351
+CZ071 Olomoucký kraj    CZ0712  Olomouc 61 768  64,8%   21 718
+
+
+Příloha 01 shrnuje počet osob (v různých věkových kategoriích), které nejsou chráněny očkováním a ani proděláním nemoci
+
+  *   u věkové kategorie 60+ je to nyní cca 278,0 tis. osob (před Vánoci to bylo 301 tis. osob)
+  *   u věkové kategorie 65+ je to nyní cca 171,4 tis. osob (před Vánoci to bylo 190 tis. osob)
+
+Příloha 02 obsahuje sumární tabulky s daty o osobách, které prodělaly COVID - je zde kvantifikováno kolik z nich je již očkovaných - po krajích, dle věkových skupin
+
+  *   Celkem evidujeme 2 279 437 osob se záznamem o prodělané nemoci a z nich 1 113 838 osob má alespoň jednu dávku očkování (tj. cca 48,9%)
+
+S úctou L. Dušek
+
+
+
+
+

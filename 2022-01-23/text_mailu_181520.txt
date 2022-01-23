@@ -1,0 +1,64 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovanou souhrnnou prezentaci ke stavu vakcinace uzavřenou k 23.1. 2022. Ve většině slidů je kladen důraz na srovnání situace v krajích, jsou zařazeny i nové tabulkové souhrny s průběhem očkování děti, včetně zapojení ordinací PLDD.
+
+Souhrnný přehled dávek za leden 2022 - stav k 22.1.:
+
+  *   celkem bylo za leden zatím aplikováno 1 295 344 dávek -> za leden tedy dosud registrujeme téměř 59 000 dávek denně (kalkulováno včetně weekendů), v posledních pracovních dnech týdne se denní počty pohybovaly mezi 52 000 - 60 000.
+  *   z celkového dosavadního objemu v prosinci tvořila 86,4% dávka posilující
+  *   první dávku u dvou-dávkového schématu dosud za leden absolvovalo celkem 79 423 osob (6,1% všech dávek) a jedno-dávkovou vakcínu si vzalo 3 301 osob (0,3%)
+  *   pokud jde o všechny primo-vakcinace, pak celkový součet dávek podaných za první polovinu ledna byl cca 83tis.
+
+Počty aplikovaných dávek v posledním týdnu v lednu klesají.
+Celkem bylo v lednu průměrně denně aplikováno:
+
+  *   50 861 posilujících dávek (v prosinci: 49 140)
+  *   4 258 dávek ukončujících dvou-dávkové schéma (v prosinci: 8 335)
+  *   3 760 primo-vakcinací (v prosinci: 5 025)
+
+Klesající zájem o očkování potvrzuje i počet provedených registrací, který v posledním týdnu poklesl více než o polovinu v porovnání s počátkem ledna. Stav registrací od 15.1. 2022 ukazuje tato tabulka (viz též přiložený excel):
+Registrace očkování
+Datum   < 12 let        12-15 let       > 16 let
+15.01.2022      149     171     7 110
+16.01.2022      223     219     10 523
+17.01.2022      359     317     14 664
+18.01.2022      317     269     13 284
+19.01.2022      362     269     13 348
+20.01.2022      230     166     10 035
+21.01.2022      170     171     7 261
+22.01.2022      116     111     7 189
+
+Pokračuje očkování dětí ve věku pod 12 let:
+
+  *   k 22.1. evidujeme 43 872 očkovaných ve věku 5 - 11 let (kategorie 12 - 15 let: 223 294 osob)
+  *   z celkového množství dávek podaných dětem ve věku 5 -11 let drtivou většinu podala očkovací místa (66,7%); PLDD se podíleli z 30,7%
+  *   z hlediska % podaných dávek dětem pod 12 let v kraji je zapojení PLDD největší v krajích STČ, PLK, KHK
+  *   očkování dle ISIN provádí 635 ordinací PLDD (= 35,6% celkového počtu) / první týden v lednu to bylo méně - 444 ordinací, což bylo 26,4% - z dat je patrné, že tito lékaři neočkují jen děti, ale i mladé dospělé (rodiče? dětí) - viz slide 32 prezentace
+
+Děti ve věku pod 12 let - k 22.1. 2022 z celkového množství 57 935 tis. dávek bylo aplikováno:
+
+  *   66,7% na očkovacích místech
+  *   2% v ordinacích PLD
+  *   30,7% v ordinacích PLDD
+  *   0,6% u ostatních poskytovatelů
+
+Očkování má k 22.1. dokončeno:
+
+  *   89,5% osob ve věku 80+ -> s posilující dávkou: 71,0%
+  *   85,6% osob ve věku 60+ -> s posilující dávkou: 66,6%
+  *   87,9% osob ve věku 65+ -> s posilující dávkou: 70,0%
+  *   73,8% osob ve věku 18+ -> s posilující dávkou: 40,6%
+  *   73,5% osob ve věku 16+ -> s posilující dávkou: 39,7%
+  *   46,0% osob ve věku 12 - 15 let
+
+Očkování posilující dávkou pokračuje, aplikována byla u 76,6% osob, které na ní mají nárok (k 22.1.: 3 528 730 očkovaných z 4 606 114, kteří mají nárok) (viz slidy 4 až 8 v prezentaci)
+
+  *   u věkové kategorie 60+ mělo/má nárok na posilující dávku cca 2 133 tis. osob a dosud ji absolvovalo 87,0%
+  *   senioři ve věku 60+ tvoří 53% ze všech osob s dosud aplikovanou posilující dávkou
+
+Postupně (byť stále relativně pomalu) klesá počet seniorů, kteří nejsou chráněni vakcinací a ani nemají záznam o prodělání nemoci:
+
+  *   u věkové kategorie 60+ je to nyní cca 278,0 tis. osob (před Vánoci to bylo 301 tis. osob)
+  *   u věkové kategorie 65+ je to nyní cca 171,4 tis. osob (před Vánoci to bylo 190 tis. osob)
+
+S úctou L. Dušek
+
+
