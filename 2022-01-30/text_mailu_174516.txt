@@ -1,0 +1,51 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím plnou sadu reportů a analýz, mapy a soubory s daty o proočkovanosti obcí, ORP a regionů.
+
+Datové soubory v Excelu označené "01" jsou doplněny na úroveň obcí, dále pro srovnání okresů a ORP - vždy v rozdělení dle věkových kategorií + soubor Příloha 01 shrnuje počty a podíl neočkovaných, ani nemocí nechráněných, seniorů i ostatních věkových kategorií
+
+Přiložené soubory 01 a 02 (data a prezentace) shrnují současný stav proočkovanosti dle velikosti sídel. - v datech lze snadno vyfiltrovat obce/ORP/okresy dle charakteristik a dle regionální příslušnosti.
+
+Soubor 03 (data) shrnuje proočkovanost z pohledu ORP – zejména jsou zde identifikovány oblasti, kde spolu sousedí více obcí s nízkou úrovní proočkovanosti + Soubor 04 (mapy) jsou aktualizované a doplněné mapové podklady
+
+VŠECHNY SOUBORY V PŘÍLOZE MAILU OZNAČENÉ 01 AŽ 04 OBSAHUJÍ NOVĚ DATA O PROOČKOVANOSTI POSILUJÍCÍ DÁVKOU – V MAPÁCH I V EXCELOVÝCH DATOVÝCH SOUBORECH, TAM JE TO VLOŽENO JAKO SAMOSTATNÉ LISTY
+
+Nízkou proočkovanost seniorů 60+ posilující dávkou (nižší než 65%) hlásí tyto okresy (více viz datové soubory "01"):
+Očkovaní posilující dávkou
+
+
+Stav k 29.01.2022
+Věk 60+ let
+Kraj    Okres   populace        očkovaní        neočkovaní
+CZ072 Zlínský kraj      Vsetín  38 194  59,5%   15 473
+CZ071 Olomoucký kraj    Jeseník 11 073  59,6%   4 479
+CZ080 Moravskoslezský kraj      Frýdek-Místek   55 661  60,1%   22 221
+CZ080 Moravskoslezský kraj      Karviná 66 563  60,9%   26 007
+CZ080 Moravskoslezský kraj      Nový Jičín      39 215  61,2%   15 208
+CZ064 Jihomoravský kraj Vyškov  23 481  62,6%   8 790
+CZ041 Karlovarský kraj  Cheb    24 521  62,9%   9 108
+CZ072 Zlínský kraj      Kroměříž        29 288  62,9%   10 852
+CZ071 Olomoucký kraj    Šumperk 33 646  63,0%   12 448
+CZ071 Olomoucký kraj    Prostějov       29 474  63,4%   10 792
+CZ071 Olomoucký kraj    Přerov  35 760  63,4%   13 081
+CZ080 Moravskoslezský kraj      Ostrava-město   83 904  64,1%   30 110
+CZ042 Ústecký kraj      Most    28 333  64,2%   10 151
+CZ080 Moravskoslezský kraj      Bruntál 25 691  64,3%   9 178
+CZ051 Liberecký kraj    Semily  20 358  64,8%   7 174
+CZ080 Moravskoslezský kraj      Opava   46 692  64,8%   16 437
+CZ042 Ústecký kraj      Děčín   34 659  65,0%   12 139
+
+
+Příloha 01 shrnuje počet osob (v různých věkových kategoriích), které nejsou chráněny očkováním a ani proděláním nemoci
+
+  *   u věkové kategorie 60+ je to nyní cca 272,1 tis. osob (před Vánoci to bylo 301 tis. osob)
+  *   u věkové kategorie 65+ je to nyní cca 167,4 tis. osob (před Vánoci to bylo 190 tis. osob)
+
+Příloha 02 obsahuje sumární tabulky s daty o osobách, které prodělaly COVID – je zde kvantifikováno kolik z nich je již očkovaných – po krajích, dle věkových skupin
+
+  *   Celkem evidujeme 2 381 754 osob se záznamem o prodělané nemoci a z nich 1 117 584 osob má alespoň jednu dávku očkování (tj. cca 46,9%)
+
+S úctou L. Dušek
+
+
+
+
+

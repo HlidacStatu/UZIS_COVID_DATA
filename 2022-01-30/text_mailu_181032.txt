@@ -1,0 +1,53 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovaný souhrn o stavu nákaz v sociálních zařízeních + přehled očkování a nákaz u zdravotnických pracovníků.
+
+Soubor "Analyza_soc_sluzby_ohniska" - aktualizace k 29.1. 2022
+Prezentace je vytvořena ze dvou zdrojů dat, které se nezávisle na sobě doplňují a také potvrzují:
+1) šetření KHS hlásících ohniska nákazy a výsledky epidemiologických šetření
+2) k tomu nezávislé přímé zadávání nákaz od pobytových sociálních zařízení (zadávané přímo přes vybudovaný datový most do modulu ISIN).
+
+CELKOVÝ ZÁVĚR:
+Počty registrovaných nákaz v pobytových sociálních zařízeních mírně narostly, ale neeskalují a situace je pod kontrolou. Zejména zůstává nízký počet těžkých průběhů nákazy a úmrtí. Potvrzují to jak hlášení KHS, tak přímá hlášení poskytovatelů - tyto dva zdroje dat se tak nezávisle doplňují a potvrzují. Projevuje se zde jednoznačně ochranný efekt proočkování populace klientů, určitě i v kombinaci s vysokým podílem osob, které nákazu již prodělaly.
+
+Dle hlášení KHS
+
+  *   Za leden 2022 je dosud hlášeno pouze 29 událostí se 360 nakaženými (stav k 29. 1.)  -> počty ohnisek řešených KHS tedy budou za celý leden nižší než za prosinec 2021, i to je doklad pozitivního vývoje
+  *   Celkově ve srovnání s počátkem roku 2021 řeší nyní KHS významně nižší počty ohnisek - při dělení na kraje pouze o jednotkové výskyty nákazy. Tato data ukazují, že situace v sociálních zařízeních je stále pod kontrolou, velký ochranný efekt hraje vakcinace a také samozřejmě počet klientů, kteří prodělali nákazu v uplynulém období. Větší ohniska s více než 20 nakaženými osobami jsou pouze výjimečné.
+
+Individuální hlášení poskytovatelů nezávisle potvrzují závěry epidemiologických šetření KHS.
+
+  *   V lednu bylo dosud nahlášeno 804 případů nákazy personálu a 353 klientů, z nichž 26 zemřelo.
+  *   Jde o nárůst prosti hlášení z minulého týdne, stále ale jde o počty významně nižší, než tomu bylo před rokem
+  *   Počet nakažených pracovníků i klientů bude v lednu cca podobný, jako tomu bylo v prosinci 2021
+  *   Počty případů s těžkým průběhem nákazy, zejména vyžadujícím hospitalizaci, zůstávají nízké, v jednotkách případů denně v celé ČR.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Soubor "ZP_nakazy a vakcinace" - aktualizace k 29.1. 2022 + příloha denní data o nákazách ZP v MS Excel
+
+DATA O PROOČKOVANOSTI JSOU V TOTMO SHRNUTÍ TÉMĚŘ STEJNÁ JAKO PŘED TÝDNEM 23.1. - PROOČKOVANOST ZP JIŽ DÁLE VÝZNAMNĚ NEROSTE.
+
+  *   Aplikovaných dávek očkování již přibývá velmi málo, proočkovanost se v posledních cca 2 týdnech nemění
+  *   Celková proočkovanost ZP dosahuje 83,8 % (jen ZP skutečně aktivní ve zdravotnictví).
+  *   U aktuálně aktivně působících zdravotnických pracovníků má alespoň 1. dávku vakcinace cca 88,1 % lékařů, 83,9 % sesterských povolání a 81,2 % ostatních zdravotnických povolání (hodnoty zůstávají cca stejné jako na konci roku 2021).
+
+  *   AKTUÁLNÍ DATA POTVRZUJÍ POKRAČUJÍCÍ NÁRŮST NÁKAZ U ZDRAVOTNICKÝCH PRACOVNÍKŮ. Zdravotničtí pracovníci jsou vystavováni riziku nákazy významně více než běžná populace a vývoj jejich virové zátěže je velmi dobrým indikátorem epidemiologických trendů - jde jednoznačně o důsledek dominance varianty Omikron.
+
+  *   Aktuálně je denně nově diagnostikováno jako COVID+ (7denní průměr) 128 lékařů, 297 sester a 274 ostatních NLZP: tyto počty jsou cca 1,5 násobkem počtů registrovaných průměrně před týdnem
+  *   Denně tak průměrně přibývá cca 700 nově nakažených ZP (před týdnem do bylo cca 430)
+     *   Prevalence nakažených je v důsledku nových nákaz vysoká: cca 1 181 lékařů, 2 678 sester a 2 506 NLZP
+
+  *
+
+Ochranný efekt dvou dávek vakcinace proti nákaze v čase významně klesá (v prosinci k cca 60%, v lednu až k 40%), což je mimo jiné i důsledek nastupujícího šíření varianty Omikron. Avšak posilující dávka vrátila na konci roku 2021 ochranu proti nákaze zpět nad hodnotu > 85%. V lednu pozorujeme pokles ochrany proti nákaze i u posilujících dávek (k cca 50%), zejména u ZP, kteří ji měli aplikovanou před více než  4 měsíci. Zdravotničtí pracovníci jsou v tomto ohledu velmi důležitý model, jde o profesní skupinu primárně vystavenou riziku nákazy. Zásadním faktem ovšem je, že ochranný efekt vakcinace proti těžkému průběhu nemoci trvá i v této profesní kategorii. V současnosti registrujeme pouze jednotky ZP s těžším průběhem nemoci po očkování.
+
+  *
+  *   Očkování ZP posilující dávkou - viz slidy č. 7 - 9 v prezentaci.
+
+     *   Pokud vyhodnotíme podíl ZP s posilující dávkou jen mezi těmi, kteří na ni mají časově nárok, pak dosud tuto dávku dostalo cca 86,8% lékařů, 77,0% sester, 73,0% NLZP
+
+     *   Vztaženo na celkový počet aktivních pracovníků: lékaři 72,8%, sestry 58,6% a ostatní NLZP 53,5% (NLZP s velkými rozdíly: např. záchranáři 64,3% vs. ošetřovatelé 50,8%)
+
+S úctou
+
+L. Dušek
+
