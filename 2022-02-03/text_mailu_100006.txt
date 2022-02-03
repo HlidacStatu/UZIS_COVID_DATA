@@ -1,0 +1,33 @@
+Vážené kolegyně a kolegové, dobrý den – v přílohách prosím posílám vybrané souhrnné prezentace a soubory o zátěži nemocnic připravené pro krajské koordinátory intenzivní péče.
+
+Konkrétně v přílohách mailu naleznete soubory:
+
+  *   Souhrn - stav epidemie: prezentace shrnující vývoj k přelomu ledna / února 222
+     *   Příloha 01, krátkodobé projekce - doplňující příloha shrnující krátkodobé projekce vývoje dle pravděpodobného vývoje efektivní reprodukce viru v populaci, jde o souhrn pro celou čR a pro jednotlivé regiony zvlášť
+     *   Příloha 02, indikátory - vývoj  - časové řady vybraných hlavních indikátorů stavu a vývoje epidemie
+     *
+  *   Soubor KKIP01 - risk mapping: standardní tabulka mapující strukturu prevalence aktivních nákaz z hlediska rizika těžkého průběhu nemoci
+  *   Soubory KKIP02 - 03 - vývoj zátěže nemocnic v krajích dle hlášení nemocnic, stav k 3. únoru 2022
+
+Celkový stav epidemie si dovolím velmi stručně shrnout v těchto bodech:
+
+  *   Populační šíření nové varianty viru Omikron v těchto dnes kulminuje, Omikron po cca 24.1. dosáhnul absolutní dominance ve všech regionech a nyní generuje více než 98% aktivních nákaz
+  *   Vrcholné hodnoty nově diagnostikovaných budou pravděpodobně přetrvávat ještě i příští týden (již ale bez další eskalace a růstu, spíše postupný pokles) – důvodem je fakt, že kulminace proběhne v různých regionech s jinou dynamikou a v jiném čase, vývoj není synchronní. Nejdříve zatížené regiony (Praha, STČ) již na vrcholu jsou a začínají klesat, jiné (i demograficky velké) regiony stále ještě v prevalenci nákaz rostou.
+  *   S časovým posunem po generaci dětí, mladistvých a mladých dospělých se nákaza rozšířila ve všech věkových kategoriích a po 24.1. začala zasahovat výrazněji i seniorní populaci ve věku 60+ a také skupiny potenciálně zranitelných osob -> toto šíření je nyní velmi výrazní, zátěž zde narůstá a relativní pozitivita indikovaných testů dosahuje až 30%
+  *   Postupující zásah potenciálně zranitelných skupin se začíná propisovat do zátěže nemocnic – jde o naplnění tzv. realistických prediktivních scénářů, kdy zásah je „kvantitativním nárůstem“ = vysoký počet nakažených a zásah zranitelných skupin navyšuje absolutní počet vážněji nemocných. Nejde o nárůst kvalitativní v tom smyslu, že by Omikron významně způsoboval vážné potíže u očkovaných – NAOPAK – očkování, a zejména očkování posilující dávkou, si udržuje velmi významný ochranný efekt proti těžkému průběhu nemoci, a to i v seniorních věkových kategoriích.
+  *   Jelikož jsou potenciálně zranitelné skupiny obyvatel poměrně významně naočkovány a boostery byly aplikovány velkému počtu očkovaných nedávno, je toto hlavním ochranným faktorem, díky kterému významně stále neroste zátěž JIP
+  *   Šíření nákazy v zranitelných skupinách bude v dalších dnech pokračovat a růst, kulminace v této kategorii nakažených nastane cca po 9.2. -> celkové počty hospitalizovaných tak v dalším období dále postupně porostou a tento vývoj bude trvat cca poloviny února nejméně. S určitým časovým zpožděním se tak naplňuje realistický prediktivní scénář vývoje:
+     *   Počty denně přijímaných pacientů k hospitalizaci rostou k průměru 500 a tuto hranici zřejmě překročí
+     *   Celkové počty hospitalizaci rostou nad 2 000 a potenciál k dalšímu růstu je v dalších dnech až k hodnotám nad 3000
+     *   Počty vážně nemocných na JIP rostou významně pomaleji, s rizikovým potenciálem v dalších dnech nad 400 hospitalizovaných v jeden den. Zde velmi pomáhá ochranný efekt očkování, na JIP je léčeno stále více než 70% neočkovaných pacientů a u osob s boosterem je téměř eliminováno riziko velmi těžkého průběhu nemoci.
+
+
+Soubory KKIP01 – 03 výše uvedený souhrn potvrzují, a to zejména v těchto bodech:
+
+  *   Počty hospitalizací v dalších dnech nevyhnutelně porostou, a to dle realistického scénáře predikcí – denní očekávatelné příjmy budou v průměru nad 400 až k 500 nových pacientů) – viz tabulka v příloze KKIP01
+  *   Vývoj v jednotlivých regionech je velmi různý, v krajích s nejrychlejším nástupem Omikronu rostou nejen celkové počty hospitalizovaných, ale i hospitalizace na JIP (Praha, STČ, KHK, ..) – v některých z těchto regionů se dynamika počtu hospitalizovaných podobá podzimu 2021
+  *   V žádném z regionů se ale zátěž JIP nedostává do vysoce rizikové eskalace, která by nebyla zvládnutelná, celkem je pacienty s COVID-19 obsazeno cca 9% celkové kapacity lůžek JIP.
+
+DALŠÍ VÝVOJ V ZÁTĚŽI JIP BUDE URČOVÁN ZEJMÉNA RYCHLOSTÍ, S JAKOU NÁKAZA PROJDE POTENCIÁLNĚ ZRANITELNÝMI POPULAČNÍMI SKUPINAMI, KDE JE STÁLE VELKÝ POČET OSOB NECHRÁNĚNÝCH VAKCINACÍ. DÍKY OCHRANĚ OČKOVÁNÍ JE ZÁTĚŽ JIP NYNÍ ZVLÁDNUTELNÁ A NÁRŮSTY NEJSOU RIZIKOVÉ, VYSOCE RIZIKOVÁ ESKALACE JE NEPRAVDĚPODOBNÁ. K POSTUPNÉMU RŮSTU ZÁTĚŽE NEMOCNIC AVŠAK V DALŠÍCH 10 – 14 DNECH DÁLE DOJDE A NEJVÍCE ZASAŽENÝCH REGIONECH PŮJDE O ZÁTĚŽ ZNATELNOU.
+S úctou L. Dušek
+
