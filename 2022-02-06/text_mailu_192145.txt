@@ -1,0 +1,47 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím plnou sadu reportů a analýz, mapy a soubory s daty o proočkovanosti obcí, ORP a regionů.
+
+Datové soubory v Excelu označené "01" jsou doplněny na úroveň obcí, dále pro  srovnání okresů a ORP - vždy v rozdělení dle věkových kategorií + soubor Příloha 01 shrnuje počty a podíl neočkovaných, ani nemocí nechráněných, seniorů i ostatních věkových kategorií
+
+Přiložené soubory 01 a 02 (data a prezentace) shrnují současný stav proočkovanosti dle velikosti sídel. - v datech lze snadno vyfiltrovat obce/ORP/okresy dle charakteristik a dle regionální příslušnosti.
+
+Soubor 03 (data) shrnuje proočkovanost z pohledu ORP - zejména jsou zde identifikovány oblasti, kde spolu sousedí více obcí s nízkou úrovní proočkovanosti + Soubor 04 (mapy) jsou aktualizované a doplněné mapové podklady
+
+VŠECHNY SOUBORY OZNAČENÉ 01 AŽ 04 OBSAHUJÍ NOVĚ DATA O PROOČKOVANOSTI POSILUJÍCÍ DÁVKOU - V MAPÁCH I V EXCELOVÝCH DATOVÝCH SOUBORECH, TAM JE TO VLOŽENO JAKO SAMOSTATNÉ LISTY
+
+Nízkou proočkovanost seniorů 60+ posilující dávkou (nižší než 65%) hlásí tyto okresy (více viz datové soubory "01"):
+Očkovaní posilující dávkou
+
+
+Stav k 05.02.2022
+Věk 60+ let
+Kraj    Okres   populace        očkovaní        neočkovaní
+CZ071 Olomoucký kraj    Jeseník 11 073  60,2%   4 402
+CZ072 Zlínský kraj      Vsetín  38 194  60,3%   15 170
+CZ080 Moravskoslezský kraj      Frýdek-Místek   55 661  61,0%   21 727
+CZ080 Moravskoslezský kraj      Karviná 66 563  61,9%   25 344
+CZ080 Moravskoslezský kraj      Nový Jičín      39 215  62,5%   14 701
+CZ064 Jihomoravský kraj Vyškov  23 481  63,4%   8 588
+CZ071 Olomoucký kraj    Šumperk 33 646  64,0%   12 120
+CZ072 Zlínský kraj      Kroměříž        29 288  64,1%   10 527
+CZ041 Karlovarský kraj  Cheb    24 521  64,3%   8 762
+CZ071 Olomoucký kraj    Přerov  35 760  64,3%   12 766
+CZ071 Olomoucký kraj    Prostějov       29 474  64,5%   10 477
+CZ080 Moravskoslezský kraj      Ostrava-město   83 904  65,0%   29 406
+
+Ačkoli zájem o očkování v populaci klesá, stále se aplikují zejména posilující dávky a počet okresů s nízkým podílem takto očkovaných seniorů v čase klesá.
+
+Příloha 01 shrnuje počet osob (v různých věkových kategoriích), které nejsou chráněny očkováním a ani proděláním nemoci
+
+  *   u věkové kategorie 60+ je to nyní cca 266,3 tis. osob (před Vánoci to bylo 301 tis. osob)
+  *   u věkové kategorie 65+ je to nyní cca 163,7 tis. osob (před Vánoci to bylo 190 tis. osob)
+
+Příloha 02 obsahuje sumární tabulky s daty o osobách, které prodělaly COVID - je zde kvantifikováno kolik z nich je již očkovaných - po krajích, dle věkových skupin
+
+  *   Celkem evidujeme 2 484 0637 osob se záznamem o prodělané nemoci (kdykoli) a z nich 1 120 189 osob má alespoň jednu dávku očkování (tj. cca 45,1%)
+
+S úctou L. Dušek
+
+
+
+
+
