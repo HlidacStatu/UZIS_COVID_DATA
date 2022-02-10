@@ -1,0 +1,36 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím souhrnnou prezentaci o stavu epidemie, rozbor aktuálních trendů a nová data o vývoji dopadu na nemocnice a o zdravotní zátěži populace.
+
+V přílohách prosím naleznete tyto soubory a prezentace:
+
+  *   souhrnná prezentace stavu epidemie včetně doplněných reálných dat do dřívějších predikcí a krátkodobých projekcí vývoje + přílohu 01 s krátkodobými projekcemi vývoje pro kraje dle hodnoty R
+  *   soubory se souhrnem vývoje zátěže nemocnic (celkový počet hospitalizací a zátěž JIP) připravované pro krajskou koordinaci IP (soubory KKIP01 - KKIP03)
+  *   soubory (zip file) "clanek_ochranny_efekt_vakcinace" jako souhrnný text ke stavu epidemie + tabulkové a grafické přílohy dokládající stále trvající významný ochranný efekt vakcinace proti těžkému průběhu nákazy COVID-19
+
+Celkový vývoj epidemie si dovolím velmi stručně shrnout v těchto datech / bodech:
+
+  *   Populační trendy vidíme velmi objektivně a reprezentativně, protože zejména v pracovních dnech je realizován stabilní objem testů a analýzu trendů dokresluje i v čase velmi dobře sledovatelné testování ve školách
+  *   denně je nyní v pracovních dnech realizováno cca 100 tis. PCR. testů, pondělní počty Ag testů v důsledku plošného testování vystoupaly nad 40tis., následně se opět vrátily k dlouhodobému průměru 15 - 20 tis.
+  *   Počty indikovaných testů, zejména jejich klinické a epidemiologické indikace a jejich výsledky ukazují, že šíření dominované variantou Omikron je na bodu kulminace, v řadě regionů již za ním -> do několika dnů lze očekávat další poklesy záchytů nákazy. Testy z diagnostické indikace nepřesahují 20% celkového objemu a podíl symptomatických záchytů nákazy se dlouhodobě drží pod 40% a neroste.
+  *   Celkové počty potvrzovaných případů nákazy zůstávají i přes viditelný pokles stále vysoké, to je mimo jiné důsledkem časového posunu v šíření nákazy mezi regiony; Omikron se nejdříve dostal do dominance v Praze a v přilehlých okresech STČ – tyto regiony již nyní v prevalenci aktivních nákaz významně klesají, zatímco jiné regiony /zejména východní část země) ještě mírně rostou nebo jsou na bodu kulminace; tento stav bude trvat ale již jen několik dnů a dojde k viditelnému poklesu napříč regiony
+  *   Relativní pozitivita testů rovněž ukazuje na kulminaci - zejména v případě testů plošných a preventivních, kde se dostala až téměř k 18% (7denní průměr). Hodnota relativní pozitivity indikovaných testů dosáhla svého maxima v uplynulých dnech, nyní na těchto hodnotách osciluje.
+  *   Kromě rozdílů a časových posunů mezi regiony pozorujeme i rozdíly a posuny mezi věkovými kategoriemi: zatímco v populaci dětí a mladistvých již virová nálož ustupuje (potvrzeno i posledními výsledky ze škol), v populaci seniorů a potenciálně zranitelných obyvatel stále zátěž mírně narůstá a vrcholu dosahuje právě v těchto dnech (kategorie 65+: relativní pozitivita indikovaných testů kolem 30%, 7denní záchyty nákazy kolem 700 případů/100 tis. obyvatel)
+  *   Z vývoje nemocnosti nakažených s rizikovými faktory je zřetelný velmi silný ochranný efekt vakcinace proti těžkému průběhu nemoci. Nakažení senioři a polymorbidní pacienti se dvěma dávkami očkování, a zejména po posilující dávce, mají násobně menší riziko velmi těžkého průběhu nemoci -> tento daty podložený trend je hlavním faktorem, který stále drží zátěž nemocnic a jednotek intenzivní péče ve zvládnutelné míře a pod kontrolou.
+  *   Česká data prokazatelně potvrzují zprávy a publikace z jiných zemí, které jsou v šíření Omikronu časově před námi – tedy velmi významnou nakažlivost, rychlé šíření populací, nižší virulenci než měla varianta Delta, ALE stále trvající schopnost vyvolat těžký průběh nemoci, zejména u neočkovaných rizikových pacientů bez imunitní ochrany.
+
+Nákaza Omikron se tedy nyní stále významně šíří v seniorní a potenciálně zranitelné populaci, což dokládají i prevalenční data v souboru KKIP01 - dle pravděpodobnostních modelů lze v dalších dnech očekávat průměrné denní příjmy do nemocnic ve výši nad 400 - 500 pacientů. Významný pokles je očekávatelný až v druhé polovině příštího týdne a dále. Za posledních 7 dní, včetně weekendů, byly průměrné denní příjmy do nemocnic ve výši cca 500 pacientů, na JIP potom cca 50 denně. Tento vývoj naplňuje predikce tzv. realistického prediktivního scénáře a potvrzují ho i reálná hlášení z nemocnic:
+
+Reálně jsou za poslední dny dohlášeny tyto nově počty příjmů:
+
+  *   7.2. 704 nových pacientů / z toho na JIP (včetně překladů) 51
+  *   8.2. 521 pacientů / z toho na JIP (včetně překladů) 44
+Významně rostoucí celkové počty hospitalizací nejsou provázeny stejnou dynamikou na JIP, zátěž intenzivní péče roste pomaleji. Projevuje se zde velmi podstatně ochranný efekt vakcinace proti těžkému průběhu nemoci, většina pacientů v nejtěžším stavu jsou lidé neočkovaní.
+
+Soubory KKIP02 a 03 shrnují aktuální vývoj počtu hospitalizací dle regionů. V grafech jsou patrné velké rozdíly mezi regiony, v nejvíce zatížených krajích již celkové počty hospitalizací narostly k cca 50% zátěže z konce roku 2021.
+
+  *   Celkové počty hospitalizací přesahují 3 700 a postupně narůstají ve všech regionech, největší relativní nárůsty jsou patrné v Praze, PLZ, KVK, LBK, KHK, PAK. Růst zátěže je ale patrný napříč regiony, nově rostou počty hospitalizací i v moravským regionech, zejména v JMK a MSK. V mnoha regionech dosáhly celkové počty hospitalizovaných > 50% úrovně hodnot z konce roku 2021.
+  *   Zátěž JIP neeskaluje vysoce rizikově v žádném z krajů, významný nárůst s ohledem na zátěž v předchozích měsících registrujeme v PHA, PLZ, LBK, KVK. Dynamika vývoje počtu pacientů na lůžkách JIP se celkově vyvíjí podle optimistických scénářů – viz výše komentář o ochranném efektu očkování.
+S úctou
+
+L. Dušek
+
+
