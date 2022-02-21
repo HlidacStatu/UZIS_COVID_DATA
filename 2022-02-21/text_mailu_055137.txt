@@ -1,0 +1,68 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovanou souhrnnou týdenní prezentaci ke stavu vakcinace.
+
+Prezentace shrnuje zejména vývoj v únoru, během kterého bohužel dochází k dalším poklesům počtu aplikovaných dávek očkování; aktuální trend jednoznačně potvrzuje klesající zájem populace.  /viz též příloha v MS Excel "DATA_vakcinace_dávky"
+
+Aplikace dávek v retrospektivním stručném přehledu:
+
+  *   Po 1.1. došlo k výraznému nárůstu zájmu o očkování a po 10.1. bylo v pracovních dnech průměrně aplikováno více než 85 000 dávek
+  *   Ke konci ledna poklesl denní počet aplikací na cca 40 000 a v prvních únorových dnech bylo denně aplikováno kolem 25 000 dávek.
+  *   V týdnu po 7.2. bylo v pracovních dnech průměrně aplikováno 17 400 dávek
+  *   V pracovních dnech po 14.2. bylo průměrně denně aplikováno 11 810 dávek
+  *   Klesající zájem o očkování dokládá i postupný pokles registrací, který shrnuje tato tabulka (více viz data v excelové příloze "DATA_registrace"):
+
+Registrace očkování
+Datum   < 12 let        12-15 let       > 16 let
+10.02.2022      66      392     3 036
+11.02.2022      54      283     2 172
+12.02.2022      26      168     1 425
+13.02.2022      32      324     2 344
+14.02.2022      81      369     3 480
+15.02.2022      57      442     4 145
+16.02.2022      44      342     3 063
+17.02.2022      44      277     2 439
+18.02.2022      39      222     1 850
+19.02.2022      16      136     1 073
+
+Souhrnný přehled dávek za únor 2022, k datu 18.2. 2022:
+
+  *   celkem bylo za únor dosud aplikováno 273 984 dávek -> za leden jsme celkově registrovali cca 52 200 dávek denně, dosavadní vývoj v únoru ukazuje na cca 15 221 dávek denně (kalkulováno včetně weekendů)
+  *   z celkového dosavadního objemu v únoru tvořila 77,8% dávka posilující
+  *   první dávku u dvou-dávkového schématu za únor dosud absolvovalo celkem 12 572 osob (4,6% všech dávek) a jedno-dávkovou vakcínu si vzalo 663 osob (0,2%)
+  *   pokud jde o všechny primo-vakcinace, pak celkový součet dávek podaných dosud za únor byl cca 13 235
+
+Celkem bylo dosud v únoru průměrně denně aplikováno:
+
+  *   11 849 posilujících dávek (pro srovnání v prosinci: 49 140; v lednu 44 776)
+  *   2 637 dávek ukončujících dvou-dávkové schéma (pro srovnání v prosinci: 8 335; v lednu 4 109)
+  *   735 primo-vakcinací (pro srovnání v prosinci: 5 025; v lednu 3 288)
+
+Očkování dětí ve věku pod 12 let:
+
+  *   celkem k 18. 2. evidujeme 52 221 očkovaných ve věku 5 - 11 let (kategorie 12 - 15 let: 223 215 osob)
+  *   z celkového množství dávek podaných dětem ve věku 5 -11 let  (91 588 dávek) většinu podala očkovací místa (63,3%); PLDD se podíleli z 34,2%
+  *   z hlediska % podaných dávek dětem pod 12 let v kraji je zapojení PLDD největší v krajích STČ, PLK, USK, KHK
+  *   očkování dle ISIN provádí 690 ordinací PLDD (= 38,7% celkového počtu) / první týden v lednu to bylo méně - 444 ordinací, což bylo 26,4% - z dat je patrné, že tito lékaři neočkují jen děti, ale i mladé dospělé - viz slide 33 prezentace
+
+Očkování má k 18.2. 2022 dokončeno:
+
+  *
+91,7% osob ve věku 80+ -> s posilující dávkou: 73,3%
+  *   85,9% osob ve věku 60+ -> s posilující dávkou: 69,9%
+  *   88,3% osob ve věku 65+ -> s posilující dávkou: 73,1%
+  *   74,3% osob ve věku 18+ -> s posilující dávkou: 45,2%
+  *   74,1% osob ve věku 16+ -> s posilující dávkou: 44,5%
+  *   47,1% osob ve věku 12 - 15 let
+  *   4,9% osob ve věku 5 - 11 let
+
+Očkování posilující dávkou pokračuje, aplikována byla u 67,6% všech osob, které na ní mají nárok (k 18.2. 2022: 3 965 820 očkovaných z 5 862 709, kteří mají nárok) (viz slidy 4 až 8 v prezentaci)
+
+  *   u věkové kategorie 60+ mělo/má nárok na posilující dávku cca 2 131 tis. osob a dosud ji absolvovalo 87,2%
+
+Postupně (byť stále relativně pomalu) klesá počet seniorů, kteří nejsou chráněni vakcinací a ani nemají záznam o prodělání nemoci:
+
+  *   u věkové kategorie 60+ je to nyní cca 257,9 tis. osob (před Vánoci to bylo 301 tis. osob; na konci ledna to bylo 266tis. osob)
+  *   u věkové kategorie 65+ je to nyní cca 158,1 tis. osob (před Vánoci to bylo 190 tis. osob; na konci ledna to bylo 164tis. osob)
+
+S úctou L. Dušek
+
+
