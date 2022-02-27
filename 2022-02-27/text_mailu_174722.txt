@@ -1,0 +1,35 @@
+
+Vážené kolegyně a kolegové, dobrý den - posílám prosím v přílohách souhrnné prezentace stručně popisující stav epidemie a zejména vývoj zdravotních dopadů a zátěž nemocnic.
+
+V přílohách naleznete
+
+  *   souhrnnou prezentaci s vývojem vybraných klíčových indikátorů potenciálního rizika + k ní datovou přílohu s daty v MS Excel
+  *   aktualizované soubory pravidelně generované pro krajskou koordinaci intenzivní péče
+     *   soubor KKIP01 mapující rizikovou strukturu současné prevalence aktivních nákaz, počty nově nakažených potenciálně zranitelných osob a riziko budoucích hospitalizací
+     *   soubory KKIP02 - 03 - graficky zpracovaný časový vývoj zátěže hospitalizací celkem a na JIP, pro ČR i všechny kraje
+
+Z vývoje všech indikátorů plyne jednoznačný závěr – šíření nákazy zpomaluje, klesá zátěž ve všech věkových kategoriích v populaci, a to včetně potenciálně zranitelných a seniorních skupin. Klesající zátěží není myšlen jen počet nově potvrzených případů (ten je samozřejmě odvislý od celkového počtu realizovaných testů), klesají ale i všechny relativní a standardizované ukazatele. Klesá počet diagnosticky a klinicky indikovaných testů, počet symptomatických záchytů nákazy u zranitelných osob a zejména se rizikově nevyvíjejí klíčové ukazatele zátěže nemocnic (počty a podíl hospitalizovaných s těžkých průběhem v den diagnózy nebo krátce po diagnóze COVID-19).
+
+Hlavním rizikovým faktorem tak zůstává stále relativně vysoká zátěž potenciálně zranitelných skupin obyvatel, zejména neočkovaných, kterým hrozí s vyšší pravděpodobností těžký průběh nemoci. Denně je průměrně diagnostikováno cca 1 200 nově nakažených osob ze zranitelné populace, z toho cca 300 neočkovaných. I tyto počty ale v čase postupně klesají a tento trend se promítá i do postupně klesající zátěže nemocnic
+
+Soubor KKIP01 "risk mapping" ukazuje na dosud se potvrzující očekávatelný pokles počtu hospitalizovaných pacientů. V následujících cca 7 - 10 dnech klesnou celkové denní příjmy do nemocnic významně pod průměr 250 - 300. V aktivní prevalenci nákaz registrujeme cca 4 300 nově nakažených potenciálně zranitelných osob, které nejsou nijak chráněny očkováním - lze tedy očekávat i trvající příjmy na lůžka JIP, a to v denním průměru cca + 30 až + 35.
+
+Konkrétně zátěž nemocnic v uplynulém pracovním týdnu shrnují tyto hodnoty:
+
+  *   průměrně bylo do nemocnic denně přijímáno 405 pacientů s COVID-19, z toho průměrně denně 45 na JIP
+  *   nejvyšší počet hospitalizovaných byl v uplynulých dnech registrován 21.1., a to 3 837 - z toho 377 na JIP
+  *   nejvyšší počty pacientů na nejintenzivnější léčbě UPV/ECMO dosahovaly 127
+
+Soubory KKIP02 a KKIP03 potvrzují, že pokles počtu hospitalizovaných pacientů se týká všech regionů, v žádném kraji neregistrujeme rizikový vývoj či eskalaci zátěže. Pacientů s COVID-19 obsazují cca 9% celkové kapacity lůžek JIP.
+
+  *   týdenní pokles počtu hospitalizací činí cca 20%
+  *   nejvíce zatížené regiony, ve kterých počty hospitalizací stále dosahují výše dané rizikovějšími modely predikcí, jsou následující: Plzeňský, Karlovarský, Královéhradecký, Pardubický a Jihomoravský; i v těchto regionech ale zátěž v současnosti klesá
+
+S úctou L. Dušek
+
+
+
+
+
+
+
