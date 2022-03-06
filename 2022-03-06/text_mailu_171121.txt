@@ -1,0 +1,60 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovaný souhrn o stavu nákaz v sociálních zařízeních + přehled očkování a nákaz u zdravotnických pracovníků.
+
+Soubor "Analyza_soc_sluzby_ohniska" - aktualizace k 5.3. 2022
+Prezentace je vytvořena ze dvou zdrojů dat, které se nezávisle na sobě doplňují a také potvrzují:
+1) šetření KHS hlásících ohniska nákazy a výsledky epidemiologických šetření
+2) k tomu nezávislé přímé zadávání nákaz od pobytových sociálních zařízení (zadávané přímo přes vybudovaný datový most do modulu ISIN).
+
+CELKOVÝ ZÁVĚR ZA UZAVŘENÝ ÚNOR:
+Počty hlášených nákaz v únoru 2022 významně narostly.
+KHS dosud za únor nahlásily více než dvojnásobek ohnisek a nakažených osob, než bylo nahlášeno za celý leden 2022. Zvýšený počet nakažených dokládá i individuální hlášení nákaz přímo od poskytovatelů pobytových sociálních služeb.
+
+  *   Je evidentní, že v korelaci s tím, jak šíření varianty Omikron významně zasáhlo po 25.1. 2022 seniorní populační kategorie, tak se nákaza začala významněji šířit i v sociálních zařízeních a tento trend trval po celý únor.
+  *   I přes prokazatelný nárůst jsou ale registrované počty nakažených nesrovnatelně nižší, než tomu bylo ve stejnou dobu na počátku roku 2021.
+  *   Pozitivní zprávou je, že i v sociálních zařízeních pozorujeme zásadní ochranný efekt očkování – počty nakažených klientů těchto zařízení, kteří potřebují hospitalizační péči nerostou a zůstávají v jednotkách denně (nad celou ČR je dlouhodobý průměr cca 5 takových případů denně).
+
+Dle hlášení KHS
+
+  *   Za leden 2022 bylo nahlášeno 33 událostí s 714 nakaženými
+  *   Za únor 2022 bylo dosud nahlášeno 77 událostí se 1 787 nakaženými
+  *   Za první týden v březnu byla nahlášena 2 ohniska s 46 nakaženými
+  *   V hlášení KHS je patrný významný nárůst počtu nákaz v únoru ve srovnání s lednem 2022. V posledním období jsou častěji řešena i větší ohniska s více než 20 nakaženými osobami
+
+Individuální hlášení poskytovatelů nezávisle potvrzují závěry epidemiologických šetření KHS.
+
+  *   V lednu bylo nahlášeno 1038 případů nákazy personálu a 434 klientů, z nichž 29 zemřelo.
+  *   V únoru bylo nahlášeno 1448 případů nákazy personálu a 1060 případů nákazy klientů, z nichž 68 zemřelo.
+  *   Pro srovnání data z prosince 2021 (576 nákaz u personálu, 405 u klientů, 69 úmrtí)
+  *   !! Počty případů s těžkým průběhem nákazy, zejména vyžadujícím hospitalizaci, zůstávají nízké, do 10 - 12 případů denně v celé ČR.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Soubor "ZP_nakazy a vakcinace" - aktualizace k 5.3. 2022 + příloha denní data o nákazách ZP v MS Excel
+
+DATA O PROOČKOVANOSTI JSOU V TOMTO SHRNUTÍ TÉMĚŘ NEMĚNNÁ  - PROOČKOVANOST ZP JIŽ DÁLE VÝZNAMNĚ NEROSTE.
+
+  *   Aplikovaných dávek očkování již přibývá velmi málo, proočkovanost se v posledních týdnech nemění
+  *   Celková proočkovanost ZP dosahuje 83,8 % (jen ZP skutečně aktivní ve zdravotnictví).
+  *   U aktuálně aktivně působících zdravotnických pracovníků má alespoň 1. dávku vakcinace cca 88 % lékařů, cca 84 % sesterských povolání a cca 81 % ostatních zdravotnických povolání (hodnoty zůstávají cca stejné jako na konci roku 2021).
+
+  *   AKTUÁLNÍ DATA UKAZUJÍ VÝZNAMNÝ POKLES POČTU NÁKAZ U ZDRAVOTNICKÝCH PRACOVNÍKŮ. POTVRZUJÍ TAK DOSAŽENÍ KULMINACE VARIANTY OMIKRON V POPULACI. POČTY NÁKAZ U AKTIVNÍCH ZP KLESAJÍ.  Zdravotničtí pracovníci jsou vystavováni riziku nákazy významně více než běžná populace a vývoj jejich virové zátěže je velmi dobrým indikátorem epidemiologických trendů - jde jednoznačně o důsledek dominance varianty Omikron.
+
+  *   Aktuálně je denně nově diagnostikováno jako COVID+ (7denní průměr) 43 lékařů, 107 sester a 93 ostatních NLZP.
+  *   Denně tak průměrně přibývá cca 344 nově nakažených ZP (před cca 10 - 14 dny do bylo cca 440)
+     *   Prevalence nakažených je sice stále vysoká, ale klesá: cca 427 lékařů, 1 083 sester a 968 NLZP
+
+  *
+
+Ochranný efekt vakcinace proti nákaze v čase významně klesá, což je známý důsledek šíření varianty Omikron. Avšak posilující dávka vrací ochranu proti nákaze zpět nad hodnotu 70% až 85%. Aktuální úroveň ochrany osciluje mezi 45% - 50%. Zdravotničtí pracovníci jsou v tomto ohledu velmi důležitý model, jde o profesní skupinu primárně vystavenou riziku nákazy. Zásadním faktem ovšem je, že ochranný efekt vakcinace proti těžkému průběhu nemoci trvá i v této profesní kategorii. V současnosti registrujeme pouze jednotky ZP s těžším průběhem nemoci po očkování.
+
+  *
+  *   Očkování ZP posilující dávkou - viz slidy č. 7 - 9 v prezentaci.
+
+     *   Pokud vyhodnotíme podíl ZP s posilující dávkou jen mezi těmi, kteří na ni mají časově nárok, pak dosud tuto dávku dostalo cca 88,5% lékařů, 79,2% sester, 75,3% NLZP
+
+     *   Vztaženo na celkový počet aktivních pracovníků: lékaři 74,9%, sestry 61,3% a ostatní NLZP 56,2% (NLZP s velkými rozdíly: např. záchranáři 66,8% vs. ošetřovatelé 54,1%)
+
+S úctou
+
+L. Dušek
+

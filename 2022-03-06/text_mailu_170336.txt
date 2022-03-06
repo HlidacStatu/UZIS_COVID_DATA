@@ -1,0 +1,74 @@
+
+Vážené kolegyně a kolegové, dobrý den - posílám prosím v přílohách souhrnné prezentace stručně popisující stav epidemie a zejména vývoj zdravotních dopadů a zátěž nemocnic.
+
+V přílohách naleznete
+
+  *   souhrnnou prezentaci s vývojem vybraných klíčových indikátorů potenciálního rizika + k ní datovou přílohu s daty v MS Excel
+  *   mezinárodní srovnání dle dat ECDC
+  *   aktualizované soubory pravidelně generované pro krajskou koordinaci intenzivní péče
+     *   soubor KKIP01 mapující rizikovou strukturu současné prevalence aktivních nákaz, počty nově nakažených potenciálně zranitelných osob a riziko budoucích hospitalizací
+     *   soubory KKIP02 - 03 - graficky zpracovaný časový vývoj zátěže hospitalizací celkem a na JIP, pro ČR i všechny kraje
+
+Celkovou epidemickou situaci lze stručně charakterizovat v těchto bodech /vývoj je velmi obdobný i v dalších státech EU, jak dokládá přiložená prazentace/:
+
+  *   Epidemie ustupuje, ale to zejména ve všech ukazatelích zdravotního dopadu. Klesá zátěž nemocnic, včetně zátěže jednotek intenzivní péče - týdenní tempo poklesu je cca 25%. Klesá počet těžkých symptomatických případů v den potvrzení diagnózy. Klesá počet testů z klinické a diagnostické indikace.
+  *   Významně začala klesat i zátěž potenciálně zranitelných a seniorních populačních skupin, v kategorii 65+ je týdenní počet nově potvrzených případů cca 300/100 tis. a klesá.
+  *   Varianta Omikron si ale udržuje velmi vysokou prevalenci aktivních nákaz, což se promítá mimo jiné do stále vysoké relativní pozitivity testů - u testů z epidemiologické indikace je to již dlouhodobě kolem 19%, u diagnosticky a klinicky indikovaných testů cca 36%. - je evidentní, že jde o epidemickou situaci zcela odlišnou od např. varianty Delta z podzimu 2021.
+  *   Očkování nadále udržuje velmi vysoký ochranný efekt proti těžkému průběhu nákazy - to platí zejména pro posilující dávku, a to i v populaci zranitelné a seniorní; ochranný efekt proti těžkému průběhu nákazy se zde trvale drží nad 90%.
+  *
+  *   Počet testů PCR se v pracovních dnech ustálil na cca 30tis., počet Ag testů na cca 9 - 10 tis.
+Počet provedených (nahlášených) testů
+Za 05. 03. 2022
+Počet otestovaných osob*
+Za 04. 03. 2022
+Počet otestovaných osob*
+PCR testů
+15 663
+
+29 668
+
+Antigenní (Ag) testy
+2 787
+18 227
+9 364
+38 180
+
+Relativní pozitivita testů dle indikace testu
+Za 05. 03. 2022
+Za 04. 03. 2022
+7denní průměr k 05. 03. 2022
+Diagnostická indikace
+37,7%
+36,0%
+36,1%
+Epidemiologická indikace
+21,5%
+17,4%
+19,6%
+Preventivní a plošné testování
+20,7%
+14,4%
+14,8%
+
+
+Soubor KKIP01 "risk mapping" potvrzuje další očekávatelný pokles počtu hospitalizovaných pacientů. V následujících cca 7 - 10 dnech klesnou celkové denní příjmy do nemocnic významně pod průměr 170 - 200. V aktivní prevalenci nákaz registrujeme cca 3 200 nově nakažených potenciálně zranitelných osob, které nejsou nijak chráněny očkováním (před týdnem to bylo 4 300).
+
+  *   Pokles zátěže se bude týkat i intenzivní péče, lze očekávat denní příjmy na lůžka JIP v průměrném počtu pod 25
+
+Konkrétně zátěž nemocnic v uplynulém pracovním týdnu shrnují tyto hodnoty:
+
+  *   průměrně bylo do nemocnic denně přijímáno 309 pacientů s COVID-19 (před týdnem to bylo 430), z toho průměrně denně 31 na JIP (před týdnem to bylo 45)
+  *   nejvyšší počet hospitalizovaných byl v uplynulých dnech registrován 28.2. a to 3 213 -> z toho 315 na JIP
+  *   nejvyšší počty pacientů na nejintenzivnější léčbě UPV/ECMO dosahovaly 103
+  *   Všechny indikátory zátěže nemocnic nyní vykazují významný klesající trend, a to ve všech regionech
+
+Soubory KKIP02 a KKIP03 potvrzují, že pokles počtu hospitalizovaných pacientů se týká všech regionů, v žádném kraji neregistrujeme rizikový vývoj či eskalaci zátěže. Pacienti s COVID-19 obsazují cca 7% celkové kapacity lůžek JIP. Týdenní pokles počtu hospitalizací činí cca 25%
+
+S úctou L. Dušek
+
+
+
+
+
+
+
