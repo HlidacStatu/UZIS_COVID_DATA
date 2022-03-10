@@ -1,0 +1,61 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách aktualizovanou ucelenou prezentaci ke stavu epidemie s přílohami + aktualizované soubory s vývojem zátěže nemocnic v čR a po regionech (standardní reporty "KKIP").
+
+Vývoj epidemie lze stručně shrnout následovně - více viz závěry a data v přiložené prezentaci.
+
+
+Epidemie COVID-19 nadále ustupuje, dlouhodobé trendy jsou v tomto jednoznačné – populační zátěž měřená počtem potvrzených případů klesla pod 500/100 tis. za týden, klesl i počet zachytávaných reinfekcí a všechny indikátory zdravotního dopadu. Ve srovnání s lednem nebo počátkem února je tedy situace významně lepší, a tato zpráva platí pro všechny regiony. Reprodukční číslo se dlouhodobě drží pod 1, opět ve všech regionech ČR.
+
+Situaci hodnotíme reprezentativně i vzhledem k stabilnímu počtu prováděných testů. Tyto se ustálily na denním průměru cca 30 tis. PCR testů a cca přes 10 tis. Ag testů. Stabilní počty testů s přibližně podobnou strukturou testovaných umožňují dobře hodnotit časový vývoj většiny ukazatelů. Diagnosticky a klinicky indikované testy s absolutním počtu v čase mírně klesají a tím nepřímo potvrzují také zlepšující se situaci, podílem tvoří tyto testy cca třetinu celkového objemu.
+
+Počet provedených (nahlášených) testů
+
+Za 08. 03. 2022
+
+Počet otestovaných osob
+
+Za 07. 03. 2022
+
+Počet otestovaných osob
+
+PCR testů
+
+27 437
+
+
+
+30 266
+
+
+
+Antigenní (Ag) testy
+
+8 920
+
+35 651
+
+14 379
+
+43 504
+
+
+Nicméně přesto nelze prohlásit, že je situace mimo jakékoli riziko – je evidentní, že ústup z vysokých počtu denně nakažených osob je relativně pomalý a v posledních dnech nadto pokles dále zpomaluje. Denně nyní ve vrcholných hodnotách zachytáváme více než 12 000 nových případů nákazy, což ukazuje na stále vysokou prevalenci aktivních nákaz a na stále vysokou pravděpodobnost nákazy i v běžných denních aktivitách. Podíl symptomatických záchytů nákazy také významně neklesá a osciluje mezi 50% - 55%. Na vysokou úroveň zátěže dále ukazuje zejména výtěžnost indikovaných testů, která již více než týden neklesá a drží se nad 36% u klinických indikací a kolem 20% u epidemiologických indikací.
+
+Pro další období je tedy nutné předpokládat, že počet nových případů se bude držet na relativně vysokých hodnotách, a to s vysokou pravděpodobností až do konce března. Důvody jsou zejména tyto:
+
+  *   Vysoká nakažlivost varianty Omikron, a také její schopnost prolamovat post-infekční a post-vakcinační imunitu. Jde o variantu, která se v populaci snadno šíří a stále v daném čase zde existuje podstatná část populace, která proti nákaze není dostatečně chráněna, - buď vůbec není očkována, nebo ochrana expiruje s časovou vzdáleností od očkování
+  *   Potenciální šíření a společná koexistence různých sub-variant koronaviru – zejména sub-varianty BA.2, u které je prokázána vyšší nakažlivost a může stát i za současným zpomalováním poklesu zátěže.
+
+
+Výše uvedená fakta nejsou v Evropě výjimkou, stagnující nebo dokonce rostoucí počty nakažených hlásí mnoho zemí. Ani v ČR nemůžeme vyloučit nárůst počtu nákaz v následujících několika týdnech.
+
+Velmi podstatné ale je, že se stále vysoká populační zátěž přímo nepropisuje do zátěže nemocnic, tato vykazuje setrvalý a kontinuální pokles. Týdně o 20% až o 30%. Denní počty všech příjmů klesají průměrně pod 200, z toho příjmy na JIP pod 25. Na JIP aktuálně leží cca 200 pacientů s těžkým průběhem COVID-19, z toho cca 80 na nejintenzivnější terapii UPV a ECMO. Jde o počty třetinové proti počátku roku.
+
+Na klesající zátěži nemocnic je patrná nižší virulence varianty Omikron a všech jeho známých sub-variant, ale zejména stále silný ochranný efekt očkování. Očkování posilující dávkou vykazuje ochranný efekt více než 80% až 90%, a to i ve zranitelné, seniorní populaci. V této populaci máme vysokou chránící proočkovanost, 2 dávky očkování nad 90% a cca 88% všech s nárokem na třetí dávku ji již dostalo. Bohužel stále registrujeme více než 250 tis. seniorů, osob s více rizikovými faktory, kteří nejsou chráněni ani očkováním ani nedávným proděláním nemoci.
+
+Nadále platí, že významnou většinu pacientů s nejtěžším průběhem COVID-19 tvoří lidé neočkovaní, -až 75% a více.
+
+S úctou L. Dušek
+
+
+
+
