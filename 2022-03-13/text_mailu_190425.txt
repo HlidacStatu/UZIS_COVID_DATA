@@ -1,0 +1,55 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím v přílohách aktualizovaný přehled vybraných indikátorů stavu epidemie + aktualizované soubory s vývojem zátěže nemocnic v ČR a po regionech (standardní reporty "KKIP").
+
+
+
+V přílohách najdete
+
+  *   Prezentaci s vybranými indikátory, včetně jejich vývoje v čase ("Indikátory epidemie")
+  *   Datovou přílohu 01 - denní počty nových případů. z toho cizinci, z toho občané Ukrajiny
+  *   Datovou přílohu 02 - indikátory epidemie v časovém vývoji, ČR a kraje
+  *   Mezinárodní přehled s vybranými ukazateli dle ECDC
+  *   Soubory ukazující zátěž nemocnic v ČR a dle krajů, standardizované reporty pro krajské koordinátory IP (KKIP01 - KKIP03)
+
+
+
+Všechny sledované indikátory ukazují, že se pokles virové zátěže v populaci zastavil, aktuální hodnota R je cca rovna 1 a 7denní počet zachycených případů osciluje kolem hranice 500/100tis. obyvatel.
+
+  *   Zastavení poklesu se týká všech věkových kategorií, včetně subpopulace potenciálně zranitelných osob a seniorů (ve věku 65+ je 7denní počet nových případů stále nad 300/100tis.)
+  *   Stále se drží velmi vysoká relativní pozitivita testů – nad 36% u klinických indikací a kolem 20% u epidemiologických indikací.
+
+Jak ukazuje vybraný mezinárodní přehled v příloze,ČR v tomto vývoji není žádnou výjimkou, většina zemí EU hlásí zastavení poklesu a dokonce významné nárůsty počtu nových případů. Řada zemí reportuje až extrémní relativní pozitivitu testů - což je důsledkem toho, že se zaměřují na testování jen symptomatických a nemocných osob, kde je záchytovost přirozeně vysoká. Testová strategie i objem testů se mezi státy doslova dramaticky liší, což činí běžné populační ukazatele nesrovnatelné.
+
+Pro další období je tedy i pro českou populaci nutné předpokládat, že se počet nových případů bude držet na relativně vysokých hodnotách, a to s vysokou pravděpodobností až do konce března. Důvody jsou zejména tyto:
+
+  *   Vysoká nakažlivost varianty Omikron, a také její schopnost prolamovat post-infekční a post-vakcinační imunitu. Jde o variantu, která se v populaci snadno šíří a stále v daném čase zde existuje podstatná část populace, která proti nákaze není dostatečně chráněna, - buď vůbec není očkována, nebo ochrana expiruje s časovou vzdáleností od očkování
+  *   Potenciální šíření a společná koexistence různých sub-variant koronaviru – zejména sub-varianty BA.2, u které je prokázána vyšší nakažlivost a může stát i za současným zpomalováním poklesu zátěže.
+
+
+
+Vysoká prevalence aktivních nákaz se ale nepromítá do zdravotní zátěže - všechny indikátory zdravotního dopadu vykazuji kontinuální pokles. Na klesající zátěži nemocnic je patrná nižší virulence varianty Omikron a všech jeho známých sub-variant, ale zejména stále silný ochranný efekt očkování. Očkování posilující dávkou vykazuje ochranný efekt více než 80% až 90%, a to i ve zranitelné, seniorní populaci. V této populaci máme vysokou chránící proočkovanost, 2 dávky očkování nad 90% a cca 88% všech s nárokem na třetí dávku ji již dostalo. Bohužel stále registrujeme více než 250 tis. seniorů, osob s více rizikovými faktory, kteří nejsou chráněni ani očkováním ani nedávným proděláním nemoci.
+
+
+
+Soubor KKIP01 "risk mapping" ukazuje strukturu aktuální 14denní prevalence nákaz z hlediska rizikovosti nakažených. Je nutné zdůraznit, že varianta Omikron se stále velmi intenzivně šíří i v potenciálně zranitelných populačních skupinách a u osob bez imunitní ochrany stále hrozí těžký průběh nemoci - což vidíme i na příjmech na JIP.
+
+  *   Relativní pozitivita testů indikovaných ve věkové kategorii 65+ (všechny indikované testy) je trvale vysoká, aktuálně 30,8%
+  *   Týdenní počet nových případů na 100tis. obyvatel ve věkové třídě 65 je 368,2 a v posledních dnech pomalu roste
+  *   V 14denní prevalenci registrujeme více než 15 000 nově nakažených seniorů 65+ a téměř 7 000 nově nakažených ve věku 75+; v těchto věkových třídách je ale proočkovanost dvěma dávkami nad 90% a cca 89% osob s nárokem na posilující dávku ji dostalo -> ochranný efekt očkování proti těžkému průběhu nemoci se u seniorů stále drží kolem 90%.
+  *   Proto očekáváme další pokles počtu hospitalizovaných s těžkým průběhem COVID-19 -> celkové denní příjmy do nemocnic by v následujících cca 10 dnech měly klesnout pod průměr 200, z toho cca 20 na JIP
+
+Aktuální statistika zátěže nemocnic je následující:
+
+  *   V pracovních dnech minulého týdne bylo průměrně denně nemocnicemi hlášeno cca 300 celkových příjmů, nejvyšší počet byl nahlášen v pondělí 7.3., a to 343 nových pacientů
+  *   Na JIP bylo v pracovních dnech průměrně denně přijímáno 25 nových pacientů -> celkový počet léčených na JIP klesnul během týdne z 222 na 176
+  *    Počty pacientů na vysoce intenzivní terapii a podpoře dýchání (UPV, ECMO) významně klesly pod 100, aktuální počet je cca 70
+
+
+
+Soubory KKIP02 a KKIP03 ukazují vývoj zátěže nemocnic pro ČR i pro jednotlivé kraje - je patrné, že v žádném z regionů zátěž rizikově neroste a neeskaluje. Nejvyšší počty pacientů na JIP vykazují regiony Praha (22), JMK (37), MSK (26).
+
+
+
+S úctou L. Dušek
+
+
+
