@@ -1,0 +1,97 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím týdenní souhrnnou prezentaci ke stavu epidemie + aktualizované přehledy a reporty z hlášené zátěže nemocnic - soubory KKIP01 - KKIP03.
+
+Shrnutí stavu epidemie je uvedeno v samotné prezentaci a v podstatě se neliší od textů, které jsem k tomu posílal v neděli odpoledne. Velmi stručně v bodech lze situaci charakterizovat takto:
+
+  *   pokles virové zátěže se zastavil, ale zatím se neobrací k významnému růstu
+  *   v populaci se při dané stagnaci stále udržuje vysoká prevalence aktivních nákaz, vývoj je obdobný jako ve většině zemí EU a nelze vyloučit do konce března i další nárůst v ukazatelích populační zátěže - šíření nákazy významně souvisí se subvariantou BA.2
+  *   stagnace zátěže je patrná ve všech věkových kategoriích a populačních třídách dle rizika, včetně seniorní populace. Ve věkové kategorii 65+ se 7denní záchyty nákazy stále drží nad 400/100 tis. obyvatel a relativní pozitivita indikovaných testů nad 30%
+  *   denně je průměrně diagnostikováno více než 250 - 300 potenciálně zranitelných osob, které nejsou nijak imunitně chráněny, nejsou očkovány - tyto nákazy stále představují téměř 3/4 nejtěžších onemocnění léčených na jednotkách JIP (UPV/ECMO)
+
+Denní hodnocení trendů je mezi týdny dobře srovnatelné, počet prováděných testů i struktura testovaných jsou poměrně stabilizované. Denní počty se ustálily na cca 30tis. PCR testů a cca 7 - 8 tis. AG testů.
+
+Počet provedených (nahlášených) testů
+
+Za 16. 03. 2022
+
+Počet otestovaných osob*
+
+Za 15. 03. 2022
+
+Počet otestovaných osob*
+
+PCR testů
+
+23 426
+
+
+
+29 226
+
+
+
+Antigenní (Ag) testy
+
+6 033
+
+28 768
+
+6 663
+
+35 157
+
+Diagnostické a klinické indikace testů tvoří dlouhodobě cca 35% celkového objemu, epidemiologické indikace potom necelou čtvrtinu. Ani při současném zastavení poklesu zátěže nenarůstají počty testů z klinické a diagnostické indikace, což je jeden z nepřímých důkazů, že se nezhoršují zdravotní dopadu nákazy. Podíl symptomatických nákaz dlouhodobě osciluje mezi 45% - 50%.
+
+Relativní pozitivita testů se stále drží na velmi vysokých hodnotách, což je silný indikátor vysoké prevalence aktivních nákaz.
+
+Relativní pozitivita testů dle indikace testu
+
+Za 16. 03. 2022
+
+Za 15. 03. 2022
+
+7denní průměr k 16. 03. 2022
+
+Diagnostická indikace
+
+37,3%
+
+37,7%
+
+36,7%
+
+Epidemiologická indikace
+
+25,9%
+
+25,2%
+
+22,1%
+
+Preventivní a plošné testování
+
+23,3%
+
+25,8%
+
+19,9%
+
+Soubory KKIP01 - KKIP03 v příloze mailu ukazují, že zdravotní dopad do nemocnic není rizikový, z dlouhodobého hlediska počty hospitalizovaných pomalu klesají. Aktuálně počty kolísají kolem hodnoty 2000 - 2200 (celkové počty hospitalizací) a cca 180 - 220  (lůžka JIP). Nízká zátěž nemocnic je hlášena za všech regionů.
+
+Zátěž nemocnic lze shrnout takto:
+
+  *   celkové počty příjmů vystoupaly 14.3. na 373 a 15.3. na 327, dlouhodobý průměr se tedy stále drží nad 250
+  *   na JIP je průměrně přijímáno denně 25 pacientů, opět je to počet stabilní již více než 10 dní
+  *   v posledních dnech byl největší počet léčených na JIP nahlášen v pondělí 14.3.: 195 pacientů
+  *   na UPV/ECMO je dlouhodobě léčeno méně než 70 pacientů.
+
+S úctou
+
+L. Dušek
+
+
+
+
+
+
+
+
