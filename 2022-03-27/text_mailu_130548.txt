@@ -1,0 +1,51 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovanou souhrnnou týdenní prezentaci ke stavu vakcinace: soubor VAKCINACE_SOUHRN" - data aktualizovaná k 25.3. - 27.3.
+
+OČKOVÁNÍ POSTUPUJE NYNÍ VELMI POMALU A MEZI TÝDENNÍMI REPORTY JSOU POUZE MINIMÁLNÍ ZMĚNY V ZOBECNĚNÝCH POPULAČNÍCH UKAZATELÍCH. DENNÍ POČET APLIKOVANÝCH DÁVEK SE PRŮMĚRNĚ POHYBUJE V INTERVALU 4 000 - 4 500 DÁVEK. V REPORTECH JSOU NOVĚ SHRNUTY I APLIKACE VAKCÍNY NUVAXOVID (K 26.3. CELKEM 2 687 APLIKACÍ).
+
+Přílohy doplňují i přehledy proočkovanosti regionů:
+
+  *   Datové soubory v Excelu označené "01" jsou doplněny na úroveň obcí, dále pro  srovnání okresů a ORP - vždy v rozdělení dle věkových kategorií + soubor Příloha 01 shrnuje počty a podíl neočkovaných, ani nemocí nechráněných, seniorů i ostatních věkových kategorií
+Přiložené soubory 01 a 02 (data a prezentace) shrnují současný stav proočkovanosti dle velikosti sídel. - v datech lze snadno vyfiltrovat obce/ORP/okresy dle charakteristik a dle regionální příslušnosti.
+  *   Soubor 03 (data) shrnuje proočkovanost z pohledu ORP - zejména jsou zde identifikovány oblasti, kde spolu sousedí více obcí s nízkou úrovní proočkovanosti
+
+Prezentace "Vakcinace_SOUHRN" shrnuje trendy v proočkovanosti různých skupin populace, vždy s důrazem na srovnání krajů. Aktuální trend nadále jednoznačně potvrzuje klesající počet dávek očkování.  /viz též příloha v MS Excel "DATA_davky vakcinace"
+
+Aplikace dávek v stručném retrospektivním stručném přehledu:
+
+  *   Po 1.1. došlo k výraznému nárůstu zájmu o očkování a po 10.1. bylo v pracovních dnech průměrně aplikováno více než 85 000 dávek
+  *   Ke konci ledna poklesl denní počet aplikací na cca 40 000 a v prvních únorových dnech bylo denně aplikováno kolem 25 000 dávek.
+  *   V pracovních dnech na konci února bylo průměrně aplikováno 5 000 dávek
+  *   V uplynulém březnovém týdnu po 20.3. bylo průměrně v pracovních dnech aplikováno 4 149 dávek
+
+Souhrnný přehled dávek dosud aplikovaných za březen 2022:
+
+  *   celkem bylo za březen k 25.3. dosud aplikováno 92 006  dávek -> za leden jsme celkově registrovali cca 52 200 dávek denně, vývoj v únoru dosáhnul na cca 11 875 dávek denně (kalkulováno včetně weekendů), za březen dosud vývoj ukazuje na 3 600 dávek denně
+  *   z celkového dosavadního objemu v březnu tvořila 79,2% dávka posilující
+  *   první dávku u dvou-dávkového schématu za březen absolvovalo celkem 6 920 osob (7,5% všech dávek) a jedno-dávkovou vakcínu si vzalo 335 osob (0,4%)
+
+Celkem bylo dosud v březnu průměrně denně aplikováno:
+
+  *   2 913 posilujících dávek (pro srovnání v prosinci: 49 140; v lednu 44 776)
+  *   476 dávek ukončujících dvou-dávkové schéma (pro srovnání v prosinci: 8 335; v lednu 4 109)
+  *   290 primo-vakcinací (pro srovnání v prosinci: 5 025; v lednu 3 288)
+
+Očkování má k 25.3. 2022 dokončeno:
+
+  *
+90,1% osob ve věku 80+ -> s posilující dávkou: 73,9%
+  *   86,1% osob ve věku 60+ -> s posilující dávkou: 70,7%
+  *   88,4% osob ve věku 65+ -> s posilující dávkou: 73,9%
+  *   74,5% osob ve věku 18+ -> s posilující dávkou: 46,5%
+  *   74,3% osob ve věku 16+ -> s posilující dávkou: 45,7%
+  *   47,5% osob ve věku 12–15 let
+  *   5,8% osob ve věku 5–11 let
+
+Očkování posilující dávkou: tato byla aplikována u 67,9% všech osob, které na ní mají nárok (viz slidy 4 až 8 v prezentaci)
+
+Postupně (byť stále pomalu) klesá počet seniorů, kteří nejsou chráněni vakcinací a ani nemají záznam o prodělání nemoci:
+
+  *   u věkové kategorie 60+ je to nyní cca 246,1  tis. osob (před Vánoci to bylo 301 tis. osob; na konci ledna to bylo 266tis. osob)
+  *   u věkové kategorie 65+ je to nyní cca 149,9 tis. osob (před Vánoci to bylo 190 tis. osob; na konci ledna to bylo 164tis. osob)
+
+S úctou L. Dušek
+
