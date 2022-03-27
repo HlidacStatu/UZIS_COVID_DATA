@@ -1,0 +1,97 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím souhrnnou prezentaci o stavu epidemie, rozbor aktuálních trendů a nová data o vývoji dopadu na nemocnice a o zdravotní zátěži populace. – standardizované reporty pro krajskou koordinaci intenzivní péče.
+
+V přílohách prosím naleznete
+
+  *   prezentaci shrnující stav epidemie, nákazy v různých skupinách obyvatel, ochranný efekt vakcinace apod.
+  *   prezentaci s vybranými klíčovými indikátory a rizikovými faktory, jejich časový vývoj
+  *   soubory shrnující zátěž nemocnic po krajích - reporty pro krajské koordinátory IP (KKIP01 - KKIP03)
+  *   datové přílohy shrnující hlavní ukazatele epidemie po okresech a krajích: exportováno i s časovým vývojem
+Vývoj populační zátěže
+Celková virová nálož v populaci zůstává dlouhodobě stabilní, pokles se definitivně zastavil a počty nových případů oscilují kolem hranice 500/100 tis. za týden. Týdně je tak nově diagnostikováno cca 54 000 případů. Hodnota R kolísá v intervalu 0,95 – 1,05.
+Tento stav je pozorován ve všech regionech ČR, v žádném z krajů zatím neregistrujeme obrat k růstu. Nárůst počtu nákaz v dohledné budoucnosti nelze vyloučit, většina okolních zemí EU hlásí nárůsty, - některé země až extrémní (Německo, Rakousko), často doplněné více než 60% relativní pozitivitou testů. Vysoká prevalence aktivních nákaz souvisí se subvariantami Omikronu BA2/BA3, které se staly v populaci dominantními.
+I v české populaci tyto subvarianty dominují. Stagnace nebo mírný nárůst zátěže jsou patrné ve všech věkových kategoriích a populačních třídách dle rizika, včetně seniorní populace. Ve věkové kategorii 65+ se 7denní záchyty nákazy stále drží nad 400/100 tis. obyvatel a relativní pozitivita indikovaných testů nad 30% -> denně je průměrně diagnostikováno více než 250 - 300 potenciálně zranitelných osob, které nejsou nijak imunitně chráněny, nejsou očkovány - tyto nákazy stále představují téměř 3/4 nejtěžších onemocnění léčených na jednotkách JIP (UPV/ECMO).
+
+Ochranný efekt vakcinace proti těžkému průběhu nemoci
+Aktuální data stále ukazují na vysoký ochranný efekt očkování, zejména proti těžkému průběhu nemoci. Ačkoli OE proti nákaze samotné s časem od vakcinace stále klesá, ochrana proti těžkému průběhu nemoci je trvalejší a VELMI významná. - viz přiložený přehled indikátorů, kde dokládáme u věkové kategorie 65+ ochranný efekt proti těžkému průběhu nákazy stále téměř 85 - 90% - a tento se evidentně drží i při nástupu nakažlivějších subvariant Omikronu:
+Ochranný efekt očkování v ČR dokládají jasně i celková populační data (viz přiložený soubor s vyhodnocenými indikátory) - týdenní počet pacientů s vážnými symptomy a těžkým průběhem nákazy (standardizováno na 100tis. obyvatel v rámci dané podskupiny dle očkování):
+
+  *   Celkové příjmy do nemocnic: 32,4/100 tis. neočkovaní -> 11 – 16/100tis. očkovaní
+  *   Týdenní příjmy na JIP: 3,7/100 tis. neočkovaní -> 1,2 – 1,5/100tis. očkovaní
+  *   Hospitalizovaní na JIP s těžkým průběhem: 4,2/100 tis. neočkovaní -> 1,2-1,5/100tis. očkovaní
+  *   Léčení na UPV/ECMO: 1,4/100 tis. neočkovaní -> 0,3-0,4/100tis. očkovaní
+
+Česká data o efektu vakcinace potvrzují reporty a publikace z řady zemí, zejména vysoký ochranný efekt booster dávky proti těžkému průběhu nemoci. V přiložené prezentaci jsou vloženy výstupy z COVID-19 vaccine surveillance report (Week 12) UK Health Security Agency. Další velmi komplexní data jsou dostupná např. v těchto publikacích:
+
+  *   Duration of effectiveness of vaccines against SARS-CoV-2 infection and COVID-19 disease: results of a systematic review and meta-regression - The Lancet<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00152-0/fulltext>
+  *   Effectiveness of COVID-19 vaccines against the Omicron (B.1.1.529) variant of concern https://www.nejm.org/doi/full/10.1056/NEJMoa2119451
+
+
+Testy na COVID-19
+Denní hodnocení trendů je mezi týdny dobře srovnatelné, počet prováděných testů i struktura testovaných jsou poměrně stabilizované. Denní počty se v pracovních dnech ustálily na cca 23tis. PCR testů a cca 6 - 7 tis. AG testů.
+Počet provedených (nahlášených) testů
+Za 25. 03. 2022
+Počet otestovaných osob
+Za 24. 03. 2022
+Počet otestovaných osob
+PCR testů
+21 835
+
+24 521
+
+Antigenní (Ag) testy
+6 349
+27 580
+6 348
+30 308
+
+Diagnostické a klinické indikace testů tvoří dlouhodobě cca 30 - 35% celkového objemu, epidemiologické indikace potom necelou čtvrtinu. Ani při současném zastavení poklesu zátěže nenarůstají počty testů z klinické a diagnostické indikace, což je jeden z nepřímých důkazů, že se zatím nezhoršují zdravotní dopadu nákazy.
+Počty nově diagnostikovaných pacientů se symptomy se pohybují v rozmezí cca 200-300 případů na 100 tis. obyvatel. Rozptyl v počtu symptomatických záchytů mezi kraji je velmi významný, v podílu ze všech zachycených případů registrujeme rozsah od 30% do 70%. Přesto ani u symptomatických záchytů nemoci neregistrujeme nárůst populační zátěže, počty jsou dlouhodobě stabilizované.
+Relativní pozitivita testů se stále drží na velmi vysokých hodnotách, což je silný indikátor vysoké prevalence aktivních nákaz.
+Relativní pozitivita testů dle indikace testu
+Za 25. 03. 2022
+Za 24. 03. 2022
+7denní průměr k 25. 03. 2022
+Diagnostická indikace
+37,5%
+34,5%
+35,2%
+Epidemiologická indikace
+22,6%
+19,3%
+22,5%
+Preventivní a plošné testování
+20,9%
+16,8%
+22,5%
+
+Vývoj dle hodnocených ukazatelů a potenciálních rizikových faktorů - Viz též přiložená prezentace.
+
+  *   Vývoj všech hodnocených ukazatelů ukazuje buď stabilizaci nebo mírný pokles rizika, u žádného z klíčových ukazatelů není patrný obrat k růstu nebo eskalaci rizika
+  *   To platí zejména o vývoj hospitalizací a těžkých průběhů po vakcinaci = nenastává rizikové prolamování postvakcinační ochrany, ochranný efekt vakcinace je stále silný
+  *   Počty reinfekcí jsou stabilizované, dlouhodobě tvoří cca 15% - 16% všech nově potvrzených případů
+  *   Nerostou počty hospitalizací, těžkých průběhů nákazy
+  *   Nerostou příjmy na JIP v den zjištěné pozitivity
+
+Vývoj zátěže nemocnic
+
+Soubory KKIP01 - KKIP03 v příloze mailu ukazují, že zdravotní dopad do nemocnic není rizikový, z dlouhodobého hlediska počty hospitalizovaných spíše pomalu klesají. Aktuálně počty kolísají kolem hodnoty 2000 (celkové počty hospitalizací) a cca 180 - 200  (lůžka JIP). Nízká zátěž nemocnic je hlášena za všech regionů.
+Soubor KKIP01 "risk mapping" v poslední aktualizaci stále ukazuje potenciálně rizikovou strukturu prevalence aktivních nákaz; je evidentní, že nákaza se významně šíří i ve zranitelných a seniorních populačních skupinách
+
+  *   za posledních 14 dní evidujeme více než 18 000 nákaz u osob ve věku 65+ a více než 7 500 nákaz v populaci 75+ (před týdnem to bylo 16 500 u kategorie 65+ a 7 000 u věkové třídy 75+)
+  *   seniorní skupiny obyvatel jsou významně proočkovány, a proto je předpokládaná zátěž nemocnic významně nižší, než by byla bez vakcinační ochrany -> za posledních 14 dní byla ale nákaza prokázána u 2 800 seniorů bez jakékoli imunitní ochrany a z této kohorty se následně generuje > 70% nejtěžších průběhů nemoci v nemocnicích
+  *   při započítání různé hladiny rizika u očkovaných a neočkovaných osob lze pro dalších cca 10 dní predikovat celkové příjmy do nemocnic na úrovni 200 - 250 (ve vrcholných dnech týdne až 300) pacientů denně, z toho cca 25 - 30 příjmy na JIP -> tuto zátěž potvrzují i data z uplynulých pracovních dní
+Zátěž nemocnic v posledních dnech lze shrnout takto:
+
+  *   celkové počty příjmů vystoupaly 21.3. na 371 a 22.3. na 314, dlouhodobý průměr se stále drží mírně nad 250
+  *   na JIP je průměrně přijímáno denně 28 pacientů, opět je to počet stabilní v čase již déle než dva týdny
+  *   v posledních dnech byl největší počet léčených na JIP nahlášen dne 21.3.: 210 pacientů
+  *   na UPV/ECMO je dlouhodobě léčeno méně než 70 pacientů.
+Soubory KKIP02 - KKIP03 ukazují, že vývoj zátěže nemocnic je stabilizovaný ve všech regionech ČR, nikde není hlášena riziková eskalace nebo významný návrat k růstu zátěže. Situace je nicméně stále nestabilní, vzhledem k výše popisované vysoké prevalenci aktivních nákaz v populaci.
+
+Přeji krásný weekend
+ S úctou
+ L. Dušek
+
+
+
+
