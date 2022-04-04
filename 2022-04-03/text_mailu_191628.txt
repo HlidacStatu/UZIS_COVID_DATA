@@ -1,0 +1,44 @@
+Vážené kolegyně a kolegové, dobrý den – posílám prosím aktualizovaný souhrn o stavu nákaz v sociálních zařízeních + přehled očkování a nákaz u zdravotnických pracovníků.
+
+Soubor "Analyza_soc_sluzby_ohniska" - aktualizace k 1.4. 2022
+Prezentace je vytvořena ze dvou zdrojů dat, které se nezávisle na sobě doplňují a také potvrzují:
+1) šetření KHS hlásících ohniska nákazy a výsledky epidemiologických šetření
+2) k tomu nezávislé přímé zadávání nákaz od pobytových sociálních zařízení (zadávané přímo přes vybudovaný datový most do modulu ISIN).
+
+CELKOVÝ ZÁVĚR - situace v březnu:
+Počty hlášených nákaz v březnu 2022 ve srovnání s lednem a únorem významně poklesly. Pozitivní zprávou je, že i v sociálních zařízeních pozorujeme zásadní ochranný efekt očkování – počty nakažených klientů těchto zařízení, kteří potřebují hospitalizační péči nerostou a zůstávají v jednotkách denně (nad celou ČR je dlouhodobý průměr cca 4 - 5 takových případů denně).
+
+Dle hlášení KHS
+
+  *   Za leden 2022 bylo nahlášeno 33 událostí s 723 nakaženými
+  *   Za únor 2022 bylo nahlášeno 77 událostí se 1 877 nakaženými
+  *   Za březen bylo nahlášeno 36 ohnisek s 631 nakaženými
+
+Individuální hlášení poskytovatelů nezávisle potvrzují závěry epidemiologických šetření KHS.
+
+  *   V lednu bylo nahlášeno 1043 případů nákazy personálu a 432 klientů, z nichž 29 zemřelo.
+  *   V únoru bylo nahlášeno 1482 případů nákazy personálu a 1081 případů nákazy klientů, z nichž 68 zemřelo.
+  *   V březnu bylo nahlášeno 683 případů nákazy personálu a 564 případů nákazy klientů, z nichž 51 zemřelo.
+
+Rovněž individuální hlášení poskytovatelů potvrzují silný ochranný efekt vakcinace proti těžkému průběhu nákazy.
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Soubor "ZP_nakazy a vakcinace" - aktualizace k 1.4. 2022 + příloha denní data o nákazách ZP v MS Excel
+
+DATA O PROOČKOVANOSTI JSOU V TOMTO SHRNUTÍ TÉMĚŘ NEMĚNNÁ  - PROOČKOVANOST ZP JIŽ DÁLE VÝZNAMNĚ NEROSTE.
+
+VÝVOJ NÁKAZ U ZP SLEDUJE CELOPOPULAČNÍ TRENDY, aktuálně registrujeme postupný pokles počtu nákaz.  -> populace ZP v tomto trendu kopíruje vývoj v celkové populaci. Podobně jako v celé populaci zde neregistrujeme žádný obrat k rizikovému růstu.
+
+  *   Aktuálně je denně nově diagnostikováno jako COVID+ (7denní průměr) 39 lékařů, 82 sester a 74 ostatních NLZP.
+  *   Denně tak průměrně přibývá cca 195 nově nakažených ZP (před 7 dny do bylo cca 230)
+     *   Prevalence nakažených: cca 398 lékařů, 841 sester a 757 NLZP (celkem 1 996 všech NLZP)
+
+S úctou
+
+L. Dušek
+
+
+
+
