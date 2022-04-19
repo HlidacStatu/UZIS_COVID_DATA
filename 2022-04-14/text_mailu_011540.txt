@@ -1,0 +1,18 @@
+Vážené kolegyně a kolegové, dobrý den - posílám prosím aktualizovanou prezentaci o stavu epidemie COVId-19, kterou jsem měl 13.4. před Výborem pro zdravotnictví PS PČR. Prezentace potvrzuje významně se zklidňující epidemickou situaci, včetně poklesu zátěže nemocnic. Na závěr prezentace jsou vybrané ukazatele představeny i v mezinárodním srovnání dle dostupných dat ECDC a WHO.
+
+Prezentaci doplňuji aktualizovanými soubory pro krajkou koordinaci intenzivní péče (KKIP01 - KKIP03), které také dokládají, že zdravotní zátěž klesá a je plně zvládnutelná ve všech regionech ČR.
+
+Na jednání s členkami a členy zdravotního výboru jsme se dohodli na redukci pravidelně zasílaných hlášení k epidemii COVID-19
+
+  *   týdenní prezentace k vakcinaci, nákazách ZP a sledování sociálních zařízení nebudou vytvářeny týdně, ale měsíčně (informační systém data nadále sleduje denně, pokud by někde došlo k rizikovému vývoji, bude možné rychle reagovat)
+  *   nebudou posílány denní provozní reporty (testy, žádanky apod.) - tyto budeme shrnovat 1x týdně
+  *   celkové týdenní summary zůstane a bude posíláno ke konci pracovní části týdně
+  *   zůstanou zachovány denní souhrny epidemiologické a hlášení z nemocnic, ale projdou revizí přílohy a tyto zestručníme
+
+Pokud by prosím komukoli i po těchto změnách chybělo, napište mi a situaci napravíme - například posílením automatizovaných adresných reportů apod.
+
+Nadále budeme udržovat denní datové tiskové zprávy, ve kterých je většina podstatných podkladů rovněž zpracována formou datových příloh a které jsou dostupné na adrese
+https://www.mzcr.cz/tiskove-centrum/datove-tiskove-zpravy-ke-covid-19/
+
+S úctou L. Dušek
+
