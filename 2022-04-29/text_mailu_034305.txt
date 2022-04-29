@@ -1,0 +1,24 @@
+[image: Google]
+On May 30, you may lose access to apps that are using less secure sign-in
+technology
+
+
+uzisbackupmbx@gmail.com
+To help keep your account secure, Google will no longer support the use of
+third-party apps or devices which ask you to sign in to your Google Account
+using only your username and password. Instead, you’ll need to sign in
+using Sign in with Google
+<https://accounts.google.com/AccountChooser?Email=uzisbackupmbx@gmail.com&continue=https://support.google.com/accounts/answer/112802?rfn%3D1651196585577%26anexp%3Dnret-fa>
+or other more secure technologies, like OAuth 2.0. Learn more
+<https://accounts.google.com/AccountChooser?Email=uzisbackupmbx@gmail.com&continue=https://support.google.com/accounts/answer/6010255?rfn%3D1651196585577%26anexp%3Dnret-fa>
+------------------------------
+*What do you need to do?*
+
+*Email software, like Outlook 2016 or earlier,* has less secure access to
+your Gmail. Switch to Office 365, Outlook 2019 or newer, or any other email
+software where you can sign in using *Sign in with Google*.
+Learn more
+<https://accounts.google.com/AccountChooser?Email=uzisbackupmbx@gmail.com&continue=https://support.google.com/accounts/answer/6010255?rfn%3D1651196585577%26anexp%3Dnret-fa>
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2022 Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland
